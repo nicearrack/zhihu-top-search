@@ -17,7 +17,6 @@ def getHTML(url):
 
     Args:
         url: str, 网页网址
-        needPretty: bool, 是否需要美化(开发或测试时可用)
     Returns:
         HTML 字符串
     '''
@@ -104,9 +103,9 @@ def updateJSON(correntRank):
 
     historyRank = json.loads(load(filename))
     for k, v in correntRank.items():
-        # 若当前榜单和历史榜单有重复的，取热度数值(名称后面的数值)更大的一个
+        # 若当前榜单和历史榜单有重复的，取热度更高的一个
         if k in historyRank:
-            historyRank[k]['hot'] = max(historyRank[k]['hot'], correntRank[k]['hot'])
+            historyRank[k]['hot'] = max(int(historyRank[k]['hot'].split()[0]), int(correntRank[k]['hot'].split()[0]))
         # 若没有，则添加
         else:
             historyRank[k] = v
