@@ -105,7 +105,8 @@ def updateJSON(correntRank):
     for k, v in correntRank.items():
         # 若当前榜单和历史榜单有重复的，取热度更高的一个
         if k in historyRank:
-            historyRank[k]['hot'] = max(int(historyRank[k]['hot'].split()[0]), int(correntRank[k]['hot'].split()[0]))
+            if int(historyRank[k]['hot'].split()[0]) < int(correntRank[k]['hot'].split()[0]):
+                historyRank[k]['hot'] = correntRank[k]['hot']
         # 若没有，则添加
         else:
             historyRank[k] = v
