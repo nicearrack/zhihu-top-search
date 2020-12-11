@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2020-12-12 04:18:30
+最后更新时间 2020-12-12 06:21:26
 
 1. [如何评价杭州阿里、海康、网易等组成 HR 联盟？](https://www.zhihu.com/question/434158902) 4266 万热度 1095回复
 1. [如何看待德国媒体指责中国「战狼外交」时，配图误用了「杈」字？](https://www.zhihu.com/question/434300881) 2514 万热度 615回复
@@ -48,6 +48,7 @@
 1. [你听过的最惊艳的名字是什么？](https://www.zhihu.com/question/265694919) 208 万热度 377回复
 1. [重庆市新增一境外输入无症状感染者，曾前往杨家坪好利来蛋糕店等购物，目前情况如何？](https://www.zhihu.com/question/434393095) 201 万热度 43回复
 1. [报道称「近视一族不要从早到晚都戴眼镜」是真的吗？儿童近视也是如此吗？](https://www.zhihu.com/question/434213973) 197 万热度 66回复
+1. [如何评价 THE9 双十二拼多多湖南卫视的舞台？](https://www.zhihu.com/question/434277739) 167 万热度 63回复
 1. [苏宁控股股权被质押给淘宝，张近东父子要拿钱去干什么用？](https://www.zhihu.com/question/434284314) 151 万热度 34回复
 1. [天津大学推出可订制健身餐：低油低盐均价 14，这种「轻食」是如何走红的？侧面反映了什么社会需求？](https://www.zhihu.com/question/434298211) 150 万热度 21回复
 1. [生化环材有哪些优点？](https://www.zhihu.com/question/420032776) 134 万热度 403回复
@@ -60,9 +61,10 @@
 1. [导演张策在追光新视频大赛说和朱一旦的分开是双赢，对此你怎么看？](https://www.zhihu.com/question/434180014) 89 万热度 70回复
 1. [现在普通二本考研有多难？](https://www.zhihu.com/question/358015382) 82 万热度 275回复
 1. [自以为有文学鉴赏力但却无任何创作能力的人有资格批评创作者吗？](https://www.zhihu.com/question/420668708) 80 万热度 154回复
-1. [男生 27 岁研究生毕业晚吗？](https://www.zhihu.com/question/429101715) 69 万热度 55回复
-1. [如何做一个沉稳的人？](https://www.zhihu.com/question/298243670) 66 万热度 198回复
-1. [怎么评价动画《魔法少女小圆》中的丘比（QB）？](https://www.zhihu.com/question/63106903) 60 万热度 27回复
+1. [什么事情是你当了老板才知道的？](https://www.zhihu.com/question/364147974) 79 万热度 611回复
+1. [男生 27 岁研究生毕业晚吗？](https://www.zhihu.com/question/429101715) 70 万热度 55回复
+1. [如何做一个沉稳的人？](https://www.zhihu.com/question/298243670) 67 万热度 198回复
+1. [怎么评价动画《魔法少女小圆》中的丘比（QB）？](https://www.zhihu.com/question/63106903) 62 万热度 27回复
 1. [有没有必要经常向领导汇报工作，为什么？](https://www.zhihu.com/question/304880302) 59 万热度 275回复
 1. [双十二有什么值得男生购买的好物？](https://www.zhihu.com/question/300656266) 58 万热度 82回复
 1. [如何评价深度学习相关顶级期刊论文难复现的问题？](https://www.zhihu.com/question/265953178) 58 万热度 32回复
@@ -79,6 +81,8 @@
 1. [2020 年，哪一刻你觉得自己离疫情很近？](https://www.zhihu.com/question/434373580) 55 万热度 98回复
 1. [因性格原因不合群，被舍友孤立了，怎么办？](https://www.zhihu.com/question/433933378) 55 万热度 301回复
 1. [缺爱的人该如何自救？](https://www.zhihu.com/question/40701366) 55 万热度 805回复
+1. [你有什么铭记在心特别信仰的句子？](https://www.zhihu.com/question/433218097) 55 万热度 92回复
+1. [家庭教育中，母亲管教孩子的时候，姥姥姥爷总是出来纵容怎么办？](https://www.zhihu.com/question/431422651) 54 万热度 184回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
