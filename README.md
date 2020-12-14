@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2020-12-15 02:17:46
+最后更新时间 2020-12-15 04:18:29
 
 1. [如何看待网约车司机为救婴儿连闯 3 个红灯，家属却拒绝作证称「与我无关」？](https://www.zhihu.com/question/434736805) 5223 万热度 2242回复
 1. [EDG 官宣英雄联盟分部「队魂选手」clearlove 复出，你有什么想说的？](https://www.zhihu.com/question/434149320) 1452 万热度 465回复
@@ -51,26 +51,32 @@
 1. [孩子 5 岁之前交给爷爷奶奶带后果有多严重？](https://www.zhihu.com/question/33047684) 202 万热度 198回复
 1. [长期饮用矿泉水对人体有什么影响？](https://www.zhihu.com/question/434080491) 201 万热度 132回复
 1. [毕业半年，感觉攒钱真的好难，你们有这样的感受吗？](https://www.zhihu.com/question/433966488) 194 万热度 327回复
+1. [有什么适合闺蜜之间的小礼物吗？](https://www.zhihu.com/question/376166947) 189 万热度 92回复
 1. [为何有些老司机在高速上开车都只开到时速 100 公里？](https://www.zhihu.com/question/432943729) 169 万热度 178回复
 1. [两个月可以瘦多少斤?](https://www.zhihu.com/question/430561258) 155 万热度 61回复
 1. [如何评价艾尔迪亚人？](https://www.zhihu.com/question/433691707) 153 万热度 21回复
 1. [怎么让自己变漂亮，更有气质，更精致？](https://www.zhihu.com/question/307412930) 152 万热度 46回复
 1. [婆婆经常让我给小姑子一家买这买那，我要怎么拒绝？](https://www.zhihu.com/question/433807801) 141 万热度 59回复
 1. [如何看待上海一小区第二辆车停车费翻倍，业主已拉群反对？这种收费方式有法律依据吗？](https://www.zhihu.com/question/434796069) 136 万热度 72回复
+1. [遇到一抢妲己直接要求重开有毛病吗？](https://www.zhihu.com/question/357180024) 129 万热度 54回复
 1. [山西五台山 3 名驴友被困其中 1 人死亡 1 人重伤，如何避免此类事故发生？](https://www.zhihu.com/question/434779409) 126 万热度 50回复
 1. [有什么是必须是电脑干，而手机干不了的吗？](https://www.zhihu.com/question/434565342) 120 万热度 142回复
 1. [你认为《重启之极海听雷》的播出对演员朱一龙产生了什么影响？](https://www.zhihu.com/question/414644035) 117 万热度 69回复
 1. [为什么说在家庭教育中，不能总夸孩子聪明？](https://www.zhihu.com/question/429615247) 115 万热度 127回复
-1. [遇到一抢妲己直接要求重开有毛病吗？](https://www.zhihu.com/question/357180024) 115 万热度 54回复
 1. [哪些特征一看是老小米用户？](https://www.zhihu.com/question/434115335) 114 万热度 159回复
 1. [如何看待《王者荣耀》原初遗珠装备进化？](https://www.zhihu.com/question/433546599) 114 万热度 23回复
 1. [有哪些暴露年龄的广告语？](https://www.zhihu.com/question/434798590) 108 万热度 430回复
+1. [赛博朋克 2077 已经发售了，目前波兰蠢驴有跌落神坛吗?](https://www.zhihu.com/question/434830725) 104 万热度 23回复
 1. [有没有男主一开始心里就有白月光的言情小说?](https://www.zhihu.com/question/394246458) 101 万热度 134回复
 1. [在群星（Stellaris）里，为什么机械生命不能在贫瘠星球上殖民？](https://www.zhihu.com/question/307244332) 88 万热度 29回复
-1. [北京一特斯拉发生撞楼事故，车主自述突然失控，事故的原因究竟是什么？为什么特斯拉频发自动驾驶事故？](https://www.zhihu.com/question/434753751) 70 万热度 23回复
+1. [太容易得到的就不会被珍惜，是真的吗？](https://www.zhihu.com/question/319225537) 75 万热度 42回复
+1. [北京一特斯拉发生撞楼事故，车主自述突然失控，事故的原因究竟是什么？为什么特斯拉频发自动驾驶事故？](https://www.zhihu.com/question/434753751) 72 万热度 23回复
 1. [求推荐超级虐的古风小说，像东宫那种的虐的看一次哭一次的那种，最好短一点？](https://www.zhihu.com/question/330100695) 69 万热度 28回复
 1. [如何成为一名合格的王者辅助?](https://www.zhihu.com/question/427644529) 69 万热度 66回复
 1. [如何以「那天，公主跳城楼殉国，大雪纷飞」为开头写一个故事？](https://www.zhihu.com/question/421261930) 64 万热度 53回复
+1. [华为平板有什么好用的学习软件?](https://www.zhihu.com/question/310728794) 61 万热度 54回复
+1. [大学生感到迷茫空虚怎么办？](https://www.zhihu.com/question/433685360) 59 万热度 203回复
+1. [皮肤经常发痒，属于敏感肌，该用什么护肤品？](https://www.zhihu.com/question/64487811) 59 万热度 925回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
