@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2020-12-20 02:22:22
+最后更新时间 2020-12-20 04:20:41
 
 1. [男子高速收费站 10 秒击败两黑衣大汉，什么技术？](https://www.zhihu.com/question/435382356) 4067 万热度 1473回复
 1. [以现在的技术嫦娥 5 号只能带回来 2KG 土，那么几十年前阿波罗号怎么把人运回来？](https://www.zhihu.com/question/433879777) 1333 万热度 214回复
@@ -33,7 +33,7 @@
 1. [如何看待钟南山称「新冠病毒出现环境传人」？后续防疫应该加强哪些方面的工作？](https://www.zhihu.com/question/435533074) 463 万热度 63回复
 1. [如何评价电影《紧急救援》？](https://www.zhihu.com/question/268538917) 435 万热度 307回复
 1. [如何看待日本政府称其强烈支持德国派军舰来亚洲？](https://www.zhihu.com/question/435506994) 418 万热度 99回复
-1. [女朋友结婚非要买天然钻石，可我觉得钻石这么明显的智商税，没必要买，我该怎么办？](https://www.zhihu.com/question/422969084) 385 万热度 192回复
+1. [女朋友结婚非要买天然钻石，可我觉得钻石这么明显的智商税，没必要买，我该怎么办？](https://www.zhihu.com/question/422969084) 389 万热度 192回复
 1. [如何看待黑龙江规定不得新建高度 500 米以上的建筑？](https://www.zhihu.com/question/434748524) 374 万热度 101回复
 1. [如何评价《奇葩说》第七季第二期？](https://www.zhihu.com/question/435578317) 369 万热度 54回复
 1. [如何看待美媒「美国防部全面暂停与拜登团队过渡工作」？](https://www.zhihu.com/question/435477657) 341 万热度 100回复
@@ -53,26 +53,32 @@
 1. [为什么普通人逛奢侈品店心理压力这么大？](https://www.zhihu.com/question/435313702) 181 万热度 63回复
 1. [英雄联盟 LoL 是不是正在抛弃老玩家?](https://www.zhihu.com/question/433381458) 175 万热度 101回复
 1. [iPhone 12 mini 能用 6 年吗？](https://www.zhihu.com/question/435047797) 172 万热度 129回复
+1. [男生暗恋一个女生会有怎样的表现？](https://www.zhihu.com/question/27281431) 169 万热度 37回复
 1. [对孕妇来说剖腹产遭罪还是顺产遭罪？](https://www.zhihu.com/question/332006128) 161 万热度 784回复
 1. [2011 - 2020 十年间让你反复重温的电视剧有哪些？](https://www.zhihu.com/question/433710243) 161 万热度 89回复
 1. [怎样成为一个气质的女生？](https://www.zhihu.com/question/400637855) 160 万热度 41回复
 1. [今天就是 deadline 了 教授还没交 recommendation letter，怎么办呀?](https://www.zhihu.com/question/435039485) 148 万热度 37回复
-1. [男生暗恋一个女生会有怎样的表现？](https://www.zhihu.com/question/27281431) 144 万热度 37回复
 1. [为什么消费者对特斯拉的容忍度可以这么高?](https://www.zhihu.com/question/431530338) 138 万热度 116回复
+1. [如何看待《原神》对钟离的改动说明？](https://www.zhihu.com/question/435578698) 138 万热度 36回复
 1. [论文的开题报告是什么样的？](https://www.zhihu.com/question/345217290) 132 万热度 95回复
-1. [如何评价 12 月 19 日 19 时米哈游官方放出的关于钟离加强的信息？](https://www.zhihu.com/question/435581109) 113 万热度 47回复
+1. [有没有什么好看且不大众的情头？](https://www.zhihu.com/question/412162154) 128 万热度 74回复
+1. [如何评价 12 月 19 日 19 时米哈游官方放出的关于钟离加强的信息？](https://www.zhihu.com/question/435581109) 115 万热度 47回复
+1. [如何评价《泽塔奥特曼》？](https://www.zhihu.com/question/382576799) 110 万热度 131回复
 1. [大学思修怎样复习，能得到 90 以上的分数?](https://www.zhihu.com/question/53903161) 106 万热度 23回复
 1. [分开很久后还能重新在一起吗？](https://www.zhihu.com/question/434143220) 104 万热度 29回复
-1. [如何评价《泽塔奥特曼》？](https://www.zhihu.com/question/382576799) 93 万热度 131回复
 1. [2020 快结束了，今年你们还有什么遗憾吗？](https://www.zhihu.com/question/427271103) 86 万热度 1141回复
 1. [你在跑跑狼人杀里遇到过哪些骚操作？](https://www.zhihu.com/question/435092444) 84 万热度 21回复
+1. [周冬雨屏幕真的很差吗？](https://www.zhihu.com/question/392048166) 75 万热度 40回复
 1. [如何评价《曼达洛人》第二季第 8 集《营救》（The Rescue）？](https://www.zhihu.com/question/435458949) 73 万热度 54回复
 1. [为什么网络短剧这么火？网络短剧未来会成为主流趋势吗？](https://www.zhihu.com/question/435481026) 73 万热度 36回复
 1. [CPA 月薪大约是多少?](https://www.zhihu.com/question/411797031) 73 万热度 66回复
 1. [民法典继承新规即将实行，侄子侄女可继承叔伯遗产，会产生哪些影响？](https://www.zhihu.com/question/435436480) 69 万热度 80回复
 1. [参加 2021 年山东省考是什么体验？](https://www.zhihu.com/question/435496490) 65 万热度 42回复
 1. [认真学完 C++ Primer 后，C++ 语言到了什么水平？](https://www.zhihu.com/question/24867368) 62 万热度 85回复
+1. [在你自学计算机的路上，哪些书籍对你的帮助最大?](https://www.zhihu.com/question/421913237) 62 万热度 129回复
 1. [有没有值得一看的小说？](https://www.zhihu.com/question/433720423) 60 万热度 286回复
+1. [为什么大学比我想象的累？](https://www.zhihu.com/question/425332077) 60 万热度 932回复
+1. [如果有人问你为什么而读书你的回答是什么？](https://www.zhihu.com/question/434964207) 59 万热度 129回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
