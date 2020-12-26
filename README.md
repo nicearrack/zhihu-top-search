@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2020-12-27 04:20:25
+最后更新时间 2020-12-27 06:25:06
 
 1. [2021 考研英语题难度如何？英语一英语二有哪些亮点和槽点？](https://www.zhihu.com/question/436585740) 4567 万热度 1075回复
 1. [怎么看待北京协和医院的减肥食谱，会有效吗？](https://www.zhihu.com/question/435499783) 3457 万热度 275回复
@@ -65,6 +65,7 @@
 1. [上海女朋友的父母会同意我们吗?](https://www.zhihu.com/question/434199266) 141 万热度 68回复
 1. [有哪些你后悔没早点给孩子买的东西？](https://www.zhihu.com/question/389543038) 138 万热度 326回复
 1. [如果人类像蛇一样会脱皮，一年脱一次皮，会怎样？](https://www.zhihu.com/question/428798427) 133 万热度 239回复
+1. [有没有笑着笑着就哭了的句子？](https://www.zhihu.com/question/431226473) 127 万热度 33回复
 1. [如何观察未满两岁的小孩是否聪明？](https://www.zhihu.com/question/434932545) 120 万热度 71回复
 1. [大学期末考试，有哪些高效复习的技巧？](https://www.zhihu.com/question/435957617) 115 万热度 47回复
 1. [如何把一页 PPT 做得又拥挤又清楚？](https://www.zhihu.com/question/345405596) 110 万热度 56回复
@@ -72,8 +73,15 @@
 1. [为什么保安那么警惕三脚架？](https://www.zhihu.com/question/435838018) 101 万热度 44回复
 1. [如何以「我被皇上踹下床榻」开头，写一篇反转再反转的文章？](https://www.zhihu.com/question/435546507) 98 万热度 30回复
 1. [今年和平精英冰雪版本有什么值得关注的亮点？](https://www.zhihu.com/question/436126665) 95 万热度 531回复
+1. [生活中，有哪些让你后知后觉的道理？](https://www.zhihu.com/question/375470775) 90 万热度 386回复
 1. [藤本树会塑造世界观吗?](https://www.zhihu.com/question/435192904) 82 万热度 22回复
-1. [生活中，有哪些让你后知后觉的道理？](https://www.zhihu.com/question/375470775) 81 万热度 386回复
+1. [一个大学生应该有多少自己的存款?](https://www.zhihu.com/question/265878034) 70 万热度 93回复
+1. [商鞅一个卫国人，为什么在秦国变法时那么刚，敢削公子虔鼻子？](https://www.zhihu.com/question/371338733) 68 万热度 21回复
+1. [考研需不需要大三开始就准备？](https://www.zhihu.com/question/280991666) 62 万热度 64回复
+1. [初级会计考试可以自学吗？](https://www.zhihu.com/question/35450779) 60 万热度 382回复
+1. [为什么情绪总会被他人左右？](https://www.zhihu.com/question/266665950) 59 万热度 137回复
+1. [法学该怎么课下学习？](https://www.zhihu.com/question/429489854) 59 万热度 22回复
+1. [如何评价《进击的巨人》最终季 OP《我的战争》?](https://www.zhihu.com/question/433819989) 59 万热度 21回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
