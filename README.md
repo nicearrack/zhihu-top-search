@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2020-12-30 02:44:08
+最后更新时间 2020-12-30 04:25:34
 
 1. [当地时间 28 日，著名钢琴家傅聪在英国感染新冠病毒去世，你对他有哪些记忆？](https://www.zhihu.com/question/436736385) 4184 万热度 1596回复
 1. [如何看待「纽约华裔新冠死亡率第一超过黑人」这一报道，真实情况如何？反映了哪些问题？](https://www.zhihu.com/question/436827094) 1954 万热度 612回复
@@ -65,9 +65,17 @@
 1. [尼克·杨加盟浙江广厦，你有什么想说的？](https://www.zhihu.com/question/436932174) 166 万热度 50回复
 1. [如何评价 miui+?](https://www.zhihu.com/question/436908172) 164 万热度 49回复
 1. [如何骗猫咪多喝水？](https://www.zhihu.com/question/433215489) 160 万热度 131回复
+1. [被人取关是种什么样的体验？](https://www.zhihu.com/question/37380578) 152 万热度 120回复
 1. [什么事情是你当了班主任后才明白的？](https://www.zhihu.com/question/279630553) 140 万热度 29回复
 1. [高中有天赋还需要老师吗？](https://www.zhihu.com/question/434355405) 128 万热度 62回复
 1. [哪些科学知识颠覆了你的三观?](https://www.zhihu.com/question/327141696) 128 万热度 293回复
+1. [你有什么神奇的技能？](https://www.zhihu.com/question/28374559) 111 万热度 45回复
+1. [为什么当初《火影忍者》木叶只分了一只尾兽?](https://www.zhihu.com/question/435079250) 102 万热度 71回复
+1. [《中小学教育惩戒规则（试行）》颁布：在确有必要的情况下可实施教育惩戒，还有哪些信息值得关注？](https://www.zhihu.com/question/436987567) 93 万热度 42回复
+1. [Win10 将永久删除 FlashPlayer ，必须要 flash 时怎么办？可以用什么来替代它？](https://www.zhihu.com/question/436834128) 86 万热度 22回复
+1. [为什么装修完这么廉价？](https://www.zhihu.com/question/413598770) 78 万热度 37回复
+1. [你为什么越来越不喜欢玩游戏《我的世界》（Minecraft）了？](https://www.zhihu.com/question/406796592) 69 万热度 156回复
+1. [《王者荣耀》中哪个英雄是你碰都不碰的？](https://www.zhihu.com/question/435874495) 67 万热度 83回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
