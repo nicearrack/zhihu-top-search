@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2020-12-30 04:25:34
+最后更新时间 2020-12-30 06:29:02
 
 1. [当地时间 28 日，著名钢琴家傅聪在英国感染新冠病毒去世，你对他有哪些记忆？](https://www.zhihu.com/question/436736385) 4184 万热度 1596回复
 1. [如何看待「纽约华裔新冠死亡率第一超过黑人」这一报道，真实情况如何？反映了哪些问题？](https://www.zhihu.com/question/436827094) 1954 万热度 612回复
@@ -72,10 +72,18 @@
 1. [你有什么神奇的技能？](https://www.zhihu.com/question/28374559) 111 万热度 45回复
 1. [为什么当初《火影忍者》木叶只分了一只尾兽?](https://www.zhihu.com/question/435079250) 102 万热度 71回复
 1. [《中小学教育惩戒规则（试行）》颁布：在确有必要的情况下可实施教育惩戒，还有哪些信息值得关注？](https://www.zhihu.com/question/436987567) 93 万热度 42回复
-1. [Win10 将永久删除 FlashPlayer ，必须要 flash 时怎么办？可以用什么来替代它？](https://www.zhihu.com/question/436834128) 86 万热度 22回复
-1. [为什么装修完这么廉价？](https://www.zhihu.com/question/413598770) 78 万热度 37回复
+1. [Win10 将永久删除 FlashPlayer ，必须要 flash 时怎么办？可以用什么来替代它？](https://www.zhihu.com/question/436834128) 87 万热度 22回复
+1. [为什么装修完这么廉价？](https://www.zhihu.com/question/413598770) 79 万热度 37回复
 1. [你为什么越来越不喜欢玩游戏《我的世界》（Minecraft）了？](https://www.zhihu.com/question/406796592) 69 万热度 156回复
 1. [《王者荣耀》中哪个英雄是你碰都不碰的？](https://www.zhihu.com/question/435874495) 67 万热度 83回复
+1. [回避型依恋者真正的需要是什么？](https://www.zhihu.com/question/436686713) 67 万热度 25回复
+1. [如何评价姚明对中国男篮的改革？](https://www.zhihu.com/question/345144005) 64 万热度 128回复
+1. [有哪些古言虐心小说值得推荐？](https://www.zhihu.com/question/380112367) 62 万热度 70回复
+1. [有没有什么二百以下的小众香水？](https://www.zhihu.com/question/341115925) 62 万热度 78回复
+1. [有哪些你摘抄的温暖的励志句子?](https://www.zhihu.com/question/435739334) 60 万热度 28回复
+1. [首套房是怎么凑够首付款的？](https://www.zhihu.com/question/311872003) 60 万热度 1325回复
+1. [魔兽世界衰败的最大原因是不是随机副本？](https://www.zhihu.com/question/41567288) 59 万热度 58回复
+1. [有没有能让人变漂亮的好习惯？](https://www.zhihu.com/question/423969924) 59 万热度 320回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
