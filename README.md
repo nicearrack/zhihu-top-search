@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-01 12:35:00
+最后更新时间 2021-01-01 14:26:41
 
 1. [听完国家主席习近平发表的 2021 年新年贺词，你有怎样的感触？对于自己的 2021 年有什么期待？](https://www.zhihu.com/question/437329650) 7253 万热度 1244回复
 1. [你会在 12 月 31 号发什么跨年文案？](https://www.zhihu.com/question/432834160) 6593 万热度 1223回复
@@ -29,65 +29,74 @@
 1. [为什么明朝灭亡总是怪罪小冰期，明末气温确实很低，但也就降低了 1 个摄氏度，能有多大影响？](https://www.zhihu.com/question/437186028) 1207 万热度 126回复
 1. [五胡乱华，为什么没能中断中国文明的脉络？](https://www.zhihu.com/question/308253894) 1190 万热度 89回复
 1. [最后一天了，如何用一张照片，告别 2020 年？](https://www.zhihu.com/question/437290026) 1174 万热度 708回复
+1. [如何看待小米 11 在 1 月 1 日发售全平台销售火爆?](https://www.zhihu.com/question/437359332) 1157 万热度 60回复
 1. [如何看待 2020 年最后一天美国疫情突破 2000 万？](https://www.zhihu.com/question/437108872) 1141 万热度 656回复
+1. [你有哪些屡试不爽的经典话术？](https://www.zhihu.com/question/28354417) 1139 万热度 318回复
 1. [有适合 2021 年发的跨年文案 / 元旦祝福文案吗?](https://www.zhihu.com/question/436593989) 1126 万热度 415回复
-1. [如何看待小米 11 在 1 月 1 日发售全平台销售火爆?](https://www.zhihu.com/question/437359332) 1029 万热度 60回复
 1. [如何看待庄羽回应郭敬明道歉：建议将《圈里圈外》和《梦里花落知多少》全部收益合并成立反剽窃基金？](https://www.zhihu.com/question/437254554) 972 万热度 736回复
-1. [你有哪些屡试不爽的经典话术？](https://www.zhihu.com/question/28354417) 893 万热度 318回复
 1. [中欧投资协定如期完成谈判后，法国总统马克龙提议「未来几个月内和德国总理默克尔一起访华」，这意味着什么？](https://www.zhihu.com/question/437297428) 839 万热度 29回复
 1. [能否分享 2021 年跨年文案和壁纸？](https://www.zhihu.com/question/433549564) 808 万热度 84回复
-1. [如何评价 2021 江苏卫视跨年晚会 The9 的表演？](https://www.zhihu.com/question/437225212) 692 万热度 91回复
+1. [如何评价 2021 江苏卫视跨年晚会 The9 的表演？](https://www.zhihu.com/question/437225212) 744 万热度 91回复
+1. [如何评价 2021 年初全新国产特斯拉 Model Y 的定价为 33.9 万元起？](https://www.zhihu.com/question/437392438) 641 万热度 70回复
+1. [如何评价周深 2020.12.31 跨年晚会的七个舞台？](https://www.zhihu.com/question/437340354) 560 万热度 29回复
+1. [喊错男朋友名字是一种怎样的体验？](https://www.zhihu.com/question/360903835) 508 万热度 521回复
+1. [如何看待由特朗普行政命令，中国三大运营商被纽交所摘牌并进行退市处理？会带来哪些影响？](https://www.zhihu.com/question/437384258) 496 万热度 47回复
+1. [如何评价易烊千玺在《送你一朵小红花》中的表现？](https://www.zhihu.com/question/437334454) 486 万热度 27回复
 1. [电影《送你一朵小红花》中有哪些细思极恐的细节？](https://www.zhihu.com/question/437266614) 481 万热度 33回复
-1. [如何评价周深 2020.12.31 跨年晚会的七个舞台？](https://www.zhihu.com/question/437340354) 460 万热度 29回复
+1. [如何看待 2021 年罗振宇《时间的朋友》跨年演讲？](https://www.zhihu.com/question/435789792) 449 万热度 39回复
 1. [如何评价电影《温暖的抱抱》?](https://www.zhihu.com/question/406254006) 440 万热度 247回复
-1. [喊错男朋友名字是一种怎样的体验？](https://www.zhihu.com/question/360903835) 405 万热度 521回复
+1. [为什么我男朋友在吵架的时候超喜欢跟我讲道理？](https://www.zhihu.com/question/320763296) 434 万热度 3923回复
+1. [如何看待 2021 年 1 月 1 日玄彬孙艺珍公布恋情？](https://www.zhihu.com/question/437382986) 420 万热度 86回复
 1. [喝水越多尿也越多，肾脏的压力会变大吗，一天喝多少水合适？](https://www.zhihu.com/question/429746229) 395 万热度 90回复
+1. [如何评价 2021 江苏卫视跨年晚会硬糖少女 303 的全开麦表演？](https://www.zhihu.com/question/437350535) 383 万热度 54回复
 1. [如何评价小米 11 买标准版的消费者可以以 0.01 元申请包邮补发 GaN 充电器?](https://www.zhihu.com/question/437209616) 375 万热度 66回复
-1. [如何评价 2021 江苏卫视跨年晚会硬糖少女 303 的全开麦表演？](https://www.zhihu.com/question/437350535) 351 万热度 54回复
-1. [如何看待 2021 年罗振宇《时间的朋友》跨年演讲？](https://www.zhihu.com/question/435789792) 351 万热度 39回复
 1. [武汉东湖一业主买下 556 个小区车位只售不租，如何看待这种不违法的「个人垄断」行为?](https://www.zhihu.com/question/437152671) 347 万热度 256回复
 1. [如何评价 2021 年哔哩哔哩跨年晚会？](https://www.zhihu.com/question/434189872) 340 万热度 728回复
 1. [长的漂亮真的很有优势吗？](https://www.zhihu.com/question/301105442) 331 万热度 3488回复
 1. [2020 年终于过去了，你有什么话想对 2021 年说？](https://www.zhihu.com/question/437330959) 327 万热度 1312回复
-1. [如何评价易烊千玺在《送你一朵小红花》中的表现？](https://www.zhihu.com/question/437334454) 324 万热度 27回复
 1. [如何看待王俊凯因身体原因退出湖南跨年晚会？](https://www.zhihu.com/question/437262565) 323 万热度 29回复
-1. [为什么我男朋友在吵架的时候超喜欢跟我讲道理？](https://www.zhihu.com/question/320763296) 316 万热度 3923回复
-1. [如何看待由特朗普行政命令，中国三大运营商被纽交所摘牌并进行退市处理？会带来哪些影响？](https://www.zhihu.com/question/437384258) 308 万热度 47回复
-1. [哪些瞬间让你感受到身边的那个普通人其实一点都不普通？](https://www.zhihu.com/question/437315770) 292 万热度 34回复
-1. [如何看待 2021 年 1 月 1 日玄彬孙艺珍公布恋情？](https://www.zhihu.com/question/437382986) 290 万热度 86回复
+1. [哪些瞬间让你感受到身边的那个普通人其实一点都不普通？](https://www.zhihu.com/question/437315770) 308 万热度 34回复
+1. [你是如何发现早期癌症的？](https://www.zhihu.com/question/302514496) 288 万热度 948回复
 1. [年薪 100 万和自己做生意年收入 100 万哪个更优秀？](https://www.zhihu.com/question/436643451) 286 万热度 181回复
+1. [如何评价德云社 2021 跨年专场？你有什么想吐槽的吗？](https://www.zhihu.com/question/437358499) 283 万热度 50回复
 1. [如何看待 2021 年《湖南跨年晚会》彩排时朱一龙被黑子现场喊黑称？](https://www.zhihu.com/question/437308232) 282 万热度 115回复
 1. [迪迦奥特曼是不是所有奥特曼里实力最强的？为什么？](https://www.zhihu.com/question/433345070) 270 万热度 34回复
 1. [如何评价广汽蔚来宣布成为中国首家「接受比特币支付购车款」的汽车企业？](https://www.zhihu.com/question/437279434) 236 万热度 74回复
-1. [你是如何发现早期癌症的？](https://www.zhihu.com/question/302514496) 235 万热度 948回复
+1. [男生一般不会选择什么样的女生？](https://www.zhihu.com/question/435057725) 216 万热度 31回复
 1. [如何评价《一人之下》508（539）话？](https://www.zhihu.com/question/436684839) 184 万热度 29回复
 1. [为什么日本没出现超级大姓？](https://www.zhihu.com/question/436473259) 182 万热度 33回复
-1. [男生一般不会选择什么样的女生？](https://www.zhihu.com/question/435057725) 181 万热度 31回复
 1. [买个辆 50W 非 BBA 的车，朋友都说我傻花这钱不买 BBA，我说感觉宝马痞气重，而奔驰太商务成熟，有错吗?](https://www.zhihu.com/question/436375094) 178 万热度 109回复
+1. [如何评价蔡徐坤新歌《标签》初舞台?](https://www.zhihu.com/question/437358126) 173 万热度 65回复
 1. [为什么中国科学技术大学的男生普遍喜欢二次元？](https://www.zhihu.com/question/323780934) 167 万热度 452回复
 1. [如何减少身上的静电？](https://www.zhihu.com/question/19584885) 163 万热度 228回复
 1. [如何评价南京邮电大学深夜宣布提前考试时间？](https://www.zhihu.com/question/437095626) 160 万热度 143回复
+1. [如何看待河南建业足球俱乐部更名为「洛阳龙门」？](https://www.zhihu.com/question/437332350) 155 万热度 63回复
 1. [为什么《三生三世十里桃花》中白浅的性格有些奇怪，给我不舒服的感觉？](https://www.zhihu.com/question/56071570) 151 万热度 339回复
+1. [万物皆可天妇罗，你吃过的最诡异的天妇罗是什么？](https://www.zhihu.com/question/430736917) 145 万热度 208回复
 1. [为什么都喜欢在国企上班呢？](https://www.zhihu.com/question/435520812) 141 万热度 28回复
+1. [到底买苹果 11 还是苹果 12 啊？大家能给我一些建议吗？](https://www.zhihu.com/question/427439356) 141 万热度 46回复
 1. [如何评价张艺兴 2020 跨年舞台《夸父逐日 + 莲》?](https://www.zhihu.com/question/437339294) 140 万热度 23回复
+1. [数学经常考接近满分的人，看待数学是什么样的心态？](https://www.zhihu.com/question/31914878) 138 万热度 1143回复
 1. [如果让姜文来拍《金刚川》会怎么样?](https://www.zhihu.com/question/433051912) 136 万热度 26回复
 1. [我已经 40 岁了，现在想升学历会不会太晚？](https://www.zhihu.com/question/436955178) 128 万热度 146回复
 1. [猫养不熟，是真的吗？](https://www.zhihu.com/question/436007843) 127 万热度 49回复
+1. [父母做过哪些让你觉得萌蠢又暖心的事?](https://www.zhihu.com/question/33278125) 127 万热度 83回复
 1. [篮网 145:141 险胜老鹰，杜兰特 33 分特雷杨 30 分，如何评价这场比赛？](https://www.zhihu.com/question/437252665) 126 万热度 25回复
 1. [有什么少女心炸裂的手机应用（App）？](https://www.zhihu.com/question/307170527) 121 万热度 141回复
 1. [重置 2020 年的话，你最想去哪里？](https://www.zhihu.com/question/432983305) 120 万热度 70回复
+1. [喜欢上注定得不到的野王怎么办?](https://www.zhihu.com/question/436950947) 119 万热度 49回复
 1. [如何评价刘雨昕在 2021 年江苏卫视跨年晚会的表现？](https://www.zhihu.com/question/437348658) 118 万热度 28回复
 1. [你们觉得张艺兴浙江卫视跨年开场怎么样？](https://www.zhihu.com/question/437337653) 117 万热度 33回复
-1. [万物皆可天妇罗，你吃过的最诡异的天妇罗是什么？](https://www.zhihu.com/question/430736917) 114 万热度 208回复
 1. [男生几个小时不回女朋友消息到底是怎么想的？](https://www.zhihu.com/question/265396838) 110 万热度 68回复
-1. [喜欢上注定得不到的野王怎么办?](https://www.zhihu.com/question/436950947) 109 万热度 49回复
 1. [有哪些好喝的冲剂固体饮料？](https://www.zhihu.com/question/65141672) 108 万热度 22回复
 1. [如何看待 2021 年 1 月 1 日起点月票规则更新？](https://www.zhihu.com/question/437327203) 103 万热度 28回复
 1. [如何评价朱一龙 2021 湖南卫视跨年晚会演唱的《后会无期》和《保重》?](https://www.zhihu.com/question/437349546) 102 万热度 26回复
 1. [有哪些令人眼前一亮的朋友圈文案？](https://www.zhihu.com/question/429330865) 101 万热度 120回复
+1. [如何看待微信朋友圈里这种论调「孩子，我宁愿欠你一个快乐的少年，也不愿看到你卑微的成年」？](https://www.zhihu.com/question/50401236) 97 万热度 4917回复
 1. [你将如何迎接 2021 年的第一天？](https://www.zhihu.com/question/437308943) 96 万热度 83回复
 1. [如何评价奈须蘑菇终于推出《月姬》R？](https://www.zhihu.com/question/437352608) 94 万热度 22回复
 1. [有没有什么大牌口红的色号是必入的？](https://www.zhihu.com/question/419103681) 91 万热度 139回复
+1. [如果普通人有 10 倍体格，力量和速度。没有专业的技巧，可以打赢格斗届的世界冠军吗？](https://www.zhihu.com/question/435492687) 91 万热度 86回复
 1. [有什么超级可爱的聊天背景图吗？](https://www.zhihu.com/question/378919184) 88 万热度 103回复
 1. [波兰有哪些有名的人？](https://www.zhihu.com/question/337837362) 84 万热度 64回复
 1. [如何评价 2021 湖南卫视跨年晚会朱一龙的表演？](https://www.zhihu.com/question/437351307) 84 万热度 27回复
@@ -96,11 +105,13 @@
 1. [2021 年第一天，你打算怎么过？](https://www.zhihu.com/question/437383910) 80 万热度 108回复
 1. [高中导数题真的是有天赋的人做出来的吗？](https://www.zhihu.com/question/389884440) 72 万热度 69回复
 1. [如何以「终于，我成为了女帝」开头写一个故事？](https://www.zhihu.com/question/405355755) 71 万热度 113回复
-1. [数学经常考接近满分的人，看待数学是什么样的心态？](https://www.zhihu.com/question/31914878) 67 万热度 1143回复
+1. [都上大学了，为什么面对女生还是有点自卑，该怎么克服?](https://www.zhihu.com/question/306329188) 71 万热度 96回复
+1. [为什么我的画的颜色这么丑（尤其是缩小之后看）？](https://www.zhihu.com/question/436493978) 68 万热度 29回复
 1. [告白是一件有意义的事吗？](https://www.zhihu.com/question/430768458) 66 万热度 73回复
 1. [如何以「我代我嫡姐嫁给了清闲王爷」开头写一个故事？](https://www.zhihu.com/question/429819296) 65 万热度 86回复
 1. [五院四系的法学学生平时都是怎么学法的？假期是怎么度过的？](https://www.zhihu.com/question/340461072) 65 万热度 56回复
 1. [婴幼儿早教有必要去吗？](https://www.zhihu.com/question/402097468) 64 万热度 221回复
+1. [选上海定居还是好点的二线？](https://www.zhihu.com/question/432634964) 64 万热度 243回复
 1. [现高一，想知道考个好大学以后会有好前程吗？](https://www.zhihu.com/question/424406917) 62 万热度 1175回复
 1. [如何更好的戒掉《王者荣耀》？](https://www.zhihu.com/question/433309711) 60 万热度 306回复
 1. [有没有很甜很甜的古典音乐？](https://www.zhihu.com/question/432448938) 60 万热度 84回复
@@ -116,10 +127,10 @@
 1. [如何用「我被迫嫁给父亲的仇敌摄政王」为开头写一篇小说？](https://www.zhihu.com/question/403436918) 58 万热度 438回复
 1. [如何评价《明星大侦探》第六季第 02 案《夜半酒店Ⅱ（上）（下）》？](https://www.zhihu.com/question/436422374) 57 万热度 66回复
 1. [全屋定制有哪些故弄玄虚的手段？](https://www.zhihu.com/question/359894862) 57 万热度 55回复
+1. [有哪些道理是你失去对象后才知道的？](https://www.zhihu.com/question/265913192) 57 万热度 8094回复
 1. [出差一周，猫自己在家安全吗？](https://www.zhihu.com/question/355956722) 55 万热度 76回复
 1. [2020 企业微信年度报告出炉，这一年你有多少个深夜在加班？](https://www.zhihu.com/question/437313077) 55 万热度 70回复
 1. [你们玩剧本杀时遇到过什么让人崩溃的经历？](https://www.zhihu.com/question/432057142) 55 万热度 158回复
-1. [有哪些道理是你失去对象后才知道的？](https://www.zhihu.com/question/265913192) 55 万热度 8094回复
 1. [大学上课一个人坐前排尴尬吗？](https://www.zhihu.com/question/436244479) 54 万热度 253回复
 1. [成年人之间有哪些容易踩坑的潜规则?](https://www.zhihu.com/question/341877080) 54 万热度 30回复
 1. [高三成绩一般是否走单招？](https://www.zhihu.com/question/313968116) 53 万热度 255回复
