@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-03 04:22:52
+最后更新时间 2021-01-03 06:27:21
 
 1. [《巴啦啦小魔仙》凌美琪扮演者孙侨潞去世，你对她有哪些记忆？](https://www.zhihu.com/question/437555370) 7228 万热度 957回复
 1. [《巴啦啦小魔仙》美琪扮演者孙侨潞心梗去世，中青年心肌梗塞比例逐年增加，我们应该如何防范？](https://www.zhihu.com/question/437566670) 2566 万热度 258回复
@@ -45,6 +45,7 @@
 1. [看了电影《送你一朵小红花》，不喜欢马小远甚至讨厌她，有同样感受的吗？](https://www.zhihu.com/question/437436370) 287 万热度 45回复
 1. [沈阳一对父子核酸检测点插队被拒，殴打防疫民警被刑拘，他们将面临哪些法律责任？](https://www.zhihu.com/question/437509885) 278 万热度 118回复
 1. [如何看待硬糖少女 303 跨年翻车?](https://www.zhihu.com/question/437350513) 237 万热度 213回复
+1. [住院因为医院床位紧张，安排在走廊，半夜呼叫，由于没人来，第二天发现死亡，医院要负责任吗?](https://www.zhihu.com/question/437284954) 223 万热度 39回复
 1. [周深唱的《my heart will go on》是歌坛中的什么水平？他未来还会有什么样的突破呢？](https://www.zhihu.com/question/437444158) 220 万热度 23回复
 1. [猫的自净能力有多强大？](https://www.zhihu.com/question/59627314) 211 万热度 711回复
 1. [看了那么多对鬼鬼在明侦恶评，你还希望鬼鬼第六季回归明侦吗？](https://www.zhihu.com/question/377316310) 204 万热度 145回复
@@ -57,6 +58,7 @@
 1. [有什么壁纸能让 iPad 横屏和竖屏都合适？](https://www.zhihu.com/question/390471942) 169 万热度 229回复
 1. [为什么不能在实体店买笔记本？](https://www.zhihu.com/question/434240943) 169 万热度 97回复
 1. [一个性格相当孤僻的人，一个没有什么本事却自视清高的人，怎么在这个社会上生存下去?](https://www.zhihu.com/question/328924656) 167 万热度 67回复
+1. [有没有比陈奕迅《富士山下》里「谁能凭爱意让富士山私有」还好的句子?](https://www.zhihu.com/question/424619553) 155 万热度 72回复
 1. [如何评价《奇葩说》第七季第四期？](https://www.zhihu.com/question/437576691) 153 万热度 58回复
 1. [玩了《原神》多长时间后，你开始觉得这个游戏无聊的？](https://www.zhihu.com/question/423597371) 147 万热度 64回复
 1. [大学生买轻薄本后悔吗？](https://www.zhihu.com/question/413897260) 140 万热度 620回复
@@ -64,17 +66,17 @@
 1. [情侣之间如何才能每天过得很甜？](https://www.zhihu.com/question/307721987) 121 万热度 964回复
 1. [如何评价 SN 打野 SOFM 在《英雄联盟》2020 年 lpl 全明星周末获得年度 MVP 奖？](https://www.zhihu.com/question/437472962) 105 万热度 56回复
 1. [理财是致富的一条道路吗？](https://www.zhihu.com/question/280800149) 90 万热度 344回复
+1. [失眠时候如何快速入睡？](https://www.zhihu.com/question/20862094) 87 万热度 1743回复
 1. [教师资格证什么时候报名，在哪报名，应该怎么复习？](https://www.zhihu.com/question/324659524) 85 万热度 86回复
 1. [《送你一朵小红花》中的男主角韦一航是一个什么样的角色？](https://www.zhihu.com/question/436782065) 77 万热度 39回复
 1. [小说看多了有什么坏处？](https://www.zhihu.com/question/26842401) 77 万热度 143回复
 1. [如何评价《赛博朋克 2077》中的中间人？](https://www.zhihu.com/question/437045240) 74 万热度 23回复
-1. [住院因为医院床位紧张，安排在走廊，半夜呼叫，由于没人来，第二天发现死亡，医院要负责任吗?](https://www.zhihu.com/question/437284954) 73 万热度 39回复
-1. [有没有比陈奕迅《富士山下》里「谁能凭爱意让富士山私有」还好的句子?](https://www.zhihu.com/question/424619553) 71 万热度 72回复
-1. [失眠时候如何快速入睡？](https://www.zhihu.com/question/20862094) 69 万热度 1743回复
-1. [人到中年，已失业，又找不到合适的工作，该怎么走下一步呢？](https://www.zhihu.com/question/298441731) 65 万热度 198回复
-1. [如何能让自己写的角色活过来?](https://www.zhihu.com/question/38946847) 62 万热度 71回复
-1. [咬牙坚持的感情该不该放弃?](https://www.zhihu.com/question/436712967) 59 万热度 230回复
+1. [人到中年，已失业，又找不到合适的工作，该怎么走下一步呢？](https://www.zhihu.com/question/298441731) 70 万热度 198回复
+1. [如何能让自己写的角色活过来?](https://www.zhihu.com/question/38946847) 63 万热度 71回复
+1. [孩子小学二年级，我对孩子的教育彻底失去信心怎么办？](https://www.zhihu.com/question/431447269) 62 万热度 346回复
+1. [咬牙坚持的感情该不该放弃?](https://www.zhihu.com/question/436712967) 60 万热度 230回复
 1. [在本该念书的年纪辍学了应该做什么？](https://www.zhihu.com/question/434449802) 59 万热度 428回复
+1. [大家备考公务员考试都多长时间？](https://www.zhihu.com/question/323798283) 59 万热度 149回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
