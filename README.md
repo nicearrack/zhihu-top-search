@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-10 04:28:55
+最后更新时间 2021-01-10 06:32:47
 
 1. [如何看待元气森林乳茶宣传 0 蔗糖，实际为「高糖高热量」？市面上号称「无糖」的饮料真的都无糖吗？](https://www.zhihu.com/question/438486634) 2715 万热度 404回复
 1. [网传拼多多员工因在网上发布同事被抬上救护车的照片，被管理层逼迫主动辞职、赶出公司？事件真实性如何？](https://www.zhihu.com/question/438581129) 1908 万热度 302回复
@@ -58,29 +58,38 @@
 1. [为什么有些英语老师说语法几个小时就可以讲明白？](https://www.zhihu.com/question/30030877) 160 万热度 734回复
 1. [我送中世纪一位穷骑士一套中国铠甲，他会穿吗？](https://www.zhihu.com/question/438029190) 159 万热度 61回复
 1. [湖南怀化一垃圾桶内发现断气婴儿，被装进购物袋丢弃，发现时已经没气了，还有哪些值得关注的信息？](https://www.zhihu.com/question/438261496) 153 万热度 137回复
+1. [南京市消协回应下馆子必须扫码才能点菜，称「消费者有权拒绝」，你怎么看？](https://www.zhihu.com/question/438146894) 144 万热度 34回复
 1. [如何看待日本网友请愿删除大雄进静香浴室戏份？](https://www.zhihu.com/question/434167908) 137 万热度 527回复
 1. [如何辨认身边大智若愚的人？](https://www.zhihu.com/question/413926539) 130 万热度 156回复
 1. [为什么手机游戏《明日方舟》中，博士失忆了罗德岛还要像宝一样供着博士?](https://www.zhihu.com/question/356867280) 130 万热度 128回复
 1. [如何评价《奇葩说》第七季第六期？](https://www.zhihu.com/question/438635276) 125 万热度 38回复
 1. [2021 年想入手落地价 10 万元以内的代步车，买日系等合资车还是同价位的国内自主品牌车好？](https://www.zhihu.com/question/437375569) 122 万热度 76回复
+1. [相貌平平和好看有什么差距?](https://www.zhihu.com/question/436671368) 122 万热度 38回复
 1. [华为手机真的如传言所说，信号很好吗？](https://www.zhihu.com/question/327224237) 121 万热度 903回复
 1. [赛博朋克 2077 真的有那么好玩吗？](https://www.zhihu.com/question/437039818) 112 万热度 22回复
 1. [2021 前端会有什么新的变化？](https://www.zhihu.com/question/428128531) 102 万热度 30回复
 1. [过年回家，有什么推荐买给家人的年货？](https://www.zhihu.com/question/39873708) 101 万热度 429回复
 1. [你觉得好用惊艳到你的化妆品 / 护肤品是什么？](https://www.zhihu.com/question/328352945) 97 万热度 927回复
+1. [intj/intp 人格的家境是不是大多都比较富裕？](https://www.zhihu.com/question/435621406) 97 万热度 64回复
+1. [怎样看待晋江上榜文质量越来越差，剧情尴尬？](https://www.zhihu.com/question/390235773) 97 万热度 600回复
 1. [如何评价华晨宇四专《新世界》（降临地球双 CD 版）销量拿下台湾五大金榜年冠？](https://www.zhihu.com/question/438500971) 86 万热度 21回复
 1. [做单亲妈妈是种怎样的体验？](https://www.zhihu.com/question/437167069) 82 万热度 37回复
 1. [有哪些男鞋品牌值得购买？](https://www.zhihu.com/question/24472262) 80 万热度 76回复
 1. [医学生期末考试考名解大题有什么意义？](https://www.zhihu.com/question/438007545) 80 万热度 24回复
 1. [大学生业余时间可以用来学其他的什么技能？](https://www.zhihu.com/question/41709696) 78 万热度 133回复
-1. [南京市消协回应下馆子必须扫码才能点菜，称「消费者有权拒绝」，你怎么看？](https://www.zhihu.com/question/438146894) 75 万热度 34回复
 1. [有哪些很暖很甜的小说？](https://www.zhihu.com/question/63110345) 74 万热度 35回复
-1. [相貌平平和好看有什么差距?](https://www.zhihu.com/question/436671368) 71 万热度 38回复
-1. [intj/intp 人格的家境是不是大多都比较富裕？](https://www.zhihu.com/question/435621406) 68 万热度 64回复
+1. [小土狗可以有多好看？](https://www.zhihu.com/question/410684805) 67 万热度 26回复
 1. [21 考研初试已经结束，如何准备复试？](https://www.zhihu.com/question/438161574) 66 万热度 51回复
 1. [给孩子买的绘本中，你觉得哪本不好？](https://www.zhihu.com/question/437009539) 66 万热度 36回复
-1. [小土狗可以有多好看？](https://www.zhihu.com/question/410684805) 63 万热度 26回复
 1. [时代少年团你是因为谁粉上的？](https://www.zhihu.com/question/438165510) 61 万热度 142回复
+1. [一本好书看完记不住里面的好句子正常吗？](https://www.zhihu.com/question/320722638) 60 万热度 89回复
+1. [可以留下你最喜欢的文案吗？](https://www.zhihu.com/question/429845872) 60 万热度 158回复
+1. [有没有让你一眼心酸的句子？](https://www.zhihu.com/question/426679805) 59 万热度 185回复
+1. [当一个人类能举起 20w 吨的巨型邮轮，人类的武器还能杀死他吗？](https://www.zhihu.com/question/431102613) 59 万热度 204回复
+1. [高中物理特别差，先看辅导书还是先刷题?](https://www.zhihu.com/question/375722639) 59 万热度 86回复
+1. [找专业的检测公司测得室内甲醛 0.3mg/m3，甲醛到底有多可怕？](https://www.zhihu.com/question/21399589) 59 万热度 157回复
+1. [你会放弃前程去奔赴一个人吗？](https://www.zhihu.com/question/434760639) 59 万热度 640回复
+1. [如何评价《姐姐的爱乐之程》第十期?](https://www.zhihu.com/question/438488444) 58 万热度 30回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
