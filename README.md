@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-19 04:45:17
+最后更新时间 2021-01-19 06:42:50
 
 1. [网传郑爽、张恒在美国丹佛打离婚官司，疑代孕 2 子，发生了什么？](https://www.zhihu.com/question/439965082) 31741 万热度 4510回复
 1. [什么样子的情侣关系能够长久？](https://www.zhihu.com/question/435769097) 3695 万热度 540回复
@@ -50,6 +50,7 @@
 1. [学霸的努力程度到底可以有多可怕？](https://www.zhihu.com/question/328770692) 191 万热度 210回复
 1. [经历了网络诈骗，到现在一个月的时间了，还是走不出来，心被掏空了的感觉，我该怎么办？](https://www.zhihu.com/question/424659283) 185 万热度 129回复
 1. [为什么那么多人喜欢用罗技的鼠标？](https://www.zhihu.com/question/438942926) 184 万热度 112回复
+1. [医生劝病人控制饮食被打骨折，一审维持对医生「行拘 3 日」处罚决定，如何看待这一判决结果？](https://www.zhihu.com/question/439532356) 183 万热度 43回复
 1. [我国师范类大学是如何分档的？](https://www.zhihu.com/question/436193716) 178 万热度 36回复
 1. [每天带饭去上班丢人吗？为什么？](https://www.zhihu.com/question/420592114) 162 万热度 2560回复
 1. [如何广播一个「宇宙危险声明」，表现出人类的好战性，让尽可能多的文明来攻击我们？](https://www.zhihu.com/question/439377136) 159 万热度 33回复
@@ -68,16 +69,24 @@
 1. [如何看待字节跳动暂停手机业务，不再研发坚果手机、 TNT 显示器等「其他无关产品」？](https://www.zhihu.com/question/439874539) 84 万热度 163回复
 1. [如何评价电视剧《盗墓笔记之终极笔记》？](https://www.zhihu.com/question/433865475) 82 万热度 124回复
 1. [蔡文姬该不该做全法装？](https://www.zhihu.com/question/439025400) 76 万热度 49回复
-1. [有哪些只有数学专业领域的人才懂的笑话？](https://www.zhihu.com/question/266937434) 73 万热度 101回复
-1. [医生劝病人控制饮食被打骨折，一审维持对医生「行拘 3 日」处罚决定，如何看待这一判决结果？](https://www.zhihu.com/question/439532356) 73 万热度 43回复
+1. [有哪些只有数学专业领域的人才懂的笑话？](https://www.zhihu.com/question/266937434) 74 万热度 101回复
+1. [什么是波函数？](https://www.zhihu.com/question/439819321) 71 万热度 21回复
 1. [考研热潮和就业形势之间存在必然联系吗？](https://www.zhihu.com/question/312702966) 68 万热度 45回复
 1. [如果英国有 G6 大学，那么第 6 所会是哪个？](https://www.zhihu.com/question/438816949) 68 万热度 31回复
+1. [如何在半年内提高颜值?](https://www.zhihu.com/question/302545858) 67 万热度 48回复
 1. [假如哈利波特进入魔兽世界，能不能吊打众生？](https://www.zhihu.com/question/265287138) 66 万热度 69回复
-1. [如何在半年内提高颜值?](https://www.zhihu.com/question/302545858) 66 万热度 48回复
-1. [如何以「因为闹掰了，他去了清华，我去了北大」为开头，写一篇故事？](https://www.zhihu.com/question/428142724) 64 万热度 466回复
+1. [如何以「因为闹掰了，他去了清华，我去了北大」为开头，写一篇故事？](https://www.zhihu.com/question/428142724) 65 万热度 466回复
 1. [能把你们喜欢的文案分享给我吗？](https://www.zhihu.com/question/436764224) 64 万热度 69回复
+1. [男朋友今年 27 岁，没有存款正常吗？](https://www.zhihu.com/question/435790837) 63 万热度 172回复
 1. [如果可以回到过去，想对正在努力的自己说些什么？](https://www.zhihu.com/question/312578866) 60 万热度 186回复
-1. [男朋友今年 27 岁，没有存款正常吗？](https://www.zhihu.com/question/435790837) 59 万热度 172回复
+1. [初中如何考到年级前十?](https://www.zhihu.com/question/353434774) 59 万热度 139回复
+1. [孩子犯错还总是有理由，一批评就顶嘴，应该怎么办？](https://www.zhihu.com/question/438838327) 59 万热度 570回复
+1. [买二手房需要注意什么？](https://www.zhihu.com/question/20388137) 59 万热度 260回复
+1. [异地恋分了以后的男生会怎样？](https://www.zhihu.com/question/432008456) 59 万热度 26回复
+1. [教资面试结构化这么多题实在背不完，是不是很多人都是临场发挥 ?](https://www.zhihu.com/question/361120920) 59 万热度 81回复
+1. [请问当你感觉心情压抑时都会怎样抒解呢？](https://www.zhihu.com/question/438507363) 59 万热度 309回复
+1. [高一分班分到最后一层还有机会翻身吗？](https://www.zhihu.com/question/438206945) 59 万热度 282回复
+1. [有什么应该坚持的好习惯？](https://www.zhihu.com/question/429930478) 59 万热度 393回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
