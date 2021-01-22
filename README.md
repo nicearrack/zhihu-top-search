@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-23 01:03:22
+最后更新时间 2021-01-23 02:58:18
 
 1. [华晨宇承认与张碧晨的孩子已经一岁，工作室称两人将在无婚姻关系前提下共同抚养孩子，你怎么看？](https://www.zhihu.com/question/440533019) 24147 万热度 6758回复
 1. [主播墨茶 Official 因病去世，他生前的生活境遇如何？如果及时治疗能否得到救治？](https://www.zhihu.com/question/440488455) 10815 万热度 4919回复
@@ -32,18 +32,21 @@
 1. [孩子有左撇子的迹象，要不要纠正他？](https://www.zhihu.com/question/439923460) 489 万热度 444回复
 1. [日本女人为什么都想嫁给相扑选手?](https://www.zhihu.com/question/352910962) 471 万热度 43回复
 1. [小孩不给吃面包，汉堡披萨，一定要吃米饭是正确的么？](https://www.zhihu.com/question/440509928) 440 万热度 200回复
+1. [外媒称：印度欲向邻国免费提供 1200 万到 2000 万剂疫苗，为「反击」中国在该地区的影响力。你怎么看？](https://www.zhihu.com/question/440644762) 382 万热度 47回复
 1. [美国新冠死亡超 40 万，几乎与二战死亡人数持平，纽约疫苗库存告急，美国疫情会如何发展？](https://www.zhihu.com/question/440233827) 373 万热度 75回复
-1. [外媒称：印度欲向邻国免费提供 1200 万到 2000 万剂疫苗，为「反击」中国在该地区的影响力。你怎么看？](https://www.zhihu.com/question/440644762) 363 万热度 47回复
 1. [如何看待特朗普在卸任前几小时赦免了班农等 73 人，但并不包括他本人或家人？](https://www.zhihu.com/question/440291155) 362 万热度 67回复
 1. [国外疫情如此严重，进口车厘子还能买吗？](https://www.zhihu.com/question/434562414) 356 万热度 81回复
 1. [刷到了一刀劈开螃蟹的视频，感觉很残忍，评论区说自己非常不适 应该被怼吗？](https://www.zhihu.com/question/440222130) 343 万热度 349回复
 1. [月薪一万真的很简单吗?](https://www.zhihu.com/question/438452552) 330 万热度 699回复
 1. [李政道还活着，为什么不如杨振宁有名？](https://www.zhihu.com/question/439675869) 328 万热度 62回复
 1. [核酸检测是嘴更难受还是鼻子更难受？](https://www.zhihu.com/question/392297441) 311 万热度 191回复
+1. [有哪些中国人觉得很辣眼，但外国很流行的装修风格？](https://www.zhihu.com/question/439492399) 305 万热度 89回复
 1. [如何看待发生在上海的特斯拉 Model 3 自燃爆炸？](https://www.zhihu.com/question/440225183) 300 万热度 90回复
-1. [有哪些中国人觉得很辣眼，但外国很流行的装修风格？](https://www.zhihu.com/question/439492399) 292 万热度 89回复
+1. [为什么老公每月收入全部给我，而我却觉得越来越不对呢？](https://www.zhihu.com/question/434293862) 300 万热度 613回复
+1. [微信的个人状态有什么有趣的文案？](https://www.zhihu.com/question/440514246) 291 万热度 35回复
 1. [经常熬夜的人颜值会有什么变化？](https://www.zhihu.com/question/271403665) 289 万热度 696回复
 1. [如何看待网传合肥格力工厂给饮水机上锁，知情人称「上锁是因为员工从领导面前经过去打水，领导感觉被无视」？](https://www.zhihu.com/question/440586959) 279 万热度 90回复
+1. [如何看待 1 月 22 日的《原神》 1.3 版本前瞻直播内容？](https://www.zhihu.com/question/440681560) 274 万热度 31回复
 1. [如何看待小米 11 发售仅过 21 天销量突破一百万？](https://www.zhihu.com/question/440580095) 273 万热度 83回复
 1. [怎么看待「张小龙：微信将推出自有输入法」?](https://www.zhihu.com/question/440253344) 259 万热度 97回复
 1. [为什么现在没人去日本抢马桶盖了，我国卫浴产业赶上来了吗？](https://www.zhihu.com/question/440274624) 255 万热度 69回复
@@ -52,20 +55,24 @@
 1. [现在坐火车飞机都实名制了，为什么病例密切接触者还需要在网上紧急寻人？是电话打不通吗？](https://www.zhihu.com/question/440555441) 247 万热度 79回复
 1. [要有怎样知识积累才能写出《三体》？](https://www.zhihu.com/question/440035614) 235 万热度 32回复
 1. [《琅琊榜》里，梁帝杀光自己国家最精锐 7 万大军的操作，如果发生在真实的历史上，会有什么后果？](https://www.zhihu.com/question/424322892) 228 万热度 617回复
+1. [为什么很多人买基金一定要跌了才敢加仓？](https://www.zhihu.com/question/440460820) 223 万热度 25回复
+1. [猫真的会被打服吗？](https://www.zhihu.com/question/348013324) 196 万热度 2039回复
 1. [小米 11 会成为下个小米 6 吗？](https://www.zhihu.com/question/436962626) 185 万热度 58回复
-1. [猫真的会被打服吗？](https://www.zhihu.com/question/348013324) 175 万热度 2039回复
-1. [家装中，为什么说极简 = 极奢？](https://www.zhihu.com/question/400503998) 165 万热度 426回复
-1. [为什么面对读博大家都那么悲观？](https://www.zhihu.com/question/439204161) 137 万热度 48回复
+1. [家装中，为什么说极简 = 极奢？](https://www.zhihu.com/question/400503998) 176 万热度 426回复
+1. [如果用 MBTI 分析，郑爽是那种性格类型呢？](https://www.zhihu.com/question/365618548) 162 万热度 81回复
+1. [为什么面对读博大家都那么悲观？](https://www.zhihu.com/question/439204161) 144 万热度 48回复
 1. [人生应该活成什么样子，该以什么样的方式活着？](https://www.zhihu.com/question/290003248) 109 万热度 5251回复
 1. [历史上有哪些侥幸的成功？](https://www.zhihu.com/question/58096641) 102 万热度 112回复
-1. [如何辨别一个程序员水平的高低？](https://www.zhihu.com/question/35194924) 94 万热度 265回复
+1. [如何辨别一个程序员水平的高低？](https://www.zhihu.com/question/35194924) 100 万热度 265回复
 1. [哪一瞬间让你觉得「懒得理直气壮」是一种奇爽无比的体验？](https://www.zhihu.com/question/439968079) 94 万热度 85回复
+1. [有什么开心的文案？](https://www.zhihu.com/question/439817097) 86 万热度 36回复
 1. [有什么让人一看见就很温暖的文案吗？](https://www.zhihu.com/question/435685195) 85 万热度 51回复
+1. [你读博的原因是什么？](https://www.zhihu.com/question/437012020) 83 万热度 126回复
 1. [有哪些文案让你看到一眼就心酸的？](https://www.zhihu.com/question/437834213) 82 万热度 40回复
 1. [有没有什么适合女生网名？](https://www.zhihu.com/question/382831436) 82 万热度 114回复
-1. [你读博的原因是什么？](https://www.zhihu.com/question/437012020) 80 万热度 126回复
+1. [有什么超级现实的句子？](https://www.zhihu.com/question/407710085) 78 万热度 74回复
 1. [算数差是否数学水平就差？](https://www.zhihu.com/question/439926330) 77 万热度 47回复
-1. [有什么开心的文案？](https://www.zhihu.com/question/439817097) 74 万热度 36回复
+1. [为什么《王者荣耀》有些人能靠玩混子英雄上王者?](https://www.zhihu.com/question/328458184) 75 万热度 2394回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
