@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-23 02:58:18
+最后更新时间 2021-01-23 04:45:06
 
 1. [华晨宇承认与张碧晨的孩子已经一岁，工作室称两人将在无婚姻关系前提下共同抚养孩子，你怎么看？](https://www.zhihu.com/question/440533019) 24147 万热度 6758回复
 1. [主播墨茶 Official 因病去世，他生前的生活境遇如何？如果及时治疗能否得到救治？](https://www.zhihu.com/question/440488455) 10815 万热度 4919回复
@@ -55,12 +55,13 @@
 1. [现在坐火车飞机都实名制了，为什么病例密切接触者还需要在网上紧急寻人？是电话打不通吗？](https://www.zhihu.com/question/440555441) 247 万热度 79回复
 1. [要有怎样知识积累才能写出《三体》？](https://www.zhihu.com/question/440035614) 235 万热度 32回复
 1. [《琅琊榜》里，梁帝杀光自己国家最精锐 7 万大军的操作，如果发生在真实的历史上，会有什么后果？](https://www.zhihu.com/question/424322892) 228 万热度 617回复
-1. [为什么很多人买基金一定要跌了才敢加仓？](https://www.zhihu.com/question/440460820) 223 万热度 25回复
+1. [为什么很多人买基金一定要跌了才敢加仓？](https://www.zhihu.com/question/440460820) 226 万热度 25回复
 1. [猫真的会被打服吗？](https://www.zhihu.com/question/348013324) 196 万热度 2039回复
 1. [小米 11 会成为下个小米 6 吗？](https://www.zhihu.com/question/436962626) 185 万热度 58回复
 1. [家装中，为什么说极简 = 极奢？](https://www.zhihu.com/question/400503998) 176 万热度 426回复
 1. [如果用 MBTI 分析，郑爽是那种性格类型呢？](https://www.zhihu.com/question/365618548) 162 万热度 81回复
 1. [为什么面对读博大家都那么悲观？](https://www.zhihu.com/question/439204161) 144 万热度 48回复
+1. [为什么《王者荣耀》有些人能靠玩混子英雄上王者?](https://www.zhihu.com/question/328458184) 118 万热度 2394回复
 1. [人生应该活成什么样子，该以什么样的方式活着？](https://www.zhihu.com/question/290003248) 109 万热度 5251回复
 1. [历史上有哪些侥幸的成功？](https://www.zhihu.com/question/58096641) 102 万热度 112回复
 1. [如何辨别一个程序员水平的高低？](https://www.zhihu.com/question/35194924) 100 万热度 265回复
@@ -70,9 +71,10 @@
 1. [你读博的原因是什么？](https://www.zhihu.com/question/437012020) 83 万热度 126回复
 1. [有哪些文案让你看到一眼就心酸的？](https://www.zhihu.com/question/437834213) 82 万热度 40回复
 1. [有没有什么适合女生网名？](https://www.zhihu.com/question/382831436) 82 万热度 114回复
-1. [有什么超级现实的句子？](https://www.zhihu.com/question/407710085) 78 万热度 74回复
+1. [有什么超级现实的句子？](https://www.zhihu.com/question/407710085) 79 万热度 74回复
 1. [算数差是否数学水平就差？](https://www.zhihu.com/question/439926330) 77 万热度 47回复
-1. [为什么《王者荣耀》有些人能靠玩混子英雄上王者?](https://www.zhihu.com/question/328458184) 75 万热度 2394回复
+1. [有哪些不烂大街的生日文案?](https://www.zhihu.com/question/437494261) 68 万热度 62回复
+1. [三国六大奇才：一龙一凤、一马一鬼、一虎一麒麟，他们分别是谁？](https://www.zhihu.com/question/440017706) 65 万热度 24回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
