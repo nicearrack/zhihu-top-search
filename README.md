@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-01-24 06:39:33
+最后更新时间 2021-01-24 09:30:52
 
 1. [华晨宇承认与张碧晨的孩子已经一岁，工作室称两人将在无婚姻关系前提下共同抚养孩子，你怎么看？](https://www.zhihu.com/question/440533019) 5947 万热度 9664回复
 1. [1 月 22 日云南一男子在云南师大实验中学劫持学生，持刀伤害 7 人被当场击毙，发生了什么？](https://www.zhihu.com/question/440668867) 3995 万热度 1249回复
@@ -27,16 +27,16 @@
 1. [如何看待饶毅再次致信中科院并回应张曙光，称其论文与裴钢结果矛盾，第三方重复实验才是检验对错的唯一标准？](https://www.zhihu.com/question/440814381) 821 万热度 152回复
 1. [有哪些特别棒的微信朋友圈背景图？](https://www.zhihu.com/question/337853063) 784 万热度 194回复
 1. [如果我在 10 年前花 2 万块钱买比特币，一直持有到现在，我是不是就发财了？](https://www.zhihu.com/question/439136003) 726 万热度 355回复
+1. [1 月 23 日媒体报道吉林通化二轮全员核酸检测 88 例阳性，目前情况如何？](https://www.zhihu.com/question/440793151) 467 万热度 62回复
+1. [长的丑的女生到底有多惨？](https://www.zhihu.com/question/352979580) 466 万热度 3844回复
 1. [新高考适应性考试「八省联考」结束了，你有什么想说的？](https://www.zhihu.com/question/440749790) 451 万热度 67回复
 1. [如何看待有人说：「很多老人去了养老院才懂：养老院，其实和想象的不一样」？](https://www.zhihu.com/question/440467400) 445 万热度 97回复
-1. [长的丑的女生到底有多惨？](https://www.zhihu.com/question/352979580) 409 万热度 3844回复
 1. [2021 LPL 春季赛新打野 Bo 登场，FPX 2:0 SN，如何评价这场比赛？](https://www.zhihu.com/question/440817019) 400 万热度 41回复
 1. [性价比最高的羽绒服有哪几款？](https://www.zhihu.com/question/21938429) 392 万热度 143回复
 1. [如何评价美剧《旺达幻视》第三集？](https://www.zhihu.com/question/440654669) 389 万热度 34回复
 1. [你知道哪些神预言？](https://www.zhihu.com/question/48944599) 381 万热度 4520回复
 1. [《奇葩说》第七季第十期辩题「我是独立女性，要不要收彩礼」，你会怎么选？](https://www.zhihu.com/question/440833162) 354 万热度 165回复
 1. [如何看待「无锡一份进口欧洲甜樱桃表面检测阳性」？疫情期间，欧洲甜樱桃还能吃吗？](https://www.zhihu.com/question/440652915) 330 万热度 154回复
-1. [1 月 23 日媒体报道吉林通化二轮全员核酸检测 88 例阳性，目前情况如何？](https://www.zhihu.com/question/440793151) 321 万热度 62回复
 1. [如何评价《奇葩说》第七季第十期？](https://www.zhihu.com/question/440825802) 276 万热度 91回复
 1. [彩票店老板会不会自己把刮刮乐先刮开，兑了奖后，把没中奖的又封上继续卖给别人？](https://www.zhihu.com/question/438582179) 262 万热度 32回复
 1. [哪些细节可以体现女生的气质和品位？](https://www.zhihu.com/question/24780989) 247 万热度 1037回复
@@ -44,29 +44,34 @@
 1. [白给你一辆宝马，一个月五百块能养活它吗？](https://www.zhihu.com/question/439328886) 233 万热度 335回复
 1. [三十六岁副教授是否该跳槽？](https://www.zhihu.com/question/440257592) 218 万热度 69回复
 1. [德国总理默克尔称「别以为拜登上台后，德美关系就一定会和谐」，释放了什么信号？](https://www.zhihu.com/question/440650417) 196 万热度 125回复
+1. [如果台北博物馆着火了，救颜真卿的《祭侄文稿》真迹还是救一名游客？](https://www.zhihu.com/question/440177008) 185 万热度 176回复
 1. [《英雄联盟》新英雄「破败之王」佛耶戈正式上线，如何评价他？](https://www.zhihu.com/question/440596499) 169 万热度 46回复
 1. [22 岁入职大厂的程序员在 34 岁会有多少存款？](https://www.zhihu.com/question/436336543) 167 万热度 54回复
 1. [专升本机构可以恶心到什么程度？](https://www.zhihu.com/question/400116979) 141 万热度 75回复
 1. [如何评价王鸥在《乘风破浪的姐姐 2》中的表现?](https://www.zhihu.com/question/440631567) 141 万热度 113回复
+1. [现在的年轻人为什么那么注重钱？](https://www.zhihu.com/question/440570935) 128 万热度 91回复
+1. [为什么有的人很聪明，大脑结构有什么不一样吗？](https://www.zhihu.com/question/361029741) 107 万热度 141回复
 1. [如果把 14nm 的 CPU 长宽增加一倍，是不是就可以得到 7nm 的 CPU 的性能？](https://www.zhihu.com/question/432566248) 106 万热度 121回复
 1. [关晓彤有哪些出圈神图?](https://www.zhihu.com/question/408938685) 103 万热度 118回复
+1. [如何评价张云雷在腾讯 TMEA 中的表现？](https://www.zhihu.com/question/440826206) 101 万热度 31回复
 1. [电视剧《甜蜜家园》有哪些细思极恐的细节？](https://www.zhihu.com/question/435369430) 98 万热度 94回复
 1. [如何评价综艺《平行时空遇见你》第六期？](https://www.zhihu.com/question/440563921) 96 万热度 23回复
 1. [有什么适合闺蜜之间的小礼物吗？](https://www.zhihu.com/question/376166947) 90 万热度 225回复
 1. [大学生寒假回家，最怕什么？](https://www.zhihu.com/question/439088772) 83 万热度 167回复
 1. [如何评价王源和张亚东合作的「知乎 x 王源《答案》概念主题曲」？](https://www.zhihu.com/question/440768515) 82 万热度 29回复
 1. [如果只剩三个小时就要出现丧尸，你会干什么?](https://www.zhihu.com/question/370509834) 80 万热度 7109回复
+1. [为了买房做一辈子房奴值得吗？](https://www.zhihu.com/question/420453128) 77 万热度 4903回复
 1. [距离 2021 省考还有 3 个月之后，应该如何备考？](https://www.zhihu.com/question/437712149) 74 万热度 21回复
+1. [计算机还能火多久呢?](https://www.zhihu.com/question/438642229) 74 万热度 45回复
 1. [如果你被关进冷宫怎么办？](https://www.zhihu.com/question/428606792) 71 万热度 46回复
+1. [你们是怎么说服自己接受终究会死亡这个事的？](https://www.zhihu.com/question/439737501) 70 万热度 207回复
 1. [男生会觉得什么样的女生情商高？](https://www.zhihu.com/question/301299059) 69 万热度 94回复
-1. [现在的年轻人为什么那么注重钱？](https://www.zhihu.com/question/440570935) 67 万热度 91回复
 1. [有什么好的高中化学教辅或练习册推荐吗？](https://www.zhihu.com/question/435822087) 66 万热度 31回复
 1. [如果有一天你变得非常有钱，你会拿这么多钱干什么？](https://www.zhihu.com/question/437410410) 65 万热度 247回复
 1. [大家对看书有什么看法？](https://www.zhihu.com/question/438065523) 64 万热度 68回复
 1. [《英雄联盟》哪个英雄没有进过下水道？](https://www.zhihu.com/question/438823263) 59 万热度 40回复
 1. [小说《射雕英雄传》的主角郭靖就射过一次雕，为什么小说要取这个名字？](https://www.zhihu.com/question/440235365) 59 万热度 164回复
 1. [喜欢上一个不可能的人有什么方法放弃？](https://www.zhihu.com/question/437379179) 59 万热度 317回复
-1. [为了买房做一辈子房奴值得吗？](https://www.zhihu.com/question/420453128) 59 万热度 4903回复
 1. [如果你穿成了青梅竹马文里的恶毒女配怎么办？](https://www.zhihu.com/question/397987454) 59 万热度 28回复
 1. [你渴望回到过去吗？](https://www.zhihu.com/question/439257862) 59 万热度 175回复
 1. [你们会喜欢一个人很用力，放弃的也很决绝吗？](https://www.zhihu.com/question/439452346) 55 万热度 328回复
@@ -83,6 +88,12 @@
 1. [如何看待有网友认为游戏《原神》没有内核，只有一层皮?](https://www.zhihu.com/question/440094943) 49 万热度 88回复
 1. [能分享一下你收藏的关于思念的句子吗？](https://www.zhihu.com/question/431856176) 48 万热度 117回复
 1. [喜欢一个人，会喜欢很久吗？](https://www.zhihu.com/question/439722412) 48 万热度 350回复
+1. [如何评价平头哥完成了安卓 10 对 RISC-V 的移植并开源代码？对 RISC-V 生态有何意义？](https://www.zhihu.com/question/440538835) 37 万热度 25回复
+1. [如何评价华为运动健康科学实验室首次被揭秘？有哪些值得关注的信息？](https://www.zhihu.com/question/440664594) 35 万热度 158回复
+1. [如何看待回归家庭之后的全职妈妈，在离婚时都很难争取到抚养权？](https://www.zhihu.com/question/440471527) 34 万热度 118回复
+1. [大学生第一次租房需要注意什么？](https://www.zhihu.com/question/300610447) 32 万热度 136回复
+1. [你们最无助的时候是怎么度过的？](https://www.zhihu.com/question/440376212) 32 万热度 109回复
+1. [为什么有的学生非常努力地学习，认真地完成了作业，上课也很认真听讲，成绩依旧不好呢?](https://www.zhihu.com/question/319972649) 31 万热度 184回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
