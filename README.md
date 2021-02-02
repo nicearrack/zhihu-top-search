@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-02-02 06:23:30
+最后更新时间 2021-02-02 08:51:20
 
 1. [如何看待 2 月 1 日缅甸国务资政昂山素季等高级官员被军方扣押，国家权力将移交给国防军总司令敏昂莱？](https://www.zhihu.com/question/442265428) 5064 万热度 668回复
 1. [既然是自然选择，为什么动植物们没因为进化变得非常难吃？](https://www.zhihu.com/question/441096112) 3495 万热度 695回复
@@ -37,28 +37,28 @@
 1. [如何评价支付宝 2021 年集五福活动？你的第一张福是敬业福吗？](https://www.zhihu.com/question/442243817) 323 万热度 876回复
 1. [得了新冠肺炎的人现在都怎么样了？](https://www.zhihu.com/question/395696795) 319 万热度 43回复
 1. [年薪 100 万和自己做生意年收入 100 万哪个更优秀？](https://www.zhihu.com/question/436643451) 315 万热度 547回复
-1. [如何评价《喜羊羊与灰太狼之筐出胜利》？](https://www.zhihu.com/question/440661331) 303 万热度 34回复
+1. [如何评价《喜羊羊与灰太狼之筐出胜利》？](https://www.zhihu.com/question/440661331) 306 万热度 34回复
 1. [领导跳槽带你走，你跟不跟？](https://www.zhihu.com/question/433804952) 303 万热度 147回复
 1. [为什么现在的猪肉越来越难吃？](https://www.zhihu.com/question/298472267) 296 万热度 155回复
 1. [如何评价特斯拉向南昌电网道歉，称「沟通录音被剪辑」？](https://www.zhihu.com/question/442283163) 290 万热度 87回复
 1. [有什么事情是你的性格变外向后知道的？](https://www.zhihu.com/question/338262811) 252 万热度 294回复
 1. [如何评价我同学说「台式机终究会被淘汰」？](https://www.zhihu.com/question/441250882) 251 万热度 391回复
+1. [《山海情》里最让你意难平的是什么？](https://www.zhihu.com/question/442019596) 244 万热度 21回复
 1. [你会给初看英美剧的人推荐哪十部英美剧？](https://www.zhihu.com/question/21124373) 228 万热度 999回复
+1. [为什么有的女孩子长的并没有很漂亮但是总有人都喜欢她？](https://www.zhihu.com/question/405378615) 228 万热度 144回复
 1. [为什么网文中签到流小说开始火了？这个爽在哪里？](https://www.zhihu.com/question/441224071) 226 万热度 53回复
 1. [猫咪是怎么和主人告状的？](https://www.zhihu.com/question/442005571) 219 万热度 64回复
 1. [狗的战斗力明显比猫强，为什么总是狗被猫欺负?](https://www.zhihu.com/question/441988374) 212 万热度 88回复
-1. [年薪百万是什么感觉？](https://www.zhihu.com/question/394637216) 179 万热度 2359回复
-1. [《山海情》里最让你意难平的是什么？](https://www.zhihu.com/question/442019596) 178 万热度 21回复
+1. [年薪百万是什么感觉？](https://www.zhihu.com/question/394637216) 212 万热度 2359回复
+1. [为什么中国出了这么多厉害的互联网公司，但没有自己设计过编程语言？](https://www.zhihu.com/question/359906573) 198 万热度 199回复
 1. [如何评价金靖在最新一季《明星大侦探》中的表现？](https://www.zhihu.com/question/441559177) 173 万热度 85回复
 1. [《江山如此多娇》与《山海情》，这两部电视剧哪部更好？](https://www.zhihu.com/question/439560134) 171 万热度 56回复
-1. [为什么有的女孩子长的并没有很漂亮但是总有人都喜欢她？](https://www.zhihu.com/question/405378615) 169 万热度 144回复
-1. [为什么中国出了这么多厉害的互联网公司，但没有自己设计过编程语言？](https://www.zhihu.com/question/359906573) 166 万热度 199回复
+1. [让美国人戴口罩为什么这么难？](https://www.zhihu.com/question/407867330) 163 万热度 33回复
 1. [海底捞自带食材是没素质的表现吗？](https://www.zhihu.com/question/284118317) 156 万热度 745回复
-1. [国产游戏《戴森球计划》怎样布局更科学高效？](https://www.zhihu.com/question/441812014) 144 万热度 21回复
+1. [国产游戏《戴森球计划》怎样布局更科学高效？](https://www.zhihu.com/question/441812014) 146 万热度 21回复
 1. [假如有条狗脑子里突然有了所有的物理数学公式，狗既不会应用也不会表达，人类要怎么提取这些呢？](https://www.zhihu.com/question/441872398) 139 万热度 27回复
 1. [女性朋友们可以从毛晓彤的录音中学到哪些重要的沟通技巧和个人素质？](https://www.zhihu.com/question/442090085) 136 万热度 61回复
 1. [一个工作能力极强的人提出离职，怎么挽留他？](https://www.zhihu.com/question/299819397) 131 万热度 540回复
-1. [让美国人戴口罩为什么这么难？](https://www.zhihu.com/question/407867330) 127 万热度 33回复
 1. [当你穿越到修仙文被病娇男配勾引的恶毒女配身上，该怎么办？](https://www.zhihu.com/question/411691149) 125 万热度 160回复
 1. [大家最近单曲循环的歌有哪些？](https://www.zhihu.com/question/441284342) 118 万热度 584回复
 1. [为什么我看完《心灵奇旅》没有 get 到感动？](https://www.zhihu.com/question/436788096) 118 万热度 681回复
@@ -72,8 +72,11 @@
 1. [怎么样才不会有口气？](https://www.zhihu.com/question/21421322) 89 万热度 75回复
 1. [如何看待「长尾科技」的新作《什么是高中物理》？](https://www.zhihu.com/question/442344364) 88 万热度 23回复
 1. [如何评价朱一龙 2021《时尚芭莎》二月刊杂志？](https://www.zhihu.com/question/442291208) 78 万热度 26回复
+1. [如何拯救编程能力?](https://www.zhihu.com/question/442089855) 75 万热度 23回复
 1. [王者荣耀「长安赛年」的哪些细节能感受到当年的盛唐风貌？](https://www.zhihu.com/question/441473204) 71 万热度 93回复
+1. [叶舒华退团对团体影响有多大？](https://www.zhihu.com/question/440814286) 71 万热度 27回复
 1. [2021 有哪些值得期待的高端电视？](https://www.zhihu.com/question/441304591) 67 万热度 48回复
+1. [除了看书，还有哪些可以拓宽视野、提升自我的高效方式？](https://www.zhihu.com/question/436071043) 66 万热度 366回复
 1. [雅思考官是怎么评分的？有哪些「内幕」？](https://www.zhihu.com/question/334277688) 64 万热度 22回复
 1. [股票的基本面如何分析？](https://www.zhihu.com/question/433679132) 64 万热度 47回复
 1. [有哪些素人（重点是素人）男生的颜值符合小说男主的标准？](https://www.zhihu.com/question/341014389) 62 万热度 42回复
@@ -84,10 +87,16 @@
 1. [爱而不得的人该放弃还是继续坚持？](https://www.zhihu.com/question/442107739) 60 万热度 148回复
 1. [如果人生有倒退键，你最想回到什么时段？](https://www.zhihu.com/question/441650362) 59 万热度 201回复
 1. [明明早就该放弃的人，为什么一次又一次的原谅？](https://www.zhihu.com/question/441813530) 59 万热度 163回复
-1. [除了看书，还有哪些可以拓宽视野、提升自我的高效方式？](https://www.zhihu.com/question/436071043) 59 万热度 366回复
 1. [可以分享一下你最近单曲循环的音乐吗？](https://www.zhihu.com/question/441190003) 59 万热度 355回复
 1. [加密的 PDF 文件如何有效的解密呢？](https://www.zhihu.com/question/22938994) 59 万热度 40回复
 1. [女生发朋友圈能可爱到什么程度？](https://www.zhihu.com/question/438871910) 59 万热度 23回复
+1. [可以推荐一些风景园林专业看的书吗？](https://www.zhihu.com/question/438144192) 59 万热度 28回复
+1. [如何看待网易游戏《阴阳师》本次鬼灭之刃联动皮肤无法在战斗中使用？](https://www.zhihu.com/question/442015715) 56 万热度 41回复
+1. [《进击的巨人》最终季第八集为什么死的不是别人？](https://www.zhihu.com/question/442308911) 53 万热度 50回复
+1. [为什么科幻片里的能量护罩没人去研究?](https://www.zhihu.com/question/439719832) 47 万热度 37回复
+1. [为什么不增强李信？](https://www.zhihu.com/question/406146480) 46 万热度 77回复
+1. [有哪些幽默诙谐的文案？](https://www.zhihu.com/question/404508100) 44 万热度 298回复
+1. [28 周以下早产儿，你会放弃还是抢救？](https://www.zhihu.com/question/333028195) 44 万热度 146回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
