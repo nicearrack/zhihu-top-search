@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-02-05 04:18:37
+最后更新时间 2021-02-05 06:19:34
 
 1. [日本煮饭老头被誉为「煮饭仙人」，标榜匠人精神，是否过誉了？](https://www.zhihu.com/question/56773677) 4071 万热度 1713回复
 1. [如何看待父亲死后儿子用鞋盒装骨灰，殡仪馆人员怼其「不要脸」，却被网友质疑殡仪馆「天价骨灰盒」要价太高？](https://www.zhihu.com/question/441101618) 3029 万热度 1458回复
@@ -69,12 +69,20 @@
 1. [上课打瞌睡到底怎么办？](https://www.zhihu.com/question/39294193) 86 万热度 1135回复
 1. [在哪一瞬间特别心疼你的男朋友？](https://www.zhihu.com/question/324723408) 85 万热度 1573回复
 1. [为什么在王者峡谷里对女生意见这么大？](https://www.zhihu.com/question/441649645) 84 万热度 231回复
+1. [如何看待《西游记》原著里狮驼岭尸堆 800 里，佛祖视而不见？](https://www.zhihu.com/question/441627356) 84 万热度 23回复
 1. [天干的起源是什么？](https://www.zhihu.com/question/24997298) 81 万热度 25回复
-1. [如何看待《西游记》原著里狮驼岭尸堆 800 里，佛祖视而不见？](https://www.zhihu.com/question/441627356) 79 万热度 23回复
+1. [你们觉得项羽和刘邦谁更是小人？](https://www.zhihu.com/question/442262265) 72 万热度 51回复
 1. [高一生活真的有那么美好吗？](https://www.zhihu.com/question/412925978) 71 万热度 2146回复
-1. [你们觉得项羽和刘邦谁更是小人？](https://www.zhihu.com/question/442262265) 71 万热度 51回复
-1. [讨好型人格到底有多可怕？](https://www.zhihu.com/question/268633341) 65 万热度 37回复
+1. [讨好型人格到底有多可怕？](https://www.zhihu.com/question/268633341) 69 万热度 37回复
+1. [对高三同学来说，什么是假努力？](https://www.zhihu.com/question/442765043) 65 万热度 21回复
 1. [新车除异味用什么最快？](https://www.zhihu.com/question/335696056) 64 万热度 37回复
+1. [准备考研，这个寒假怎么复习数学？](https://www.zhihu.com/question/436390533) 62 万热度 65回复
+1. [高中努力真的有用吗？](https://www.zhihu.com/question/442364751) 60 万热度 131回复
+1. [几块钱电动牙刷和几百的电动牙刷有什么区别吗？](https://www.zhihu.com/question/324119500) 60 万热度 67回复
+1. [初三了，就剩半个学期，努力还有用吗？](https://www.zhihu.com/question/441873718) 60 万热度 451回复
+1. [人活着是为了什么？人为什么为人？](https://www.zhihu.com/question/442030783) 59 万热度 681回复
+1. [你在「赛博朋克 2077」里发现了什么难忘的细节 / 彩蛋 / 剧情？](https://www.zhihu.com/question/434126244) 59 万热度 155回复
+1. [可以分享一下你用长焦镜头拍的照片吗？](https://www.zhihu.com/question/439708635) 59 万热度 98回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
