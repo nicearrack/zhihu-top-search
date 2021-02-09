@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-02-10 04:18:22
+最后更新时间 2021-02-10 06:19:26
 
 1. [如何看待北京理工大学大物期末考试近 200 人被判答卷雷同，相关学生却声称无据冤枉？](https://www.zhihu.com/question/443305803) 2174 万热度 552回复
 1. [如何评价《黑神话：悟空》牛年全新实机预告？](https://www.zhihu.com/question/443563130) 1216 万热度 335回复
@@ -39,11 +39,11 @@
 1. [母胎 solo 真的会等到一个很好很好很好的人吗？](https://www.zhihu.com/question/424575466) 296 万热度 1622回复
 1. [如何评价《无职转生》动画第五集？](https://www.zhihu.com/question/443387908) 293 万热度 233回复
 1. [《进击的巨人》137 话是否宣告了整部漫画的烂尾？](https://www.zhihu.com/question/443578778) 288 万热度 31回复
+1. [医生在做手术时，没有发现把一根头发掉进病人身体里，术后会有什么影响？](https://www.zhihu.com/question/442278003) 283 万热度 26回复
 1. [诺奖得主「钱能换来的幸福感有上限」的结论被推翻，你认为金钱能带来的幸福有没有上限？](https://www.zhihu.com/question/443562214) 256 万热度 211回复
 1. [人要多久才能接受亲人离世？](https://www.zhihu.com/question/429869002) 255 万热度 78回复
 1. [如何看待有网友爆料称上财北郊一名高一男生在女厕所安装监控，并用拍摄到的内容威胁女生？](https://www.zhihu.com/question/443475682) 251 万热度 203回复
 1. [有多少人因为菜鸟驿站放弃淘宝？](https://www.zhihu.com/question/356471609) 242 万热度 2203回复
-1. [医生在做手术时，没有发现把一根头发掉进病人身体里，术后会有什么影响？](https://www.zhihu.com/question/442278003) 236 万热度 26回复
 1. [如何看待任正非表示「华为永远不会出售终端业务」？](https://www.zhihu.com/question/443600424) 223 万热度 71回复
 1. [为什么输电损耗 2000 公里只有 6%，还要修运煤铁路，直接输电多好?](https://www.zhihu.com/question/327986995) 208 万热度 85回复
 1. [如何评价《王者荣耀》李白荣耀典藏皮肤鸣剑·曳影？](https://www.zhihu.com/question/443663331) 207 万热度 55回复
@@ -62,24 +62,29 @@
 1. [武侠小说里最不合理的设定是什么？](https://www.zhihu.com/question/303573632) 124 万热度 34回复
 1. [为什么年轻医生跟护士关系很不好？](https://www.zhihu.com/question/441219611) 121 万热度 73回复
 1. [为什么国内的顶级富豪好像没哪个对航天探索感兴趣？](https://www.zhihu.com/question/442986606) 116 万热度 203回复
+1. [亲戚总觉得我清高怎么办?](https://www.zhihu.com/question/443292020) 112 万热度 53回复
 1. [曹操为什么选曹丕而放弃更有才华的曹植做接班人？](https://www.zhihu.com/question/38396737) 101 万热度 24回复
 1. [你怎样看待绘圈人打复杂的水印？](https://www.zhihu.com/question/378514609) 99 万热度 92回复
 1. [有哪些从头甜到尾的青梅竹马文，喜欢平平淡淡不狗血，一直甜的？](https://www.zhihu.com/question/374405076) 84 万热度 85回复
 1. [你期待在未来的中国科幻电影中，看到哪种美学风格？](https://www.zhihu.com/question/443368466) 82 万热度 25回复
-1. [有什么简短而暗含深意的句子值得分享？](https://www.zhihu.com/question/441503727) 74 万热度 136回复
-1. [新手爸妈应该如何照顾新生儿，有哪些注意事项是很重要却容易被忽略的？](https://www.zhihu.com/question/304637661) 68 万热度 296回复
+1. [有什么简短而暗含深意的句子值得分享？](https://www.zhihu.com/question/441503727) 78 万热度 136回复
+1. [如何评价张柏芝在《乘风破浪的姐姐 2 》中的划水行为？](https://www.zhihu.com/question/443059120) 75 万热度 26回复
+1. [新手爸妈应该如何照顾新生儿，有哪些注意事项是很重要却容易被忽略的？](https://www.zhihu.com/question/304637661) 70 万热度 296回复
+1. [有哪些好喝的饮料，可以推荐一下吗？](https://www.zhihu.com/question/278942720) 69 万热度 173回复
 1. [已经二月了，22 考研的完全进入不了状态，怎么办呢？](https://www.zhihu.com/question/442182327) 68 万热度 73回复
 1. [怎样才算得上是嫁得好？](https://www.zhihu.com/question/356339139) 67 万热度 624回复
-1. [有哪些好喝的饮料，可以推荐一下吗？](https://www.zhihu.com/question/278942720) 67 万热度 173回复
 1. [今年你又将花出多少压岁钱？](https://www.zhihu.com/question/443564516) 67 万热度 57回复
-1. [为什么爸爸妈妈老认为医院都是骗人的？](https://www.zhihu.com/question/68449673) 60 万热度 513回复
-1. [亲戚总觉得我清高怎么办?](https://www.zhihu.com/question/443292020) 59 万热度 53回复
+1. [为什么爸爸妈妈老认为医院都是骗人的？](https://www.zhihu.com/question/68449673) 62 万热度 513回复
+1. [高中生物要怎么学？老师说背背就行，但背完成绩还是没有起色怎么办？](https://www.zhihu.com/question/443222011) 59 万热度 119回复
 1. [如何看待《奇葩说》第七季请刘擎当导师？](https://www.zhihu.com/question/433729395) 54 万热度 78回复
+1. [如果是你  你愿意等一个人好几年好几年吗？](https://www.zhihu.com/question/441967236) 52 万热度 412回复
 1. [2021 年一个人怎么过年才会显得不那么惨？](https://www.zhihu.com/question/442141795) 51 万热度 98回复
 1. [把猫送给别人它会难过吗？](https://www.zhihu.com/question/421510063) 51 万热度 447回复
 1. [身边大龄（30+）又嫁得如意的女生多吗？](https://www.zhihu.com/question/440274088) 51 万热度 98回复
 1. [你有哪些一言难尽的雅思备考经历？](https://www.zhihu.com/question/333285819) 51 万热度 28回复
 1. [如何以「我怀了敌国皇子的孩子」开头写一个故事？](https://www.zhihu.com/question/419646808) 51 万热度 93回复
+1. [如果时间可以重来，你还会选择他吗？](https://www.zhihu.com/question/442249723) 51 万热度 227回复
+1. [赛博朋克的世界是什么样的？](https://www.zhihu.com/question/436715611) 50 万热度 101回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
