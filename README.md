@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-02-16 02:20:41
+最后更新时间 2021-02-16 04:18:17
 
 1. [《唐探 3》为什么秦风没有加入 Q？Q 的目的是什么？](https://www.zhihu.com/question/444247052) 3097 万热度 308回复
 1. [《你好，李焕英》为什么贾玲意识到妈妈那时还不会在补丁上绣花时突然崩溃？](https://www.zhihu.com/question/444267187) 1807 万热度 263回复
@@ -23,6 +23,7 @@
 1. [《你好，李焕英》真的适合带爸妈看吗？会不会只是自己以为的适合？](https://www.zhihu.com/question/444136127) 1048 万热度 162回复
 1. [有一个很会的男朋友是什么感受？](https://www.zhihu.com/question/391872560) 917 万热度 427回复
 1. [为什么今年（2021）春节档电影票这么贵？](https://www.zhihu.com/question/442391364) 821 万热度 338回复
+1. [如何看待电视剧《赘婿》？](https://www.zhihu.com/question/444425031) 811 万热度 64回复
 1. [为什么说鲸落是最浪漫的死亡？](https://www.zhihu.com/question/440958548) 609 万热度 341回复
 1. [大家真的能接受猫咪上床吗？](https://www.zhihu.com/question/442904528) 454 万热度 310回复
 1. [前男友为什么只用了八个月就放下了六年的感情，和另一个女生在一起了?](https://www.zhihu.com/question/437014772) 437 万热度 586回复
@@ -51,12 +52,12 @@
 1. [那些只会埋头苦干，不会吹嘘拍马屁的人最后都过的好吗？](https://www.zhihu.com/question/443803778) 201 万热度 28回复
 1. [你见过什么复杂到让你目瞪口呆的公式？](https://www.zhihu.com/question/314444749) 180 万热度 42回复
 1. [什么样的大学才算是名牌大学？](https://www.zhihu.com/question/440362268) 155 万热度 98回复
+1. [有哪些令人叫绝的心理学效应？](https://www.zhihu.com/question/20357247) 153 万热度 217回复
 1. [如何评价威马汽车创始人沈晖称「续航 1000km 电动车对社会资源将形成巨大的浪费」？](https://www.zhihu.com/question/440106593) 151 万热度 116回复
 1. [牛奶当水喝是种怎样的体验？](https://www.zhihu.com/question/41816772) 150 万热度 367回复
 1. [有哪些文艺而不烂俗的句子？](https://www.zhihu.com/question/384858847) 148 万热度 505回复
 1. [iPad + Apple Pencil 真的帮你提高了学习或工作效率吗？](https://www.zhihu.com/question/319011403) 140 万热度 340回复
 1. [假如说美国官方把枪支子弹的价格抬高能管住枪击案发生率么？](https://www.zhihu.com/question/443399024) 138 万热度 119回复
-1. [有哪些令人叫绝的心理学效应？](https://www.zhihu.com/question/20357247) 136 万热度 217回复
 1. [一般来说，女孩子为什么剪去长发？](https://www.zhihu.com/question/443395392) 128 万热度 538回复
 1. [为什么家猫被抛弃后很难在户外生存？](https://www.zhihu.com/question/430534419) 118 万热度 273回复
 1. [95 年，25 岁的你有多少存款？](https://www.zhihu.com/question/414209302) 111 万热度 555回复
@@ -66,10 +67,12 @@
 1. [如何以「驸马又纳了一个妾」开篇写一个故事？](https://www.zhihu.com/question/392975374) 81 万热度 596回复
 1. [对于观众而言，如何分辨哪些是电影的真实评价，哪些是水军在搅浑水？](https://www.zhihu.com/question/444229926) 80 万热度 108回复
 1. [如何提高游戏中的打击感？](https://www.zhihu.com/question/20344728) 80 万热度 51回复
+1. [有哪些十分励志让人不想玩手机的壁纸？](https://www.zhihu.com/question/267009223) 78 万热度 54回复
 1. [如何跟回避型人格的人相处？](https://www.zhihu.com/question/416440367) 66 万热度 123回复
 1. [当回避型依恋开始回避你时她（他）的内心活动是怎样的？](https://www.zhihu.com/question/337217828) 64 万热度 60回复
-1. [高二下学期再努力学习能考上一本吗？](https://www.zhihu.com/question/443937418) 62 万热度 128回复
+1. [高二下学期再努力学习能考上一本吗？](https://www.zhihu.com/question/443937418) 63 万热度 128回复
 1. [生活中可以利用哪些场景给孩子做数学启蒙？](https://www.zhihu.com/question/386686608) 59 万热度 22回复
+1. [有什么好看的快穿小说推荐？](https://www.zhihu.com/question/440243405) 59 万热度 39回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
