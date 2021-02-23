@@ -5,6 +5,12 @@
     "hot": "5102 万热度",
     "answerCount": 1647
   },
+  "445102164": {
+    "title": "春节期间独居女子被困卫生间约 30 小时，最后用花洒敲击管道才得救，一个人生活遇到这样的绝境该怎么办？",
+    "url": "https://www.zhihu.com/question/445102164",
+    "hot": "2127 万热度",
+    "answerCount": 122
+  },
   "22629932": {
     "title": "KTV 的服务员隔几分钟就往包房里看一眼，到底是在看什么？",
     "url": "https://www.zhihu.com/question/22629932",
@@ -14,20 +20,20 @@
   "445810792": {
     "title": "如何看待 Uzi 宣布更换经纪公司由 RNG 改为小象大鹅？",
     "url": "https://www.zhihu.com/question/445810792",
-    "hot": "1705 万热度",
+    "hot": "1724 万热度",
     "answerCount": 35
-  },
-  "445102164": {
-    "title": "春节期间独居女子被困卫生间约 30 小时，最后用花洒敲击管道才得救，一个人生活遇到这样的绝境该怎么办？",
-    "url": "https://www.zhihu.com/question/445102164",
-    "hot": "1666 万热度",
-    "answerCount": 122
   },
   "445776998": {
     "title": "如何看待 FPX 公告英雄联盟分部队内打野选手 Bo 在 LDL 期间受裹挟参与不当竞技行为？",
     "url": "https://www.zhihu.com/question/445776998",
     "hot": "1388 万热度",
     "answerCount": 185
+  },
+  "445894657": {
+    "title": "如何看待教育部要求「春季学期高校执行校园封闭式管理」？",
+    "url": "https://www.zhihu.com/question/445894657",
+    "hot": "1376 万热度",
+    "answerCount": 459
   },
   "445705013": {
     "title": "如何评价华为于 2 月 22 日发布华为 Mate X2 ？对于折叠屏行业有什么意义？",
@@ -86,7 +92,7 @@
   "440467400": {
     "title": "如何看待有人说：「很多老人去了养老院才懂：养老院，其实和想象的不一样」？",
     "url": "https://www.zhihu.com/question/440467400",
-    "hot": "663 万热度",
+    "hot": "666 万热度",
     "answerCount": 317
   },
   "445700181": {
@@ -94,6 +100,18 @@
     "url": "https://www.zhihu.com/question/445700181",
     "hot": "660 万热度",
     "answerCount": 181
+  },
+  "445826356": {
+    "title": "如何看待 2021 年 2 月 22 日晚，比特币大幅下跌？",
+    "url": "https://www.zhihu.com/question/445826356",
+    "hot": "634 万热度",
+    "answerCount": 76
+  },
+  "403832420": {
+    "title": "嫁错人和不结婚哪个更可怕？",
+    "url": "https://www.zhihu.com/question/403832420",
+    "hot": "603 万热度",
+    "answerCount": 1344
   },
   "445519947": {
     "title": "为什么我这样的照片会被视觉中国和站酷拒绝?",
@@ -125,17 +143,23 @@
     "hot": "529 万热度",
     "answerCount": 87
   },
-  "445826356": {
-    "title": "如何看待 2021 年 2 月 22 日晚，比特币大幅下跌？",
-    "url": "https://www.zhihu.com/question/445826356",
-    "hot": "525 万热度",
-    "answerCount": 76
+  "445741792": {
+    "title": "如何看待意大利佛罗伦萨大学研究报告：43 名新冠康复男性中 25% 出现精子减少，其中 20% 绝精？",
+    "url": "https://www.zhihu.com/question/445741792",
+    "hot": "483 万热度",
+    "answerCount": 29
   },
   "445397624": {
     "title": "如何看待花旗银行错汇 5 亿美元，法院判决不用还这一案子？",
     "url": "https://www.zhihu.com/question/445397624",
     "hot": "476 万热度",
     "answerCount": 53
+  },
+  "440570935": {
+    "title": "现在的年轻人为什么那么注重钱？",
+    "url": "https://www.zhihu.com/question/440570935",
+    "hot": "461 万热度",
+    "answerCount": 2282
   },
   "445156727": {
     "title": "刘德华主演的《人潮汹涌》怎么就票房扑街了？",
@@ -149,11 +173,35 @@
     "hot": "452 万热度",
     "answerCount": 21
   },
+  "367268909": {
+    "title": "有人说「过年磕头是封建陋习，下跪是奴性」，给长辈磕头有啥问题？过年磕头是陋习吗？",
+    "url": "https://www.zhihu.com/question/367268909",
+    "hot": "451 万热度",
+    "answerCount": 255
+  },
+  "445736710": {
+    "title": "台湾为什么迄今没有获得疫苗？",
+    "url": "https://www.zhihu.com/question/445736710",
+    "hot": "430 万热度",
+    "answerCount": 26
+  },
+  "yangchemiji": {
+    "title": "你有哪些好的「养车」经验可以分享？",
+    "url": "https://www.zhihu.com/roundtable/yangchemiji",
+    "hot": "417 万热度",
+    "answerCount": 0
+  },
   "444202459": {
     "title": "《你好，李焕英》中的王琴是一个什么样的角色？",
     "url": "https://www.zhihu.com/question/444202459",
     "hot": "415 万热度",
     "answerCount": 55
+  },
+  "445803824": {
+    "title": "如何看待华为宣布将于 2021 年 4 月推送手机版鸿蒙 OS，Mate X2 将首批升级？",
+    "url": "https://www.zhihu.com/question/445803824",
+    "hot": "403 万热度",
+    "answerCount": 51
   },
   "374452877": {
     "title": "第一次买螺蛳粉哪个牌子的好吃？",
@@ -167,23 +215,11 @@
     "hot": "388 万热度",
     "answerCount": 161
   },
-  "yangchemiji": {
-    "title": "你有哪些好的「养车」经验可以分享？",
-    "url": "https://www.zhihu.com/roundtable/yangchemiji",
-    "hot": "378 万热度",
-    "answerCount": 0
-  },
   "445795393": {
     "title": "如何评价华为 Mate X2 折叠屏手机，有哪些亮点和不足？",
     "url": "https://www.zhihu.com/question/445795393",
     "hot": "353 万热度",
     "answerCount": 65
-  },
-  "403832420": {
-    "title": "嫁错人和不结婚哪个更可怕？",
-    "url": "https://www.zhihu.com/question/403832420",
-    "hot": "353 万热度",
-    "answerCount": 1344
   },
   "445564855": {
     "title": "如何评价剧版《斗罗大陆》最后一集？",
@@ -203,23 +239,29 @@
     "hot": "349 万热度",
     "answerCount": 106
   },
+  "445321890": {
+    "title": "2021 考研成绩要出来了，你最想说什么呢？",
+    "url": "https://www.zhihu.com/question/445321890",
+    "hot": "335 万热度",
+    "answerCount": 126
+  },
+  "325038574": {
+    "title": "怎么认知自己的真实长相？",
+    "url": "https://www.zhihu.com/question/325038574",
+    "hot": "332 万热度",
+    "answerCount": 2646
+  },
   "378314247": {
     "title": "如何评价中国政法大学罗翔教授？",
     "url": "https://www.zhihu.com/question/378314247",
     "hot": "328 万热度",
     "answerCount": 527
   },
-  "445803824": {
-    "title": "如何看待华为宣布将于 2021 年 4 月推送手机版鸿蒙 OS，Mate X2 将首批升级？",
-    "url": "https://www.zhihu.com/question/445803824",
-    "hot": "324 万热度",
-    "answerCount": 51
-  },
-  "440570935": {
-    "title": "现在的年轻人为什么那么注重钱？",
-    "url": "https://www.zhihu.com/question/440570935",
-    "hot": "321 万热度",
-    "answerCount": 2282
+  "444075293": {
+    "title": "乘坐飞机时 Apple Watch 高度一直显示为 1300 米，是我的表坏了吗？",
+    "url": "https://www.zhihu.com/question/444075293",
+    "hot": "311 万热度",
+    "answerCount": 22
   },
   "414949134": {
     "title": "你存钱的目的是什么？",
@@ -251,11 +293,41 @@
     "hot": "275 万热度",
     "answerCount": 374
   },
+  "445151079": {
+    "title": "亲戚来家里做客，可能因为宠物狗的原因孩子生病了，亲戚让我把狗送走，我应该听吗？",
+    "url": "https://www.zhihu.com/question/445151079",
+    "hot": "275 万热度",
+    "answerCount": 112
+  },
+  "445609871": {
+    "title": "为什么在明知安全的情况下，有的人怕蠕虫类动物、蛇、蜈蚣等更胜于老虎、狮子？",
+    "url": "https://www.zhihu.com/question/445609871",
+    "hot": "267 万热度",
+    "answerCount": 37
+  },
   "443528514": {
     "title": "如何看待特斯拉购入十五亿美元比特币？",
     "url": "https://www.zhihu.com/question/443528514",
     "hot": "266 万热度",
     "answerCount": 21
+  },
+  "429670963": {
+    "title": "娱乐圈有没有不仅清醒，而且爱惜羽毛的男女明星？他们身上都有哪些共通点？",
+    "url": "https://www.zhihu.com/question/429670963",
+    "hot": "257 万热度",
+    "answerCount": 100
+  },
+  "445752517": {
+    "title": "如何看待电影放映时七八个熊孩子上台嬉闹玩耍，仅一位家长把娃抱走？电影院和家长该如何管理孩子的行为？",
+    "url": "https://www.zhihu.com/question/445752517",
+    "hot": "256 万热度",
+    "answerCount": 33
+  },
+  "318332157": {
+    "title": "为什么儿媳妇不愿意去婆家？甚至不愿意去接触老公家里的人和事？",
+    "url": "https://www.zhihu.com/question/318332157",
+    "hot": "252 万热度",
+    "answerCount": 282
   },
   "445528123": {
     "title": "如何看待南极发现全球首只金色企鹅，专家称应是白化病所致，或因金色更受到异性欢迎，这算是因祸得福吗？",
@@ -263,17 +335,29 @@
     "hot": "249 万热度",
     "answerCount": 22
   },
+  "445585821": {
+    "title": "看了《赘婿》，如果你穿越，你的专业能帮助你在古代做什么？",
+    "url": "https://www.zhihu.com/question/445585821",
+    "hot": "248 万热度",
+    "answerCount": 85
+  },
   "337853063": {
     "title": "有哪些特别棒的微信朋友圈背景图？",
     "url": "https://www.zhihu.com/question/337853063",
     "hot": "244 万热度",
     "answerCount": 265
   },
-  "445151079": {
-    "title": "亲戚来家里做客，可能因为宠物狗的原因孩子生病了，亲戚让我把狗送走，我应该听吗？",
-    "url": "https://www.zhihu.com/question/445151079",
-    "hot": "241 万热度",
-    "answerCount": 112
+  "439667204": {
+    "title": "女孩子真的会很快放弃一个陪了自己很久很久的人然后迅速爱上别人吗?",
+    "url": "https://www.zhihu.com/question/439667204",
+    "hot": "242 万热度",
+    "answerCount": 433
+  },
+  "445244104": {
+    "title": "如何看待李佳琦入选《时代》周刊的「下一代百大影响力人物榜」？",
+    "url": "https://www.zhihu.com/question/445244104",
+    "hot": "236 万热度",
+    "answerCount": 78
   },
   "423534768": {
     "title": "《王者荣耀》皮肤到底除了 10 点属性加成还有什么用，真的有隐藏属性吗？",
@@ -281,11 +365,23 @@
     "hot": "232 万热度",
     "answerCount": 158
   },
-  "325038574": {
-    "title": "怎么认知自己的真实长相？",
-    "url": "https://www.zhihu.com/question/325038574",
-    "hot": "223 万热度",
-    "answerCount": 2646
+  "347693891": {
+    "title": "如何看待令狐冲废了林平之武功后还把林平之关在西湖牢底这件事？",
+    "url": "https://www.zhihu.com/question/347693891",
+    "hot": "224 万热度",
+    "answerCount": 56
+  },
+  "445770470": {
+    "title": "日本人如何看待《进击的巨人》最终季第 11 话？该话会对他们的想法造成什么影响？",
+    "url": "https://www.zhihu.com/question/445770470",
+    "hot": "224 万热度",
+    "answerCount": 29
+  },
+  "438642229": {
+    "title": "计算机还能火多久呢?",
+    "url": "https://www.zhihu.com/question/438642229",
+    "hot": "217 万热度",
+    "answerCount": 416
   },
   "445665265": {
     "title": "如何评价《无职转生》第七集？",
@@ -293,17 +389,23 @@
     "hot": "207 万热度",
     "answerCount": 73
   },
+  "47355553": {
+    "title": "城市女孩要不要嫁给农村的男孩？",
+    "url": "https://www.zhihu.com/question/47355553",
+    "hot": "202 万热度",
+    "answerCount": 91
+  },
+  "445805023": {
+    "title": "如何评价华为 Mate X2 售价 17999 元起？反映了怎样的市场策略？",
+    "url": "https://www.zhihu.com/question/445805023",
+    "hot": "200 万热度",
+    "answerCount": 26
+  },
   "445180200": {
     "title": "一个人只相信科学算不算迷信？",
     "url": "https://www.zhihu.com/question/445180200",
     "hot": "199 万热度",
     "answerCount": 123
-  },
-  "445244104": {
-    "title": "如何看待李佳琦入选《时代》周刊的「下一代百大影响力人物榜」？",
-    "url": "https://www.zhihu.com/question/445244104",
-    "hot": "189 万热度",
-    "answerCount": 78
   },
   "444472347": {
     "title": "刚过完年手上有点压岁钱，不知该买游戏机还是买四大名著?",
@@ -323,29 +425,23 @@
     "hot": "186 万热度",
     "answerCount": 33
   },
+  "444693186": {
+    "title": "你有钱别人就巴结你，你没钱别人就冷落你，是真的吗？",
+    "url": "https://www.zhihu.com/question/444693186",
+    "hot": "186 万热度",
+    "answerCount": 293
+  },
   "445709561": {
     "title": "2020 年口红销量下滑近半，眼妆产品火爆，戴口罩的你还会涂口红吗？疫情对美妆产业有多大影响？",
     "url": "https://www.zhihu.com/question/445709561",
     "hot": "184 万热度",
     "answerCount": 39
   },
-  "439667204": {
-    "title": "女孩子真的会很快放弃一个陪了自己很久很久的人然后迅速爱上别人吗?",
-    "url": "https://www.zhihu.com/question/439667204",
-    "hot": "179 万热度",
-    "answerCount": 433
-  },
   "445704402": {
     "title": "苹果电脑那么贵，为什么还是很多人买？",
     "url": "https://www.zhihu.com/question/445704402",
     "hot": "174 万热度",
     "answerCount": 43
-  },
-  "318332157": {
-    "title": "为什么儿媳妇不愿意去婆家？甚至不愿意去接触老公家里的人和事？",
-    "url": "https://www.zhihu.com/question/318332157",
-    "hot": "173 万热度",
-    "answerCount": 282
   },
   "442656404": {
     "title": "公积金 4000，工资大概多少？",
@@ -359,17 +455,17 @@
     "hot": "172 万热度",
     "answerCount": 27
   },
-  "445585821": {
-    "title": "看了《赘婿》，如果你穿越，你的专业能帮助你在古代做什么？",
-    "url": "https://www.zhihu.com/question/445585821",
-    "hot": "171 万热度",
-    "answerCount": 85
-  },
   "445178082": {
     "title": "以原画跟设计的角度如何看待《原神》新角色胡桃的尚未实裝却有着巨高的人气？",
     "url": "https://www.zhihu.com/question/445178082",
     "hot": "166 万热度",
     "answerCount": 38
+  },
+  "444852842": {
+    "title": "专业真的会限制人一生的发展吗？",
+    "url": "https://www.zhihu.com/question/444852842",
+    "hot": "165 万热度",
+    "answerCount": 34
   },
   "338758991": {
     "title": "是什么让你决定放弃一个你暗恋许久的人?",
@@ -377,17 +473,11 @@
     "hot": "163 万热度",
     "answerCount": 4353
   },
-  "347693891": {
-    "title": "如何看待令狐冲废了林平之武功后还把林平之关在西湖牢底这件事？",
-    "url": "https://www.zhihu.com/question/347693891",
-    "hot": "163 万热度",
-    "answerCount": 56
-  },
-  "438642229": {
-    "title": "计算机还能火多久呢?",
-    "url": "https://www.zhihu.com/question/438642229",
-    "hot": "161 万热度",
-    "answerCount": 416
+  "445687678": {
+    "title": "如何看待基金投资群年轻化，基金讨论区变相亲角的现象？",
+    "url": "https://www.zhihu.com/question/445687678",
+    "hot": "158 万热度",
+    "answerCount": 38
   },
   "438549057": {
     "title": "有没有虐到极致的文案？",
@@ -395,11 +485,29 @@
     "hot": "156 万热度",
     "answerCount": 180
   },
-  "445741792": {
-    "title": "如何看待意大利佛罗伦萨大学研究报告：43 名新冠康复男性中 25% 出现精子减少，其中 20% 绝精？",
-    "url": "https://www.zhihu.com/question/445741792",
-    "hot": "150 万热度",
+  "434614589": {
+    "title": "与导师汇报学习进度的时候没东西写，就只是看了几篇文献，该怎么办？",
+    "url": "https://www.zhihu.com/question/434614589",
+    "hot": "154 万热度",
+    "answerCount": 21
+  },
+  "285380876": {
+    "title": "整牙失败是一种什么样的体验？",
+    "url": "https://www.zhihu.com/question/285380876",
+    "hot": "153 万热度",
+    "answerCount": 401
+  },
+  "445777003": {
+    "title": "原神限定四星到底不符合谁的利益？为什么玩家那么讨厌？",
+    "url": "https://www.zhihu.com/question/445777003",
+    "hot": "151 万热度",
     "answerCount": 29
+  },
+  "299527591": {
+    "title": "对于小年轻是买车和买房哪个好？",
+    "url": "https://www.zhihu.com/question/299527591",
+    "hot": "151 万热度",
+    "answerCount": 592
   },
   "445390340": {
     "title": "你觉得哪些 App 在「偷窥」你？",
@@ -419,12 +527,6 @@
     "hot": "142 万热度",
     "answerCount": 80
   },
-  "444693186": {
-    "title": "你有钱别人就巴结你，你没钱别人就冷落你，是真的吗？",
-    "url": "https://www.zhihu.com/question/444693186",
-    "hot": "141 万热度",
-    "answerCount": 293
-  },
   "402973926": {
     "title": "Thinkpad 上的红点会不会很鸡肋？",
     "url": "https://www.zhihu.com/question/402973926",
@@ -437,35 +539,11 @@
     "hot": "131 万热度",
     "answerCount": 141
   },
-  "445736710": {
-    "title": "台湾为什么迄今没有获得疫苗？",
-    "url": "https://www.zhihu.com/question/445736710",
-    "hot": "129 万热度",
-    "answerCount": 26
-  },
-  "445777003": {
-    "title": "原神限定四星到底不符合谁的利益？为什么玩家那么讨厌？",
-    "url": "https://www.zhihu.com/question/445777003",
-    "hot": "127 万热度",
-    "answerCount": 29
-  },
   "445887333": {
     "title": "如何看待教育部表示「不得要求家长检查批改作业」？此举能否切实为家长减负？",
     "url": "https://www.zhihu.com/question/445887333",
     "hot": "120 万热度",
     "answerCount": 93
-  },
-  "445805023": {
-    "title": "如何评价华为 Mate X2 售价 17999 元起？反映了怎样的市场策略？",
-    "url": "https://www.zhihu.com/question/445805023",
-    "hot": "119 万热度",
-    "answerCount": 26
-  },
-  "299527591": {
-    "title": "对于小年轻是买车和买房哪个好？",
-    "url": "https://www.zhihu.com/question/299527591",
-    "hot": "111 万热度",
-    "answerCount": 592
   },
   "336083589": {
     "title": "程序员男朋友都是怎样的？",
@@ -484,30 +562,6 @@
     "url": "https://www.zhihu.com/question/319352893",
     "hot": "104 万热度",
     "answerCount": 65
-  },
-  "367268909": {
-    "title": "有人说「过年磕头是封建陋习，下跪是奴性」，给长辈磕头有啥问题？过年磕头是陋习吗？",
-    "url": "https://www.zhihu.com/question/367268909",
-    "hot": "99 万热度",
-    "answerCount": 255
-  },
-  "429670963": {
-    "title": "娱乐圈有没有不仅清醒，而且爱惜羽毛的男女明星？他们身上都有哪些共通点？",
-    "url": "https://www.zhihu.com/question/429670963",
-    "hot": "95 万热度",
-    "answerCount": 100
-  },
-  "445687678": {
-    "title": "如何看待基金投资群年轻化，基金讨论区变相亲角的现象？",
-    "url": "https://www.zhihu.com/question/445687678",
-    "hot": "95 万热度",
-    "answerCount": 38
-  },
-  "445752517": {
-    "title": "如何看待电影放映时七八个熊孩子上台嬉闹玩耍，仅一位家长把娃抱走？电影院和家长该如何管理孩子的行为？",
-    "url": "https://www.zhihu.com/question/445752517",
-    "hot": "95 万热度",
-    "answerCount": 33
   },
   "367173234": {
     "title": "哪里可以查到考研院校近些年的报录比？",
@@ -533,11 +587,11 @@
     "hot": "89 万热度",
     "answerCount": 37
   },
-  "434614589": {
-    "title": "与导师汇报学习进度的时候没东西写，就只是看了几篇文献，该怎么办？",
-    "url": "https://www.zhihu.com/question/434614589",
-    "hot": "88 万热度",
-    "answerCount": 21
+  "440750252": {
+    "title": "有什么高级的微信状态句子？",
+    "url": "https://www.zhihu.com/question/440750252",
+    "hot": "85 万热度",
+    "answerCount": 335
   },
   "443431021": {
     "title": "长佩有可能在接下来的几年赢过晋江吗？",
@@ -562,6 +616,12 @@
     "url": "https://www.zhihu.com/question/445466985",
     "hot": "81 万热度",
     "answerCount": 27
+  },
+  "445726362": {
+    "title": "湖南一家六口四人被杀， 2 名孩子逃脱幸免，村民透露案件隐情，还有哪些值得关注的信息？",
+    "url": "https://www.zhihu.com/question/445726362",
+    "hot": "80 万热度",
+    "answerCount": 26
   },
   "444918061": {
     "title": "假如你穿越成了《旷野之息》里面的波克布林，怎么样才能活下去？",
