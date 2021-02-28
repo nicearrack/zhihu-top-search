@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-03-01 02:20:09
+最后更新时间 2021-03-01 04:18:55
 
 1. [如何看待山东拉面哥十几年坚持一碗拉面三块不涨价的行为？](https://www.zhihu.com/question/446038738) 1823 万热度 374回复
 1. [如何评价吴孟达的地位？](https://www.zhihu.com/question/446726248) 1206 万热度 436回复
@@ -36,26 +36,30 @@
 1. [如何评价微博之夜张艺兴的唱跳舞台《Joker》？](https://www.zhihu.com/question/446808495) 226 万热度 49回复
 1. [八万请了一个刑事律师，一共只见了三四次就开庭了，值吗？](https://www.zhihu.com/question/440415148) 212 万热度 347回复
 1. [长得高和长得帅，哪个重要？](https://www.zhihu.com/question/445455686) 212 万热度 328回复
-1. [有哪些生物大到令人害怕？](https://www.zhihu.com/question/444874663) 208 万热度 24回复
+1. [有哪些生物大到令人害怕？](https://www.zhihu.com/question/444874663) 209 万热度 24回复
 1. [如何评价许晴的长相？](https://www.zhihu.com/question/30171889) 195 万热度 94回复
 1. [JDG 的队员们为什么要说 Uzi 状态下滑了？](https://www.zhihu.com/question/446768464) 193 万热度 39回复
 1. [老师是如何一眼看出学生的作业是在抄答案？](https://www.zhihu.com/question/446221874) 169 万热度 166回复
+1. [有没有类似于「雨好大，我们回不去了」这样的隐晦文案？](https://www.zhihu.com/question/445913131) 167 万热度 40回复
 1. [现在有必要等 iPad Pro 2021 款吗？](https://www.zhihu.com/question/445313458) 164 万热度 90回复
 1. [对钟汉良、谭松韵主演的《锦心似玉》，你想说点什么？](https://www.zhihu.com/question/445431076) 163 万热度 54回复
-1. [有没有类似于「雨好大，我们回不去了」这样的隐晦文案？](https://www.zhihu.com/question/445913131) 163 万热度 40回复
 1. [如何看待《创造营 2021》第一周的排名？](https://www.zhihu.com/question/446770700) 158 万热度 31回复
 1. [《一人之下》王并被大量观众厌恶，是否存在双标呢？](https://www.zhihu.com/question/446684830) 143 万热度 42回复
 1. [婚姻生活最难熬的是什么？](https://www.zhihu.com/question/418529552) 132 万热度 229回复
 1. [NBA 历史至今有哪些球员在选秀大会未开始前就成了公认的状元？](https://www.zhihu.com/question/445392303) 125 万热度 37回复
+1. [高频率的聊天会产生恋爱的错觉吗？](https://www.zhihu.com/question/387129145) 125 万热度 1723回复
 1. [濒临死亡是一种什么样的体验？](https://www.zhihu.com/question/26549819) 113 万热度 184回复
+1. [乌贼娘新书《长夜余火》已更新近两百章，大家觉得这本新书怎么样？](https://www.zhihu.com/question/444850883) 108 万热度 51回复
 1. [有没有真正意义上的科幻小说?](https://www.zhihu.com/question/442685545) 98 万热度 49回复
+1. [独行侠 115:98 轻取篮网，东契奇 27 分哈登 29 分，如何评价这场比赛？](https://www.zhihu.com/question/446799396) 96 万热度 25回复
 1. [有没有男主温柔到爆的小说推荐？](https://www.zhihu.com/question/378429858) 95 万热度 236回复
 1. [刚谈恋爱，怎么让感情迅速升温？](https://www.zhihu.com/question/368687544) 94 万热度 194回复
 1. [中考的最后三个月是怎么熬过来的？](https://www.zhihu.com/question/271660970) 81 万热度 148回复
-1. [乌贼娘新书《长夜余火》已更新近两百章，大家觉得这本新书怎么样？](https://www.zhihu.com/question/444850883) 76 万热度 51回复
-1. [做外贸有哪些比较好的软件可以推荐？](https://www.zhihu.com/question/54788846) 67 万热度 50回复
-1. [什么情况会放弃喜欢的人？](https://www.zhihu.com/question/444553311) 63 万热度 258回复
+1. [做外贸有哪些比较好的软件可以推荐？](https://www.zhihu.com/question/54788846) 70 万热度 50回复
+1. [什么情况会放弃喜欢的人？](https://www.zhihu.com/question/444553311) 65 万热度 258回复
+1. [那么努力的工作，到底为了什么？](https://www.zhihu.com/question/446210729) 61 万热度 142回复
 1. [是否推荐报第一届带研究生导师?](https://www.zhihu.com/question/370735900) 59 万热度 247回复
+1. [高中玩游戏可以吗？](https://www.zhihu.com/question/444887000) 59 万热度 233回复
 1. [《原神》里那些无偿老带新的大佬们是怎么想的？](https://www.zhihu.com/question/446532910) 58 万热度 134回复
 1. [如何在高考物理中取得 90+ 的成绩？](https://www.zhihu.com/question/25215043) 58 万热度 529回复
 1. [为什么好像很多人「看不起」手动挡？](https://www.zhihu.com/question/399142356) 58 万热度 490回复
