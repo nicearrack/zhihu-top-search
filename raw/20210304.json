@@ -113,17 +113,17 @@
     "hot": "477 万热度",
     "answerCount": 24
   },
+  "447061249": {
+    "title": "复旦大学孙金云教授打车 800 次，花费近 50000 多元，实锤大数据杀熟？大数据杀熟是不是会成为趋势？",
+    "url": "https://www.zhihu.com/question/447061249",
+    "hot": "474 万热度",
+    "answerCount": 23
+  },
   "447323933": {
     "title": "全国抑郁症患者超 9500 万，如何看待人大代表建议「抑郁症纳入医保」？",
     "url": "https://www.zhihu.com/question/447323933",
     "hot": "471 万热度",
     "answerCount": 245
-  },
-  "447061249": {
-    "title": "复旦大学孙金云教授打车 800 次，花费近 50000 多元，实锤大数据杀熟？大数据杀熟是不是会成为趋势？",
-    "url": "https://www.zhihu.com/question/447061249",
-    "hot": "455 万热度",
-    "answerCount": 23
   },
   "66753133": {
     "title": "钱锺书和杨绛要是真的很恩爱，为什么会写出《围城》？",
@@ -202,6 +202,12 @@
     "url": "https://www.zhihu.com/question/447325792",
     "hot": "216 万热度",
     "answerCount": 128
+  },
+  "425743432": {
+    "title": "你觉得英雄联盟离彻底跌落还有多久？",
+    "url": "https://www.zhihu.com/question/425743432",
+    "hot": "212 万热度",
+    "answerCount": 365
   },
   "442085261": {
     "title": "为什么有的明星宁愿长期住酒店，也不租个房子？",
@@ -323,12 +329,6 @@
     "hot": "89 万热度",
     "answerCount": 46
   },
-  "425743432": {
-    "title": "你觉得英雄联盟离彻底跌落还有多久？",
-    "url": "https://www.zhihu.com/question/425743432",
-    "hot": "84 万热度",
-    "answerCount": 365
-  },
   "441812014": {
     "title": "游戏《戴森球计划》怎样布局更科学更高效？",
     "url": "https://www.zhihu.com/question/441812014",
@@ -356,7 +356,7 @@
   "49123765": {
     "title": "王祖贤这几张照片的脸是整容了还是自然老去？",
     "url": "https://www.zhihu.com/question/49123765",
-    "hot": "65 万热度",
+    "hot": "66 万热度",
     "answerCount": 22
   },
   "63241646": {
@@ -370,5 +370,53 @@
     "url": "https://www.zhihu.com/question/320525298",
     "hot": "59 万热度",
     "answerCount": 37
+  },
+  "446289544": {
+    "title": "有没有很喜欢的句子？",
+    "url": "https://www.zhihu.com/question/446289544",
+    "hot": "59 万热度",
+    "answerCount": 281
+  },
+  "435941371": {
+    "title": "为什么我会觉得《Minecraft》有一种悲伤感？",
+    "url": "https://www.zhihu.com/question/435941371",
+    "hot": "59 万热度",
+    "answerCount": 72
+  },
+  "446094580": {
+    "title": "要是喜欢一个人很久很久，你跟他表明来意他却拒绝了，那是当朋友还是以后都不联系呢？",
+    "url": "https://www.zhihu.com/question/446094580",
+    "hot": "59 万热度",
+    "answerCount": 261
+  },
+  "446275845": {
+    "title": "大学数学系成绩好的同学都是如何学习的？",
+    "url": "https://www.zhihu.com/question/446275845",
+    "hot": "59 万热度",
+    "answerCount": 21
+  },
+  "437215557": {
+    "title": "为什么现在《英雄联盟》一场对局结束后发 GG 的人越来越少了？",
+    "url": "https://www.zhihu.com/question/437215557",
+    "hot": "59 万热度",
+    "answerCount": 153
+  },
+  "435292142": {
+    "title": "你愿意评论出你一生都忘不了的句子吗？",
+    "url": "https://www.zhihu.com/question/435292142",
+    "hot": "59 万热度",
+    "answerCount": 1830
+  },
+  "445463359": {
+    "title": "你是怎么做到和一个很爱的人不联系的？",
+    "url": "https://www.zhihu.com/question/445463359",
+    "hot": "59 万热度",
+    "answerCount": 389
+  },
+  "19754722": {
+    "title": "怎样用 Excel 做数据分析？",
+    "url": "https://www.zhihu.com/question/19754722",
+    "hot": "59 万热度",
+    "answerCount": 112
   }
 }
