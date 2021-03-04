@@ -14,11 +14,12 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-03-04 06:20:45
+最后更新时间 2021-03-04 08:46:40
 
 1. [3 月 3 日，涉事货拉拉司机因过失致人死亡罪被正式批捕，详细情况通报发布，还有哪些值得注意的细节？](https://www.zhihu.com/question/447340905) 7352 万热度 4132回复
 1. [如何看待日媒爆料福原爱已离婚，并曝光她与男性约会的照片？](https://www.zhihu.com/question/447390190) 3243 万热度 306回复
 1. [全国人大代表董明珠建议提高个税起征点至 1 万元，你怎么看？](https://www.zhihu.com/question/447327072) 1990 万热度 1185回复
+1. [复旦大学孙金云教授打车 800 次，花费近 50000 多元，实锤大数据杀熟？大数据杀熟是不是会成为趋势？](https://www.zhihu.com/question/447061249) 1785 万热度 23回复
 1. [如何看待成人试穿小码童装，只拍照不购买的行为？](https://www.zhihu.com/question/447335739) 1297 万热度 348回复
 1. [哪一个瞬间，你发现祖国比想象的更强大？](https://www.zhihu.com/question/446190780) 1283 万热度 728回复
 1. [是不是国内大部分日式料理店的菜都是用半成品加工的？](https://www.zhihu.com/question/25686948) 1270 万热度 75回复
@@ -35,7 +36,6 @@
 1. [如何看待纽约时报称「中国黑客导致孟买大停电」，以此在边界冲突中威胁印度？](https://www.zhihu.com/question/447177977) 531 万热度 149回复
 1. [英国驻华大使称「外媒不憎恨中国」，而是「在充满诚意地监督政府」，你怎么看？](https://www.zhihu.com/question/447324266) 508 万热度 486回复
 1. [剧版《赘婿》一个完完全全的腾讯系作品，为啥放爱奇艺首播?](https://www.zhihu.com/question/445133297) 477 万热度 24回复
-1. [复旦大学孙金云教授打车 800 次，花费近 50000 多元，实锤大数据杀熟？大数据杀熟是不是会成为趋势？](https://www.zhihu.com/question/447061249) 474 万热度 23回复
 1. [全国抑郁症患者超 9500 万，如何看待人大代表建议「抑郁症纳入医保」？](https://www.zhihu.com/question/447323933) 471 万热度 245回复
 1. [钱锺书和杨绛要是真的很恩爱，为什么会写出《围城》？](https://www.zhihu.com/question/66753133) 416 万热度 203回复
 1. [舍友的什么骚操作让你笑了四年？](https://www.zhihu.com/question/435608547) 370 万热度 1272回复
@@ -43,49 +43,58 @@
 1. [如何评价《创造营 2021》第三期（上）？](https://www.zhihu.com/question/447390738) 292 万热度 163回复
 1. [得了新冠肺炎的人现在都怎么样了？](https://www.zhihu.com/question/395696795) 276 万热度 111回复
 1. [俗话说「正月里剪发死舅舅」，那理发后又植发，会构成犯罪中止吗？](https://www.zhihu.com/question/446794004) 265 万热度 190回复
+1. [王祖贤这几张照片的脸是整容了还是自然老去？](https://www.zhihu.com/question/49123765) 260 万热度 22回复
 1. [21 考研是我的三战了, 但我依旧错过了,97 年的不小了，将来该何去何从？](https://www.zhihu.com/question/436934660) 257 万热度 238回复
 1. [在上海年薪 60-70 万是什么水平?](https://www.zhihu.com/question/362585897) 251 万热度 45回复
 1. [既然西游记的神仙们都会飞，为什么他们没有发现地球是圆的？](https://www.zhihu.com/question/443331582) 244 万热度 220回复
+1. [你觉得英雄联盟离彻底跌落还有多久？](https://www.zhihu.com/question/425743432) 244 万热度 365回复
 1. [为什么《你好，李焕英》有穿越情节能过审?](https://www.zhihu.com/question/443562316) 242 万热度 157回复
 1. [清华大学本硕，机械专业，如果去猿辅导，面老师好还是面开发算法岗？](https://www.zhihu.com/question/445326907) 236 万热度 50回复
 1. [有什么看起来很舒服高级的微信背景图？](https://www.zhihu.com/question/414863360) 222 万热度 86回复
 1. [如何看待人大代表建议「设立结婚辅导期」，让年轻人「持证上岗」？](https://www.zhihu.com/question/447325792) 216 万热度 128回复
-1. [你觉得英雄联盟离彻底跌落还有多久？](https://www.zhihu.com/question/425743432) 212 万热度 365回复
+1. [高斯到底有多厉害？](https://www.zhihu.com/question/35107219) 206 万热度 275回复
 1. [为什么有的明星宁愿长期住酒店，也不租个房子？](https://www.zhihu.com/question/442085261) 203 万热度 373回复
 1. [如果迪迦奥特曼存在，在当代战争属于什么水平的战力？](https://www.zhihu.com/question/435360716) 200 万热度 59回复
 1. [满大街都是真真假假的 LV ，为什么大家还要去买？](https://www.zhihu.com/question/20047044) 198 万热度 432回复
 1. [娶错人和不结婚哪个更可怕？](https://www.zhihu.com/question/406565047) 188 万热度 140回复
+1. [面对大数据杀熟、算法困住骑手，民主促进会中央建议推行算法开发主体责任制，你怎么看？](https://www.zhihu.com/question/447171614) 186 万热度 45回复
+1. [如何看待华为 2021 年 4 月升级鸿蒙系统？](https://www.zhihu.com/question/445803392) 181 万热度 46回复
 1. [2021 年 3.8「女王节」哪些礼物值得入手？](https://www.zhihu.com/question/446638868) 180 万热度 112回复
 1. [近期手机厂商都在说的 10 亿色是什么意思，有什么区别？](https://www.zhihu.com/question/447015820) 173 万热度 349回复
-1. [高斯到底有多厉害？](https://www.zhihu.com/question/35107219) 169 万热度 275回复
 1. [李想发内部信称: 理想汽车将在 2030 年成为全球最大车企，你认为靠谱吗？](https://www.zhihu.com/question/446247892) 141 万热度 193回复
 1. [学区房对孩子真的那么重要吗？](https://www.zhihu.com/question/446434828) 140 万热度 60回复
 1. [如果杨过无法克制怒火把郭芙弄死了，会发生什么？](https://www.zhihu.com/question/364533089) 139 万热度 44回复
+1. [为什么现在《英雄联盟》一场对局结束后发 GG 的人越来越少了？](https://www.zhihu.com/question/437215557) 135 万热度 153回复
 1. [浪费这么多资源，去挖一个根本不存在的比特币，难道就我一个人很讨厌这东西吗？](https://www.zhihu.com/question/445164512) 134 万热度 438回复
 1. [为什么很多人买电子产品都不追求极致性能 ？](https://www.zhihu.com/question/445874215) 132 万热度 136回复
 1. [为什么张哲瀚不温不火?](https://www.zhihu.com/question/283903462) 130 万热度 91回复
+1. [如何评价波音一年亏 766 亿元，还考虑卖总部大楼？](https://www.zhihu.com/question/445967211) 126 万热度 22回复
 1. [2021 年女神节有哪些文艺不俗的文案？](https://www.zhihu.com/question/447054974) 124 万热度 25回复
+1. [如果我能承受半分钟 22G 过载，我是否能成为王牌飞行员？](https://www.zhihu.com/question/446808395) 123 万热度 37回复
 1. [如何看待詹姆斯说「如果我想拿得分王，我每个赛季都能拿到」？](https://www.zhihu.com/question/445997850) 121 万热度 55回复
 1. [唐三和霍雨浩，你更喜欢谁？](https://www.zhihu.com/question/444690966) 115 万热度 28回复
 1. [怎么一步一步的开一家公司？](https://www.zhihu.com/question/36318224) 112 万热度 95回复
+1. [如何评价《创造营 2021》第一次公演水平？](https://www.zhihu.com/question/447353777) 112 万热度 44回复
 1. [如何评价全球五分之一的人口听力受损？](https://www.zhihu.com/question/447337640) 104 万热度 54回复
 1. [如果让你重新上一次大学，你会怎么度过？为什么？](https://www.zhihu.com/question/304844787) 102 万热度 4112回复
-1. [如何看待华为 2021 年 4 月升级鸿蒙系统？](https://www.zhihu.com/question/445803392) 89 万热度 46回复
 1. [游戏《戴森球计划》怎样布局更科学更高效？](https://www.zhihu.com/question/441812014) 83 万热度 128回复
 1. [为什么老妈会觉得汽车天窗是个没用的配置？](https://www.zhihu.com/question/442784206) 81 万热度 245回复
-1. [如果我能承受半分钟 22G 过载，我是否能成为王牌飞行员？](https://www.zhihu.com/question/446808395) 77 万热度 37回复
+1. [《三体》中维德为什么最后要放下武器？](https://www.zhihu.com/question/446230671) 70 万热度 30回复
 1. [高中生进入大学，有哪些必须知道的常识和经验？](https://www.zhihu.com/question/333443411) 66 万热度 1910回复
-1. [王祖贤这几张照片的脸是整容了还是自然老去？](https://www.zhihu.com/question/49123765) 66 万热度 22回复
 1. [高中地理怎么学，可以靠刷题来提高吗？](https://www.zhihu.com/question/63241646) 64 万热度 220回复
 1. [北大汇丰商学院怎么样？](https://www.zhihu.com/question/320525298) 59 万热度 37回复
 1. [有没有很喜欢的句子？](https://www.zhihu.com/question/446289544) 59 万热度 281回复
 1. [为什么我会觉得《Minecraft》有一种悲伤感？](https://www.zhihu.com/question/435941371) 59 万热度 72回复
 1. [要是喜欢一个人很久很久，你跟他表明来意他却拒绝了，那是当朋友还是以后都不联系呢？](https://www.zhihu.com/question/446094580) 59 万热度 261回复
 1. [大学数学系成绩好的同学都是如何学习的？](https://www.zhihu.com/question/446275845) 59 万热度 21回复
-1. [为什么现在《英雄联盟》一场对局结束后发 GG 的人越来越少了？](https://www.zhihu.com/question/437215557) 59 万热度 153回复
 1. [你愿意评论出你一生都忘不了的句子吗？](https://www.zhihu.com/question/435292142) 59 万热度 1830回复
 1. [你是怎么做到和一个很爱的人不联系的？](https://www.zhihu.com/question/445463359) 59 万热度 389回复
 1. [怎样用 Excel 做数据分析？](https://www.zhihu.com/question/19754722) 59 万热度 112回复
+1. [如何评价《原神》胡桃的强度?](https://www.zhihu.com/question/447246320) 56 万热度 36回复
+1. [癌细胞真的没有天敌吗？](https://www.zhihu.com/question/443608344) 47 万热度 31回复
+1. [怎样才能考上教师编制？](https://www.zhihu.com/question/23612599) 43 万热度 540回复
+1. [为什么当年《怪物猎人》独占 3DS 后让 PSV 彻底死亡，而之后的 MHW 任天堂独占却没有导致 NS 暴死？](https://www.zhihu.com/question/394185606) 43 万热度 32回复
+1. [大家都是为什么养猫的？](https://www.zhihu.com/question/446374534) 43 万热度 127回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
