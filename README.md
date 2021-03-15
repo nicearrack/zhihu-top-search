@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-03-16 05:34:41
+最后更新时间 2021-03-16 06:44:27
 
 1. [福州一滴滴司机开车多次撞向乘客致其死亡，司机和平台或将承担怎样的责任？如何避免此类事件发生？](https://www.zhihu.com/question/449348056) 1746 万热度 1033回复
 1. [电子科技大学 iPad 双语失物招领事件为什么会演变为网络暴力？当下舆论中的偏见和指责该如何面对？](https://www.zhihu.com/question/449130931) 1512 万热度 450回复
@@ -36,6 +36,7 @@
 1. [如何看待范志毅在《吐槽大会》上的表现？](https://www.zhihu.com/question/449429247) 396 万热度 63回复
 1. [如何看待 NASA 火星船票近期国内爆火?](https://www.zhihu.com/question/449077624) 373 万热度 72回复
 1. [如何看待 2021 年 315 晚会又见瘦肉精？为何瘦肉精屡禁不止？](https://www.zhihu.com/question/449515604) 373 万热度 73回复
+1. [如何看待南京一程序员业余帮网友鉴定毒蘑菇，一年鉴定 2000 多次，成为拥有百万粉丝的网络大 V ？](https://www.zhihu.com/question/448896625) 369 万热度 23回复
 1. [情侣在一起时有什么尴尬的瞬间？](https://www.zhihu.com/question/58489668) 361 万热度 2016回复
 1. [手机游戏《原神》 X KFC 联动对暗号的行为真的能导致「社会性死亡」么？](https://www.zhihu.com/question/448362827) 348 万热度 134回复
 1. [如何看待 21 年考研「炸穿地心」的中科大软件学院复试分数线 388 分？](https://www.zhihu.com/question/449255117) 338 万热度 96回复
@@ -59,7 +60,8 @@
 1. [如何评价《吐槽大会》第五季 第七期？](https://www.zhihu.com/question/449258519) 174 万热度 62回复
 1. [如何看待《天地劫：幽城再临》公测第一天，评分跌破 6 分？](https://www.zhihu.com/question/448864799) 166 万热度 80回复
 1. [为什么薇娅频频上各大综艺，而看起来综艺感更好一点的李佳琦却没有 ?](https://www.zhihu.com/question/444761120) 166 万热度 186回复
-1. [学历低除了进厂还能干嘛？](https://www.zhihu.com/question/440486008) 160 万热度 201回复
+1. [学历低除了进厂还能干嘛？](https://www.zhihu.com/question/440486008) 165 万热度 201回复
+1. [「丼」字念什么？](https://www.zhihu.com/question/449089251) 165 万热度 30回复
 1. [中国哪些地方的名字像外国地名？](https://www.zhihu.com/question/387258929) 149 万热度 233回复
 1. [很久没联系的高中同学突然天天给我打电话，是什么情况？](https://www.zhihu.com/question/312761456) 147 万热度 592回复
 1. [为什么京剧没能出现一个类似德云社的团体？](https://www.zhihu.com/question/318057050) 145 万热度 249回复
@@ -71,27 +73,29 @@
 1. [被查出癌症是一种什么样的体验？](https://www.zhihu.com/question/316703481) 120 万热度 64回复
 1. [你见过哪些生性凉薄的人？](https://www.zhihu.com/question/429319229) 117 万热度 680回复
 1. [《进击的巨人》138 话之后，你觉得哪些伏笔必须在 139 话填上？](https://www.zhihu.com/question/447697725) 98 万热度 38回复
+1. [第一次去男友家受委屈应该怎么解决问题？](https://www.zhihu.com/question/447688631) 95 万热度 25回复
 1. [万里独行田伯光和君子剑岳不群，哪一个更令你讨厌？](https://www.zhihu.com/question/448944427) 92 万热度 95回复
 1. [当小朋友问「这个世界有多大」时，大人要怎样回答他？](https://www.zhihu.com/question/447361243) 87 万热度 112回复
 1. [22 考研数学 1800 基础部分一多半做不来，做题很慢效率很低，还有过线的希望吗？](https://www.zhihu.com/question/440329596) 86 万热度 64回复
 1. [家里保姆让你感到不爽的事情有哪些？](https://www.zhihu.com/question/20554063) 82 万热度 443回复
-1. [「丼」字念什么？](https://www.zhihu.com/question/449089251) 79 万热度 30回复
-1. [第一次去男友家受委屈应该怎么解决问题？](https://www.zhihu.com/question/447688631) 77 万热度 25回复
-1. [人类文明的底层逻辑是什么？](https://www.zhihu.com/question/449229611) 75 万热度 80回复
-1. [如何以「我不明白为何大家都爱狐狸精，是我 X 精不配吗」为开头写一个故事?](https://www.zhihu.com/question/443816329) 74 万热度 247回复
-1. [如何看待南京一程序员业余帮网友鉴定毒蘑菇，一年鉴定 2000 多次，成为拥有百万粉丝的网络大 V ？](https://www.zhihu.com/question/448896625) 74 万热度 23回复
-1. [钢琴特长在未来有优势吗？](https://www.zhihu.com/question/26029402) 73 万热度 85回复
+1. [人类文明的底层逻辑是什么？](https://www.zhihu.com/question/449229611) 77 万热度 80回复
+1. [如何以「我不明白为何大家都爱狐狸精，是我 X 精不配吗」为开头写一个故事?](https://www.zhihu.com/question/443816329) 75 万热度 247回复
+1. [钢琴特长在未来有优势吗？](https://www.zhihu.com/question/26029402) 75 万热度 85回复
+1. [为何家里越富裕的孩子普遍学习成绩更好？](https://www.zhihu.com/question/441150384) 74 万热度 96回复
 1. [假如法律规定「喝果汁饮料必须先摇一摇，否则罚款五十」会怎样？](https://www.zhihu.com/question/448663533) 70 万热度 107回复
-1. [为何家里越富裕的孩子普遍学习成绩更好？](https://www.zhihu.com/question/441150384) 70 万热度 96回复
-1. [鹰眼凭什么是世界第一大剑豪？](https://www.zhihu.com/question/346857720) 69 万热度 51回复
+1. [鹰眼凭什么是世界第一大剑豪？](https://www.zhihu.com/question/346857720) 70 万热度 51回复
 1. [有哪些好看的壁纸推荐  ？](https://www.zhihu.com/question/446898485) 68 万热度 39回复
-1. [心理学考研形势真的很严峻吗？](https://www.zhihu.com/question/448940182) 65 万热度 23回复
+1. [心理学考研形势真的很严峻吗？](https://www.zhihu.com/question/448940182) 66 万热度 23回复
+1. [武松徒手毙虎，为何只是个步兵都头？](https://www.zhihu.com/question/448916800) 66 万热度 23回复
 1. [有哪些先婚后爱的小说？](https://www.zhihu.com/question/338154133) 64 万热度 143回复
-1. [武松徒手毙虎，为何只是个步兵都头？](https://www.zhihu.com/question/448916800) 64 万热度 23回复
+1. [关于洛阳，你想说些什么？](https://www.zhihu.com/question/373420574) 64 万热度 117回复
+1. [甲醛 0.07 两岁宝宝能住吗？](https://www.zhihu.com/question/442317516) 64 万热度 63回复
 1. [如果你穿越到《模拟人生 4》你会怎么办?](https://www.zhihu.com/question/435786716) 63 万热度 46回复
-1. [关于洛阳，你想说些什么？](https://www.zhihu.com/question/373420574) 63 万热度 117回复
 1. [你和导师之间发生过哪些有趣的事？](https://www.zhihu.com/question/263824222) 62 万热度 4070回复
-1. [甲醛 0.07 两岁宝宝能住吗？](https://www.zhihu.com/question/442317516) 62 万热度 63回复
+1. [你质疑过物理书上哪些定律 / 定理 / 原理？](https://www.zhihu.com/question/444843881) 61 万热度 34回复
+1. [你愿意等一个人很久很久吗？](https://www.zhihu.com/question/448944287) 59 万热度 133回复
+1. [前途和他，你会选哪一个?](https://www.zhihu.com/question/447470040) 59 万热度 232回复
+1. [如何防止装修时被忽悠？](https://www.zhihu.com/question/20923526) 59 万热度 194回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
