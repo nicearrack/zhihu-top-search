@@ -14,15 +14,16 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-03-26 16:25:34
+最后更新时间 2021-03-26 18:24:17
 
 1. [如何看待 Nike 、优衣库 、GAP 、Zara 等品牌均在境外官网发布「禁用新疆棉花」的声明？](https://www.zhihu.com/question/451069593) 15441 万热度 7226回复
-1. [肖战成为李宁运动潮流产品全球代言人，体现了李宁怎样的品牌策略？这对双方会有怎样的影响？](https://www.zhihu.com/question/451308723) 8260 万热度 2302回复
+1. [肖战成为李宁运动潮流产品全球代言人，体现了李宁怎样的品牌策略？这对双方会有怎样的影响？](https://www.zhihu.com/question/451308723) 9058 万热度 2302回复
 1. [Nike 、优衣库、阿迪等品牌被抵制后，国内品牌的发展态势将会如何？国产服装行业将迎来哪些机会？](https://www.zhihu.com/question/451125041) 4559 万热度 38回复
+1. [拜登上任以来首场新闻记者会上称「任内不许中国超过美国」，这会对未来中美关系产生哪些影响？](https://www.zhihu.com/question/451306277) 3997 万热度 287回复
 1. [如果有 5 杯水却来了 6 个领导，你该怎么办?](https://www.zhihu.com/question/451003725) 3902 万热度 67回复
-1. [拜登上任以来首场新闻记者会上称「任内不许中国超过美国」，这会对未来中美关系产生哪些影响？](https://www.zhihu.com/question/451306277) 3311 万热度 287回复
 1. [如何看待疑似因 Burberry 涉抵制新疆棉事件，王者荣耀宣布取消瑶合作款皮肤计划？](https://www.zhihu.com/question/451169925) 3067 万热度 330回复
 1. [明星与 HM、Nike 等品牌解约后，要赔偿这些品牌吗？](https://www.zhihu.com/special/1358371015052210177) 2230 万热度 0回复
+1. [耐克收盘跌 3.39%，阿迪跌逾 6.49%，市值合计蒸发 730 亿，股价波动对耐克阿迪有多大影响？](https://www.zhihu.com/question/451309277) 2213 万热度 94回复
 1. [为什么有很多男生打游戏就可以很快乐？](https://www.zhihu.com/question/347424469) 2055 万热度 3557回复
 1. [如何看待易烊千玺、杨幂、迪丽热巴、张艺兴等多位艺人发表声明与「禁用新疆棉花」的品牌终止合作？](https://www.zhihu.com/question/451131161) 1715 万热度 492回复
 1. [同事怀孕了，我不想再让她蹭车了，我该怎么拒绝？这么做是不是不太好？](https://www.zhihu.com/question/423335938) 1487 万热度 1560回复
@@ -30,86 +31,94 @@
 1. [BCI 上海办事处称「未在新疆发现强迫劳动，品牌行为与其无关」，这一事件中 BCI 扮演了什么角色？](https://www.zhihu.com/question/451173342) 1370 万热度 245回复
 1. [有哪些秀翻全场的「低情商 vs 高情商」文案？](https://www.zhihu.com/question/451017822) 1332 万热度 122回复
 1. [如何看待多家外媒争相报道「中国网民因新疆棉花问题烧耐克鞋」后，视频发布者称消息不实？](https://www.zhihu.com/question/451219491) 1164 万热度 42回复
-1. [耐克收盘跌 3.39%，阿迪跌逾 6.49%，市值合计蒸发 730 亿，股价波动对耐克阿迪有多大影响？](https://www.zhihu.com/question/451309277) 1078 万热度 94回复
 1. [新疆棉的事情很多外国品牌不想买了，请问大家有什么国货推荐吗？](https://www.zhihu.com/question/451133356) 1056 万热度 26回复
-1. [中国人民大学撤掉操场 Nike 广告，大学生应该如何支持中国立场？](https://www.zhihu.com/question/451231545) 1034 万热度 100回复
-1. [如何看待小米将于 3 月 29 日发布的新澎湃芯片？](https://www.zhihu.com/question/451306893) 778 万热度 141回复
+1. [中国人民大学撤掉操场 Nike 广告，大学生应该如何支持中国立场？](https://www.zhihu.com/question/451231545) 1039 万热度 100回复
+1. [硕士毕业论文致谢可以有趣一点吗？](https://www.zhihu.com/question/401076265) 821 万热度 235回复
+1. [如何看待小米将于 3 月 29 日发布的新澎湃芯片？](https://www.zhihu.com/question/451306893) 817 万热度 141回复
 1. [如何看待小米预热 MIX 新机搭载液态镜头，什么是液态镜头，原理如何实现？](https://www.zhihu.com/question/451173645) 768 万热度 83回复
 1. [在品牌方出现类似新疆棉事件时，明星主动解约，如果后续品牌平安过关，吃亏的是不是终究是明星？](https://www.zhihu.com/question/451142996) 738 万热度 327回复
 1. [苏伊士运河为什么会被长荣的轮船卡住？](https://www.zhihu.com/question/450962730) 737 万热度 21回复
-1. [Nike 发布「禁用新疆棉花」的声明，Nike 赞助的中国运动队和体育赛事会受到怎样的影响？](https://www.zhihu.com/question/451153986) 624 万热度 47回复
+1. [Nike 发布「禁用新疆棉花」的声明，Nike 赞助的中国运动队和体育赛事会受到怎样的影响？](https://www.zhihu.com/question/451153986) 683 万热度 47回复
+1. [如何看待 哔哩哔哩（b 站） 提交的公司资料表里显示自己是「百度集团」？](https://www.zhihu.com/question/451335195) 666 万热度 70回复
+1. [3 月 26 日，中国宣布制裁炒作涉疆问题的英国部分个人及实体，此举会产生什么影响？](https://www.zhihu.com/question/451301218) 648 万热度 30回复
+1. [自己孩子查完成绩告诉你清华北大时，你是什么心理感受？](https://www.zhihu.com/question/331275499) 585 万热度 950回复
 1. [如何看待将马路当练车场，丈夫指导妻子练车失控撞死人？夫妻二人需要承担什么责任？](https://www.zhihu.com/question/450965518) 572 万热度 388回复
+1. [天津一老人疑因摔倒后未被扶起身亡，目击者发文表示非常自责，对此你怎么看？对于此类问题应该怎样处理？](https://www.zhihu.com/question/450872600) 567 万热度 190回复
 1. [如何评价韩剧《窥探》（Mouse）第八集？](https://www.zhihu.com/question/451273708) 519 万热度 36回复
+1. [如何看待 LPL 联赛下架 Nike 相关产品，比赛中 Nike 标志被贴纸挡住？](https://www.zhihu.com/question/451207787) 515 万热度 23回复
 1. [为什么很多女性由儿媳妇变成婆婆后，不能用同理心来对待自己的儿媳？](https://www.zhihu.com/question/447679179) 511 万热度 81回复
-1. [硕士毕业论文致谢可以有趣一点吗？](https://www.zhihu.com/question/401076265) 508 万热度 235回复
-1. [3 月 26 日，中国宣布制裁炒作涉疆问题的英国部分个人及实体，此举会产生什么影响？](https://www.zhihu.com/question/451301218) 500 万热度 30回复
 1. [如何评价电影《哥斯拉大战金刚》?](https://www.zhihu.com/question/392093591) 498 万热度 311回复
-1. [如何看待 LPL 联赛下架 Nike 相关产品，比赛中 Nike 标志被贴纸挡住？](https://www.zhihu.com/question/451207787) 477 万热度 23回复
 1. [HM 、优衣库、 Nike 等品牌被抵制，失去中国市场会对其营收造成多大影响？](https://www.zhihu.com/question/451133043) 457 万热度 329回复
 1. [上大学跟没上大学有什么区别？](https://www.zhihu.com/question/449157690) 446 万热度 838回复
-1. [天津一老人疑因摔倒后未被扶起身亡，目击者发文表示非常自责，对此你怎么看？对于此类问题应该怎样处理？](https://www.zhihu.com/question/450872600) 439 万热度 190回复
 1. [当孩子问「中国的狗能听懂外国狗的话吗」，应该怎么回答？](https://www.zhihu.com/question/449488251) 438 万热度 24回复
+1. [新婚媳妇睡懒觉，婆婆每天早上喊她起床吃饭，到底是谁错？](https://www.zhihu.com/question/363383726) 407 万热度 1616回复
 1. [中国玄幻小说主角为什么姓陆和姓叶的特别多?](https://www.zhihu.com/question/449299078) 388 万热度 54回复
-1. [新婚媳妇睡懒觉，婆婆每天早上喊她起床吃饭，到底是谁错？](https://www.zhihu.com/question/363383726) 386 万热度 1616回复
 1. [2021 LPL 春季赛 iG 2:0 LGD 结束队伍本赛季常规赛征程，如何评价这场比赛？](https://www.zhihu.com/question/451219499) 383 万热度 49回复
+1. [如何看待白敬亭和匡威解约？](https://www.zhihu.com/question/451221556) 383 万热度 34回复
+1. [你见过最狠的 SCI 评论是什么?](https://www.zhihu.com/question/430036342) 373 万热度 145回复
 1. [为什么人类不喜欢内脏本身的味道?](https://www.zhihu.com/question/450789032) 365 万热度 143回复
 1. [为什么裸辞的几乎都很久找不到工作？](https://www.zhihu.com/question/430872977) 355 万热度 234回复
-1. [你见过最狠的 SCI 评论是什么?](https://www.zhihu.com/question/430036342) 343 万热度 145回复
-1. [如何看待白敬亭和匡威解约？](https://www.zhihu.com/question/451221556) 337 万热度 34回复
 1. [如何看待耐克 Nike 发布「禁用新疆棉花」声明后，王一博终止与 Nike 品牌的一切合作？](https://www.zhihu.com/question/451104868) 335 万热度 1122回复
 1. [如何看待 2021 年股市大跌，是否已经引发股灾进入熊市？](https://www.zhihu.com/question/448508830) 330 万热度 60回复
 1. [游戏《怪物猎人：崛起》NS 版将于 3 月 25 日凌晨陆续解锁，游戏体验如何 ？](https://www.zhihu.com/question/451002333) 323 万热度 29回复
 1. [如何评价 3 月 25 日比亚迪宋 plus dm-i 发布会？](https://www.zhihu.com/question/451232855) 314 万热度 23回复
-1. [如何看待重庆一员工微信群调侃领导被开除，法院判涉事公司赔偿该员工一万余元？](https://www.zhihu.com/question/451157081) 298 万热度 37回复
+1. [如何看待重庆一员工微信群调侃领导被开除，法院判涉事公司赔偿该员工一万余元？](https://www.zhihu.com/question/451157081) 308 万热度 37回复
 1. [长期喝豆浆的人，身体上都发生了什么变化？](https://www.zhihu.com/question/382035677) 295 万热度 79回复
 1. [如何看待中小学生为腾讯贡献游戏流水占比仅 3.2%，该如何解读这次腾讯财报公布的游戏数据？](https://www.zhihu.com/question/451049373) 294 万热度 176回复
 1. [如何看待小米预告 3 月 29 日发布新款自研芯片，有哪些已知信息，小米芯片的研制能力如何？](https://www.zhihu.com/question/451313748) 285 万热度 36回复
+1. [如何看待 H&M 等拒使用新疆产品，外交部回应「中国老百姓不允许一些外国企业吃中国饭、砸中国碗」？](https://www.zhihu.com/question/451202849) 284 万热度 28回复
 1. [如何评价南京大学？](https://www.zhihu.com/question/28058088) 281 万热度 150回复
 1. [如何评价陆柯燃的裸背大片？](https://www.zhihu.com/question/450760485) 274 万热度 67回复
+1. [舍友都在宿舍养宠物，我养个什么宠物能压制住他们？](https://www.zhihu.com/question/450957590) 258 万热度 90回复
 1. [为什么很多企业都是面试造火箭，入职拧螺丝？](https://www.zhihu.com/question/450862378) 252 万热度 99回复
-1. [如何看待 H&M 等拒使用新疆产品，外交部回应「中国老百姓不允许一些外国企业吃中国饭、砸中国碗」？](https://www.zhihu.com/question/451202849) 243 万热度 28回复
+1. [你认为日本动漫有哪些德不配位的作品？](https://www.zhihu.com/question/450441088) 248 万热度 43回复
 1. [研究生复试专业面试第一个进去，会不会变成炮灰？一般情况下面试第一个进去成绩会在什么水平？](https://www.zhihu.com/question/41253817) 242 万热度 43回复
 1. [甄嬛为什么最后能对皇上这么狠？](https://www.zhihu.com/question/359327437) 239 万热度 371回复
 1. [如何看待美国总统拜登声称「不允许中国超过美国」？](https://www.zhihu.com/question/451327017) 229 万热度 61回复
 1. [人人都劝退建筑学，为什么建筑学平均薪资在各搜索网站上还是位居高地?](https://www.zhihu.com/question/449175020) 227 万热度 28回复
-1. [你认为日本动漫有哪些德不配位的作品？](https://www.zhihu.com/question/450441088) 222 万热度 43回复
+1. [金庸笔下谁是真正的凡尔赛大师？](https://www.zhihu.com/question/445199983) 213 万热度 51回复
 1. [如何看待马思纯张哲轩恋情？](https://www.zhihu.com/question/450813315) 211 万热度 36回复
 1. [计算机应届生月薪大多是多少？](https://www.zhihu.com/question/268886169) 204 万热度 2831回复
 1. [2 岁半的儿子非得要养一只恐龙，我该怎么回答他?](https://www.zhihu.com/question/450720368) 201 万热度 77回复
-1. [金庸笔下谁是真正的凡尔赛大师？](https://www.zhihu.com/question/445199983) 199 万热度 51回复
 1. [如何委婉拒绝室友使用我的 iPad？](https://www.zhihu.com/question/450802801) 194 万热度 66回复
+1. [王熙凤让刘姥姥给女儿起名字，说为了好养活，不怕刘姥姥起个名字叫二狗子吗？](https://www.zhihu.com/question/450054372) 188 万热度 30回复
 1. [大学时期，你们宿舍里独来独往的那个人怎么样了？](https://www.zhihu.com/question/391452296) 187 万热度 187回复
 1. [如何看待 3 月 29 日小米或发布 MIX Fold 折叠屏手机，对小米的折叠屏手机你有哪些期待？](https://www.zhihu.com/question/450971453) 183 万热度 26回复
 1. [如何评价 Intel 酷睿 11 代 CPU 牙膏倒吸？](https://www.zhihu.com/question/441892505) 178 万热度 37回复
 1. [快船将路威交易至老鹰换来朗多，如何看待这笔交易？](https://www.zhihu.com/question/451287877) 173 万热度 31回复
+1. [如何看待 Model 3 自动驾驶时方向盘卡死撞树且气囊未弹出，行车记录仪事发时的视频消失？](https://www.zhihu.com/question/451337512) 170 万热度 22回复
 1. [有没有日常不要太露的轻熟风裙子推荐？](https://www.zhihu.com/question/323077384) 169 万热度 30回复
 1. [《山河令》大结局，官方非说 HE，为什么我们还是觉得悲冷为阿絮不值?](https://www.zhihu.com/question/451246009) 168 万热度 37回复
+1. [都说「离职见人品」，你怎么看？](https://www.zhihu.com/question/449474770) 167 万热度 67回复
 1. [iqoo neo 5 实际体验怎么样？](https://www.zhihu.com/question/450775358) 165 万热度 42回复
 1. [如何评价《一人之下》519（551）话？](https://www.zhihu.com/question/451275110) 164 万热度 29回复
-1. [都说「离职见人品」，你怎么看？](https://www.zhihu.com/question/449474770) 163 万热度 67回复
 1. [边路貂蝉那么强为什么很少人玩？](https://www.zhihu.com/question/435321986) 158 万热度 34回复
 1. [《斗罗大陆》中，唐三是个自私虚伪的人吗？](https://www.zhihu.com/question/450769813) 156 万热度 29回复
 1. [c 语言编程 i love you 重复 520 次怎么做？](https://www.zhihu.com/question/447714062) 153 万热度 42回复
 1. [考研复试过后以为被刷，最终被录取，是什么感觉？](https://www.zhihu.com/question/317259726) 145 万热度 60回复
 1. [为什么人类总是在追求胜利和成就？有哪些先天或环境教育方面的原因？](https://www.zhihu.com/question/449660943) 143 万热度 60回复
 1. [男女之间有纯友谊吗？](https://www.zhihu.com/question/51077217) 143 万热度 5995回复
+1. [Windows 有哪些强烈不建议装的软件？](https://www.zhihu.com/question/392313958) 139 万热度 1006回复
 1. [《山河令》大结局到底是 happy ending 还是 bad ending？](https://www.zhihu.com/question/450916164) 131 万热度 42回复
+1. [如何理清《进击的巨人》的全故事线？](https://www.zhihu.com/question/58237145) 129 万热度 84回复
+1. [为什么《圣斗士星矢》在日本动漫界排不上号？](https://www.zhihu.com/question/396643319) 128 万热度 114回复
 1. [现在开始减肥，到夏天能瘦下来吗?](https://www.zhihu.com/question/445556435) 123 万热度 277回复
 1. [有没有那种暗戳戳表白的句子？](https://www.zhihu.com/question/300244719) 121 万热度 194回复
 1. [土耳其股市两天四次熔断，里拉兑美元暴跌，背后有哪些的深层逻辑？](https://www.zhihu.com/question/450909538) 120 万热度 90回复
+1. [前国脚范志毅足球水平如何？](https://www.zhihu.com/question/359892571) 120 万热度 44回复
 1. [李白与杜甫的诗谁更胜一筹？](https://www.zhihu.com/question/311740601) 119 万热度 530回复
 1. [如果你是「新疆采棉花」旅行团的导游，你会带着你的「外国游客」去哪里？](https://www.zhihu.com/question/451308977) 118 万热度 33回复
 1. [莉莉为什么与斯内普绝交？](https://www.zhihu.com/question/450891957) 116 万热度 21回复
+1. [什么事情是你当了医生之后才知道的？](https://www.zhihu.com/question/399561264) 116 万热度 22回复
 1. [那些漂亮的 sci 论文图一般用什么软件制作的？](https://www.zhihu.com/question/27474094) 115 万热度 49回复
+1. [讨好型人格到底有多可怕？](https://www.zhihu.com/question/268633341) 112 万热度 153回复
 1. [《三国杀》第一个失衡武将是谁？](https://www.zhihu.com/question/423852389) 111 万热度 260回复
-1. [为什么《圣斗士星矢》在日本动漫界排不上号？](https://www.zhihu.com/question/396643319) 111 万热度 114回复
-1. [前国脚范志毅足球水平如何？](https://www.zhihu.com/question/359892571) 109 万热度 44回复
 1. [如果让你在唐三和萧炎里面选一个当老公，你选哪个？](https://www.zhihu.com/question/450778572) 107 万热度 28回复
-1. [Windows 有哪些强烈不建议装的软件？](https://www.zhihu.com/question/392313958) 104 万热度 1006回复
 1. [2021 年有什么高性价的轻薄笔记本推荐？](https://www.zhihu.com/question/438588361) 95 万热度 45回复
 1. [《星际争霸 2》和《魔兽争霸 3》哪个游戏局外人看起来更好看？](https://www.zhihu.com/question/54927524) 95 万热度 22回复
 1. [2021 年，电视剧《觉醒年代》完结了，如何评价这部电视剧？](https://www.zhihu.com/question/450234333) 94 万热度 40回复
 1. [对自己要求很高的人，是否更容易获得成功？](https://www.zhihu.com/question/449660956) 92 万热度 31回复
+1. [你认为最催泪的一句话是什么？](https://www.zhihu.com/question/428747344) 92 万热度 1252回复
 1. [有什么关于医生类的言情小说吗？](https://www.zhihu.com/question/266364937) 89 万热度 26回复
 1. [二次元的出现是历史的必然吗？](https://www.zhihu.com/question/449973651) 88 万热度 23回复
 1. [22 考研，「求稳上岸」和「名校情结」哪个更重要？该如何选择？](https://www.zhihu.com/question/450805785) 87 万热度 46回复
@@ -119,7 +128,6 @@
 1. [你家猫做过什么你永远也想不到的事？](https://www.zhihu.com/question/445086720) 79 万热度 56回复
 1. [如何以「我是京城第一美人」写一篇故事？](https://www.zhihu.com/question/437673871) 79 万热度 216回复
 1. [《明日方舟》为什么罗德岛这么大的组织却没有公开的夫妻或情侣?](https://www.zhihu.com/question/451117650) 79 万热度 25回复
-1. [什么事情是你当了医生之后才知道的？](https://www.zhihu.com/question/399561264) 77 万热度 22回复
 1. [有什么让你忘不了的台词？](https://www.zhihu.com/question/444259461) 76 万热度 291回复
 1. [如何设计一个以计算机技术人员为原型的奇幻世界的职业？](https://www.zhihu.com/question/450259655) 76 万热度 22回复
 1. [近几年，中国电视剧是否真的以肉眼可见的速度在进步？](https://www.zhihu.com/question/61022286) 76 万热度 21回复
