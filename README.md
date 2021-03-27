@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-03-28 04:23:35
+最后更新时间 2021-03-28 06:23:34
 
 1. [如何看待乌合麒麟讽刺 BCI 的新作《Blood Cotton Initiative》 ​​​​？](https://www.zhihu.com/question/451475421) 5810 万热度 604回复
 1. [《哥斯拉大战金刚》中哥斯拉和金刚谁更厉害？](https://www.zhihu.com/question/451400347) 2132 万热度 350回复
@@ -74,14 +74,17 @@
 1. [预测《青春有你 3》谁会是拿皇族剧本的人？](https://www.zhihu.com/question/442475543) 72 万热度 67回复
 1. [月薪 5000，你会考虑月子会所坐月子吗?](https://www.zhihu.com/question/450657429) 70 万热度 73回复
 1. [鸣人在哪些方面体现出是个忍术天才？](https://www.zhihu.com/question/445681722) 69 万热度 21回复
-1. [有哪些温柔的情话？](https://www.zhihu.com/question/445829954) 64 万热度 51回复
+1. [有哪些温柔的情话？](https://www.zhihu.com/question/445829954) 65 万热度 51回复
 1. [有什么让人清醒的雅思备考毒鸡汤？](https://www.zhihu.com/question/325725035) 61 万热度 201回复
 1. [如果一个人类（普通人的体质），拥有无限的寿命，他一直科学地锻炼，能将身体素质提升到超人的程度吗？](https://www.zhihu.com/question/450947269) 59 万热度 253回复
 1. [室内去甲醛养什么植物比较好？](https://www.zhihu.com/question/450328446) 59 万热度 26回复
+1. [「C++ 早就过时了，大部分写工程不用 C++，学习这个语言只是为了竞赛」的观点是否正确？](https://www.zhihu.com/question/443776161) 59 万热度 104回复
+1. [和周围的人相处不融洽，该改变自己还是换个环境？](https://www.zhihu.com/question/444885295) 59 万热度 3941回复
 1. [刚成为准爸爸，照顾孕妇需要注意什么？](https://www.zhihu.com/question/366967759) 57 万热度 86回复
 1. [苹果的 iPhone 11 这个时候还值得买吗？](https://www.zhihu.com/question/430374241) 57 万热度 191回复
 1. [《斗破苍穹》里萧炎有三观不正的表现吗?](https://www.zhihu.com/question/448546163) 57 万热度 57回复
 1. [海森堡当年不知道矩阵，他是怎么想出矩阵力学的？](https://www.zhihu.com/question/279151159) 56 万热度 27回复
+1. [如果物理学大一统理论已经完成，请问如何在科学界公布出来？](https://www.zhihu.com/question/443863795) 56 万热度 52回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
