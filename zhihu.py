@@ -1,3 +1,5 @@
+# -*- coding=utf-8 -*-
+
 from datetime import datetime
 import json
 import os
@@ -6,10 +8,15 @@ import re
 from lxml import etree
 import requests
 
+import log_tools
+
 
 BASE_URL = 'https://www.zhihu.com'
 JSON_DIR = './raw'
 ARCHIVE_DIR = './archives'
+LOG_DIR = './logs'
+
+logger = log_tools.init_logger(__name__, log_path=LOG_DIR)
 
 
 def getHTML(url):
@@ -161,11 +168,15 @@ def updateReadme(rank):
 
 def main():
     url = '/billboard'
-    content = getHTML(BASE_URL + url)
-    correntRank = parseHTMLByXPath(content)
-    rankJSON = updateJSON(correntRank)
-    rankMD = updateArchive(rankJSON)
-    updateReadme(rankMD)
+    try:
+        content = getHTML(BASE_URL + url)
+        correntRank = parseHTMLByXPath(content)
+        rankJSON = updateJSON(correntRank)
+        rankMD = updateArchive(rankJSON)
+        updateReadme(rankMD)
+    except Exception as e:
+        logger.exception(e)
+        raise e
 
 
 if __name__ == '__main__':
