@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-01 02:33:46
+最后更新时间 2021-04-01 04:24:06
 
 1. [如何看待 H&M 最新对华声明未提及新疆，却称对中国市场依然坚定，要做「负责任的采购者」？](https://www.zhihu.com/question/452244511) 2507 万热度 944回复
 1. [如何看待男友送 1314520 元彩礼全是点钞券，女子回礼被骗 13 万元，男友涉嫌诈骗被刑拘一事？](https://www.zhihu.com/question/452001790) 925 万热度 213回复
@@ -54,16 +54,19 @@
 1. [空气炸锅值得购买吗？](https://www.zhihu.com/question/36317555) 113 万热度 135回复
 1. [如何评价 3 月 30 号解禁的 11 代英特尔实测性能？](https://www.zhihu.com/question/452133297) 110 万热度 26回复
 1. [真实大学生活是怎样的？](https://www.zhihu.com/question/444847984) 99 万热度 399回复
+1. [如何看待农民夫妻 1300 斤菠菜卖了 15 元，「质量一般，在场都没人收，如果我不收，他们只能丢掉」？](https://www.zhihu.com/question/452058910) 91 万热度 40回复
 1. [怎么改变自己在职场上嘴比脑子快的习惯？](https://www.zhihu.com/question/441607327) 76 万热度 155回复
 1. [「NBA」哪个位置上的历史第二和历史第一差距最小？](https://www.zhihu.com/question/445871060) 74 万热度 21回复
+1. [在社会混没学历难吗？](https://www.zhihu.com/question/448535767) 69 万热度 176回复
+1. [明知道和一个人没有未来，还应该继续下去吗？](https://www.zhihu.com/question/452026207) 67 万热度 131回复
 1. [英语水平不是很好，很担心考研复试中的英语听说怎么办？](https://www.zhihu.com/question/321466010) 63 万热度 58回复
 1. [有哪些短但是一眼惊艳的句子？](https://www.zhihu.com/question/445829041) 59 万热度 236回复
-1. [在社会混没学历难吗？](https://www.zhihu.com/question/448535767) 59 万热度 176回复
 1. [斯大林格勒的德军有可能突围吗？](https://www.zhihu.com/question/401006470) 59 万热度 25回复
+1. [此时此刻，作为大一的你，想对高三的学生说些什么？](https://www.zhihu.com/question/451323839) 59 万热度 160回复
+1. [学习比一切都重要吗?](https://www.zhihu.com/question/446749102) 59 万热度 434回复
 1. [一个很爱你的人真的可以忍住很长时间都不联系你吗？](https://www.zhihu.com/question/394874619) 57 万热度 1790回复
 1. [2021 有什么非常沙雕的愚人节文案吗？](https://www.zhihu.com/question/450360803) 56 万热度 58回复
 1. [如何看待 3 月 31 日发布的 realme 新品真我 GT Neo，有哪些亮点和不足？](https://www.zhihu.com/question/452207526) 56 万热度 321回复
-1. [明知道和一个人没有未来，还应该继续下去吗？](https://www.zhihu.com/question/452026207) 55 万热度 131回复
 1. [如何看待 2021 苹果全球开发者大会（WWDC21）邀请函？](https://www.zhihu.com/question/452097870) 54 万热度 24回复
 1. [住过甲醛房的怀孕女士，后来孩子都健康吗？](https://www.zhihu.com/question/336273262) 53 万热度 546回复
 1. [怎么判断一只股票什么时候该买什么时候该卖？](https://www.zhihu.com/question/449829165) 53 万热度 72回复
