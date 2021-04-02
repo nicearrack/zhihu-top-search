@@ -14,11 +14,11 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-02 10:46:52
+最后更新时间 2021-04-02 12:30:29
 
 1. [如何看待视频平台 YouTube 拒绝下架鼓吹「抢劫亚裔」的歌曲，还借口称「不能开此先例」？](https://www.zhihu.com/question/452206336) 1933 万热度 710回复
 1. [2021 LPL 春季季后赛首轮 iG 2:3 不敌 RA，如何评价这场比赛？](https://www.zhihu.com/question/452394711) 1839 万热度 621回复
-1. [如何看待 2021 年天津大学建筑学考研中，本校建筑学学生全军覆没？暴露出哪些问题？](https://www.zhihu.com/question/451892894) 1200 万热度 83回复
+1. [如何看待 2021 年天津大学建筑学考研中，本校建筑学学生全军覆没？暴露出哪些问题？](https://www.zhihu.com/question/451892894) 1301 万热度 83回复
 1. [如何看待北京一 80 后孕妇在试用期请病假 15 日被开除，一审二审均败诉？](https://www.zhihu.com/question/452038798) 891 万热度 46回复
 1. [椰树集团发布涉嫌违法广告被立案调查，其广告存在哪些问题？可能受到怎样的处罚？](https://www.zhihu.com/question/452260357) 845 万热度 242回复
 1. [如何看待李佳琦新疆助农专场带货超 4000 万？](https://www.zhihu.com/question/452243669) 723 万热度 195回复
@@ -27,39 +27,44 @@
 1. [如何看待农民夫妻 1300 斤菠菜卖了 15 元，菜贩称「质量一般如果不收购只能丢掉」，实际情况如何？](https://www.zhihu.com/question/452058910) 643 万热度 1397回复
 1. [吃早饭时你爸爸突然告诉你其实你们家有 300 亿，你会怎么办？](https://www.zhihu.com/question/447823721) 633 万热度 882回复
 1. [如何看待彭林 FView 称: 「你会把小米汽车车钥匙放在同学聚会餐桌上么？ ​​​」？](https://www.zhihu.com/question/452177974) 621 万热度 630回复
+1. [你们的分手有多不体面？](https://www.zhihu.com/question/363689631) 542 万热度 312回复
+1. [如何看待网友称小米网页上 logo 只改了一行代码，logo 就从方变圆？是真的吗？](https://www.zhihu.com/question/452180773) 466 万热度 43回复
 1. [《哥斯拉大战金刚》中金刚最后丢掉战斧，是认输还是和解？](https://www.zhihu.com/question/451584283) 464 万热度 99回复
 1. [有多少孩子是产检没问题，出生才发现问题？](https://www.zhihu.com/question/320505054) 452 万热度 1911回复
 1. [网传 3 月 31 日中科院化学所发生反应釜爆炸，一人疑似身亡，化学安全事故有多可怕？如何避免发生？](https://www.zhihu.com/question/452354028) 412 万热度 355回复
 1. [如何评价拜登承诺投资 2 万亿升级美国基础设施建设？](https://www.zhihu.com/question/449668091) 410 万热度 121回复
-1. [你们的分手有多不体面？](https://www.zhihu.com/question/363689631) 384 万热度 312回复
 1. [如何看待雷军称清楚汽车行业风险，小米去年底有 1080 亿元现金，公司亏得起？你期望小米汽车什么价位？](https://www.zhihu.com/question/452114954) 378 万热度 67回复
 1. [撞了烈士王伟的美军飞机，为什么要停在陵水机场？](https://www.zhihu.com/question/365961726) 366 万热度 24回复
 1. [如何评价邓紫棋新歌【超能力】？](https://www.zhihu.com/question/452371373) 354 万热度 56回复
 1. [如果《笑傲江湖》要重拍，内娱谁更适合出演令狐冲？](https://www.zhihu.com/question/450884811) 325 万热度 67回复
+1. [男朋友学历比我低很多，父母不同意怎么办？](https://www.zhihu.com/question/451637860) 313 万热度 441回复
 1. [为什么我不喜欢《哈尔的移动城堡》中的苏菲?](https://www.zhihu.com/question/386090089) 310 万热度 61回复
 1. [为什么现在买个手机压个价总有店员说你从京东自营看看价格？](https://www.zhihu.com/question/451443024) 305 万热度 85回复
+1. [苏伊士运河这么重要繁忙，为什么不拓宽？](https://www.zhihu.com/question/451698221) 261 万热度 32回复
 1. [给你六千万，代价是余生都不能触碰任何一辆汽车，你会接受吗？](https://www.zhihu.com/question/451405101) 253 万热度 736回复
 1. [西安 4 位退休老人管理小区，物业费每年有结余，如何看待业主自管模式？是否值得推广？](https://www.zhihu.com/question/451816714) 235 万热度 32回复
 1. [刘备的出身放到现在相当于什么水平，是否如很多人所说是草根呢？](https://www.zhihu.com/question/452074548) 230 万热度 29回复
 1. [如何看待「日本宠物数量已超 15 岁以下儿童人数」这一现象？可能会有哪些衍生的问题？](https://www.zhihu.com/question/452361675) 230 万热度 34回复
-1. [男朋友学历比我低很多，父母不同意怎么办？](https://www.zhihu.com/question/451637860) 230 万热度 441回复
+1. [如果金刚熟练掌握 MMA 技巧，能打过哥斯拉吗？](https://www.zhihu.com/question/451869598) 224 万热度 30回复
 1. [研究生实验室恋情和办公室恋情一样不被提倡吗？](https://www.zhihu.com/question/422926125) 221 万热度 60回复
+1. [男生与女生谁忍痛能力强？](https://www.zhihu.com/question/449556051) 220 万热度 37回复
 1. [你觉得电视剧《长歌行》改编成功吗？看完什么感受？](https://www.zhihu.com/question/439359918) 209 万热度 105回复
+1. [中国农业大学重新开始宿舍夜间熄灯，大学宿舍深夜要不要统一熄灯或者断电？](https://www.zhihu.com/question/452377837) 207 万热度 81回复
 1. [如何评价《海贼王》漫画第 1009 话？](https://www.zhihu.com/question/452135549) 204 万热度 57回复
 1. [你可以预测下迪丽热巴、吴磊主演的新剧《长歌行》会大爆吗？](https://www.zhihu.com/question/452267812) 203 万热度 58回复
+1. [本科绩点低，没有获奖和比赛经历，怎么制作考研复试简历呢？这些对考研复试有影响吗？](https://www.zhihu.com/question/379129901) 193 万热度 42回复
+1. [《遮天》里出现了多少个大帝？ 谁最厉害？](https://www.zhihu.com/question/354425054) 185 万热度 23回复
 1. [萧熏儿为什么非要嫁给萧炎？](https://www.zhihu.com/question/448033860) 182 万热度 56回复
-1. [如果金刚熟练掌握 MMA 技巧，能打过哥斯拉吗？](https://www.zhihu.com/question/451869598) 180 万热度 30回复
+1. [雷军说他们 2020 年底现金余额有 1080 亿元是什么概念？行业内算是什么水平？](https://www.zhihu.com/question/452145914) 182 万热度 24回复
+1. [目前美的，格力等电器公司将自己的生态接入华为 hilink 生态了，以后米家会不会也接入 hilink 呢？](https://www.zhihu.com/question/356273199) 171 万热度 37回复
 1. [你尝过的最美味的方便面是什么？](https://www.zhihu.com/question/417607029) 168 万热度 565回复
-1. [男生与女生谁忍痛能力强？](https://www.zhihu.com/question/449556051) 168 万热度 37回复
-1. [目前美的，格力等电器公司将自己的生态接入华为 hilink 生态了，以后米家会不会也接入 hilink 呢？](https://www.zhihu.com/question/356273199) 152 万热度 37回复
-1. [本科绩点低，没有获奖和比赛经历，怎么制作考研复试简历呢？这些对考研复试有影响吗？](https://www.zhihu.com/question/379129901) 148 万热度 42回复
 1. [湖南大学校园网计费方式引发学生吐槽，别的学校也这样吗？校园网是否应该收费？该怎么收费？](https://www.zhihu.com/question/452174010) 141 万热度 486回复
 1. [大家会计工资都多少？](https://www.zhihu.com/question/392926139) 140 万热度 340回复
+1. [如何评价小米 11pro 全系放弃一亿像素摄像头？](https://www.zhihu.com/question/452119438) 140 万热度 27回复
+1. [风靡一时的游戏掌机「PSP」是怎么倒下的？](https://www.zhihu.com/question/450987462) 136 万热度 24回复
 1. [怎么拯救特别严重的黑眼圈？](https://www.zhihu.com/question/27592542) 132 万热度 319回复
 1. [2021 愚人节有什么有趣、且不失礼貌适合发圈的文案？](https://www.zhihu.com/question/452181952) 125 万热度 161回复
-1. [如何评价小米 11pro 全系放弃一亿像素摄像头？](https://www.zhihu.com/question/452119438) 113 万热度 27回复
 1. [为什么国外大学计算机系本科生培养如此强调函数式编程？](https://www.zhihu.com/question/450773131) 111 万热度 22回复
-1. [《遮天》里出现了多少个大帝？ 谁最厉害？](https://www.zhihu.com/question/354425054) 111 万热度 23回复
 1. [成龙实际打起来有多能打？](https://www.zhihu.com/question/30876851) 108 万热度 102回复
 1. [从来没有考过事业单位，还剩一个月如何备考？](https://www.zhihu.com/question/351990894) 105 万热度 24回复
 1. [女朋友王者单排不和我玩，什么心态？](https://www.zhihu.com/question/438791687) 100 万热度 480回复
@@ -72,14 +77,17 @@
 1. [哪些电影能给人美学启蒙？](https://www.zhihu.com/question/450836374) 88 万热度 25回复
 1. [如果你曾经爱过的人有一天回来找你，你还会和 ta 继续吗？](https://www.zhihu.com/question/441718033) 86 万热度 2969回复
 1. [临终关怀到底有多重要？除此之外，老年人在生活中还有哪些方面需要切实的关怀？](https://www.zhihu.com/question/452075166) 86 万热度 31回复
+1. [有哪些平价且不俗气的适合女学生的衣服品牌？](https://www.zhihu.com/question/29508991) 85 万热度 1015回复
+1. [如果我带着 50k 的群星舰队归顺《战锤》，人类帝国会发生什么？](https://www.zhihu.com/question/452326039) 80 万热度 23回复
 1. [有什么可爱的晚安文案吗？](https://www.zhihu.com/question/385512608) 79 万热度 110回复
 1. [如果你穿越到校园甜文反面女二该怎么做？](https://www.zhihu.com/question/373188366) 77 万热度 1227回复
-1. [风靡一时的游戏掌机「PSP」是怎么倒下的？](https://www.zhihu.com/question/450987462) 77 万热度 24回复
 1. [为何中国出不了 F1 赛车手？差距在哪？](https://www.zhihu.com/question/276059168) 76 万热度 82回复
 1. [如何以「我是个女配，我死后变成了鬼被男主囚禁在他身边」写一个小说？](https://www.zhihu.com/question/448069836) 76 万热度 22回复
 1. [武当山上受伤的张三丰，是否可以击退赵敏手下的一众高手？](https://www.zhihu.com/question/450327159) 74 万热度 21回复
 1. [《创造营 2021》里有哪些高颜值选手没被注意到？](https://www.zhihu.com/question/450006302) 73 万热度 46回复
+1. [你认为 vue 的 element-ui 框架值 500w 的估值吗？](https://www.zhihu.com/question/450898415) 72 万热度 21回复
 1. [有什么值得推荐的会计、财务类网站，论坛或者杂志？](https://www.zhihu.com/question/24593787) 70 万热度 112回复
+1. [你所珍藏的情话有哪些？](https://www.zhihu.com/question/437885856) 70 万热度 91回复
 1. [可以推荐一下你喜欢的动漫吗？](https://www.zhihu.com/question/445264498) 69 万热度 956回复
 1. [你被前任伤害最深的一句话是什么？](https://www.zhihu.com/question/314118050) 69 万热度 21907回复
 1. [六个月 9 天的宝宝，最近夜醒几乎一小时一次，该怎么做才能解决？](https://www.zhihu.com/question/451976528) 68 万热度 21回复
@@ -113,13 +121,16 @@
 1. [大家在计算机学习路上，都看过哪些神一般的书？](https://www.zhihu.com/question/58905568) 59 万热度 68回复
 1. [不被看好的恋情还有必要坚持吗?](https://www.zhihu.com/question/449036962) 59 万热度 237回复
 1. [有没有什么好看的高清无水印女生壁纸，看一眼绝对会爱上的那种？](https://www.zhihu.com/question/446716993) 59 万热度 30回复
+1. [领克真的值得入手吗？](https://www.zhihu.com/question/449365525) 59 万热度 72回复
 1. [相机不能装一个 888 处理器搞计算摄影吗？](https://www.zhihu.com/question/452031529) 58 万热度 42回复
+1. [感觉大学学力学的同学除了喜欢而学的都被坑了，远不如编程实用。力学在当下和今后还有那么大的实用意义吗？](https://www.zhihu.com/question/60005295) 58 万热度 77回复
 1. [请问分手以后怎么走出来呢？](https://www.zhihu.com/question/450552672) 57 万热度 358回复
 1. [如何看待手游《赛马娘 Pretty Derby》将推出中文并在中国推出，其前景如何？](https://www.zhihu.com/question/452003294) 56 万热度 60回复
 1. [如何能和喜欢、偶尔联络但是平时不经常见面的女孩子发展关系？](https://www.zhihu.com/question/444159491) 51 万热度 47回复
 1. [小米 11 Ultra 为什么没有 120w 快充？](https://www.zhihu.com/question/451925809) 50 万热度 56回复
 1. [《王者荣耀》李元芳·飞鸢探春皮肤即将上线，你怎么看？](https://www.zhihu.com/question/452211465) 50 万热度 69回复
 1. [又到清明，对那些百年来为新中国成立和社会主义建设事业捐躯的英烈们，你有什么想说的？](https://www.zhihu.com/question/452024300) 47 万热度 62回复
+1. [你在生活中都有哪些奇遇？](https://www.zhihu.com/question/20104471) 40 万热度 49回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
