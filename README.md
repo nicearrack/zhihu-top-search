@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-06 04:23:42
+最后更新时间 2021-04-06 06:25:53
 
 1. [「宁愿花 11K 重新招人，也不愿意花 9K 留住老员工」的现象是否属实？为什么会出现该现象？](https://www.zhihu.com/question/63878469) 2553 万热度 2559回复
 1. [小学的成绩有很大的欺骗性，到了初中就会有很多的学生掉队，是真的吗？](https://www.zhihu.com/question/433616847) 1474 万热度 1575回复
@@ -43,9 +43,9 @@
 1. [家里使用烘干机，真的能取消晾晒区吗？](https://www.zhihu.com/question/450607143) 175 万热度 66回复
 1. [考研忽然有点累 要不要休息一天?](https://www.zhihu.com/question/449949480) 151 万热度 184回复
 1. [生活中什么样的女生最吸引你?](https://www.zhihu.com/question/444452485) 139 万热度 320回复
-1. [为什么很多聪明人能通过眼神一眼就能看出来？而真正有智慧的人却从眼神看不出来？](https://www.zhihu.com/question/55333539) 131 万热度 496回复
+1. [为什么很多聪明人能通过眼神一眼就能看出来？而真正有智慧的人却从眼神看不出来？](https://www.zhihu.com/question/55333539) 138 万热度 496回复
 1. [谈恋爱对方的颜值真的很重要吗？](https://www.zhihu.com/question/317503761) 124 万热度 111回复
-1. [如何把体脂降到 15%?](https://www.zhihu.com/question/361928955) 121 万热度 241回复
+1. [如何把体脂降到 15%?](https://www.zhihu.com/question/361928955) 123 万热度 241回复
 1. [为什么苹果至今还非常受人欢迎？](https://www.zhihu.com/question/408161363) 107 万热度 2401回复
 1. [如何看待蔚来、小鹏一季度交付量？](https://www.zhihu.com/question/452399350) 106 万热度 25回复
 1. [社会狠狠的教会过你什么？](https://www.zhihu.com/question/431538148) 105 万热度 1859回复
@@ -54,18 +54,21 @@
 1. [有什么梗比番火的日漫？](https://www.zhihu.com/question/451808133) 93 万热度 68回复
 1. [糖尿病可以多吃什么食物?](https://www.zhihu.com/question/362031729) 82 万热度 45回复
 1. [有哪些甜度爆表的小故事?](https://www.zhihu.com/question/375026587) 79 万热度 29回复
-1. [为啥萧远山越练武功越挫，三十年卧底少林练了什么？](https://www.zhihu.com/question/31877611) 75 万热度 85回复
-1. [如果超人是执剑人，《三体》的故事会怎么发展？](https://www.zhihu.com/question/452625242) 70 万热度 21回复
+1. [为啥萧远山越练武功越挫，三十年卧底少林练了什么？](https://www.zhihu.com/question/31877611) 77 万热度 85回复
+1. [如果超人是执剑人，《三体》的故事会怎么发展？](https://www.zhihu.com/question/452625242) 71 万热度 21回复
+1. [有哪些笑到腹痛的笑话？](https://www.zhihu.com/question/299386860) 70 万热度 115回复
 1. [喜欢上爵士乐后发现其他音乐类型都听不下去了怎么办？](https://www.zhihu.com/question/46930311) 69 万热度 61回复
 1. [你们有没有过对暗恋的人很冷漠的情况？](https://www.zhihu.com/question/450314231) 68 万热度 375回复
 1. [如何评价杨超越出演的单元剧电影《我们的新生活》？](https://www.zhihu.com/question/452669759) 68 万热度 24回复
-1. [23 天里，如何极端的多瘦一点？](https://www.zhihu.com/question/286276200) 67 万热度 2411回复
+1. [23 天里，如何极端的多瘦一点？](https://www.zhihu.com/question/286276200) 68 万热度 2411回复
 1. [人为什么越长大活得越累？](https://www.zhihu.com/question/446778429) 66 万热度 341回复
 1. [以结婚为前提，是物质重要还是感情重要？](https://www.zhihu.com/question/450592072) 66 万热度 336回复
-1. [什么事情是你注重养生以后才知道的？](https://www.zhihu.com/question/451372641) 65 万热度 41回复
+1. [什么事情是你注重养生以后才知道的？](https://www.zhihu.com/question/451372641) 66 万热度 41回复
+1. [人一旦动了真情还会忘记对方吗？](https://www.zhihu.com/question/442698568) 63 万热度 933回复
 1. [甲醛挥发点是 19 摄氏度，能否理解为冬季十摄氏度以下基本上没有甲醛释放?](https://www.zhihu.com/question/428094860) 62 万热度 59回复
 1. [有好用的文献笔记工具吗？](https://www.zhihu.com/question/21151769) 59 万热度 46回复
 1. [原地打方向盘到底有多伤车？](https://www.zhihu.com/question/354665595) 57 万热度 490回复
+1. [有一个外国女友是种怎样的体验？](https://www.zhihu.com/question/27428976) 57 万热度 1073回复
 1. [豹女的标那么好躲，为什么高端局还那么多人玩?](https://www.zhihu.com/question/451881236) 56 万热度 78回复
 1. [中老年人如何补钙？](https://www.zhihu.com/question/24061487) 50 万热度 43回复
 1. [如何看待特朗普开通个人官网，承接各种红白喜事祝词？这预示着什么？](https://www.zhihu.com/question/452171246) 48 万热度 677回复
