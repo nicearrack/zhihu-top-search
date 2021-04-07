@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-08 04:23:16
+最后更新时间 2021-04-08 06:25:31
 
 1. [如何看待德国之声中文网在报道五国对华军演时，导语写为「美日印澳法，还没八国」？](https://www.zhihu.com/question/453319499) 2986 万热度 792回复
 1. [董明珠拒绝帮哥哥走后门被踢出族谱，职场中遇到「找关系」该怎么处理？能力和关系到底孰轻孰重？](https://www.zhihu.com/question/453194708) 2202 万热度 733回复
@@ -25,7 +25,7 @@
 1. [27 岁女生，公务员编制，上岸复旦研究生了，要不要辞职去读呢？](https://www.zhihu.com/question/453139433) 1155 万热度 1090回复
 1. [你最庆幸自己读过什么书?](https://www.zhihu.com/question/62306995) 851 万热度 12915回复
 1. [有哪些看起来热量很高，实际热量却很低的食物？](https://www.zhihu.com/question/359675190) 725 万热度 573回复
-1. [如何评价漫画《进击的巨人》第 139 话（最终话）？](https://www.zhihu.com/question/453468442) 650 万热度 56回复
+1. [如何评价漫画《进击的巨人》第 139 话（最终话）？](https://www.zhihu.com/question/453468442) 719 万热度 56回复
 1. [女生如果主动点，男生真的容易心动吗？](https://www.zhihu.com/question/367625901) 582 万热度 3028回复
 1. [如何看待澳大利亚某高官在办公室摆放美少女手办，被指责心理变态？](https://www.zhihu.com/question/452562124) 539 万热度 275回复
 1. [数万条偷拍视频在聊天群内传播叫卖，卖家称可批量破解各地家庭摄像头，这是什么原理？该如何防范？](https://www.zhihu.com/question/452005650) 497 万热度 106回复
@@ -69,13 +69,21 @@
 1. [22 考研数学一目标 120+，各阶段该用什么辅导书和习题册比较好啊？](https://www.zhihu.com/question/440571612) 89 万热度 23回复
 1. [有哪些适合大学宿舍的速食推荐？](https://www.zhihu.com/question/411067478) 84 万热度 71回复
 1. [为什么足球场上很多边后卫球员去踢别的位置也很出色，但是反之则不成立？](https://www.zhihu.com/question/33861810) 82 万热度 64回复
-1. [财务自由的人可以分享一下生活吗?](https://www.zhihu.com/question/452616303) 78 万热度 33回复
+1. [财务自由的人可以分享一下生活吗?](https://www.zhihu.com/question/452616303) 81 万热度 33回复
 1. [家里不争气的弟弟整天打 LoL，如何把电脑弄坏？](https://www.zhihu.com/question/453244193) 70 万热度 59回复
 1. [经常使用冷暴力的人是什么心态？](https://www.zhihu.com/question/282092296) 69 万热度 64回复
+1. [《孔雀东南飞》里，焦仲卿的阿母为什么不喜欢刘兰芝？](https://www.zhihu.com/question/451846052) 66 万热度 28回复
+1. [两个月的宝宝老是哭闹怎么办？](https://www.zhihu.com/question/324559736) 66 万热度 21回复
 1. [《CS：GO》一直只玩狙有什么缺点？](https://www.zhihu.com/question/340801906) 65 万热度 166回复
-1. [《孔雀东南飞》里，焦仲卿的阿母为什么不喜欢刘兰芝？](https://www.zhihu.com/question/451846052) 64 万热度 28回复
 1. [人类在不借助计算机的情况下，能弄出一个比地球还圆的球体吗？](https://www.zhihu.com/question/451559819) 63 万热度 31回复
 1. [如何看待 Waymo 的 CEO 约翰·科拉菲克离职？](https://www.zhihu.com/question/452688039) 63 万热度 22回复
+1. [大一一个学期学多少编程算正常?](https://www.zhihu.com/question/360729923) 63 万热度 133回复
+1. [男朋友爸爸马上要过 50 岁生日，请问送什么礼物好？](https://www.zhihu.com/question/445012757) 62 万热度 34回复
+1. [Linux 大神都是怎么记住这么多命令的？](https://www.zhihu.com/question/452895041) 61 万热度 53回复
+1. [有哪些创意礼物适合情侣纪念日？](https://www.zhihu.com/question/36397723) 61 万热度 109回复
+1. [有哪些巨好吃的面包 / 糕点推荐？](https://www.zhihu.com/question/445320685) 61 万热度 25回复
+1. [从电力系统稳定上看 2060 年全部淘汰煤电是否可行？](https://www.zhihu.com/question/450907582) 60 万热度 21回复
+1. [那些靠虚拟币发财的人现在都在干嘛？](https://www.zhihu.com/question/277657290) 60 万热度 37回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
