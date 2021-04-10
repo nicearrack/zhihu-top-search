@@ -14,8 +14,9 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-10 09:03:56
+最后更新时间 2021-04-10 10:39:39
 
+1. [如何看待市场监管总局对阿里巴巴垄断行为作出 182.28 亿行政处罚？会带来哪些影响？](https://www.zhihu.com/question/453827917) 5875 万热度 895回复
 1. [如何看待 4 月 9 日日本政府基本决定将福岛核污水排入大海？可能会带来哪些影响？](https://www.zhihu.com/question/453704152) 4334 万热度 1458回复
 1. [如何看待画师乌合麒麟为纪念武汉抗疫的新作《披甲》？武汉抗疫有哪些难忘的瞬间？](https://www.zhihu.com/question/453690428) 1741 万热度 245回复
 1. [年仅 27 岁的王倬榕医师突发脑血管意外辞世，他捐献的器官挽救了 5 名危重症者，你有哪些话想对他说？](https://www.zhihu.com/question/453589577) 1619 万热度 247回复
@@ -26,12 +27,15 @@
 1. [为什么奶茶里的料越加越多？](https://www.zhihu.com/question/435709314) 698 万热度 279回复
 1. [如何看待医保个人账户将允许家庭成员共济？将带来哪些切实改变？](https://www.zhihu.com/question/453657229) 677 万热度 338回复
 1. [如何看待陕科大因对地铁站命名为「西安工业大学」不满，其旗下幼儿园拒收西安工大教师子女？](https://www.zhihu.com/question/453581976) 597 万热度 209回复
+1. [男朋友第一次谈恋爱有些用力过猛，我该怎么提醒他？](https://www.zhihu.com/question/419802297) 536 万热度 75回复
 1. [英国女王丈夫菲利普亲王去世，会带来哪些影响？](https://www.zhihu.com/question/453756561) 521 万热度 36回复
 1. [如何评价美剧《猎鹰与冬兵》第四集？](https://www.zhihu.com/question/453357016) 507 万热度 60回复
-1. [男朋友第一次谈恋爱有些用力过猛，我该怎么提醒他？](https://www.zhihu.com/question/419802297) 491 万热度 75回复
+1. [如何看待饶毅科学最新文章：中国「无科研造假」元年：但愿「空前」也是「绝后」？](https://www.zhihu.com/question/453772471) 456 万热度 23回复
 1. [10 家平台承诺不用大数据杀熟，后续应该如何监管？你有过被「杀熟」的经历吗？](https://www.zhihu.com/question/453666999) 418 万热度 408回复
 1. [大家是怎么看待姜文的？](https://www.zhihu.com/question/328085392) 415 万热度 99回复
 1. [为什么有些地方的市面上鲜见咸鸡蛋，而都是咸鸭蛋呢？](https://www.zhihu.com/question/453408930) 402 万热度 111回复
+1. [如何看待马斯克公布猴子用意念打游戏视频，称未来瘫痪的人能用意念玩手机？脑机接口的发展前景如何？](https://www.zhihu.com/question/453706976) 396 万热度 51回复
+1. [实验室里，一个癌细胞不断给它供应养分，无限生长，80 年后，会长多大，成什么样子？](https://www.zhihu.com/question/429751120) 395 万热度 107回复
 1. [有没有个子不高，身材比例却特别好的妹子？](https://www.zhihu.com/question/49702229) 392 万热度 64回复
 1. [如何看待广东一智障男子失踪两年，实则是「被杀害后顶替富人火化」？](https://www.zhihu.com/question/453502347) 386 万热度 401回复
 1. [97 年工资 4500，朝九晚六双休，像在养老，该做出改变吗？](https://www.zhihu.com/question/447268047) 381 万热度 260回复
@@ -39,54 +43,62 @@
 1. [教育部明确「小学严格执行免试就近入学，不得设学前班」，会给学生、家长、学校和教育系统带来哪些影响？](https://www.zhihu.com/question/453687186) 364 万热度 179回复
 1. [《进击的巨人》结局是否有可能是谏山创屈于某些压力被迫改了结局?](https://www.zhihu.com/question/453598820) 349 万热度 29回复
 1. [如果提前一个月拿到高考答案，你还会继续复习高中内容吗？](https://www.zhihu.com/question/453079999) 304 万热度 102回复
-1. [实验室里，一个癌细胞不断给它供应养分，无限生长，80 年后，会长多大，成什么样子？](https://www.zhihu.com/question/429751120) 284 万热度 107回复
-1. [如何看待马斯克公布猴子用意念打游戏视频，称未来瘫痪的人能用意念玩手机？脑机接口的发展前景如何？](https://www.zhihu.com/question/453706976) 270 万热度 51回复
+1. [如何评价周深在 2021 年「全球外交官中国文化之夜」演唱的《You raise me up》?](https://www.zhihu.com/question/453798825) 256 万热度 41回复
+1. [2021 年 4 月 9 日 A 股为什么大跌？究竟发生了什么事？](https://www.zhihu.com/question/453706551) 247 万热度 65回复
 1. [如何评价《创造营 2021》doki 大爬梯粉丝见面会？](https://www.zhihu.com/question/453771732) 245 万热度 171回复
 1. [五一劳动节建议去长沙玩吗？](https://www.zhihu.com/question/453000070) 230 万热度 80回复
 1. [如何看待辽宁舰航母编队在台湾周边海域训练？和以往有什么不一样？](https://www.zhihu.com/question/453486534) 214 万热度 59回复
+1. [材料真的到了必须被劝退的地步了吗？](https://www.zhihu.com/question/290510801) 214 万热度 456回复
 1. [如何看待郑州在新一线的收入排名倒数第三？](https://www.zhihu.com/question/453502948) 209 万热度 131回复
+1. [2021 LPL 春季败者组首轮 TES vs RNG 你更看好谁？](https://www.zhihu.com/question/453593116) 208 万热度 76回复
 1. [为什么斩击伤害很低，钝器和穿刺攻击往往一下就能要人命？](https://www.zhihu.com/question/452689564) 203 万热度 57回复
 1. [如何看待香港一年制硕士？](https://www.zhihu.com/question/24601021) 175 万热度 535回复
-1. [2021 LPL 春季败者组首轮 TES vs RNG 你更看好谁？](https://www.zhihu.com/question/453593116) 161 万热度 76回复
 1. [如果法律规定，所有汽车都不准露车标，你认为哪个厂的车会卖得最好？](https://www.zhihu.com/question/451710408) 150 万热度 134回复
 1. [如何评价利路修的颜值？](https://www.zhihu.com/question/450756206) 146 万热度 90回复
+1. [每年考研有多少人划水？](https://www.zhihu.com/question/405666132) 145 万热度 379回复
+1. [你什么时候意识到自己该减肥了？](https://www.zhihu.com/question/450658065) 141 万热度 146回复
+1. [985 大学计算机专业毕业工资大概什么程度？](https://www.zhihu.com/question/376651222) 130 万热度 35回复
+1. [两份工作，一个轻松工资低，一个很累工资高一些，怎么选？](https://www.zhihu.com/question/63557154) 128 万热度 1135回复
 1. [《进击的巨人》大结局真的拉垮了吗？](https://www.zhihu.com/question/453502359) 127 万热度 837回复
-1. [材料真的到了必须被劝退的地步了吗？](https://www.zhihu.com/question/290510801) 127 万热度 456回复
 1. [工作十年，三十有二，单身一人，月薪刚到一万，还有必要坚持留在上海打拼吗？](https://www.zhihu.com/question/453719277) 123 万热度 60回复
+1. [如何看待 4 月 8 日龚俊在 TT 语音首秀？他 LoL 的真实水平如何？](https://www.zhihu.com/question/453696859) 121 万热度 24回复
 1. [什么事情是你上了大学后才知道？](https://www.zhihu.com/question/355322953) 112 万热度 1473回复
-1. [你什么时候意识到自己该减肥了？](https://www.zhihu.com/question/450658065) 109 万热度 146回复
 1. [为什么有人说 22 考研难度会高一些？](https://www.zhihu.com/question/427845043) 105 万热度 124回复
-1. [两份工作，一个轻松工资低，一个很累工资高一些，怎么选？](https://www.zhihu.com/question/63557154) 101 万热度 1135回复
+1. [有哪些是当了程序员后才知道的事？](https://www.zhihu.com/question/453076212) 104 万热度 27回复
+1. [如何看待 2021 年 3 月特斯拉 model 3 销量 2.5 万，model Y 上万？?](https://www.zhihu.com/question/453723016) 101 万热度 32回复
 1. [把罗莎莉亚做成四星是不是有点浪费了这个人设？](https://www.zhihu.com/question/453331674) 99 万热度 26回复
-1. [如何看待饶毅科学最新文章：中国「无科研造假」元年：但愿「空前」也是「绝后」？](https://www.zhihu.com/question/453772471) 95 万热度 23回复
 1. [如何以「我的驸马，是个极温柔的人」为开头写一个故事？](https://www.zhihu.com/question/432335714) 92 万热度 425回复
 1. [如何以「那个与我有婚约的少年郎死在了战场上」为开头写一个故事?](https://www.zhihu.com/question/453140540) 92 万热度 32回复
-1. [如何看待 4 月 8 日龚俊在 TT 语音首秀？他 LoL 的真实水平如何？](https://www.zhihu.com/question/453696859) 88 万热度 24回复
 1. [你有哪些压箱好看的壁纸图片?](https://www.zhihu.com/question/452324718) 87 万热度 54回复
 1. [如何证明存在 1000 个连续的正整数中恰好有五个素数？](https://www.zhihu.com/question/369220695) 86 万热度 21回复
 1. [拜登称枪支暴力在美国是种「流行病」，对此你怎么看？](https://www.zhihu.com/question/453658498) 86 万热度 30回复
+1. [有哪些超搞笑的段子？](https://www.zhihu.com/question/453066336) 85 万热度 28回复
 1. [和不喜欢的人谈恋爱，要不要直接算了?](https://www.zhihu.com/question/453113652) 84 万热度 164回复
 1. [怎么看待谷歌（Google）赢得了跟甲骨文（Oracle）关于安卓使用 Java api 的官司？](https://www.zhihu.com/question/453123507) 81 万热度 21回复
 1. [一个月复习考上公务员，可能吗？](https://www.zhihu.com/question/376383315) 76 万热度 62回复
-1. [有哪些是当了程序员后才知道的事？](https://www.zhihu.com/question/453076212) 71 万热度 27回复
 1. [戴尔刚宣布的 G15 AMD 版游戏本值得期待吗？](https://www.zhihu.com/question/453612322) 70 万热度 28回复
+1. [有哪些另类温柔的文案？](https://www.zhihu.com/question/448876917) 70 万热度 72回复
 1. [做数据库内核开发的是不是很少？](https://www.zhihu.com/question/445283801) 68 万热度 25回复
 1. [张云雷是个怎样的人？](https://www.zhihu.com/question/452680619) 68 万热度 47回复
-1. [985 大学计算机专业毕业工资大概什么程度？](https://www.zhihu.com/question/376651222) 67 万热度 35回复
+1. [怎样让自己下定决心放下手机好好读书？](https://www.zhihu.com/question/450768971) 67 万热度 213回复
 1. [可以分享一些你觉得很温柔的句子吗？](https://www.zhihu.com/question/452978901) 66 万热度 39回复
+1. [什么文案让你觉得意难平？](https://www.zhihu.com/question/453247567) 66 万热度 27回复
+1. [知识图谱是否是 NLP 的未来？](https://www.zhihu.com/question/267242467) 65 万热度 29回复
 1. [有什么减肥的好方法推荐？](https://www.zhihu.com/question/441015831) 64 万热度 222回复
 1. [如果孩子遇到挫折就容易崩溃，怎样才能帮助她正确面对失败？](https://www.zhihu.com/question/452635394) 62 万热度 52回复
 1. [如果在游戏《只狼：影逝二度》中加入一个角色，你会怎么写怎么做？](https://www.zhihu.com/question/450713250) 62 万热度 27回复
+1. [从三本考研逆袭到 211 和 985 等名牌高校的人，有哪些经验和建议?](https://www.zhihu.com/question/31305886) 62 万热度 194回复
 1. [当别人喊你丑的时候，你会生气吗？](https://www.zhihu.com/question/445968590) 59 万热度 2137回复
 1. [现在除了文员、销售还能做什么工作？](https://www.zhihu.com/question/429496537) 59 万热度 60回复
 1. [除甲醛有什么比较好的方法呢？](https://www.zhihu.com/question/447150487) 59 万热度 74回复
-1. [有哪些另类温柔的文案？](https://www.zhihu.com/question/448876917) 59 万热度 72回复
 1. [一直干销售一直没有业绩还要坚持吗？](https://www.zhihu.com/question/445745640) 59 万热度 23回复
+1. [有哪些杂七杂八又让你心动的高质量文案？](https://www.zhihu.com/question/448350233) 59 万热度 48回复
 1. [如何评价新款宏光 MINIEV 马卡龙版？](https://www.zhihu.com/question/453595452) 58 万热度 871回复
 1. [突然知道一个被瞒了很久的秘密是一种怎样的体验？](https://www.zhihu.com/question/276574646) 58 万热度 2813回复
+1. [如果有了一亿人民币，你们还会上学 / 工作吗？](https://www.zhihu.com/question/339944846) 57 万热度 11299回复
 1. [网购衣服的技巧有哪些？](https://www.zhihu.com/question/25090754) 55 万热度 203回复
-1. [如果有了一亿人民币，你们还会上学 / 工作吗？](https://www.zhihu.com/question/339944846) 55 万热度 11299回复
 1. [数学界有哪些未解之谜？](https://www.zhihu.com/question/320955000) 54 万热度 40回复
+1. [2021 五一小长假有哪些「人少不贵」的目的地推荐？](https://www.zhihu.com/question/453499061) 48 万热度 29回复
 1. [叔本华说，人的欲望不满足就痛苦，满足了就无聊。难道没有第三种状态吗？](https://www.zhihu.com/question/266175415) 47 万热度 158回复
 1. [如何评价 4 月 7 日力丸赞多米卡的扑通见面会？](https://www.zhihu.com/question/453481304) 47 万热度 27回复
 1. [河北的张飞是杀猪的，山西的关羽是卖枣的，他们在哪学的武艺？](https://www.zhihu.com/question/426938125) 40 万热度 548回复
