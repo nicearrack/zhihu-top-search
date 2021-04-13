@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-14 02:32:33
+最后更新时间 2021-04-14 04:22:13
 
 1. [美国支持日本福岛污水入海决定，称「符合全球公认核安全标准」，如何看待这一表态？日核污水排海真的安全吗？](https://www.zhihu.com/question/454363386) 4555 万热度 2701回复
 1. [你对于何炅父亲被强制执行这件事怎么看？如果何炅爸爸名下没有资产可以让何炅还吗？](https://www.zhihu.com/question/454384646) 3211 万热度 302回复
@@ -35,6 +35,7 @@
 1. [是否可以告诉父母自己是「furry」？](https://www.zhihu.com/question/444555641) 375 万热度 295回复
 1. [如何看待外交部回应日本政府决定核废水排海：极其不负责任？](https://www.zhihu.com/question/454233739) 361 万热度 199回复
 1. [如何看待专家称日本核废水可致「三致」，致癌致畸致突变，对人的遗传基因有重大的影响，该如何防范？](https://www.zhihu.com/question/454262625) 359 万热度 25回复
+1. [如何看待「如果屠宰场的外墙是玻璃做的，你也会是一个素食者」的言论？](https://www.zhihu.com/question/38817519) 356 万热度 4168回复
 1. [为什么菠萝要泡在盐水里？](https://www.zhihu.com/question/441723737) 346 万热度 107回复
 1. [如何看待城区常住人口 300 万以下城市全面取消落户限制，允许租房常住人口在公共户口落户？](https://www.zhihu.com/question/454360402) 323 万热度 63回复
 1. [黑龙江一男子因骚扰下属遭殴打，官方回应称当事人已被撤职，女下属患有精神类疾病免于行政处罚，你怎么看？](https://www.zhihu.com/question/454168308) 323 万热度 199回复
@@ -56,6 +57,7 @@
 1. [如何看待清华大学学生因延长热水供应时间而欢天喜地？](https://www.zhihu.com/question/453236129) 158 万热度 232回复
 1. [联想拯救者已经可以硬刚外星人了吗？](https://www.zhihu.com/question/454150730) 155 万热度 30回复
 1. [如何以「算了，我来嫁。」为开头写一个故事？](https://www.zhihu.com/question/453317026) 150 万热度 25回复
+1. [《创造营 2021》和《时尚 COSMO》的大片中，你认为谁的表现力更强？](https://www.zhihu.com/question/454392318) 136 万热度 22回复
 1. [怎么看一个人有没有领导力？](https://www.zhihu.com/question/430981016) 131 万热度 333回复
 1. [如何评价《长歌行》中的李乐嫣?](https://www.zhihu.com/question/406823769) 127 万热度 57回复
 1. [为什么《三国志 11》在我国被奉为神作？](https://www.zhihu.com/question/65299573) 126 万热度 121回复
@@ -68,11 +70,17 @@
 1. [《海贼王》1010 话是不是让顶上战争的白胡子成了笑话？](https://www.zhihu.com/question/453840083) 103 万热度 88回复
 1. [你知道哪些很心酸的暗恋故事？](https://www.zhihu.com/question/427167729) 101 万热度 362回复
 1. [Paperpass 和维普哪个查重更靠谱？](https://www.zhihu.com/question/28665531) 88 万热度 71回复
+1. [早餐应吃什么？](https://www.zhihu.com/question/419822024) 82 万热度 138回复
 1. [当你竞聘中层管理岗位时，都有哪些问题会经常被问到，该如何应答？](https://www.zhihu.com/question/454376863) 74 万热度 46回复
 1. [同样的故事是看书还是看电影好?](https://www.zhihu.com/question/444727795) 74 万热度 594回复
-1. [早餐应吃什么？](https://www.zhihu.com/question/419822024) 69 万热度 138回复
 1. [你玩《魔兽世界》游戏时有哪些被吓到的经历？](https://www.zhihu.com/question/453200184) 67 万热度 36回复
-1. [如何理解 attention 中的 Q,K,V？](https://www.zhihu.com/question/298810062) 65 万热度 21回复
+1. [如何理解 attention 中的 Q,K,V？](https://www.zhihu.com/question/298810062) 66 万热度 21回复
+1. [如何看待郑州一渣土车疑似闯红灯，为躲避电动车侧翻，导致越野车司机丧命? 渣土车司机需要承担哪些法律责任？](https://www.zhihu.com/question/454243355) 65 万热度 25回复
+1. [剧本杀哪个本比较催泪？](https://www.zhihu.com/question/453206370) 64 万热度 44回复
+1. [为什么每次从公司离职，领导都会说如果出去后还是想回来随时欢迎？](https://www.zhihu.com/question/342314065) 64 万热度 87回复
+1. [机械硬盘有多脆弱？](https://www.zhihu.com/question/23637714) 63 万热度 22回复
+1. [你喜欢《山河令》周子舒的配音吗？为什么？](https://www.zhihu.com/question/453381491) 63 万热度 34回复
+1. [为什么空调房里没蚊子？](https://www.zhihu.com/question/26007726) 62 万热度 186回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
