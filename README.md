@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-16 04:22:11
+最后更新时间 2021-04-16 06:25:18
 
 1. [江歌妈妈诉刘鑫生命权纠纷案开庭，律师：「置江歌于死地的是刘鑫」，索赔 207 万，案件后续走向如何？](https://www.zhihu.com/question/454581804) 2793 万热度 540回复
 1. [如何看待有人模仿 17 元吃海底捞，只点清水锅和少量菜品，称服务员态度不好？](https://www.zhihu.com/question/454761669) 2172 万热度 253回复
@@ -62,12 +62,13 @@
 1. [有没有催泪的虐文小说？](https://www.zhihu.com/question/437052793) 108 万热度 28回复
 1. [非洲人民会喜欢二次元，网文等文化形式吗？](https://www.zhihu.com/question/452958594) 91 万热度 32回复
 1. [遇到下一次物种大灭绝的时候，人类能存活下来吗？](https://www.zhihu.com/question/447509059) 89 万热度 33回复
+1. [已经和 Uzi 闹到这种地步，为什么 RNG 还不做任何回应？](https://www.zhihu.com/question/454575947) 89 万热度 22回复
 1. [你的科研 PPT 的图都是如何绘制的？](https://www.zhihu.com/question/353575061) 87 万热度 47回复
 1. [如何制作优秀的毕业论文答辩 PPT？](https://www.zhihu.com/question/23221029) 84 万热度 150回复
 1. [如果你已经知道在你死后，人类（或其他生物）研究出了长生不老之术，你会遗憾吗？](https://www.zhihu.com/question/454694108) 82 万热度 72回复
 1. [有什么建议要给即将生产的产妇吗？](https://www.zhihu.com/question/442430121) 73 万热度 103回复
 1. [定制衣柜看板材还是看厂家？](https://www.zhihu.com/question/442506514) 71 万热度 71回复
-1. [为什么有的女生你找她聊天她就和你聊，你不找她她也不找你？](https://www.zhihu.com/question/438373759) 67 万热度 848回复
+1. [为什么有的女生你找她聊天她就和你聊，你不找她她也不找你？](https://www.zhihu.com/question/438373759) 69 万热度 848回复
 1. [有什么适合一年级左右的孩子自己阅读的故事绘本？](https://www.zhihu.com/question/380941515) 65 万热度 50回复
 1. [打工 VS 创业 ，哪个风险更大？](https://www.zhihu.com/question/445185445) 65 万热度 155回复
 1. [看了《长歌行》后，你有对谁转粉吗？](https://www.zhihu.com/question/453804297) 64 万热度 85回复
@@ -77,6 +78,10 @@
 1. [健康管理师怎么报名?](https://www.zhihu.com/question/449073697) 59 万热度 29回复
 1. [注册好域名了，怎样开始做网站？](https://www.zhihu.com/question/30041027) 59 万热度 67回复
 1. [写学术论文，需要学会哪些 Word 技巧?](https://www.zhihu.com/question/28122209) 59 万热度 206回复
+1. [减肥到底每天怎么吃？](https://www.zhihu.com/question/307548178) 58 万热度 201回复
+1. [如何评价宋亚轩被邀请参加 Dior2021 年 4 月 12 日的秀?](https://www.zhihu.com/question/454411915) 57 万热度 24回复
+1. [《明日方舟》中的塔露拉政治水平怎么样？](https://www.zhihu.com/question/454406141) 57 万热度 24回复
+1. [如果天窗、鬼谷、毒蝎三家同时招聘，你会应聘哪一家？](https://www.zhihu.com/question/453932830) 57 万热度 63回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
