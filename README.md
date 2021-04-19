@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-19 06:25:22
+最后更新时间 2021-04-19 09:03:41
 
 1. [如何看待中科院自动化所的博士论文致谢?](https://www.zhihu.com/question/454961393) 5132 万热度 1768回复
 1. [如何看待比特币 4 月 18 日暴跌？是否意味着击鼓传花的游戏已经结束？](https://www.zhihu.com/question/455237775) 4287 万热度 1058回复
@@ -27,10 +27,13 @@
 1. [博士真的多到烂大街了吗？](https://www.zhihu.com/question/452575705) 655 万热度 233回复
 1. [买了十只蟹，三个人平摊，室友吃的慢吃了两只，该不该付三分之一的钱？](https://www.zhihu.com/question/455193507) 650 万热度 212回复
 1. [桂林一旅游大巴撞限高架致 1 死 6 伤，暴露了哪些问题？今后如何防范？](https://www.zhihu.com/question/455248863) 608 万热度 101回复
+1. [如何评价 2021 LPL 春季总决赛上 Gala 拿下五杀？](https://www.zhihu.com/question/455310660) 594 万热度 30回复
+1. [欧洲 12 大俱乐部宣布创立欧洲超级联赛，这会对足坛格局产生怎样的影响？](https://www.zhihu.com/question/455361128) 590 万热度 74回复
 1. [明明失业了却还要瞒着家人天天装作上班的样子，是一种什么体验？](https://www.zhihu.com/question/385138324) 559 万热度 347回复
+1. [小米、大疆、华为、滴滴、百度等加入这一轮造车潮中的公司，谁胜出的可能性比较大？](https://www.zhihu.com/question/454743115) 526 万热度 21回复
 1. [2021 年 4 月硬盘为什么涨价了？](https://www.zhihu.com/question/454702858) 450 万热度 61回复
 1. [chia(奇亚）最近很火爆，导致大容量硬盘市场缺货，chia 的真实收益怎么样？](https://www.zhihu.com/question/454794462) 429 万热度 35回复
-1. [如何评价 2021 LPL 春季总决赛上 Gala 拿下五杀？](https://www.zhihu.com/question/455310660) 428 万热度 30回复
+1. [怎么劝老一辈不要过分节约？](https://www.zhihu.com/question/447436632) 420 万热度 25回复
 1. [如何看待张萌三四点钟还在给员工发微信？](https://www.zhihu.com/question/455214136) 400 万热度 141回复
 1. [帮对象开出了价值上万的刀（csgo），该不该要钱？](https://www.zhihu.com/question/453057773) 395 万热度 351回复
 1. [「父母都走了之后，兄弟姐妹就散了」基本不来往了，是真的吗？](https://www.zhihu.com/question/368765655) 390 万热度 1471回复
@@ -39,36 +42,42 @@
 1. [在两性关系里男人真正需要的是什么？](https://www.zhihu.com/question/319606888) 347 万热度 222回复
 1. [美日领导人会晤拜登戴两只口罩，菅义伟戴印有日美国旗的口罩，你怎么看？此次会晤哪些信息值得关注？](https://www.zhihu.com/question/455138155) 335 万热度 64回复
 1. [如何看待美国 FBI 局长称：没哪个国家比中国对美国威胁更大，FBI 每 10 小时对中国启动一项新调查？](https://www.zhihu.com/question/454923408) 329 万热度 134回复
+1. [如何看待中美发表「中美应对气候危机联合声明」？释放了哪些信号？](https://www.zhihu.com/question/455236412) 277 万热度 38回复
 1. [4 月 18 日台湾花莲 3 分钟内发生两次地震，最大 6.1 级，当地情况如何？](https://www.zhihu.com/question/455335878) 259 万热度 236回复
-1. [怎么劝老一辈不要过分节约？](https://www.zhihu.com/question/447436632) 252 万热度 25回复
 1. [从开赛前不被看好到逆袭夺冠，如何评价 2021 LPL 春季赛的 RNG 战队？](https://www.zhihu.com/question/455317970) 237 万热度 22回复
-1. [如何看待中美发表「中美应对气候危机联合声明」？释放了哪些信号？](https://www.zhihu.com/question/455236412) 236 万热度 38回复
-1. [小米、大疆、华为、滴滴、百度等加入这一轮造车潮中的公司，谁胜出的可能性比较大？](https://www.zhihu.com/question/454743115) 222 万热度 21回复
 1. [如何看待复旦大学 2021 年本科转专业结果？](https://www.zhihu.com/question/453527672) 211 万热度 30回复
+1. [金融行业的人怎么看《闪闪发光的你》这个综艺？](https://www.zhihu.com/question/455159005) 202 万热度 31回复
 1. [如何看待利路修在《创造营 2021》最新排名中表示粉丝要有分寸感？](https://www.zhihu.com/question/455148531) 201 万热度 86回复
 1. [为什么不验证黑暗森林理论？](https://www.zhihu.com/question/453844496) 195 万热度 94回复
 1. [黑咖啡长期喝会怎么样?](https://www.zhihu.com/question/443313181) 194 万热度 165回复
-1. [金融行业的人怎么看《闪闪发光的你》这个综艺？](https://www.zhihu.com/question/455159005) 171 万热度 31回复
+1. [极氪 001 和特斯拉怎么选？](https://www.zhihu.com/question/454868385) 158 万热度 32回复
 1. [导师会翻看你的朋友圈吗?](https://www.zhihu.com/question/377742704) 157 万热度 32回复
 1. [如何看待杭州一公司以帮忙存钱买房为由扣下部分收入，在员工离职后拒绝支付该笔款项？员工该如何维权？](https://www.zhihu.com/question/454583213) 152 万热度 48回复
-1. [极氪 001 和特斯拉怎么选？](https://www.zhihu.com/question/454868385) 149 万热度 32回复
 1. [一直不上班是什么感觉？](https://www.zhihu.com/question/357403839) 148 万热度 953回复
 1. [追女生的时候女生什么反应就代表你没戏了？](https://www.zhihu.com/question/437267039) 147 万热度 812回复
+1. [如果开一辆无限供应油且可以自我修复的飞车穿越到古代，能不能凭借汽车成为所向披靡的汽车将军？](https://www.zhihu.com/question/451274477) 141 万热度 80回复
+1. [《西游记》里的车迟国三妖无辜吗？](https://www.zhihu.com/question/317124284) 137 万热度 191回复
 1. [有哪些软件堪称神器，却很少人知道？](https://www.zhihu.com/question/327826314) 132 万热度 78回复
 1. [有哪些「绝美」的裙子一定要趁着年轻穿？](https://www.zhihu.com/question/372236949) 131 万热度 94回复
-1. [如果开一辆无限供应油且可以自我修复的飞车穿越到古代，能不能凭借汽车成为所向披靡的汽车将军？](https://www.zhihu.com/question/451274477) 124 万热度 80回复
 1. [知道自己得了癌后是什么样的心情？](https://www.zhihu.com/question/265737389) 121 万热度 152回复
 1. [如何以「我嫁给了自己的心上人」为开头写一个故事？](https://www.zhihu.com/question/439797329) 99 万热度 356回复
-1. [2021，西安房子还值得买吗？](https://www.zhihu.com/question/438443905) 73 万热度 39回复
+1. [《青春有你 第三季》罗一舟最后可能 C 位出道吗？](https://www.zhihu.com/question/453976137) 83 万热度 49回复
+1. [2021，西安房子还值得买吗？](https://www.zhihu.com/question/438443905) 75 万热度 39回复
 1. [一天赶完毕业论文是怎样的体验？](https://www.zhihu.com/question/30214136) 69 万热度 375回复
-1. [《西游记》里的车迟国三妖无辜吗？](https://www.zhihu.com/question/317124284) 67 万热度 191回复
+1. [会游泳的人能胜任自然水域吗？](https://www.zhihu.com/question/308185916) 66 万热度 369回复
 1. [如果唐三和萧炎穿越的世界对调会发生什么变化？](https://www.zhihu.com/question/450002450) 61 万热度 102回复
 1. [天道里，丁元英为什么不喜欢聪明如肖亚文，却爱上了芮小丹？](https://www.zhihu.com/question/400785434) 59 万热度 79回复
 1. [第一次追星，你追的是谁？](https://www.zhihu.com/question/448580730) 59 万热度 9607回复
 1. [你看过最好的十本网络小说是什么？](https://www.zhihu.com/question/35584877) 59 万热度 6673回复
+1. [2021 年，开发单个 exe 桌面应用程序，用什么语言、技术合适？](https://www.zhihu.com/question/453979660) 59 万热度 27回复
+1. [有哪些女主智商在线的小说推荐？](https://www.zhihu.com/question/384120611) 59 万热度 61回复
+1. [想了解日本文化，阅读《菊与刀》是一个好的选择吗？](https://www.zhihu.com/question/451918904) 58 万热度 31回复
 1. [如何改善脸色暗沉的状态？](https://www.zhihu.com/question/26849469) 56 万热度 330回复
 1. [应该清楚男友哪些方面才能结婚？](https://www.zhihu.com/question/19732277) 55 万热度 3108回复
 1. [网恋加异地，会有结果吗？](https://www.zhihu.com/question/451902107) 54 万热度 434回复
+1. [你有哪些对男孩子的恋爱忠告？](https://www.zhihu.com/question/293676302) 48 万热度 665回复
+1. [有没有什么甜到爆炸的短篇小说推荐？](https://www.zhihu.com/question/329697643) 48 万热度 716回复
+1. [怎么可以让《海贼王》轻易烂尾?](https://www.zhihu.com/question/352543146) 47 万热度 404回复
 1. [如何评价 2021 年 LPL 春季赛决赛赛前垃圾话环节？](https://www.zhihu.com/question/455135309) 41 万热度 53回复
 1. [萌新看《名侦探柯南：绯色的子弹》需要先了解些什么？](https://www.zhihu.com/question/453972957) 35 万热度 43回复
 1. [《明日方舟》新活动关卡 WD-8 追猎者是否是刻意针对史尔特尔，未来会有更多类似的特化型 BOSS 吗 ？](https://www.zhihu.com/question/454735362) 35 万热度 53回复
