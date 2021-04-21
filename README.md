@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-22 02:34:12
+最后更新时间 2021-04-22 04:22:49
 
 1. [如何看待 4 月 17 日广州增城一特斯拉起火爆燃，致 1 人死亡？起火原因可能是什么？](https://www.zhihu.com/question/455724748) 4524 万热度 959回复
 1. [裸睡时如果地震了怎么办？](https://www.zhihu.com/question/23204731) 1498 万热度 1003回复
@@ -33,6 +33,7 @@
 1. [南开大学化学专业毕业生称「每个专业都有劝退言论，没有好坏只有合适与否」，真的吗？大学专业该怎么选？](https://www.zhihu.com/question/454532962) 362 万热度 227回复
 1. [为什么领导们都爱用保温杯喝水？](https://www.zhihu.com/question/302287551) 342 万热度 303回复
 1. [如果地球的铁元素瞬间消失 30s，然后恢复到原位。世界会变成什么样子？](https://www.zhihu.com/question/454401121) 312 万热度 41回复
+1. [你看过最爽的爽文有多爽？](https://www.zhihu.com/question/332411777) 304 万热度 1517回复
 1. [如何评价《尚气》首支预告？](https://www.zhihu.com/question/455512619) 291 万热度 185回复
 1. [2021 苹果官网教育优惠大概是什么时候？](https://www.zhihu.com/question/439446737) 288 万热度 26回复
 1. [日媒称甘当美国小弟不符日本利益，在与崛起中的邻国相处中，日本应制定自己的主体战略。如何看待？](https://www.zhihu.com/question/455401742) 284 万热度 79回复
@@ -63,14 +64,18 @@
 1. [有哪些瞬间让你细思恐极？](https://www.zhihu.com/question/443072214) 117 万热度 64回复
 1. [作为研究生，你有什么想告诉想读研的人？](https://www.zhihu.com/question/36447117) 115 万热度 145回复
 1. [利用碎片时间到底能不能学到新知识？](https://www.zhihu.com/question/455761670) 111 万热度 45回复
+1. [如何看待关晓彤为鹿晗庆生卡点？](https://www.zhihu.com/question/455703521) 93 万热度 53回复
 1. [有没有让人心动的夏天文案？](https://www.zhihu.com/question/454237934) 83 万热度 45回复
 1. [《小李飞刀》的李寻欢与乔峰谁更惨？](https://www.zhihu.com/question/454456595) 80 万热度 37回复
+1. [如何以「师父亲手把我推下了诛仙台」为开头写一个故事？](https://www.zhihu.com/question/435873943) 77 万热度 533回复
 1. [读研能够改变命运吗？](https://www.zhihu.com/question/452760344) 75 万热度 85回复
 1. [如何看待上海车展女子爬上特斯拉车顶维权，真相是怎样的？](https://www.zhihu.com/question/455412427) 73 万热度 27回复
 1. [《王者荣耀》怎样才能不连跪？](https://www.zhihu.com/question/445623370) 72 万热度 527回复
-1. [商业分析能力是怎样炼成的？](https://www.zhihu.com/question/20603837) 70 万热度 417回复
+1. [商业分析能力是怎样炼成的？](https://www.zhihu.com/question/20603837) 72 万热度 417回复
 1. [绘本里的个性趣味与知识，家长更重视哪个？](https://www.zhihu.com/question/455759099) 65 万热度 33回复
 1. [如何以「姑娘，你的尾巴露出来了」为开头写一个故事？](https://www.zhihu.com/question/452090061) 64 万热度 37回复
+1. [如何用一个月的时间备考雅思？](https://www.zhihu.com/question/37610645) 62 万热度 50回复
+1. [在陪伴孩子亲子共读的过程中，你都积累了哪些伴读小技巧，让一本书读出花样？](https://www.zhihu.com/question/454414309) 62 万热度 70回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
