@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-24 04:23:32
+最后更新时间 2021-04-24 06:27:41
 
 1. [2021 美赛成绩于 4 月 23 日公布，大家有何感想？](https://www.zhihu.com/question/455663200) 1781 万热度 228回复
 1. [如何看待上海维权女车主丈夫称「特斯拉擅自公布行车数据，已侵犯个人隐私权」？行车数据属于个人隐私吗？](https://www.zhihu.com/question/456075339) 1688 万热度 1053回复
@@ -45,14 +45,17 @@
 1. [如何评价「黄日华是乔帮主，胡军是萧大王」这句话，你认同吗？](https://www.zhihu.com/question/455951976) 92 万热度 25回复
 1. [如何模仿律师的行为举止和言谈口吻，且做到不被专业律师识破？](https://www.zhihu.com/question/454476477) 82 万热度 21回复
 1. [2021 fall 英国本科申请你被什么学校录取 (con/reject) 了？你的标化成绩和课外活动如何？](https://www.zhihu.com/question/355593852) 82 万热度 626回复
+1. [还有一个星期就要提 model 3 了，要退吗？能不能有个人用最通俗易懂的话解释清楚到底刹车有没有问题？](https://www.zhihu.com/question/455848161) 74 万热度 60回复
 1. [如何能养成早睡早起的习惯啊？](https://www.zhihu.com/question/453013083) 72 万热度 143回复
-1. [应届生在面试中，如何做好自我介绍这个环节？](https://www.zhihu.com/question/22258620) 65 万热度 33回复
+1. [如何看待 4 月 22 日 UCL information management 与统计系发大量拒信？](https://www.zhihu.com/question/456028982) 70 万热度 24回复
+1. [应届生在面试中，如何做好自我介绍这个环节？](https://www.zhihu.com/question/22258620) 66 万热度 33回复
+1. [关于创业有什么建议？](https://www.zhihu.com/question/446914260) 62 万热度 149回复
 1. [在学习高中化学的过程中有没有什么好的经验可以分享？](https://www.zhihu.com/question/24675703) 61 万热度 129回复
 1. [应届生的身份到底有多重要？](https://www.zhihu.com/question/386115358) 59 万热度 324回复
 1. [社会性死亡是一种什么体验？](https://www.zhihu.com/question/310614571) 59 万热度 732回复
 1. [男生什么行为会让女生觉得很掉价？](https://www.zhihu.com/question/444620467) 58 万热度 813回复
 1. [你最庆幸自己养成了什么习惯？](https://www.zhihu.com/question/393200731) 57 万热度 2835回复
-1. [女孩子什么行为会让男生觉得很掉价？](https://www.zhihu.com/question/413138711) 55 万热度 1717回复
+1. [女孩子什么行为会让男生觉得很掉价？](https://www.zhihu.com/question/413138711) 56 万热度 1717回复
 1. [感觉每天活的都很无趣怎么办？](https://www.zhihu.com/question/455147399) 51 万热度 148回复
 1. [一加手机使用一两年的情况怎么样？](https://www.zhihu.com/question/284017728) 50 万热度 83回复
 1. [你们早起的动力是什么？](https://www.zhihu.com/question/452919710) 49 万热度 339回复
