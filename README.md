@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-26 00:40:43
+最后更新时间 2021-04-26 02:35:16
 
 1. [如何看待腾讯等多家视频平台联合 500 多位艺人发倡议书，抵制影视剪辑视频内容？](https://www.zhihu.com/question/456215864) 3890 万热度 2211回复
 1. [外交部回应帮助印度疫情：「中国向印度发出最友善的信号」，对此你怎么看？](https://www.zhihu.com/question/456409238) 1941 万热度 679回复
@@ -36,15 +36,16 @@
 1. [土耳其房价涨幅居全球首位，2020 年涨幅近 30% ，为什么涨这么快？对当地经济生活有何影响？](https://www.zhihu.com/question/455919208) 334 万热度 197回复
 1. [如何看待我国三成大学生体质健康不及格？怎样形成健康的生活方式，做到劳逸结合？](https://www.zhihu.com/question/456260066) 297 万热度 173回复
 1. [没有人类的时候马是怎么修蹄子的？](https://www.zhihu.com/question/455532030) 284 万热度 47回复
+1. [《哈利·波特》中为什么哈利最后和金妮在一起而不是赫敏？](https://www.zhihu.com/question/29669880) 282 万热度 475回复
 1. [如何看待对灰原哀声优林原惠美的批评? 她有哪些黑点呢?](https://www.zhihu.com/question/456306470) 240 万热度 88回复
 1. [苹果新 iPad Pro 发布之后，其他手机厂商的平板还有机会吗？](https://www.zhihu.com/question/455794376) 234 万热度 136回复
 1. [iPhone12 现在入手还是等等 618？](https://www.zhihu.com/question/454827279) 233 万热度 60回复
 1. [围棋是世界最难的游戏吗？](https://www.zhihu.com/question/455888232) 223 万热度 75回复
+1. [本科毕业论文，参考文献对应不上，可以乱标吗？](https://www.zhihu.com/question/381443047) 219 万热度 140回复
 1. [被母亲爱着是怎样一种感受？](https://www.zhihu.com/question/36436131) 217 万热度 1002回复
 1. [如何看待中国网友用《进击的巨人》剧情角色，创作讽刺日本倾倒核废水的动画《阴间的巨人》？](https://www.zhihu.com/question/456195893) 216 万热度 83回复
 1. [考上研需要发朋友圈吗?](https://www.zhihu.com/question/395196543) 215 万热度 109回复
 1. [如何看待 Model 3 自动驾驶时方向盘卡死撞树且气囊未弹出，行车记录仪事发时的视频消失？](https://www.zhihu.com/question/451337512) 211 万热度 326回复
-1. [本科毕业论文，参考文献对应不上，可以乱标吗？](https://www.zhihu.com/question/381443047) 206 万热度 140回复
 1. [百年来，哪些歌曲至今让你听了以后感到热血沸腾？](https://www.zhihu.com/question/455864364) 204 万热度 201回复
 1. [哄女朋友睡觉用的小故事有哪些？](https://www.zhihu.com/question/63329098) 204 万热度 37回复
 1. [伊利诺伊大学香槟分校相当于中国什么大学?](https://www.zhihu.com/question/454915503) 192 万热度 40回复
@@ -54,18 +55,24 @@
 1. [超 70 家影视传媒单位联合倡议：「立即清理未经授权短视频」，对短视频平台有何影响？](https://www.zhihu.com/question/456193897) 170 万热度 65回复
 1. [被一个不喜欢的人表白怎么办？](https://www.zhihu.com/question/455949797) 167 万热度 178回复
 1. [如何看待特斯拉上海维权的西安车主事发时的视频以及特斯拉的回应?](https://www.zhihu.com/question/456215000) 165 万热度 61回复
-1. [人工智能是不是走错了方向？](https://www.zhihu.com/question/445383290) 151 万热度 70回复
+1. [如何评价《小舍得》中田雨岚？](https://www.zhihu.com/question/455107165) 156 万热度 68回复
+1. [人工智能是不是走错了方向？](https://www.zhihu.com/question/445383290) 155 万热度 70回复
 1. [如何看待豆瓣《扎克·施奈德版正义联盟》打分人数仅增加几千人，评分却从 8.8 突然掉到 8.3？](https://www.zhihu.com/question/456413907) 149 万热度 71回复
+1. [如何评价《小舍得》中的蔡菊英？](https://www.zhihu.com/question/456055925) 111 万热度 21回复
 1. [领导经常在你耳边说公司缺谁照样可以运转是什么意思？](https://www.zhihu.com/question/454911360) 104 万热度 96回复
+1. [如何把团队带散？](https://www.zhihu.com/question/442522186) 95 万热度 242回复
+1. [如何看待 2021 年《魔法少女小圆》新剧场版〈ワルプルギスの廻天〉新作决定？](https://www.zhihu.com/question/456510948) 93 万热度 24回复
+1. [有哪些文案会让你陷入沉思？](https://www.zhihu.com/question/450526406) 91 万热度 183回复
 1. [有哪些让人落泪的文案？](https://www.zhihu.com/question/450182895) 81 万热度 219回复
 1. [请大家给个建议，留在南京还是回苏北老家？](https://www.zhihu.com/question/454987151) 78 万热度 95回复
-1. [如果房子和汽车统一，不再有固定住址，你愿意接受吗？](https://www.zhihu.com/question/451376211) 70 万热度 45回复
-1. [最喜欢的女作家是谁？](https://www.zhihu.com/question/22875167) 67 万热度 102回复
+1. [如果房子和汽车统一，不再有固定住址，你愿意接受吗？](https://www.zhihu.com/question/451376211) 74 万热度 45回复
+1. [最喜欢的女作家是谁？](https://www.zhihu.com/question/22875167) 70 万热度 102回复
 1. [如何培养农村孩子的阅读兴趣?](https://www.zhihu.com/question/455100555) 66 万热度 42回复
 1. [在教育孩子的过程中，你觉得最好的教育观念是什么？](https://www.zhihu.com/question/442433746) 59 万热度 835回复
 1. [《创造营 2021》的成团名单你满意吗？](https://www.zhihu.com/question/456379139) 58 万热度 93回复
 1. [五一火车票抢不到票，后期还有希望吗？](https://www.zhihu.com/question/455096817) 58 万热度 78回复
 1. [挣钱究竟是为了什么？](https://www.zhihu.com/question/450483383) 58 万热度 791回复
+1. [狗会差别对待男女主人吗？](https://www.zhihu.com/question/455674993) 57 万热度 36回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
