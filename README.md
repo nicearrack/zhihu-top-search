@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-04-27 02:35:25
+最后更新时间 2021-04-27 04:22:53
 
 1. [2021 软科中国大学排名发布，非双一流跻身百强，冠军高校保持领先，会带来哪些影响？](https://www.zhihu.com/question/456588330) 4050 万热度 674回复
 1. [河南一校长发表熟蛋返生孵雏鸡论文，称利用特异学生意念和能量传播，为什么该论文能发表？暴露了哪些问题？](https://www.zhihu.com/question/456600672) 2718 万热度 1046回复
@@ -57,12 +57,16 @@
 1. [作为一个大学生，拿 iPad 记笔记真的可以代替纸质笔记本吗？](https://www.zhihu.com/question/304770209) 116 万热度 1085回复
 1. [除了 Faker 的沙皇，赛场上还有哪些英雄是某人专属？](https://www.zhihu.com/question/443771037) 112 万热度 60回复
 1. [2021 KPL 春季赛成都 AG 3:2 TES，如何评价这场比赛？](https://www.zhihu.com/question/456536490) 106 万热度 22回复
+1. [如何看待能在床上躺一天的舍友？](https://www.zhihu.com/question/318657086) 105 万热度 3603回复
 1. [什么时候，你突然觉得读书真的有用？](https://www.zhihu.com/question/453740380) 102 万热度 315回复
 1. [2021 年五一小长假哪里人少又好玩？](https://www.zhihu.com/question/454525882) 94 万热度 87回复
 1. [宿舍里有什么好吃的速食推荐？](https://www.zhihu.com/question/451613847) 81 万热度 28回复
 1. [漫威电影宇宙有什么槽点？](https://www.zhihu.com/question/305191364) 77 万热度 42回复
 1. [听说甲醛危害风险很高，是否要为呼吸「投保」?](https://www.zhihu.com/question/455436050) 74 万热度 24回复
-1. [职业画家的造型技法究竟有多精湛？](https://www.zhihu.com/question/273919371) 67 万热度 531回复
+1. [与人交往中，怎么识人？](https://www.zhihu.com/question/325225784) 74 万热度 1386回复
+1. [职业画家的造型技法究竟有多精湛？](https://www.zhihu.com/question/273919371) 71 万热度 531回复
+1. [高三了，睡眠很少，第二天难免会打瞌睡，请问有什么比较好提神 (不打瞌睡) 的方法吗?](https://www.zhihu.com/question/309565178) 71 万热度 21600回复
+1. [什么是情绪价值？](https://www.zhihu.com/question/326968879) 69 万热度 199回复
 1. [如果重来一次，你还愿意吗？](https://www.zhihu.com/question/455152927) 66 万热度 255回复
 1. [有什么推荐的国产好鞋吗？](https://www.zhihu.com/question/452510931) 64 万热度 185回复
 1. [大学当班干部有必要吗？](https://www.zhihu.com/question/295922396) 59 万热度 15061回复
