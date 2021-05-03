@@ -14,11 +14,11 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-03 10:43:49
+最后更新时间 2021-05-03 12:26:59
 
-1. [如何看待《青春有你 3》牛奶打投，粉丝为投票将大量未饮用的牛奶倒入下水道？](https://www.zhihu.com/question/457119531) 2120 万热度 686回复
+1. [如何看待《青春有你 3》牛奶打投，粉丝为投票将大量未饮用的牛奶倒入下水道？](https://www.zhihu.com/question/457119531) 2459 万热度 686回复
 1. [单日新增逾 40 万例新冠肺炎确诊病例，印度这是咋了？](https://www.zhihu.com/question/457388433) 1939 万热度 313回复
-1. [如何看待长沙成为五一网红城市？](https://www.zhihu.com/question/457303834) 1197 万热度 26回复
+1. [如何看待长沙成为五一网红城市？](https://www.zhihu.com/question/457303834) 1803 万热度 26回复
 1. [如何看待《王者荣耀》新出的同城模式？《王者荣耀》会变成相亲软件吗？](https://www.zhihu.com/question/457261841) 1150 万热度 305回复
 1. [如何看待李雪琴说「要允许北大毕业的一些人没那么大的本事」？](https://www.zhihu.com/question/457408234) 953 万热度 342回复
 1. [如果新冠肺炎要是发生在古代，那么人类是不是就要灭亡了？](https://www.zhihu.com/question/386034997) 937 万热度 436回复
@@ -39,24 +39,28 @@
 1. [你吃过的最绝望的食物是什么？](https://www.zhihu.com/question/266593795) 299 万热度 24回复
 1. [有哪些只有高智商的人才会有的毛病？](https://www.zhihu.com/question/301999320) 295 万热度 250回复
 1. [为什么肥肠吃起来口感不错？](https://www.zhihu.com/question/344215207) 280 万热度 316回复
-1. [大家是如何看待有些译员在翻译文章时，先机翻，然后在机翻的基础上进行修改和润色？机翻是否可取呢？](https://www.zhihu.com/question/453300590) 261 万热度 45回复
+1. [大家是如何看待有些译员在翻译文章时，先机翻，然后在机翻的基础上进行修改和润色？机翻是否可取呢？](https://www.zhihu.com/question/453300590) 264 万热度 45回复
 1. [如何看待 59 岁华尔街传奇基金经理查尔斯·德·沃克斯跳楼自杀，或因其管理的基金面临清算？](https://www.zhihu.com/question/457186328) 255 万热度 56回复
 1. [打算在 2021 年的 618 买手机，有什么推荐的机型?](https://www.zhihu.com/question/451810139) 244 万热度 69回复
 1. [如何评价内地翻拍电影《你的婚礼》?](https://www.zhihu.com/question/374474502) 239 万热度 186回复
 1. [如何评价伊能静和家长们讨论鸡娃教育焦虑时说「真正的天赋是完全不耗费金钱的」？](https://www.zhihu.com/question/457456468) 236 万热度 161回复
+1. [炒股可以在多大程度上影响一个人的生活？](https://www.zhihu.com/question/34200652) 230 万热度 651回复
+1. [第一次玩剧本杀应该注意什么？](https://www.zhihu.com/question/392135348) 200 万热度 82回复
 1. [为什么甄嬛升妃了妆容那么浓重，而其他妃子好似都没多少变化？](https://www.zhihu.com/question/457149850) 193 万热度 31回复
 1. [如何看待越来越多人在职场打拼几年后会选择辞职考研考证，在职场里经验是否真的不如学历？](https://www.zhihu.com/question/457426657) 192 万热度 138回复
+1. [如果我每次抬手都能随机召唤一个动物（地球上存在的）会发生什么？](https://www.zhihu.com/question/457184253) 184 万热度 22回复
 1. [你吃过最好吃的炸鸡是哪种？](https://www.zhihu.com/question/21348636) 181 万热度 239回复
 1. [为什么《创造营》出道的男团名字都很洋气，女团名字很土味?](https://www.zhihu.com/question/456581591) 181 万热度 44回复
 1. [什么是有孩子之后才知道的事？](https://www.zhihu.com/question/456245328) 179 万热度 52回复
-1. [炒股可以在多大程度上影响一个人的生活？](https://www.zhihu.com/question/34200652) 176 万热度 651回复
 1. [你在飞机上遇见过什么奇葩？](https://www.zhihu.com/question/25871260) 173 万热度 527回复
 1. [长得有点漂亮，却又不够漂亮，是一种怎样的体验？](https://www.zhihu.com/question/64018902) 169 万热度 2043回复
+1. [有哪些事是男生很想让女朋友知道的？](https://www.zhihu.com/question/426854994) 160 万热度 22回复
 1. [为什么陆地上常见的动物都是两个鼻孔？](https://www.zhihu.com/question/456066433) 156 万热度 42回复
-1. [有哪些事是男生很想让女朋友知道的？](https://www.zhihu.com/question/426854994) 152 万热度 22回复
 1. [你心中 INTO1 男团的 ACE 是谁？](https://www.zhihu.com/question/457313739) 145 万热度 80回复
 1. [15 万落地买什么车开着舒服省心?](https://www.zhihu.com/question/441839447) 141 万热度 141回复
+1. [如何看待钟离复刻池流水成绩不理想?](https://www.zhihu.com/question/457248572) 138 万热度 68回复
 1. [如何看待刘雨昕参加音乐节打歌？](https://www.zhihu.com/question/454157222) 129 万热度 46回复
+1. [哪一刻你发现这届年轻人比你想象中更勇敢？](https://www.zhihu.com/question/456819341) 119 万热度 38回复
 1. [省考我笔试第二名，第一名比我高了八分，第三名比我低了一分，只招一个人，我能逆袭上岸吗？](https://www.zhihu.com/question/325465519) 118 万热度 247回复
 1. [作为一个老师，在学生眼中严厉好，还是不严厉好?](https://www.zhihu.com/question/453123833) 116 万热度 47回复
 1. [演员到底有多吃天赋？](https://www.zhihu.com/question/443350396) 112 万热度 36回复
@@ -64,13 +68,21 @@
 1. [你送过最棒的母亲节礼物是什么?](https://www.zhihu.com/question/276772445) 110 万热度 276回复
 1. [粉张哲瀚上头了，怎么办?](https://www.zhihu.com/question/456001309) 109 万热度 102回复
 1. [有哪些电视剧让你觉得是真的国产之光？](https://www.zhihu.com/question/441124825) 103 万热度 318回复
-1. [如果我每次抬手都能随机召唤一个动物（地球上存在的）会发生什么？](https://www.zhihu.com/question/457184253) 98 万热度 22回复
-1. [如何看待钟离复刻池流水成绩不理想?](https://www.zhihu.com/question/457248572) 94 万热度 68回复
+1. [猝不及防的被分手了，什么感觉？](https://www.zhihu.com/question/358145452) 97 万热度 1166回复
 1. [你对那些在动漫中除了「亚撒西」其他一无所有的男主有什么看法？](https://www.zhihu.com/question/457327327) 88 万热度 28回复
+1. [如果 C 罗退役，大罗小罗 C 罗，他们的历史地位该如何排名？](https://www.zhihu.com/question/384740207) 88 万热度 53回复
+1. [该不该放弃嵌入式，单片机这条路？](https://www.zhihu.com/question/370606355) 80 万热度 147回复
 1. [Linux 的文件管理机制是否比 Windows 更优秀？](https://www.zhihu.com/question/455934619) 79 万热度 23回复
+1. [有哪些漫画因为是同一个作者创作，结果打通了世界观？](https://www.zhihu.com/question/437451134) 78 万热度 55回复
+1. [如何看待 2021 伯克希尔股东大会上，巴菲特承认卖苹果股票是个错误？](https://www.zhihu.com/question/457488859) 73 万热度 28回复
+1. [如何学好高中立体几何？](https://www.zhihu.com/question/27632773) 72 万热度 53回复
 1. [你有哪些亲自实践过且有效的美白方法？](https://www.zhihu.com/question/19638296) 69 万热度 1698回复
+1. [高中阶段，倾向从事理论物理专业，自读 Peskin，读了一百四十多页，在高中最应该做好什么？](https://www.zhihu.com/question/457540957) 68 万热度 32回复
+1. [为什么汉堡包是垃圾食品？](https://www.zhihu.com/question/382868803) 67 万热度 29回复
 1. [你在什么情况下会给外卖差评？](https://www.zhihu.com/question/456249786) 65 万热度 77回复
-1. [如何学好高中立体几何？](https://www.zhihu.com/question/27632773) 59 万热度 53回复
+1. [520 送男朋友什么礼物合适？](https://www.zhihu.com/question/393509849) 62 万热度 411回复
+1. [游戏《我的世界》（Minecraft）中，有哪些让你感到遗憾的地方？](https://www.zhihu.com/question/451353111) 61 万热度 22回复
+1. [有什么方法可以在上课的时候不困？](https://www.zhihu.com/question/453132101) 59 万热度 370回复
 1. [如何评价共青团中央和知乎联合出品的五四微电影《重逢》？](https://www.zhihu.com/question/457512856) 56 万热度 71回复
 1. [如何评价任素汐主演的电影《寻汉计》？](https://www.zhihu.com/question/452124896) 51 万热度 100回复
 1. [大龄剩女（35+）最大的痛心是什么？](https://www.zhihu.com/question/440901341) 50 万热度 1492回复
@@ -88,6 +100,7 @@
 1. [如果一个人注定是为了一句古诗词而活，那么你们希望这是什么古诗词呢？又为什么呢？](https://www.zhihu.com/question/453413029) 43 万热度 301回复
 1. [如何评价《原神》5 月 1 日 1.5 版本更新的新一期深渊?](https://www.zhihu.com/question/457415863) 43 万热度 73回复
 1. [你是如何躺赢考研的?](https://www.zhihu.com/question/452567524) 43 万热度 255回复
+1. [是不是年轻时候的「穷开心」才是最无忧无虑的快乐？](https://www.zhihu.com/question/457145296) 43 万热度 29回复
 1. [《原神》新活动导能原盘难度是不是过高了？](https://www.zhihu.com/question/457275389) 26 万热度 128回复
 1. [妈妈生日，有什么礼物适合送？](https://www.zhihu.com/question/19591678) 25 万热度 127回复
 1. [一个喜欢你的，一个你喜欢的，该怎么选择？](https://www.zhihu.com/question/457171344) 16 万热度 158回复
