@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-04 04:21:15
+最后更新时间 2021-05-04 06:24:09
 
 1. [如何看待张国立发布大夜班工作动态，被网友指责「明星赚得多还矫情」这件事？](https://www.zhihu.com/question/457625710) 3976 万热度 1088回复
 1. [如何评价中国漫画家描述中国支援印度抗疫的作品《同桌的你》？](https://www.zhihu.com/question/457620550) 1494 万热度 243回复
@@ -47,9 +47,10 @@
 1. [如何学好高中物理？](https://www.zhihu.com/question/19812276) 115 万热度 625回复
 1. [当有男生追你时，你该怎么看清那个人？](https://www.zhihu.com/question/342163331) 110 万热度 66回复
 1. [为什么说古代弓箭手难训练，不是抛射就可以吗，难在哪里？](https://www.zhihu.com/question/349584247) 101 万热度 91回复
+1. [有哪些让人欲罢不能的学习方法？](https://www.zhihu.com/question/30178891) 83 万热度 2001回复
 1. [你们有没有那些特别搞笑的笑话？](https://www.zhihu.com/question/454205391) 81 万热度 50回复
-1. [有哪些让人欲罢不能的学习方法？](https://www.zhihu.com/question/30178891) 78 万热度 2001回复
 1. [本人现在初三成绩很差还有救吗？考不上高中可以复读吗？读技校有用吗？](https://www.zhihu.com/question/456260758) 71 万热度 264回复
+1. [是否存在共情能力强但冷血的人？](https://www.zhihu.com/question/267512045) 70 万热度 646回复
 1. [南京知乎城市空间即将开放，你对空间未来的运营有哪些期许？](https://www.zhihu.com/question/455930944) 65 万热度 34回复
 1. [三人乐队演出如何配置乐器?](https://www.zhihu.com/question/453577415) 59 万热度 29回复
 1. [如何评价国际米兰在 20-21 赛季意甲联赛中提前 4 轮夺冠，拿下球队第 19 个意甲冠军？](https://www.zhihu.com/question/457596626) 57 万热度 55回复
@@ -80,6 +81,8 @@
 1. [你收藏了哪些很惊艳的短句？](https://www.zhihu.com/question/456852823) 11 万热度 52回复
 1. [摩羯座谈恋爱是什么样子的？](https://www.zhihu.com/question/452356824) 11 万热度 128回复
 1. [有哪些让宝宝百玩不厌的玩具？](https://www.zhihu.com/question/347811760) 10 万热度 174回复
+1. [你觉得游戏《魔兽世界》中塑造最成功的角色是谁？](https://www.zhihu.com/question/456497443) 9 万热度 51回复
+1. [如何评价《长歌行》的大结局？](https://www.zhihu.com/question/457677705) 8 万热度 78回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
