@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-08 02:28:10
+最后更新时间 2021-05-08 04:20:48
 
 1. [如何看待北京大学一博士后为完成论文，送 5 个半月外卖，称「骑手竞争激烈，平台不断试探人的极限」？](https://www.zhihu.com/question/458170986) 5934 万热度 1010回复
 1. [5 月 7 日乌合麒麟发表新作「老照片 G7」，画面有哪些细节？](https://www.zhihu.com/question/458184079) 2954 万热度 383回复
@@ -41,6 +41,7 @@
 1. [《春江花月夜》为何被誉为「孤篇横绝全唐」？](https://www.zhihu.com/question/301477404) 364 万热度 222回复
 1. [《你好另一半》张诗情 985 相亲局后，女嘉宾胡诗晨被相亲对象鄙视「本科学历」，相亲都有学历鄙视链了吗？](https://www.zhihu.com/question/456452569) 314 万热度 54回复
 1. [有没有什么惊为天人的 Logo 设计？](https://www.zhihu.com/question/335957333) 312 万热度 336回复
+1. [如何看待韶关特斯拉追尾事故？](https://www.zhihu.com/question/458219985) 277 万热度 70回复
 1. [华为鸿蒙开始升级，你们收到推送了吗？升级感觉怎么样？](https://www.zhihu.com/question/456976153) 232 万热度 30回复
 1. [实验室有人用服务器挖矿该怎么办?](https://www.zhihu.com/question/451758003) 226 万热度 39回复
 1. [悉尼大学回国能否相当于 985？](https://www.zhihu.com/question/266843003) 213 万热度 824回复
@@ -48,16 +49,24 @@
 1. [有哪些对视力伤害很大的行为？](https://www.zhihu.com/question/384087324) 204 万热度 23回复
 1. [如何评价西藏考古发现希腊酒神银盘？具有怎样的价值？](https://www.zhihu.com/question/457689078) 202 万热度 49回复
 1. [父母为什么非要自己的孩子生孩子？](https://www.zhihu.com/question/457863388) 202 万热度 280回复
+1. [如何看待许嵩新专辑《呼吸之野》的《乌鸦》的 MV？](https://www.zhihu.com/question/458282787) 170 万热度 61回复
+1. [世卫组织将中国国药新冠疫苗列入「紧急使用清单」，意味着什么？会带来哪些影响？](https://www.zhihu.com/question/458276429) 151 万热度 24回复
 1. [有一个很棒的男朋友是种怎样的体验？](https://www.zhihu.com/question/37379581) 150 万热度 1576回复
 1. [如何看待美国财长耶伦称「美联储或不得不加息，以防经济过热」？这会给全球经济带来什么影响？](https://www.zhihu.com/question/457850060) 143 万热度 32回复
 1. [谁能给我推荐一些好看的裙子？](https://www.zhihu.com/question/452199398) 128 万热度 33回复
 1. [普通话考试最后一题可以直接背百度上的范文吗？](https://www.zhihu.com/question/453538698) 120 万热度 23回复
+1. [初级会计好过吗？](https://www.zhihu.com/question/317553804) 104 万热度 475回复
 1. [如何看待《王者荣耀》宣布将重塑姜子牙这位英雄？](https://www.zhihu.com/question/457939742) 96 万热度 107回复
 1. [为啥高达和初号机都在上海？](https://www.zhihu.com/question/457070563) 91 万热度 23回复
+1. [如何正确地给别人提意见，并让对方欣然接受不会反感？](https://www.zhihu.com/question/40288998) 78 万热度 87回复
 1. [为什么《明日方舟》很多玩家都不把 6 星干员的等级练满？](https://www.zhihu.com/question/453080628) 76 万热度 136回复
+1. [阿里 P10 是什么样的存在？](https://www.zhihu.com/question/307907539) 74 万热度 70回复
 1. [角膜塑形镜是不是智商税？](https://www.zhihu.com/question/425556684) 70 万热度 28回复
 1. [连秦可卿和探春都能预感到贾府的衰败，为何贾母不能预知呢？](https://www.zhihu.com/question/454745776) 63 万热度 62回复
 1. [努力会失败，不努力也会失败，人为什么还要努力？努力的意义是啥？](https://www.zhihu.com/question/456002749) 59 万热度 401回复
+1. [财务自由的人可以分享一下生活吗?](https://www.zhihu.com/question/452616303) 59 万热度 293回复
+1. [有什么值得 N 刷的言情小说？](https://www.zhihu.com/question/446606462) 59 万热度 49回复
+1. [如果给你一个机会，回到十八岁，你会做点什么？](https://www.zhihu.com/question/454167575) 59 万热度 337回复
 1. [被病娇喜欢是一种什么感觉？](https://www.zhihu.com/question/378449678) 58 万热度 47回复
 1. [大家结婚后，双方都会变吗？](https://www.zhihu.com/question/448732110) 57 万热度 103回复
 1. [一对哑铃你最后练成了什么样子？](https://www.zhihu.com/question/378688672) 56 万热度 69回复
