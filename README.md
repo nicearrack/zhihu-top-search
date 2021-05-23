@@ -14,15 +14,16 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-23 09:14:42
+最后更新时间 2021-05-23 10:57:28
 
-1. [5 月 22 日，袁隆平院士逝世，如何评价他的一生？](https://www.zhihu.com/question/460808291) 4376 万热度 22908回复
+1. [5 月 22 日，袁隆平院士逝世，如何评价他的一生？](https://www.zhihu.com/question/460808291) 6678 万热度 22908回复
+1. [新华社建议为袁隆平院士逝世降半旗志哀，你怎么看？你会如何缅怀？](https://www.zhihu.com/question/460853429) 4248 万热度 329回复
+1. [甘肃一马拉松百公里越野赛由于极端天气，造成 21 人遇难，伤亡为何会如此严重？有办法避免吗？](https://www.zhihu.com/question/460921357) 4150 万热度 249回复
 1. [如何看待金融委指出，打击比特币挖矿和交易行为，坚决防范个体风险向社会领域传递？释放了什么信号？](https://www.zhihu.com/question/460721703) 4046 万热度 807回复
 1. [袁隆平院士于 5 月 22 日去世，袁隆平院士的贡献到底有多大？他给中国乃至世界带来了什么样的影响？](https://www.zhihu.com/question/460812976) 3881 万热度 699回复
-1. [5 月 22 日大连一宝马轿车撞击人行横道行人致 4 死 3 伤，具体情况如何？](https://www.zhihu.com/question/460803059) 3798 万热度 1143回复
+1. [5 月 22 日大连一宝马轿车撞击人行横道行人致 4 死 3 伤，具体情况如何？](https://www.zhihu.com/question/460803059) 3866 万热度 1143回复
 1. [5 月 22 日「中国肝胆外科之父」吴孟超病逝，你对他有哪些记忆？](https://www.zhihu.com/question/460817685) 3753 万热度 642回复
-1. [新华社建议为袁隆平院士逝世降半旗志哀，你怎么看？你会如何缅怀？](https://www.zhihu.com/question/460853429) 3661 万热度 329回复
-1. [近 3 天已有 4 位泰斗级人物去世，我们该如何缅怀他们？除了缅怀，我们能够做什么？](https://www.zhihu.com/question/460833743) 2066 万热度 789回复
+1. [近 3 天已有 4 位泰斗级人物去世，我们该如何缅怀他们？除了缅怀，我们能够做什么？](https://www.zhihu.com/question/460833743) 2436 万热度 789回复
 1. [《速度与激情 10》宣布在中国取景，哪些城市最适合拍摄？](https://www.zhihu.com/question/459923679) 1536 万热度 686回复
 1. [苏州一店主将被顾客闻过的肉串当面丢弃，并表示「不卫生，不放心可以不吃」，对此你怎么看？](https://www.zhihu.com/question/460604746) 597 万热度 78回复
 1. [为什么医生收入不高却还有那么多人选择学医？考研人数也逐年上涨？](https://www.zhihu.com/question/459240182) 582 万热度 407回复
@@ -37,36 +38,46 @@
 1. [哪一张照片瞬间让你觉得气质很重要?](https://www.zhihu.com/question/297341335) 325 万热度 66回复
 1. [5 月 18 日余承东被免去华为云 CEO 职位，如何看待今年来华为对云业务进行的多次调整？会带来哪些影响？](https://www.zhihu.com/question/460199755) 323 万热度 65回复
 1. [重庆撞墙特斯拉车主发声，以 2200 多字公开信致特斯拉高管，称一直遭水军质疑，还有哪些信息值得关注？](https://www.zhihu.com/question/460684619) 320 万热度 64回复
+1. [如何看待 520 epic 首次用人民币结算后多款游戏出现比 steam 低得多的价格？](https://www.zhihu.com/question/460584796) 319 万热度 43回复
 1. [孩子高一，家长说一句话就烦，现在的孩子是怎么了？该怎么办？](https://www.zhihu.com/question/446145871) 315 万热度 1259回复
 1. [为什么韩国人喜欢吃炸鸡呢？](https://www.zhihu.com/question/22146758) 286 万热度 64回复
+1. [独行侠 113:103 力克快船先得一分，东契奇 31 分三双，如何评价这场比赛？](https://www.zhihu.com/question/460920237) 271 万热度 43回复
 1. [2021 年 618 有哪些值得买的东西？](https://www.zhihu.com/question/456666788) 262 万热度 88回复
 1. [为什么中国人对「在家种菜」这么执着，很多人都想把阳台和花园都变成菜园地？](https://www.zhihu.com/question/460289845) 253 万热度 517回复
 1. [袁隆平给我们留下了怎样的精神遗产？](https://www.zhihu.com/question/460831392) 249 万热度 37回复
 1. [刻奇（Kitsch）是什么？如何克服刻奇？](https://www.zhihu.com/question/27039705) 244 万热度 1291回复
-1. [如何看待 520 epic 首次用人民币结算后多款游戏出现比 steam 低得多的价格？](https://www.zhihu.com/question/460584796) 225 万热度 43回复
 1. [为什么感觉现在有些水果吃起来没有小时候吃的好吃？](https://www.zhihu.com/question/393480064) 218 万热度 146回复
 1. [没有在 C 盘装东西，桌面也没文件，为什么 C 盘莫名其妙就满了？](https://www.zhihu.com/question/456677257) 216 万热度 54回复
 1. [为什么《指环王》三部曲后的十几年再也拍不出这样史诗级的系列电影了？](https://www.zhihu.com/question/381939834) 215 万热度 97回复
 1. [《王者荣耀》男友和别的女生亲密度 1857，正常吗？](https://www.zhihu.com/question/460112550) 210 万热度 70回复
 1. [如何评价《向往的生活》第五季第五期？](https://www.zhihu.com/question/460535700) 205 万热度 255回复
+1. [当老师后教学成绩一直垫底，学生总是教不会，该怎么办？](https://www.zhihu.com/question/454011860) 203 万热度 298回复
 1. [为什么高电压小电流对人体无害，但是低电压高电流对人体致命?](https://www.zhihu.com/question/388159656) 175 万热度 63回复
 1. [夏天女学生有哪些清爽利落的穿搭？](https://www.zhihu.com/question/395417374) 163 万热度 75回复
 1. [如何判断个人的悟性高低？](https://www.zhihu.com/question/24123447) 149 万热度 223回复
 1. [岩井俊二的《情书》有哪些戳中你的细节？](https://www.zhihu.com/question/364130565) 149 万热度 31回复
-1. [当老师后教学成绩一直垫底，学生总是教不会，该怎么办？](https://www.zhihu.com/question/454011860) 129 万热度 298回复
 1. [龚俊到底能火多久？](https://www.zhihu.com/question/456965858) 125 万热度 79回复
+1. [《速度与激情 9》中有哪些槽点？](https://www.zhihu.com/question/460503368) 101 万热度 21回复
+1. [高一高二基本没学过，突然醒悟，高三还来得及吗？](https://www.zhihu.com/question/430476316) 94 万热度 5793回复
+1. [你觉得《斗破苍穹》哪一章文笔炸裂？](https://www.zhihu.com/question/455079084) 91 万热度 36回复
 1. [你们的异地恋熬过去了吗？](https://www.zhihu.com/question/460329836) 90 万热度 76回复
 1. [有什么办法可以放下一个你喜欢的人？](https://www.zhihu.com/question/423049471) 88 万热度 1364回复
+1. [中文系汉语言文学专业，书太多读不完怎么办？](https://www.zhihu.com/question/353004487) 82 万热度 198回复
 1. [中军选手每人出门多 6000 块能打过职业队吗？](https://www.zhihu.com/question/459668976) 81 万热度 138回复
 1. [常言道「读万卷书，行万里路」，旅行对个人的阅历提升有哪些帮助？](https://www.zhihu.com/question/460488793) 79 万热度 26回复
 1. [坐月子真的很需要吗？](https://www.zhihu.com/question/430742837) 78 万热度 213回复
+1. [有哪些是你慢慢想明白了的道理？](https://www.zhihu.com/question/350870631) 77 万热度 5367回复
 1. [学历在多大程度上限制了你在职场上的发展？](https://www.zhihu.com/question/460617091) 73 万热度 25回复
+1. [大家有过强迫性思维吗？是怎么走出来的？](https://www.zhihu.com/question/400662217) 73 万热度 62回复
 1. [股票基本面如何分析？](https://www.zhihu.com/question/23192771) 72 万热度 228回复
+1. [在雅思中你明白了哪些规则后，分数便开始直线飙升？](https://www.zhihu.com/question/348084694) 72 万热度 393回复
 1. [如何在一家大厂工作 10 年？](https://www.zhihu.com/question/460106786) 68 万热度 42回复
+1. [有什么小众一点的适合大学生的裙子吗？](https://www.zhihu.com/question/454817357) 68 万热度 26回复
+1. [有什么好看到停不下来的小说吗?](https://www.zhihu.com/question/440502581) 58 万热度 907回复
 1. [考个 CPA 到底能有多么吃香？](https://www.zhihu.com/question/335343858) 57 万热度 245回复
 1. [做生意真的比上班打工强吗？](https://www.zhihu.com/question/327874416) 54 万热度 3852回复
+1. [如何在数学试卷上调戏阅卷人？](https://www.zhihu.com/question/37124942) 42 万热度 956回复
 1. [真无线蓝牙耳机哪个品牌音质好？](https://www.zhihu.com/question/448219382) 39 万热度 46回复
-1. [如何在数学试卷上调戏阅卷人？](https://www.zhihu.com/question/37124942) 39 万热度 956回复
 1. [新买了一个笔记本电脑，有哪些要注意的吗？](https://www.zhihu.com/question/448396633) 39 万热度 122回复
 1. [你身边有没有被命运安排的人？](https://www.zhihu.com/question/288026861) 36 万热度 1620回复
 1. [电影《速度与激情 9》中有哪些槽点？](https://www.zhihu.com/question/460424382) 36 万热度 55回复
@@ -82,6 +93,9 @@
 1. [22 考研政治在几月份开始准备最好？如何准备？](https://www.zhihu.com/question/460644315) 12 万热度 32回复
 1. [2021 年 618 有什么值得买？](https://www.zhihu.com/question/456666024) 10 万热度 91回复
 1. [今年空调现在买合适还是等 618 ？](https://www.zhihu.com/question/457239251) 10 万热度 47回复
+1. [如何看待《原神》中的角色「班尼特」?](https://www.zhihu.com/question/460105538) 6 万热度 29回复
+1. [有什么令人脊背发凉的科幻故事吗？](https://www.zhihu.com/question/454766708) 6 万热度 101回复
+1. [一个人怎么建立独立的思维框架和逻辑体系？](https://www.zhihu.com/question/442047678) 6 万热度 32回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
