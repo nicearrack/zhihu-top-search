@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-24 04:22:39
+最后更新时间 2021-05-24 06:21:21
 
 1. [甘肃一马拉松百公里越野赛由于极端天气，造成 21 人遇难，伤亡为何会如此严重？有办法避免吗？](https://www.zhihu.com/question/460921357) 8264 万热度 1385回复
 1. [如何看待大连轿车撞人逃逸致 5 死，肇事者系投资失败报复社会？他将承担怎样的法律责任？](https://www.zhihu.com/question/460975066) 4418 万热度 1395回复
@@ -46,7 +46,7 @@
 1. [有哪些让你感到相见恨晚的实用小家电？](https://www.zhihu.com/question/425277382) 94 万热度 233回复
 1. [马克思主义理论考研怎么复习专业课？](https://www.zhihu.com/question/64680706) 84 万热度 182回复
 1. [怎么让三岁孩子准确表达幼儿园发生的事？](https://www.zhihu.com/question/455057144) 80 万热度 48回复
-1. [成熟的标志是变温柔吗？](https://www.zhihu.com/question/458040513) 59 万热度 463回复
+1. [成熟的标志是变温柔吗？](https://www.zhihu.com/question/458040513) 78 万热度 463回复
 1. [为啥养狗的人能和狗有那么深的感情？](https://www.zhihu.com/question/413857398) 58 万热度 240回复
 1. [没有任何绘画基础的人如何自学绘画？](https://www.zhihu.com/question/21095093) 57 万热度 46回复
 1. [现在的小孩是不是越来越聪明了？](https://www.zhihu.com/question/454361471) 54 万热度 737回复
@@ -84,6 +84,8 @@
 1. [吓唬孩子不好，但是如果只有吓唬才管用，你还会这么做吗？](https://www.zhihu.com/question/460630935) 6 万热度 39回复
 1. [想买一个真无线蓝牙耳机运动用，求推荐？](https://www.zhihu.com/question/274765605) 6 万热度 34回复
 1. [学雅思需要多少钱，都涉及到哪些费用？](https://www.zhihu.com/question/360178959) 6 万热度 80回复
+1. [你摘抄过什么句子？](https://www.zhihu.com/question/314121506) 6 万热度 3455回复
+1. [腿毛长的女生一定要脱毛吗？](https://www.zhihu.com/question/297055873) 6 万热度 465回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
