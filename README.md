@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-05-29 01:10:26
+最后更新时间 2021-05-29 03:13:18
 
 1. [台大医院院长发文求救，目前台湾疫情情况如何？主要困难有哪些？](https://www.zhihu.com/question/461718906) 2650 万热度 627回复
 1. [云南大象北上进入玉溪境内，离昆明已经相距不远，象群北上这么远到底是为什么？](https://www.zhihu.com/question/461780294) 2172 万热度 312回复
@@ -36,36 +36,44 @@
 1. [如何看待南大博士放弃 200 万年薪回村养蚯蚓？如果是你会如何选择？](https://www.zhihu.com/question/461644691) 281 万热度 172回复
 1. [男生对女朋友的占有欲都很强吗？](https://www.zhihu.com/question/332142062) 274 万热度 372回复
 1. [如何看待「史上最贵粉钻」1.8 亿元拍出，钻石是不是「智商税」，为何价格如此之高？](https://www.zhihu.com/question/461615316) 246 万热度 92回复
-1. [如何看待游戏《原神》1.6 版本特别节目直播？有哪些值得关注的地方？](https://www.zhihu.com/question/461839789) 236 万热度 41回复
+1. [如何看待游戏《原神》1.6 版本特别节目直播？有哪些值得关注的地方？](https://www.zhihu.com/question/461839789) 237 万热度 41回复
 1. [如何看待成都住建局公布首批二手房指导价？会带来哪些影响？](https://www.zhihu.com/question/461860619) 228 万热度 69回复
 1. [永恒梦魇现在为什么被称为 NOC？](https://www.zhihu.com/question/282834520) 228 万热度 66回复
 1. [如何看待《理想照耀中国》中赵丽颖的演技？](https://www.zhihu.com/question/461761569) 223 万热度 60回复
 1. [如何评价惊悚电影《寂静之地 2》（A Quiet Place: Part II ）？](https://www.zhihu.com/question/370601326) 218 万热度 67回复
 1. [你越来越沉默的原因是什么?](https://www.zhihu.com/question/412546017) 205 万热度 6596回复
-1. [学校和机构都建议孩子放弃 Python 转 C++，我该如何处理？](https://www.zhihu.com/question/460432138) 186 万热度 67回复
+1. [学校和机构都建议孩子放弃 Python 转 C++，我该如何处理？](https://www.zhihu.com/question/460432138) 198 万热度 67回复
 1. [新来的领导，给我的绩效打了最低分，要不要找他明牌问清楚是不是想赶我走?](https://www.zhihu.com/question/454250798) 183 万热度 289回复
-1. [如何评价 2021 三星堆文化年度国际推广曲《古蜀回响》？](https://www.zhihu.com/question/461933253) 174 万热度 30回复
+1. [如何评价 2021 三星堆文化年度国际推广曲《古蜀回响》？](https://www.zhihu.com/question/461933253) 179 万热度 30回复
+1. [英雄联盟 ADC 对辅助说「你走吧，我单下」时，辅助该做什么？](https://www.zhihu.com/question/461571906) 164 万热度 21回复
 1. [为什么熬夜的时候特别想吃垃圾食品，天亮了以后反而不想吃了呢? 这是一种什么样的心理和生理学现象?](https://www.zhihu.com/question/461602496) 159 万热度 70回复
 1. [如何看待郑州常住人口 1260 万，首次问鼎中部人口第一大城？](https://www.zhihu.com/question/461641467) 143 万热度 52回复
-1. [在苹果官网和在京东买苹果手机有什么区别吗？](https://www.zhihu.com/question/381430800) 130 万热度 205回复
+1. [在苹果官网和在京东买苹果手机有什么区别吗？](https://www.zhihu.com/question/381430800) 137 万热度 205回复
 1. [是不是只有中国字才能书写出书法？](https://www.zhihu.com/question/453735972) 124 万热度 179回复
-1. [猫或者狗真的会看电视吗？](https://www.zhihu.com/question/31559547) 85 万热度 64回复
+1. [猫或者狗真的会看电视吗？](https://www.zhihu.com/question/31559547) 102 万热度 64回复
+1. [如何评价《向往的生活》第五季的第六期？](https://www.zhihu.com/question/461905165) 98 万热度 91回复
+1. [从什么事情知道别人没把你当朋友？](https://www.zhihu.com/question/360519545) 96 万热度 1073回复
 1. [如何看待薇娅直播间疑似卖山寨 Supreme 联名商品？直播带货假冒伪劣产品可能涉及哪些法律问题？](https://www.zhihu.com/question/460636279) 82 万热度 90回复
-1. [厨房装修有哪些不注意会后悔的细节？](https://www.zhihu.com/question/340540614) 74 万热度 35回复
-1. [从什么事情知道别人没把你当朋友？](https://www.zhihu.com/question/360519545) 69 万热度 1073回复
-1. [英雄联盟 ADC 对辅助说「你走吧，我单下」时，辅助该做什么？](https://www.zhihu.com/question/461571906) 69 万热度 21回复
+1. [厨房装修有哪些不注意会后悔的细节？](https://www.zhihu.com/question/340540614) 76 万热度 35回复
+1. [大学生真的必须恋爱吗？](https://www.zhihu.com/question/460593007) 75 万热度 36回复
+1. [考研政治书应该什么时候买？](https://www.zhihu.com/question/454824118) 62 万热度 33回复
 1. [如何看待因航班有男团，飞机滑行中粉丝不听劝阻闯头等舱追星？](https://www.zhihu.com/question/461634572) 60 万热度 292回复
 1. [为什么人们觉得苹果 M1 提升很大？](https://www.zhihu.com/question/461342293) 59 万热度 35回复
 1. [为什么双胞胎一定要分出哥哥弟弟 / 姐姐妹妹？](https://www.zhihu.com/question/40577784) 59 万热度 38回复
 1. [可以分享你很喜欢的句子吗？](https://www.zhihu.com/question/455721542) 59 万热度 695回复
+1. [为什么会突然放弃一个喜欢很久的人啊？](https://www.zhihu.com/question/460720687) 59 万热度 245回复
 1. [2021 年 618 有哪些值得入手的日用品推荐？](https://www.zhihu.com/question/460708555) 58 万热度 92回复
 1. [现在才开始准备考研，六个多月的时间还来得及吗？](https://www.zhihu.com/question/397607227) 58 万热度 1034回复
 1. [备孕和不备孕区别大吗？](https://www.zhihu.com/question/438113905) 57 万热度 464回复
+1. [2021 年 618 有哪些洗碗机值得入手？](https://www.zhihu.com/question/457255383) 57 万热度 36回复
 1. [《如懿传》为什么最后是炩妃的孩子被立储，而不是如懿的十二阿哥？](https://www.zhihu.com/question/400574419) 56 万热度 34回复
 1. [重返研一，你会怎么过？](https://www.zhihu.com/question/351675467) 55 万热度 735回复
 1. [哪一刻让你对婚姻死了心？](https://www.zhihu.com/question/311171163) 55 万热度 6983回复
 1. [如何看待此地无垠的 model3 对比汉 EV 的新车性能测试结果?](https://www.zhihu.com/question/461659083) 55 万热度 24回复
 1. [理性讨论，迈克尔贝和扎克施耐德谁的导演水平更高？](https://www.zhihu.com/question/461544127) 55 万热度 26回复
+1. [有没有关于女主穿书和反派在一起的小说？](https://www.zhihu.com/question/373863774) 55 万热度 38回复
+1. [高中三年成绩很差，可以去日本留学吗?](https://www.zhihu.com/question/455422060) 54 万热度 69回复
+1. [2021 年 618 有没有什么可以的猫粮推荐呀？](https://www.zhihu.com/question/455949023) 54 万热度 64回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
