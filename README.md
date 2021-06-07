@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-08 01:32:25
+最后更新时间 2021-06-08 03:53:20
 
 1. [如何评价 2021 年各卷高考数学题？有哪些「出其不意」的题和解法？](https://www.zhihu.com/question/463527743) 3518 万热度 637回复
 1. [如何看待蔡英文在会面中，全程站立向坐着的美国参议员致辞？](https://www.zhihu.com/question/463513769) 2582 万热度 1470回复
@@ -32,6 +32,7 @@
 1. [大学毕业，呆在家里考研 3 次，今年三战又失败了，怎么办？](https://www.zhihu.com/question/41692093) 316 万热度 335回复
 1. [女生哪些行为一看就没谈过恋爱？](https://www.zhihu.com/question/274051741) 297 万热度 292回复
 1. [在国内华为的鸿蒙系统能否在 10 年内替换 Windows 系统？](https://www.zhihu.com/question/462366986) 281 万热度 295回复
+1. [如何评价 6 月 7 日召开的 2021 苹果全球开发者大会（WWDC21），有哪些值得关注的内容？](https://www.zhihu.com/question/463764581) 277 万热度 64回复
 1. [如何看待叙利亚足协承认让中国失去主场并主动求媒体表扬？](https://www.zhihu.com/question/463409034) 266 万热度 51回复
 1. [如何评价游戏《原神》稻妻的新角色「白鹭霜华 · 神里绫华」？](https://www.zhihu.com/question/463721778) 245 万热度 35回复
 1. [目前为止你见过画质最震撼的 PC 游戏是什么？](https://www.zhihu.com/question/334549140) 210 万热度 77回复
@@ -44,10 +45,12 @@
 1. [《王者荣耀》里为什么排位总有人把把 ban 辅助？](https://www.zhihu.com/question/461168119) 123 万热度 97回复
 1. [如何提升自己的幽默感？](https://www.zhihu.com/question/19568671) 99 万热度 25回复
 1. [香港最近几年为什么一直出的都是烂片？](https://www.zhihu.com/question/462877536) 95 万热度 198回复
+1. [用链表的目的是什么？省空间还是省时间？](https://www.zhihu.com/question/31082722) 94 万热度 38回复
 1. [古装仙侠剧《重紫》官宣杨超越、徐正溪主演，你如何看待这部剧？](https://www.zhihu.com/question/463617982) 83 万热度 34回复
-1. [用链表的目的是什么？省空间还是省时间？](https://www.zhihu.com/question/31082722) 83 万热度 38回复
-1. [长期阅读英文原版刊物是什么体验？](https://www.zhihu.com/question/264023044) 78 万热度 125回复
-1. [请问长大以后的世界是什么样的？](https://www.zhihu.com/question/462575562) 64 万热度 219回复
+1. [长期阅读英文原版刊物是什么体验？](https://www.zhihu.com/question/264023044) 81 万热度 125回复
+1. [请问长大以后的世界是什么样的？](https://www.zhihu.com/question/462575562) 66 万热度 219回复
+1. [如何放弃一个很喜欢很喜欢的人?](https://www.zhihu.com/question/461564379) 62 万热度 205回复
+1. [你是如何忘记前任的？](https://www.zhihu.com/question/462186615) 59 万热度 167回复
 1. [领导宁可提一个刚来一年的新同事当部门副主任，为什么不提我这个来十年的老员工呢？](https://www.zhihu.com/question/458785731) 46 万热度 306回复
 1. [考研有没有必要去自习室?](https://www.zhihu.com/question/407177379) 42 万热度 180回复
 1. [有哪些对 25 岁女生的人生建议?](https://www.zhihu.com/question/447599541) 20 万热度 391回复
@@ -66,6 +69,9 @@
 1. [2021 年上半年快要过去了，有哪些事情令你印象深刻？](https://www.zhihu.com/question/463406631) 6 万热度 75回复
 1. [如何看待 6 月 7 日龚俊成为荣耀 50 代言人？他现在很「火」吗？](https://www.zhihu.com/question/463569784) 6 万热度 270回复
 1. [初中学历如何自考本科？](https://www.zhihu.com/question/39105686) 6 万热度 102回复
+1. [圈子太小，如何脱单？](https://www.zhihu.com/question/28757606) 6 万热度 1418回复
+1. [一个人做饭有哪些推荐？](https://www.zhihu.com/question/24523223) 6 万热度 162回复
+1. [如何看待俄航天集团总经理抨击马斯克火星移民计划并称其「荒谬」？](https://www.zhihu.com/question/463587174) 6 万热度 64回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
