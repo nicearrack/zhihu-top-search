@@ -14,45 +14,51 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-08 06:45:51
+最后更新时间 2021-06-08 09:24:59
 
 1. [如何评价 2021 年各卷高考数学题？有哪些「出其不意」的题和解法？](https://www.zhihu.com/question/463527743) 3518 万热度 637回复
 1. [如何看待蔡英文在会面中，全程站立向坐着的美国参议员致辞？](https://www.zhihu.com/question/463513769) 2582 万热度 1470回复
-1. [日媒：日本奥委会会计部长被地铁撞击身亡，警方初步推断为自杀，奥运会还能办下去吗？](https://www.zhihu.com/question/463640863) 1393 万热度 179回复
+1. [日媒：日本奥委会会计部长被地铁撞击身亡，警方初步推断为自杀，奥运会还能办下去吗？](https://www.zhihu.com/question/463640863) 2422 万热度 179回复
 1. [如何评价郑州特斯拉温先生录音曝光，称「顶多就是换个件的问题，我就是想要一赔三」？](https://www.zhihu.com/question/463510939) 1207 万热度 579回复
+1. [世预赛武磊吴兴涵破门，国足 2:0 击败菲律宾，本场国足表现你满意吗？](https://www.zhihu.com/question/463795476) 1131 万热度 81回复
+1. [如何评价 6 月 7 日召开的 2021 苹果全球开发者大会（WWDC21），有哪些值得关注的内容？](https://www.zhihu.com/question/463764581) 1064 万热度 64回复
 1. [如何看待江西女子在卫生巾中发现针头，七度空间回应致歉？ 可能是什么原因造成的？](https://www.zhihu.com/question/463438703) 930 万热度 177回复
 1. [为什么猪肉经过了一轮疯涨又回到了十元，房价经过了一轮疯涨为啥还没回归正常价格？怎样避免商品价格疯涨？](https://www.zhihu.com/question/463497801) 821 万热度 269回复
 1. [如何看待恒大集团发布声明：生产经营一切正常，从未出现借款利息晚付、本金逾期归还的情况？](https://www.zhihu.com/question/463617349) 806 万热度 257回复
-1. [在两性关系里男人真正需要的是什么？](https://www.zhihu.com/question/319606888) 527 万热度 510回复
+1. [在两性关系里男人真正需要的是什么？](https://www.zhihu.com/question/319606888) 690 万热度 510回复
+1. [大学毕业，呆在家里考研 3 次，今年三战又失败了，怎么办？](https://www.zhihu.com/question/41692093) 629 万热度 335回复
 1. [2021 LPL 夏季赛揭幕战 iG 2:1 击败 SN 取得开门红，如何评价这场比赛？](https://www.zhihu.com/question/463732484) 453 万热度 48回复
 1. [现在的家用处理器能够满足上世纪五六十年代造原子弹所需的计算量吗？](https://www.zhihu.com/question/463181858) 447 万热度 64回复
 1. [全国人大常委会拟授权上海市人大制定浦东新区法规，有哪些信息值得关注？对未来新区建设有何借鉴意义？](https://www.zhihu.com/question/463693326) 404 万热度 77回复
 1. [如何看待 iPhone13 新外观曝光，或有「黄铜色与小刘海」？](https://www.zhihu.com/question/463358441) 397 万热度 217回复
-1. [世预赛武磊吴兴涵破门，国足 2:0 击败菲律宾，本场国足表现你满意吗？](https://www.zhihu.com/question/463795476) 376 万热度 81回复
 1. [斗胆请教，《红楼梦》想表达的终极内涵是什么？](https://www.zhihu.com/question/54833966) 363 万热度 784回复
-1. [如何评价 6 月 7 日召开的 2021 苹果全球开发者大会（WWDC21），有哪些值得关注的内容？](https://www.zhihu.com/question/463764581) 349 万热度 64回复
-1. [大学毕业，呆在家里考研 3 次，今年三战又失败了，怎么办？](https://www.zhihu.com/question/41692093) 316 万热度 335回复
 1. [女生哪些行为一看就没谈过恋爱？](https://www.zhihu.com/question/274051741) 297 万热度 292回复
 1. [在国内华为的鸿蒙系统能否在 10 年内替换 Windows 系统？](https://www.zhihu.com/question/462366986) 281 万热度 295回复
 1. [如何看待叙利亚足协承认让中国失去主场并主动求媒体表扬？](https://www.zhihu.com/question/463409034) 266 万热度 51回复
+1. [2021 夏季赛揭幕战，the shy 缺席的 iG 2:1 SN，取得夏季赛开门红，怎么评价这局比赛？](https://www.zhihu.com/question/463714199) 250 万热度 42回复
 1. [如何评价游戏《原神》稻妻的新角色「白鹭霜华 · 神里绫华」？](https://www.zhihu.com/question/463721778) 245 万热度 35回复
-1. [目前为止你见过画质最震撼的 PC 游戏是什么？](https://www.zhihu.com/question/334549140) 210 万热度 77回复
+1. [如何看待苹果在 WWDC21 上正式发布的 iOS 15，有哪些值得关注的新功能与特征？](https://www.zhihu.com/question/463789707) 243 万热度 81回复
+1. [如何评价苹果在 WWDC21 大会上正式发布的 macOS Monterey 系统？](https://www.zhihu.com/question/463794403) 234 万热度 21回复
+1. [目前为止你见过画质最震撼的 PC 游戏是什么？](https://www.zhihu.com/question/334549140) 219 万热度 77回复
+1. [《王者荣耀》里为什么排位总有人把把 ban 辅助？](https://www.zhihu.com/question/461168119) 195 万热度 97回复
 1. [每次跟男朋友吵架，他都对我不闻不问，这次也是，我问他是不是想分手，他直接没回，所以这是默认了的意思吗？](https://www.zhihu.com/question/303113863) 184 万热度 197回复
 1. [人类为什么会进化得起床困难？](https://www.zhihu.com/question/463105583) 176 万热度 75回复
 1. [《三国杀》中蜀国有神刘备，魏国有神曹操，为什么吴国没有神孙权？](https://www.zhihu.com/question/463422109) 173 万热度 38回复
-1. [去电子厂需要注意什么？](https://www.zhihu.com/question/455726048) 147 万热度 48回复
-1. [如何评价《中国全屋 Wi-Fi 白皮书》，对我们的生活有哪些影响？](https://www.zhihu.com/question/463705015) 142 万热度 63回复
-1. [2021 夏季赛揭幕战，the shy 缺席的 iG 2:1 SN，取得夏季赛开门红，怎么评价这局比赛？](https://www.zhihu.com/question/463714199) 137 万热度 42回复
+1. [如何评价《中国全屋 Wi-Fi 白皮书》，对我们的生活有哪些影响？](https://www.zhihu.com/question/463705015) 171 万热度 63回复
+1. [去电子厂需要注意什么？](https://www.zhihu.com/question/455726048) 148 万热度 48回复
 1. [《英雄联盟》里，你觉得什么话是对 AD 最大的侮辱？](https://www.zhihu.com/question/457722320) 126 万热度 347回复
-1. [《王者荣耀》里为什么排位总有人把把 ban 辅助？](https://www.zhihu.com/question/461168119) 123 万热度 97回复
+1. [如果两艘星舰之间隔着好几光年，那么它们该如何战斗？](https://www.zhihu.com/question/462878987) 113 万热度 49回复
 1. [如何提升自己的幽默感？](https://www.zhihu.com/question/19568671) 99 万热度 25回复
 1. [香港最近几年为什么一直出的都是烂片？](https://www.zhihu.com/question/462877536) 95 万热度 198回复
 1. [用链表的目的是什么？省空间还是省时间？](https://www.zhihu.com/question/31082722) 94 万热度 38回复
 1. [古装仙侠剧《重紫》官宣杨超越、徐正溪主演，你如何看待这部剧？](https://www.zhihu.com/question/463617982) 83 万热度 34回复
 1. [长期阅读英文原版刊物是什么体验？](https://www.zhihu.com/question/264023044) 81 万热度 125回复
+1. [力丸来中国出道值吗？](https://www.zhihu.com/question/463265371) 76 万热度 46回复
 1. [请问长大以后的世界是什么样的？](https://www.zhihu.com/question/462575562) 66 万热度 219回复
 1. [如何放弃一个很喜欢很喜欢的人?](https://www.zhihu.com/question/461564379) 62 万热度 205回复
 1. [你是如何忘记前任的？](https://www.zhihu.com/question/462186615) 59 万热度 167回复
+1. [能留下你曾经见过最美的句子或者诗词吗？](https://www.zhihu.com/question/459338437) 59 万热度 525回复
+1. [2021 年新高考志愿应该怎么填？有哪些注意事项？](https://www.zhihu.com/question/450148450) 52 万热度 40回复
 1. [领导宁可提一个刚来一年的新同事当部门副主任，为什么不提我这个来十年的老员工呢？](https://www.zhihu.com/question/458785731) 46 万热度 306回复
 1. [考研有没有必要去自习室?](https://www.zhihu.com/question/407177379) 42 万热度 180回复
 1. [有哪些对 25 岁女生的人生建议?](https://www.zhihu.com/question/447599541) 20 万热度 391回复
@@ -78,6 +84,9 @@
 1. [如何以「一觉醒来，我变成了一台人工智能机器」为开头写一个故事？](https://www.zhihu.com/question/462394457) 6 万热度 31回复
 1. [恋爱的过程，如何从普通朋友到情侣关系呢？](https://www.zhihu.com/question/25316274) 6 万热度 974回复
 1. [有什么你去西班牙才知道的事情？](https://www.zhihu.com/question/340140889) 6 万热度 29回复
+1. [在竞技游戏中「炸鱼」到底是弱肉强食还是道德问题？](https://www.zhihu.com/question/307041782) 6 万热度 393回复
+1. [科研的乐趣是什么？](https://www.zhihu.com/question/463023658) 6 万热度 49回复
+1. [计算机考研 408 统考该如何准备？](https://www.zhihu.com/question/22823169) 6 万热度 136回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
