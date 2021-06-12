@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-13 04:18:20
+最后更新时间 2021-06-13 06:17:23
 
 1. [在飞机头等舱，坐过你旁边的最著名的人是谁？](https://www.zhihu.com/question/359274010) 1583 万热度 2836回复
 1. [帮朋友做了 2 个设计，按理至少要 8K-1W 的设计费，结果事情结束了，就给了 2K，怎么委婉表示嫌少？](https://www.zhihu.com/question/463290636) 1513 万热度 311回复
@@ -37,6 +37,7 @@
 1. [如果丧尸爆发，你在厕所，没有通讯设备，而且厕所隔间外有丧尸，怎么办？](https://www.zhihu.com/question/432520725) 238 万热度 347回复
 1. [如何看待 2021 年 6 月四级考试?](https://www.zhihu.com/question/464587609) 209 万热度 46回复
 1. [本人已近视一千度，应如何如何缓解严重的视觉疲劳，以及防止度数加升？](https://www.zhihu.com/question/450542654) 200 万热度 102回复
+1. [2021 LPL 夏季赛 JDG 2:0 TES，如何评价这场比赛？](https://www.zhihu.com/question/464638008) 196 万热度 116回复
 1. [为什么美联储认为通胀是短期的，不会持续?](https://www.zhihu.com/question/461935081) 160 万热度 64回复
 1. [林书豪表态即将回归首钢，你对他的 CBA 生涯有怎样的期待？](https://www.zhihu.com/question/464586085) 150 万热度 69回复
 1. [如何看待莫文蔚身穿杜嘉班纳浴衣拍新歌 MV，并将该造型设置为头像这一举动引发争议？](https://www.zhihu.com/question/464608586) 148 万热度 212回复
@@ -52,8 +53,9 @@
 1. [哪些电脑数码产品看起来很硬核，实际上治愈了你的生活？](https://www.zhihu.com/question/464339007) 83 万热度 23回复
 1. [摄影专业真的很烧钱吗？](https://www.zhihu.com/question/447180090) 73 万热度 47回复
 1. [考研考上名校和重新参加高考哪条才是捷径？为什么？](https://www.zhihu.com/question/462328775) 73 万热度 42回复
+1. [如何评价谷歌用 30 亿数据训练的 20 亿参数 ViT-G/14 模型在 ImageNet 达到新的 SOTA？](https://www.zhihu.com/question/464023038) 69 万热度 21回复
+1. [高一女生到底选文还是选理？](https://www.zhihu.com/question/462365131) 62 万热度 231回复
 1. [家庭装修，柜子是木工现场打好，还是全屋定制好？](https://www.zhihu.com/question/443774230) 61 万热度 83回复
-1. [高一女生到底选文还是选理？](https://www.zhihu.com/question/462365131) 60 万热度 231回复
 1. [如何以「太子与太子妃十分恩爱，但我是太子的侧妃」写篇文章？](https://www.zhihu.com/question/443793653) 46 万热度 83回复
 1. [反应慢的人如何让自己思维变得更加敏捷？](https://www.zhihu.com/question/23969437) 44 万热度 126回复
 1. [在大学的什么时候让你突然怀念高三那年？](https://www.zhihu.com/question/460846707) 44 万热度 335回复
@@ -82,6 +84,10 @@
 1. [你们有哪些难忘的人生经历？](https://www.zhihu.com/question/28780467) 17 万热度 196回复
 1. [坚持断舍离后，你的生活发生了什么变化？](https://www.zhihu.com/question/391206998) 16 万热度 130回复
 1. [如何评价《原神》尘歌壶入驻系统，人物台词是否存在「用力过度」？](https://www.zhihu.com/question/464067466) 16 万热度 173回复
+1. [经历过初二生地会考的学长学姐们有什么经验？](https://www.zhihu.com/question/374298340) 15 万热度 247回复
+1. [为什么一些家长觉得自己不会犯错？看护孩子有哪些坑需要避免呢？](https://www.zhihu.com/question/464336498) 15 万热度 69回复
+1. [你家宝宝多大开始晚上睡整觉的？你是怎么做到让宝宝睡整觉的？](https://www.zhihu.com/question/372845449) 15 万热度 426回复
+1. [如何评价《海贼王》漫画 1016 话？](https://www.zhihu.com/question/464186718) 14 万热度 27回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
