@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-14 04:17:37
+最后更新时间 2021-06-14 06:17:26
 
 1. [湖北十堰燃气爆炸事件已致 12 人死亡，37 人重伤。可能是什么原因造成的？](https://www.zhihu.com/question/464751425) 4012 万热度 494回复
 1. [如何看待华东政法大学硕导包毅楠发布关于多配偶制、鼓吹师生恋言论，被暂停教学活动？](https://www.zhihu.com/question/463918672) 1971 万热度 1076回复
@@ -47,10 +47,10 @@
 1. [有哪些适合大学男生的服装品牌？](https://www.zhihu.com/question/282681681) 93 万热度 567回复
 1. [有哪一瞬间你觉得自己是真的放下了？](https://www.zhihu.com/question/462689698) 91 万热度 238回复
 1. [如何评价《奔跑吧》第九季第八期？](https://www.zhihu.com/question/464526784) 83 万热度 61回复
-1. [高中化学一窍不通怎么办?](https://www.zhihu.com/question/352785195) 65 万热度 168回复
+1. [高中化学一窍不通怎么办?](https://www.zhihu.com/question/352785195) 66 万热度 168回复
+1. [你是怎么一步步放下那个很喜欢的人的?](https://www.zhihu.com/question/462214825) 60 万热度 319回复
 1. [Resnet 是否只是一个深度学习的 trick？](https://www.zhihu.com/question/459892388) 59 万热度 23回复
 1. [有哪些让人一看就很惊艳的诗词？](https://www.zhihu.com/question/458249179) 59 万热度 80回复
-1. [你是怎么一步步放下那个很喜欢的人的?](https://www.zhihu.com/question/462214825) 59 万热度 319回复
 1. [初三女生，学习不好，如果没考上高中，是读职中还是打工？](https://www.zhihu.com/question/458989163) 57 万热度 900回复
 1. [如何以「我不想做你哥哥了」为开头写一个故事？](https://www.zhihu.com/question/450075897) 49 万热度 277回复
 1. [贫贱夫妻百事哀能哀到什么地步？](https://www.zhihu.com/question/363473759) 49 万热度 3688回复
@@ -80,6 +80,7 @@
 1. [为什么张哲瀚那么可爱？](https://www.zhihu.com/question/457147181) 6 万热度 87回复
 1. [如何评价 6 月 9 日原神更新 1.6 版本《盛夏! 海岛? 大冒险!》?](https://www.zhihu.com/question/464000878) 6 万热度 64回复
 1. [有哪些把凉拌菜做得好吃的秘诀？](https://www.zhihu.com/question/327948969) 6 万热度 114回复
+1. [进入一个很差的高中, 还有必要读吗？](https://www.zhihu.com/question/463427251) 6 万热度 241回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
