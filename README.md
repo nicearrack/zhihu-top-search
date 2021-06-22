@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-23 02:21:08
+最后更新时间 2021-06-23 04:18:13
 
 1. [如何看待重庆大学生撞见室友出轨，拍照发给对方女友被当事人起诉，法院判「朋友圈连续道歉 15 天」？](https://www.zhihu.com/question/466513016) 2386 万热度 406回复
 1. [外交部提醒在阿富汗中国公民尽早离境，有哪些原因和影响？还有哪些信息值得关注？](https://www.zhihu.com/question/466217700) 2254 万热度 299回复
@@ -61,15 +61,19 @@
 1. [书荒了，可以推荐一下你最近反复看的小说吗？](https://www.zhihu.com/question/379247015) 118 万热度 197回复
 1. [如何看待此次篮网抢七失败？](https://www.zhihu.com/question/466102154) 114 万热度 32回复
 1. [都说「西藏林芝是小瑞士」，林芝有哪些景区值得一逛？](https://www.zhihu.com/question/465538943) 113 万热度 58回复
+1. [你在物理学科普书中学到过最令人震惊的知识是怎样的？](https://www.zhihu.com/question/456001315) 95 万热度 21回复
+1. [如何看待《CS:GO》主播半仙因开设赌场被判 4 年，并涉及 Tyloo 战队多名老将？](https://www.zhihu.com/question/465799818) 79 万热度 22回复
 1. [有没有好看的非人物微信头像?](https://www.zhihu.com/question/387563344) 74 万热度 89回复
 1. [22 考研英语现在开始做英语一阅读真题，怎样安排比较好？](https://www.zhihu.com/question/466315395) 74 万热度 21回复
 1. [可以重来的话，你高中会全力以赴吗？](https://www.zhihu.com/question/463562103) 71 万热度 367回复
-1. [怎么让三岁孩子准确表达幼儿园发生的事？](https://www.zhihu.com/question/455057144) 65 万热度 69回复
-1. [你在物理学科普书中学到过最令人震惊的知识是怎样的？](https://www.zhihu.com/question/456001315) 60 万热度 21回复
-1. [我应不应该为了一个人放弃我自己的学业？](https://www.zhihu.com/question/465220537) 60 万热度 340回复
+1. [怎么让三岁孩子准确表达幼儿园发生的事？](https://www.zhihu.com/question/455057144) 66 万热度 69回复
+1. [我应不应该为了一个人放弃我自己的学业？](https://www.zhihu.com/question/465220537) 61 万热度 340回复
 1. [如何看懂财报？](https://www.zhihu.com/question/19645090) 58 万热度 172回复
 1. [二战失败以后，工作了，但是感觉过得更迷茫，不知道要不要继续考研？](https://www.zhihu.com/question/460355264) 55 万热度 77回复
 1. [为啥网络小说和传统武侠小说比很少有下毒，中毒的桥段？](https://www.zhihu.com/question/466556670) 55 万热度 41回复
+1. [如何看待海尔连续三年以唯一物联网生态品牌入选 BrandZ 最具价值全球品牌榜？](https://www.zhihu.com/question/466497087) 52 万热度 39回复
+1. [如果你能回到 18 岁，你会对 18 岁的自己说些什么?](https://www.zhihu.com/question/457534440) 52 万热度 903回复
+1. [313 历史学统考怎么复习?](https://www.zhihu.com/question/449165516) 51 万热度 26回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
