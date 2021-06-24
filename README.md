@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-25 02:22:33
+最后更新时间 2021-06-25 04:15:01
 
 1. [如何看待欧洲宇航员正在紧锣密鼓地学习中文？中国的空间站还有哪些信息应当重点关注？](https://www.zhihu.com/question/466521697) 3223 万热度 552回复
 1. [如何看待收废品的大叔画上千幅油画火了，从专业的水平来看大叔画的怎么样？](https://www.zhihu.com/question/466839329) 2543 万热度 393回复
@@ -45,28 +45,30 @@
 1. [台湾地区新冠致死率已超 4% ，远超全球平均水平，致死率为何这么高？](https://www.zhihu.com/question/466839287) 250 万热度 74回复
 1. [为什么人到中年朋友就越来越少甚至没朋友？](https://www.zhihu.com/question/365256729) 237 万热度 184回复
 1. [毕业三年，一事无成，被迫回老家，26 岁却觉得自己干什么都晚了，我该怎么走出来？](https://www.zhihu.com/question/302335564) 201 万热度 177回复
+1. [微软 Windows 11 发布会北京时间 6 月 24 日 23：00 举办，有哪些值得关注的内容？](https://www.zhihu.com/question/466505839) 191 万热度 27回复
 1. [如何评价女性向手机游戏《光与夜之恋》?](https://www.zhihu.com/question/464964538) 176 万热度 53回复
 1. [CPU 的性能是不是快到天花板了？为什么？](https://www.zhihu.com/question/376567574) 160 万热度 166回复
-1. [微软 Windows 11 发布会北京时间 6 月 24 日 23：00 举办，有哪些值得关注的内容？](https://www.zhihu.com/question/466505839) 154 万热度 27回复
 1. [如何看待高考出分后，衡水中学、镇海中学等超级中学的学霸笔记成二手平台抢手货？](https://www.zhihu.com/question/467025412) 152 万热度 52回复
+1. [2021 LPL 夏季赛 RNG 2:0 RW，如何评价这场比赛？](https://www.zhihu.com/question/467100639) 148 万热度 21回复
 1. [为什么连周冬雨都拯救不了古装偶像剧？《千古玦尘》是哪里出了问题？](https://www.zhihu.com/question/465674599) 142 万热度 244回复
 1. [为什么现在肺癌越来越多？](https://www.zhihu.com/question/454025025) 134 万热度 208回复
 1. [如何看待元气森林创始人称「没有好产品靠炒出来，中国做消费要一点闲心」？](https://www.zhihu.com/question/467016021) 127 万热度 57回复
+1. [你看《龙族》留下的后遗症是什么？](https://www.zhihu.com/question/423464810) 124 万热度 39回复
 1. [为什么《神话》易小川会同时有「自私无义」和「天真圣母」这两个相冲突的罪名？](https://www.zhihu.com/question/465013423) 100 万热度 25回复
-1. [你看《龙族》留下的后遗症是什么？](https://www.zhihu.com/question/423464810) 99 万热度 39回复
 1. [看完恋爱综艺《心动的信号》第四季第一期，你有什么感受？](https://www.zhihu.com/question/466811742) 98 万热度 39回复
 1. [如何以「我以为是我手段高明，没想到他是真的爱我」为题写一篇文?](https://www.zhihu.com/question/466644698) 95 万热度 21回复
 1. [如何才能淡化现实中的欲望，彻底转为精神追求？](https://www.zhihu.com/question/462735317) 87 万热度 44回复
 1. [如何看待纯视觉自动驾驶方案（如 Apollo lite 和特斯拉），激光雷达是昙花一现还是必由之路？](https://www.zhihu.com/question/466297901) 83 万热度 34回复
 1. [我还是没有完全理解幸存者偏差，有人能解释一下吗？](https://www.zhihu.com/question/466663677) 78 万热度 85回复
 1. [真正的交易者应是什么样的？](https://www.zhihu.com/question/466421913) 72 万热度 29回复
-1. [和双相情感障碍（躁郁症）谈恋爱是不是真的很累，患者真的会突然不爱吗?](https://www.zhihu.com/question/270408098) 69 万热度 318回复
+1. [和双相情感障碍（躁郁症）谈恋爱是不是真的很累，患者真的会突然不爱吗?](https://www.zhihu.com/question/270408098) 70 万热度 318回复
 1. [高中语文刷题能不能提高成绩？](https://www.zhihu.com/question/37301560) 68 万热度 2582回复
 1. [脸上胶原蛋白流失了该怎样补充？](https://www.zhihu.com/question/325891357) 66 万热度 36回复
 1. [能不能分享一些意久难平的文案？](https://www.zhihu.com/question/461769273) 65 万热度 32回复
 1. [怎样和喜欢的女生聊天？](https://www.zhihu.com/question/269469147) 65 万热度 524回复
 1. [朱一龙的眼睛究竟有多惊艳？](https://www.zhihu.com/question/288618450) 64 万热度 88回复
-1. [可以给我推荐一本值得看的书吗？](https://www.zhihu.com/question/462477409) 61 万热度 542回复
+1. [可以给我推荐一本值得看的书吗？](https://www.zhihu.com/question/462477409) 62 万热度 542回复
+1. [女孩子会放弃一个自己喜欢很久的男孩子吗？](https://www.zhihu.com/question/464730953) 60 万热度 288回复
 1. [菲律宾前总统阿基诺三世去世，如何评价他的政治生涯？](https://www.zhihu.com/question/467004815) 59 万热度 73回复
 1. [如何拯救高中化学？](https://www.zhihu.com/question/283418172) 59 万热度 22回复
 1. [Excel 的 vlookup 函数怎么使用?](https://www.zhihu.com/question/29178585) 59 万热度 21回复
