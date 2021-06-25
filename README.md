@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-26 04:18:03
+最后更新时间 2021-06-26 06:17:55
 
 1. [因未兑现「中国人优先」承诺，越南撤回疫苗分配方案，对此你有何看法？](https://www.zhihu.com/question/467422127) 2208 万热度 262回复
 1. [如何看待最新研究表明，「地球可能已被外星系观察好多年了」？](https://www.zhihu.com/question/467357820) 1954 万热度 582回复
@@ -49,15 +49,16 @@
 1. [武汉人很反感热干面里加汤吗？](https://www.zhihu.com/question/327570954) 141 万热度 189回复
 1. [突然发现男朋友是隐形富豪是什么体验？](https://www.zhihu.com/question/271344191) 140 万热度 213回复
 1. [为什么打耳洞不会有一条肉被捅出来？](https://www.zhihu.com/question/304771389) 119 万热度 507回复
-1. [为什么现在的古装剧一股现代味?](https://www.zhihu.com/question/459603184) 116 万热度 49回复
+1. [为什么现在的古装剧一股现代味?](https://www.zhihu.com/question/459603184) 119 万热度 49回复
 1. [作为一个大学生，拿 iPad 记笔记真的可以代替纸质笔记本吗？](https://www.zhihu.com/question/304770209) 87 万热度 1178回复
 1. [如何以「我代我嫡姐嫁给了清闲王爷」开头写一个故事？](https://www.zhihu.com/question/429819296) 78 万热度 144回复
 1. [高考填报志愿，是先选大学还是先选专业？](https://www.zhihu.com/question/448959184) 77 万热度 123回复
 1. [一个高中生，如果想报考医科大学的话，有什么建议？](https://www.zhihu.com/question/312366267) 74 万热度 81回复
+1. [为什么有的女孩子一直不谈恋爱？](https://www.zhihu.com/question/462067413) 73 万热度 395回复
 1. [有没有半个小时就可以看完的小甜文？](https://www.zhihu.com/question/447942198) 71 万热度 40回复
-1. [为什么有的女孩子一直不谈恋爱？](https://www.zhihu.com/question/462067413) 69 万热度 395回复
 1. [初中语文怎样提到 110 分以上？](https://www.zhihu.com/question/311901970) 64 万热度 69回复
-1. [如果家里没能力支持自己读书（大学或者大专），应该怎么办？](https://www.zhihu.com/question/464706143) 61 万热度 296回复
+1. [如果家里没能力支持自己读书（大学或者大专），应该怎么办？](https://www.zhihu.com/question/464706143) 63 万热度 296回复
+1. [什么是情绪价值？](https://www.zhihu.com/question/326968879) 59 万热度 217回复
 1. [怎样看待这次 twice 的回归成绩？](https://www.zhihu.com/question/464529405) 57 万热度 35回复
 1. [为什么初恋基本上都会分手？](https://www.zhihu.com/question/24684849) 56 万热度 1764回复
 1. [西蒙斯是否已经彻底把自己身价打没了？](https://www.zhihu.com/question/466309949) 56 万热度 29回复
@@ -83,6 +84,15 @@
 1. [文科生大学选什么专业比较好？](https://www.zhihu.com/question/433395562) 54 万热度 81回复
 1. [我今年大四，打算毕业旅游，可以给我一点建议吗？](https://www.zhihu.com/question/460427157) 54 万热度 32回复
 1. [小鹏 P7 、 Model 3 、比亚迪汉这三款车该如何选择呢？](https://www.zhihu.com/question/398543524) 53 万热度 303回复
+1. [专升本真的很容易吗？](https://www.zhihu.com/question/458717759) 53 万热度 133回复
+1. [如何以「我听闻，小师妹被逐出师门后，嫁给了凡人」为开头写一个故事？](https://www.zhihu.com/question/462632432) 53 万热度 29回复
+1. [第一次来杭州，只玩两三天，去哪里玩比较好呢？](https://www.zhihu.com/question/35834287) 53 万热度 99回复
+1. [在澳门科技大学读书是怎样一种体验？](https://www.zhihu.com/question/28946665) 52 万热度 73回复
+1. [那些高考复读失败的人，后来都怎样了？](https://www.zhihu.com/question/61504205) 52 万热度 60回复
+1. [为什么总觉得时间不够用，有什么好的方法合理规划时间吗？](https://www.zhihu.com/question/466307798) 52 万热度 30回复
+1. [如何以「我在深山里捡到了一个少年，竟是皇上」为开头写一个故事？](https://www.zhihu.com/question/395667394) 52 万热度 451回复
+1. [孩子犯错不敢承认怎么办？](https://www.zhihu.com/question/466576477) 52 万热度 44回复
+1. [有哪些励志的句子可以分享？](https://www.zhihu.com/question/462072818) 52 万热度 383回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
