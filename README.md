@@ -14,16 +14,17 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-06-26 08:54:48
+最后更新时间 2021-06-26 10:28:51
 
 1. [因未兑现「中国人优先」承诺，越南撤回疫苗分配方案，对此你有何看法？](https://www.zhihu.com/question/467422127) 2208 万热度 262回复
 1. [如何看待最新研究表明，「地球可能已被外星系观察好多年了」？](https://www.zhihu.com/question/467357820) 1954 万热度 582回复
 1. [如何看待中方支持阿根廷对马岛主权的正当要求，中国为什么支持阿根廷？](https://www.zhihu.com/question/467311565) 1086 万热度 611回复
+1. [2021 年 Steam 夏促有那些游戏是值得购买的？](https://www.zhihu.com/question/448735697) 1033 万热度 29回复
 1. [有什么东西是外国人吃，而中国人不吃的？](https://www.zhihu.com/question/314472784) 765 万热度 694回复
-1. [2021 年 Steam 夏促有那些游戏是值得购买的？](https://www.zhihu.com/question/448735697) 698 万热度 29回复
 1. [2021 年山东高考分数线公布，一段线 444，如何看待今年的分数线？](https://www.zhihu.com/question/466845954) 678 万热度 177回复
 1. [中国刑警学院竞售 54 只淘汰受训犬，要求不得弃养，你会买吗？养受训犬应该注意什么？](https://www.zhihu.com/question/467076616) 676 万热度 89回复
 1. [重庆一女子每晚 10 点半准时睡觉，错过工作消息被同事群嘲「老年生活」，你怎么看？工作和生活如何平衡？](https://www.zhihu.com/question/467374229) 612 万热度 340回复
+1. [为什么现在的古装剧一股现代味?](https://www.zhihu.com/question/459603184) 508 万热度 49回复
 1. [读专科的话，女生选择什么专业比较好呢？](https://www.zhihu.com/question/306595000) 501 万热度 181回复
 1. [微软宣布 Windows 11 原生支持运行安卓 App，这意味着什么？](https://www.zhihu.com/question/467245680) 499 万热度 460回复
 1. [我现在的成绩不上不下，985 可以报吉大，大连理工，211 可以南航，南理工，武汉理工，应该怎么选择？](https://www.zhihu.com/question/408865252) 423 万热度 797回复
@@ -31,37 +32,45 @@
 1. [美国佛罗里达州一高楼坍塌，99 人下落不明，当地情况如何？事故原因可能是什么？](https://www.zhihu.com/question/467303333) 352 万热度 191回复
 1. [世界上真的有「杀气」这一类的气场吗？](https://www.zhihu.com/question/30889739) 333 万热度 1075回复
 1. [如何评价黄建新、郑大圣执导，黄轩、倪妮主演的电影《1921》？](https://www.zhihu.com/question/461704613) 321 万热度 147回复
-1. [为什么现在的古装剧一股现代味?](https://www.zhihu.com/question/459603184) 310 万热度 49回复
+1. [为什么打耳洞不会有一条肉被捅出来？](https://www.zhihu.com/question/304771389) 293 万热度 507回复
 1. [如何看待提前泄露小米新机博主被判赔偿 100 万，违反保密协议有哪些后果？](https://www.zhihu.com/question/467194586) 288 万热度 68回复
 1. [中国恒大：已安排自有资金约 136 亿港元汇入债券还款帐户，还有哪些值得关注的信息？](https://www.zhihu.com/question/467036379) 284 万热度 98回复
 1. [如何看待字节跳动 1/3 员工不支持取消大小周?](https://www.zhihu.com/question/466269557) 262 万热度 207回复
+1. [专家提示「过量食用荔枝易得荔枝病」，荔枝应该怎么吃？哪些人群容易患「荔枝病」？](https://www.zhihu.com/question/466303304) 259 万热度 25回复
 1. [外媒调查显示「超七成受访者不愿新 iPhone 命名为 iPhone 13」，就因 13 数字不吉利？](https://www.zhihu.com/question/466783287) 238 万热度 190回复
+1. [作为一个大学生，拿 iPad 记笔记真的可以代替纸质笔记本吗？](https://www.zhihu.com/question/304770209) 237 万热度 1178回复
 1. [如何看待华为称其对 Linux 贡献全球第一，Linux 内核审核员呼吁华为公司不要刷 KPI ?](https://www.zhihu.com/question/466395247) 233 万热度 65回复
 1. [为什么现在有些年轻人宁愿在手游里氪金上万，却不愿意用百来块买 3A 大作？](https://www.zhihu.com/question/466910345) 225 万热度 397回复
 1. [如何看待 Nike 第四财季大中华区营收同比增长 9%，由于欧美地区的强势复苏，盘后股价上涨 14%?](https://www.zhihu.com/question/467305457) 216 万热度 105回复
 1. [为什么现在越来越多的人不再追捧「穷游」了？](https://www.zhihu.com/question/464479994) 207 万热度 169回复
 1. [如何看待韩媒称 600 年后最后一个韩国人或消失？可能是哪些原因造成的？](https://www.zhihu.com/question/466322719) 199 万热度 133回复
 1. [为什么夫妻间会因为「垃圾桶没套垃圾袋」这类小事发生激烈争吵？](https://www.zhihu.com/question/25831538) 188 万热度 444回复
-1. [为什么打耳洞不会有一条肉被捅出来？](https://www.zhihu.com/question/304771389) 185 万热度 507回复
 1. [如何看待张勇回应海底捞不好吃，称「可能是嫌价格贵」？从商业角度讲，是这样子的吗？](https://www.zhihu.com/question/467212754) 179 万热度 96回复
 1. [爆料称华为 P50 系列将于 7 月 29 日发布，主推 4G 版，消息可靠度有多高？你有哪些期待？](https://www.zhihu.com/question/466619748) 172 万热度 49回复
+1. [当你知道前任有新欢时的心情是什么？](https://www.zhihu.com/question/384997404) 169 万热度 142回复
 1. [如何理解陶虹所说「不是会哭就叫演技好」？](https://www.zhihu.com/question/466270106) 165 万热度 76回复
-1. [作为一个大学生，拿 iPad 记笔记真的可以代替纸质笔记本吗？](https://www.zhihu.com/question/304770209) 154 万热度 1178回复
 1. [如何看待教育部要求「严禁炒作高考状元、升学率」等信息？会带来哪些影响？](https://www.zhihu.com/question/466739033) 148 万热度 87回复
 1. [重庆大学说唱招生视频「出圈」，网友笑称：比正经宣传片有用，如何看待近年多所高校的招生宣传风格新尝试？](https://www.zhihu.com/question/467010930) 144 万热度 57回复
 1. [武汉人很反感热干面里加汤吗？](https://www.zhihu.com/question/327570954) 141 万热度 189回复
 1. [突然发现男朋友是隐形富豪是什么体验？](https://www.zhihu.com/question/271344191) 140 万热度 213回复
-1. [当你知道前任有新欢时的心情是什么？](https://www.zhihu.com/question/384997404) 104 万热度 142回复
-1. [专家提示「过量食用荔枝易得荔枝病」，荔枝应该怎么吃？哪些人群容易患「荔枝病」？](https://www.zhihu.com/question/466303304) 93 万热度 25回复
+1. [如何看待杜兰特推特连续怒怼皮蓬？](https://www.zhihu.com/question/467372857) 138 万热度 45回复
+1. [你觉得被《三国演义》改的最多的人是谁？](https://www.zhihu.com/question/466155526) 108 万热度 30回复
+1. [为什么有的女孩子一直不谈恋爱？](https://www.zhihu.com/question/462067413) 107 万热度 395回复
+1. [有没有那种单眼皮小眼睛塌鼻梁厚嘴唇但还挺好看的女生?](https://www.zhihu.com/question/312374216) 105 万热度 5771回复
+1. [如何评价 rapper 于贞?](https://www.zhihu.com/question/424602417) 103 万热度 114回复
+1. [如何减掉腰腹部的脂肪？](https://www.zhihu.com/question/33277243) 89 万热度 829回复
 1. [如何以【我成了皇后，而她成了贤王妃】为开头，写一个故事?](https://www.zhihu.com/question/449094157) 81 万热度 40回复
+1. [非计算机专业，想刷 leetcode，请问在此之前需要做什么准备？](https://www.zhihu.com/question/383250014) 80 万热度 59回复
 1. [如何以「我代我嫡姐嫁给了清闲王爷」开头写一个故事？](https://www.zhihu.com/question/429819296) 78 万热度 144回复
 1. [高考填报志愿，是先选大学还是先选专业？](https://www.zhihu.com/question/448959184) 77 万热度 123回复
 1. [一个高中生，如果想报考医科大学的话，有什么建议？](https://www.zhihu.com/question/312366267) 74 万热度 81回复
-1. [为什么有的女孩子一直不谈恋爱？](https://www.zhihu.com/question/462067413) 73 万热度 395回复
+1. [三体人复活云天明时，同时复活了他的肠道菌群吗？如果没有，云是怎么活下来的？](https://www.zhihu.com/question/466947516) 74 万热度 22回复
 1. [有没有半个小时就可以看完的小甜文？](https://www.zhihu.com/question/447942198) 71 万热度 40回复
+1. [怎样评价桂林这座城市？](https://www.zhihu.com/question/275807263) 69 万热度 103回复
 1. [初中语文怎样提到 110 分以上？](https://www.zhihu.com/question/311901970) 64 万热度 69回复
 1. [如果家里没能力支持自己读书（大学或者大专），应该怎么办？](https://www.zhihu.com/question/464706143) 63 万热度 296回复
 1. [什么是情绪价值？](https://www.zhihu.com/question/326968879) 59 万热度 217回复
+1. [怎样用 Excel 做数据分析？](https://www.zhihu.com/question/19754722) 59 万热度 126回复
 1. [怎样看待这次 twice 的回归成绩？](https://www.zhihu.com/question/464529405) 57 万热度 35回复
 1. [为什么初恋基本上都会分手？](https://www.zhihu.com/question/24684849) 56 万热度 1764回复
 1. [西蒙斯是否已经彻底把自己身价打没了？](https://www.zhihu.com/question/466309949) 56 万热度 29回复
@@ -101,6 +110,9 @@
 1. [哪个瞬间让你觉得自己一定要离职？](https://www.zhihu.com/question/467199411) 33 万热度 93回复
 1. [未来的多胎家庭父母，会做得比上一辈更好吗？](https://www.zhihu.com/question/465581886) 32 万热度 82回复
 1. [在浙江农林大学就读是一种怎样的体验?](https://www.zhihu.com/question/29538514) 31 万热度 116回复
+1. [《王者荣耀》女生玩辅助就是混子吗？](https://www.zhihu.com/question/458650066) 24 万热度 657回复
+1. [校友咨询过我，却请了别的律师，现在又咨询我，大家怎么看？](https://www.zhihu.com/question/463608966) 24 万热度 61回复
+1. [如何在两个月内快速改变自己？](https://www.zhihu.com/question/451986493) 24 万热度 463回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
