@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-04 04:17:14
+最后更新时间 2021-07-04 06:17:04
 
 1. [庆祝中国共产党成立 100 周年大会 7 月 1 日上午在北京天安门广场隆重举行，哪一幕让你印象深刻？](https://www.zhihu.com/question/469219832) 3784 万热度 2612回复
 1. [如何看待武汉大学邓红兵教授为生化环材专业正名「没有差的专业，只有差的人」?](https://www.zhihu.com/question/469600953) 2455 万热度 1667回复
@@ -50,17 +50,19 @@
 1. [AirPods 有必要买吗？](https://www.zhihu.com/question/465884888) 108 万热度 61回复
 1. [去江西南昌旅游，有什么好玩值得推荐的地方吗？](https://www.zhihu.com/question/348057500) 104 万热度 93回复
 1. [如何评价综艺《心动的信号》第四季第二期？](https://www.zhihu.com/question/469588792) 91 万热度 22回复
+1. [港剧《刑侦日记》有哪些细思极恐的细节？](https://www.zhihu.com/question/465226369) 86 万热度 27回复
 1. [如何以「为什么要喜欢上别人」为开头写一篇文？](https://www.zhihu.com/question/443120413) 83 万热度 202回复
 1. [你手机里有舍不得删的照片或视频吗？](https://www.zhihu.com/question/312849874) 76 万热度 9058回复
 1. [今年上高一啦，请问有什么好的建议吗？](https://www.zhihu.com/question/467877062) 72 万热度 92回复
 1. [谍战剧的巅峰是《潜伏》吗？为什么？](https://www.zhihu.com/question/467430277) 59 万热度 281回复
 1. [《甄嬛传》里沈眉庄是如何做到没让皇上怀疑静和公主的月份大小？](https://www.zhihu.com/question/451619488) 59 万热度 28回复
 1. [马上高二了，想好好学习了，还来得及吗？](https://www.zhihu.com/question/464340442) 59 万热度 501回复
+1. [高考因为太紧张发挥不好，只能上专科，建议复读吗？](https://www.zhihu.com/question/468480228) 59 万热度 151回复
 1. [教师资格证考试用一个月学来得及吗？没学过至少准备多久？](https://www.zhihu.com/question/412569772) 57 万热度 435回复
 1. [医院的电梯为什么会有专人操作？](https://www.zhihu.com/question/275348817) 56 万热度 93回复
 1. [造价小白该怎么往前走?](https://www.zhihu.com/question/459896991) 54 万热度 26回复
+1. [建党百年，我国在医药卫生领域取得了哪些成就？](https://www.zhihu.com/question/468756547) 44 万热度 46回复
 1. [怎么理解 C 语言是面向过程的语言，C++ 是面向对象的语言？](https://www.zhihu.com/question/24425316) 41 万热度 29回复
-1. [建党百年，我国在医药卫生领域取得了哪些成就？](https://www.zhihu.com/question/468756547) 39 万热度 46回复
 1. [面试时被问到「有没有职业规划时」，各位是怎么回答的？](https://www.zhihu.com/question/19850945) 37 万热度 42回复
 1. [有哪些好看还写得好的古代言情小说？](https://www.zhihu.com/question/305808724) 34 万热度 1391回复
 1. [哪一部小说是你心里的意难平呢？](https://www.zhihu.com/question/467675119) 29 万热度 70回复
