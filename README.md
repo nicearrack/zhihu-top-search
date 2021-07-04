@@ -14,21 +14,22 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-04 10:26:19
+最后更新时间 2021-07-04 12:23:16
 
 1. [庆祝中国共产党成立 100 周年大会 7 月 1 日上午在北京天安门广场隆重举行，哪一幕让你印象深刻？](https://www.zhihu.com/question/469219832) 3784 万热度 2612回复
 1. [如何看待武汉大学邓红兵教授为生化环材专业正名「没有差的专业，只有差的人」?](https://www.zhihu.com/question/469600953) 2455 万热度 1667回复
-1. [如何提高深度睡眠质量？](https://www.zhihu.com/question/21367788) 770 万热度 802回复
+1. [如何提高深度睡眠质量？](https://www.zhihu.com/question/21367788) 908 万热度 802回复
+1. [突然意识自己曾经引以为豪的编程其实是一种工具，这是一种悲哀吗？](https://www.zhihu.com/question/469223256) 667 万热度 69回复
 1. [如何看待福岛核电站 548 个集装箱腐蚀或凹陷，东京电力用玻璃纤维胶带修复？](https://www.zhihu.com/question/469544314) 649 万热度 184回复
 1. [全国 710 多万名党员获「光荣在党 50 年纪念章」，你身边有获得奖章的人吗？他们身上又有哪些故事？](https://www.zhihu.com/question/469220759) 636 万热度 551回复
 1. [有哪些曾经是平民食品现在却变得奢侈化的食物？](https://www.zhihu.com/question/468524945) 623 万热度 209回复
 1. [100 年以来，你在哪些人或事上，看到了中国的「担当」？](https://www.zhihu.com/question/469083054) 551 万热度 128回复
 1. [如何看待网络安全审查办公室对「滴滴出行」启动网络安全审查？](https://www.zhihu.com/question/469590210) 515 万热度 577回复
-1. [突然意识自己曾经引以为豪的编程其实是一种工具，这是一种悲哀吗？](https://www.zhihu.com/question/469223256) 497 万热度 69回复
 1. [有哪些大道至简、直击本质的句子？](https://www.zhihu.com/question/466361764) 484 万热度 386回复
 1. [如何看待 Google Play 要求八月份起新应用须打包为 AAB 格式？对鸿蒙的发展有哪些影响？](https://www.zhihu.com/question/469588431) 480 万热度 105回复
 1. [有没有那种追妻火葬场还追不回来，女主跟别人在一起收获幸福的文?](https://www.zhihu.com/question/408254252) 449 万热度 248回复
 1. [感染幽门螺杆菌或诱发胃癌，家庭成员之间最容易传染，日常如何避免感染？](https://www.zhihu.com/question/469701438) 407 万热度 70回复
+1. [高考因为太紧张发挥不好，只能上专科，建议复读吗？](https://www.zhihu.com/question/468480228) 347 万热度 151回复
 1. [你在吃自助时最讨厌什么？](https://www.zhihu.com/question/63212359) 345 万热度 4940回复
 1. [给妈妈做了三个单元的教学 PPT，自己的署名被删了，应该生气吗？](https://www.zhihu.com/question/466380653) 313 万热度 674回复
 1. [如何克服拿到驾照后不敢上路的心理恐惧？](https://www.zhihu.com/question/378244895) 285 万热度 302回复
@@ -36,23 +37,28 @@
 1. [百年风华，军号嘹亮，在战位上坚守的那群可爱的人是如何庆祝建党百年的？](https://www.zhihu.com/roundtable/bainianfenghuajunha1) 243 万热度 0回复
 1. [已经会开车的人去考驾照是一种什么体验？](https://www.zhihu.com/question/61195942) 230 万热度 857回复
 1. [老公不挣钱的婚姻怎么走下去?](https://www.zhihu.com/question/374704037) 220 万热度 167回复
+1. [在一二线城市住别墅是怎样的一种体验？](https://www.zhihu.com/question/350485995) 210 万热度 35回复
+1. [如何评价王俊凯在电影《1921》中的演技？](https://www.zhihu.com/question/468558447) 202 万热度 32回复
+1. [长期吃什么食物对身体最好？](https://www.zhihu.com/question/455630164) 201 万热度 120回复
 1. [有没有「虐妻一时爽，追妻火葬场，最后追不到」的小说呢?](https://www.zhihu.com/question/397071668) 199 万热度 135回复
 1. [为什么大家总说奥尼尔带着科比拿了三冠，却不承认杜兰特带着库里拿了两冠？](https://www.zhihu.com/question/466820448) 190 万热度 140回复
-1. [高考因为太紧张发挥不好，只能上专科，建议复读吗？](https://www.zhihu.com/question/468480228) 189 万热度 151回复
 1. [张无忌再过十年，武功修为会不会彻底超越张三丰?](https://www.zhihu.com/question/458327600) 170 万热度 57回复
 1. [参加 22 考研是啃老行为吗？需要花多少钱？](https://www.zhihu.com/question/469453406) 158 万热度 120回复
 1. [日本高中生真实生活是怎样的?](https://www.zhihu.com/question/358652855) 154 万热度 47回复
+1. [神舟十二号航天员开展中国空间站首次出舱活动，主要完成哪些任务？长时间舱外作业有哪些难度和危险？](https://www.zhihu.com/question/469911953) 151 万热度 26回复
 1. [什么是文字的张力？](https://www.zhihu.com/question/20815158) 150 万热度 381回复
+1. [《数码宝贝》1 中，成熟期的恶魔兽为什么能统治法路易岛？明明还有那么多完全体?](https://www.zhihu.com/question/37187108) 145 万热度 40回复
 1. [中国共产党百年的奋斗史，对世界产生了哪些影响，有哪些重要意义？](https://www.zhihu.com/question/469274581) 143 万热度 79回复
 1. [如果「顶上战争」的时候，艾斯当时如果对卡普喊一句「爷爷救救我」，是不是结局就不会死了？](https://www.zhihu.com/question/275781764) 143 万热度 271回复
 1. [皇后为什么不在甘露寺暗杀甄嬛？](https://www.zhihu.com/question/323782581) 142 万热度 60回复
 1. [你听过的最惊艳的名字是什么？](https://www.zhihu.com/question/265694919) 142 万热度 7483回复
 1. [为什么最近吴京的表情包这么多?](https://www.zhihu.com/question/459051105) 141 万热度 45回复
 1. [杭州保姆纵火案亡妻亲属指责林生斌跟岳父母争赔款，叫岳父母找律师对峙，情况到底是怎样的？赔款应该怎么分？](https://www.zhihu.com/question/469306984) 139 万热度 282回复
+1. [不同省份的考生该如何填报志愿？](https://www.zhihu.com/xen/market/university-entrance-exam?svip_utm=weibo1) 139 万热度 0回复
+1. [如何看待特斯拉第二季度汽车交付量为 20.125 万辆，市场预期为约 20 万辆？](https://www.zhihu.com/question/469602719) 134 万热度 42回复
 1. [如何评价《顶楼》第三季第五集？](https://www.zhihu.com/question/469569647) 126 万热度 50回复
-1. [长期吃什么食物对身体最好？](https://www.zhihu.com/question/455630164) 123 万热度 120回复
 1. [让你感到孤独的瞬间是因为什么事情?](https://www.zhihu.com/question/465940944) 119 万热度 24回复
-1. [如何评价王俊凯在电影《1921》中的演技？](https://www.zhihu.com/question/468558447) 112 万热度 32回复
+1. [有什么女频小说推荐吗？](https://www.zhihu.com/question/457795893) 111 万热度 45回复
 1. [AirPods 有必要买吗？](https://www.zhihu.com/question/465884888) 108 万热度 61回复
 1. [去江西南昌旅游，有什么好玩值得推荐的地方吗？](https://www.zhihu.com/question/348057500) 104 万热度 93回复
 1. [22 考研 7 月份才开始准备来得及吗？](https://www.zhihu.com/question/461398813) 98 万热度 69回复
@@ -75,6 +81,10 @@
 1. [《情深深雨濛濛》中，陆家的经济来源是什么？](https://www.zhihu.com/question/54479741) 53 万热度 26回复
 1. [建党百年，我国在医药卫生领域取得了哪些成就？](https://www.zhihu.com/question/468756547) 44 万热度 46回复
 1. [怎么理解 C 语言是面向过程的语言，C++ 是面向对象的语言？](https://www.zhihu.com/question/24425316) 41 万热度 29回复
+1. [如何评价冯提莫演唱的动漫《元龙》片尾曲《为你铭刻》？](https://www.zhihu.com/question/469739572) 40 万热度 45回复
+1. [如何看待《明日方舟》至今没有扫荡的选项?](https://www.zhihu.com/question/469337436) 40 万热度 27回复
+1. [2021 LPL 夏季赛 FPX 0:2 iG，如何评价这场比赛？](https://www.zhihu.com/question/469808758) 40 万热度 149回复
+1. [如何看待维他奶集团在采购部员工「恐怖袭击」警方并自杀后，发布的两面派声明？](https://www.zhihu.com/question/469732478) 40 万热度 76回复
 1. [面试时被问到「有没有职业规划时」，各位是怎么回答的？](https://www.zhihu.com/question/19850945) 37 万热度 42回复
 1. [有哪些好看还写得好的古代言情小说？](https://www.zhihu.com/question/305808724) 34 万热度 1391回复
 1. [哪一部小说是你心里的意难平呢？](https://www.zhihu.com/question/467675119) 29 万热度 70回复
@@ -91,6 +101,7 @@
 1. [欧洲杯 1/4 决赛英格兰 4:0 击败乌克兰晋级四强，如何评价这场比赛？](https://www.zhihu.com/question/469893448) 6 万热度 32回复
 1. [正畸戴牙套都是怎么清理牙齿的？](https://www.zhihu.com/question/458630145) 6 万热度 101回复
 1. [如何让小学生爱上阅读并且主动阅读？有哪些适合小学生的读物值得推荐？](https://www.zhihu.com/question/20298114) 6 万热度 285回复
+1. [你们去日本留学家里给了多少钱？](https://www.zhihu.com/question/349176242) 6 万热度 186回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
