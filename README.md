@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-07 02:21:59
+最后更新时间 2021-07-07 04:17:44
 
 1. [如何看待英国宣布 7 月 19 日基本取消新冠管控措施，英首相称将「与新冠共生」？](https://www.zhihu.com/question/470344047) 1776 万热度 899回复
 1. [如何看待公鼠怀孕论文停止撤稿 ，作者受到大量非科学讨论的攻击，称「没有做错任何事，只是一次动物实验」？](https://www.zhihu.com/question/470229957) 1191 万热度 354回复
@@ -56,9 +56,9 @@
 1. [西南大学宿舍条件如何？](https://www.zhihu.com/question/46336332) 82 万热度 47回复
 1. [飞机出现故障时，飞行员都在想些啥？](https://www.zhihu.com/question/321094762) 74 万热度 82回复
 1. [是什么让你放弃了那个人？](https://www.zhihu.com/question/466005898) 65 万热度 441回复
+1. [喜欢一个人会因为她的一句话而不喜欢她吗？](https://www.zhihu.com/question/410747789) 63 万热度 5414回复
+1. [高三复读要交不到朋友怎么自我排遣？](https://www.zhihu.com/question/468584176) 62 万热度 182回复
 1. [自己找人装修和找装修公司哪个好？](https://www.zhihu.com/question/342779357) 61 万热度 136回复
-1. [高三复读要交不到朋友怎么自我排遣？](https://www.zhihu.com/question/468584176) 61 万热度 182回复
-1. [喜欢一个人会因为她的一句话而不喜欢她吗？](https://www.zhihu.com/question/410747789) 60 万热度 5414回复
 1. [22 考研该怎么规划？](https://www.zhihu.com/question/394099769) 59 万热度 277回复
 1. [通过炒股实现财务自由的人，都做对了什么？](https://www.zhihu.com/question/463163458) 59 万热度 48回复
 1. [新手司机去自驾环大西北有什么建议吗？](https://www.zhihu.com/question/467242045) 59 万热度 41回复
@@ -71,6 +71,7 @@
 1. [高一生活真的有那么美好吗？](https://www.zhihu.com/question/412925978) 42 万热度 2261回复
 1. [江湖再见的诗句有哪些？](https://www.zhihu.com/question/463456251) 37 万热度 53回复
 1. [考研都让你看到了怎样的人性？](https://www.zhihu.com/question/348014746) 31 万热度 1956回复
+1. [如何评价 2021 年 7 月动画《我们的重制人生》？](https://www.zhihu.com/question/467205569) 31 万热度 28回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
