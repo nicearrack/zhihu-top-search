@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-08 04:18:02
+最后更新时间 2021-07-08 06:17:35
 
 1. [如何看待「旅顺博物馆」官方回应网红「党妹」穿日式洛丽塔裙跳舞？](https://www.zhihu.com/question/470365349) 4112 万热度 1310回复
 1. [如何看待女孩花光 10 年积蓄买房入住毛坯房，称「结婚并不能带来安全感」？](https://www.zhihu.com/question/470358346) 2855 万热度 2455回复
@@ -53,7 +53,7 @@
 1. [想入门哲学，直接从尼采的原著开始会不会不妥？](https://www.zhihu.com/question/465167597) 76 万热度 57回复
 1. [《塞尔达传说》前期到底该怎么打？](https://www.zhihu.com/question/444332434) 73 万热度 115回复
 1. [英语四级准备充分大概需要多久？](https://www.zhihu.com/question/293706213) 63 万热度 99回复
-1. [八千买的柴犬，十个月大了还没有爆脸，是被骗了吗？](https://www.zhihu.com/question/353006075) 56 万热度 63回复
+1. [八千买的柴犬，十个月大了还没有爆脸，是被骗了吗？](https://www.zhihu.com/question/353006075) 59 万热度 63回复
 1. [你觉得余光中笔下最惊艳的句子是什么？](https://www.zhihu.com/question/440817750) 45 万热度 104回复
 1. [如何修复肌肤屏障?](https://www.zhihu.com/question/318814504) 40 万热度 329回复
 1. [男孩子什么行为是喜欢你?](https://www.zhihu.com/question/459337094) 40 万热度 212回复
@@ -79,6 +79,7 @@
 1. [有没有可爱的长裙子推荐？](https://www.zhihu.com/question/446771263) 20 万热度 199回复
 1. [如何憋住不联系一个人？](https://www.zhihu.com/question/417595335) 20 万热度 2912回复
 1. [海外留学生毕业回国如何找工作？](https://www.zhihu.com/question/267051114) 20 万热度 75回复
+1. [如何以「我囚禁了天帝近百年」为开头写个故事？](https://www.zhihu.com/question/436573312) 17 万热度 298回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
