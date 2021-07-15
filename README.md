@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-16 04:18:07
+最后更新时间 2021-07-16 06:17:36
 
 1. [如何看待 33 岁杭州女子网红小冉吸脂手术后全身多器官衰竭，两个月后抢救无效死亡？医美存在哪些风险？](https://www.zhihu.com/question/472209083) 3341 万热度 703回复
 1. [如何看待苏州一车主因车辆被堵强行撞车离开，法院判决赔钱又获刑十月？面对乱停乱放车辆有哪些合规的做法？](https://www.zhihu.com/question/471765849) 2401 万热度 1370回复
@@ -52,10 +52,11 @@
 1. [如何评价综艺《心动的信号》第四季第四期？](https://www.zhihu.com/question/472219160) 129 万热度 23回复
 1. [有没有让人听完瞬间就想笑的笑话？](https://www.zhihu.com/question/467141438) 121 万热度 25回复
 1. [我是准高一，可以用 87 版《红楼梦》代替看原著吗？](https://www.zhihu.com/question/472111121) 120 万热度 114回复
+1. [减肥都是饿出来的吗？](https://www.zhihu.com/question/446278658) 110 万热度 724回复
+1. [如何看待 Valve 宣布推出便携 PC 掌机 Steam Deck，性能足够运行最新 3A 大作？](https://www.zhihu.com/question/472485407) 105 万热度 28回复
 1. [可以推荐一些好看，主角智商在线的小说吗？](https://www.zhihu.com/question/438635840) 103 万热度 82回复
 1. [孩子很平庸，非常失望，该如何调整积极面对？](https://www.zhihu.com/question/341127721) 94 万热度 6262回复
-1. [如何看待 Valve 宣布推出便携 PC 掌机 Steam Deck，性能足够运行最新 3A 大作？](https://www.zhihu.com/question/472485407) 90 万热度 28回复
-1. [女生该不该拼力进投行、券商这类高工作量的地方？](https://www.zhihu.com/question/36710812) 73 万热度 793回复
+1. [女生该不该拼力进投行、券商这类高工作量的地方？](https://www.zhihu.com/question/36710812) 74 万热度 793回复
 1. [我高一期末考才 480 多，我高三还有希望考一本吗？](https://www.zhihu.com/question/471762476) 62 万热度 143回复
 1. [有哪些格调很高的高考作文万能句？](https://www.zhihu.com/question/265353821) 59 万热度 79回复
 1. [是什么原因让你突然意识到，其实一个人生活也挺好？](https://www.zhihu.com/question/470094132) 59 万热度 302回复
@@ -78,6 +79,7 @@
 1. [怎么才能忘掉并真正的放下前任呢？](https://www.zhihu.com/question/472312273) 39 万热度 274回复
 1. [大学有必要化妆或者学会化妆吗？](https://www.zhihu.com/question/471908843) 39 万热度 53回复
 1. [理财小白和高手之间，最大的认知差别在哪里？](https://www.zhihu.com/question/471112300) 39 万热度 143回复
+1. [请问你们都在听什么乐队？](https://www.zhihu.com/question/457932935) 38 万热度 299回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
