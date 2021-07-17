@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-18 02:21:36
+最后更新时间 2021-07-18 04:17:27
 
 1. [湖南 24 岁小伙大热天打球当场猝死，目击者称他下场后喝了冰水，猝死是否与喝冰水有关？](https://www.zhihu.com/question/472510464) 1991 万热度 610回复
 1. [有哪些看起来热量很高，实际热量却很低的食物？](https://www.zhihu.com/question/359675190) 1697 万热度 691回复
@@ -52,9 +52,9 @@
 1. [如何评价《特利迦奥特曼》第二话?](https://www.zhihu.com/question/472705374) 90 万热度 43回复
 1. [作为一个准研究生，怎样才能在研究生阶段不虚度?](https://www.zhihu.com/question/326709421) 88 万热度 116回复
 1. [飞机上那么多零件，每一个松动都会导致严重后果，那么每次起飞之前是需要全部检查一遍吗？](https://www.zhihu.com/question/463612668) 79 万热度 162回复
+1. [如果我们真的研制出高达，它在实战中是否能发挥作用？](https://www.zhihu.com/question/34574310) 74 万热度 56回复
 1. [女生如何脱毛？](https://www.zhihu.com/question/27899764) 72 万热度 788回复
 1. [可以分享推荐你最近喜欢听的一首歌吗？](https://www.zhihu.com/question/471940303) 72 万热度 325回复
-1. [如果我们真的研制出高达，它在实战中是否能发挥作用？](https://www.zhihu.com/question/34574310) 71 万热度 56回复
 1. [有哪些三观很正又很温柔的文案？](https://www.zhihu.com/question/458254625) 66 万热度 177回复
 1. [有没有什么办法可以短期提高雅思成绩？](https://www.zhihu.com/question/428867238) 59 万热度 106回复
 1. [科一总考不过怎么办？](https://www.zhihu.com/question/452337875) 56 万热度 209回复
@@ -76,6 +76,10 @@
 1. [一个挺不好的普高和一个差不多点的职高选哪个较好？](https://www.zhihu.com/question/471327805) 19 万热度 199回复
 1. [如果你有一个永远不迟到的超能力，怎样把这个超能力利益最大化？](https://www.zhihu.com/question/472290280) 19 万热度 65回复
 1. [女朋友过生日，送什么礼物比较好?](https://www.zhihu.com/question/451397123) 19 万热度 34回复
+1. [米哈游发布的游戏《原神》中若陀龙王战斗歌词究竟是什么意思？](https://www.zhihu.com/question/472544913) 18 万热度 24回复
+1. [上大学前应该买笔记本还是平板？](https://www.zhihu.com/question/464539314) 18 万热度 161回复
+1. [猫咪的哪些表现，说明被养熟了？](https://www.zhihu.com/question/436001372) 18 万热度 225回复
+1. [你们上语文课时都在干什么？](https://www.zhihu.com/question/360741477) 18 万热度 1191回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
