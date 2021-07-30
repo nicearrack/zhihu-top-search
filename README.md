@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-07-31 02:22:29
+最后更新时间 2021-07-31 04:17:57
 
 1. [如何看待奥运会开幕式 4000 份食物无人吃被扔掉，奥组委发言人出面道歉？](https://www.zhihu.com/question/475607482) 2075 万热度 257回复
 1. [美媒声称「中国运动机器的唯一目标：不惜任何代价拿下最多的金牌」，如何看待此报道？你认为金牌重要吗？](https://www.zhihu.com/question/476132907) 2059 万热度 836回复
@@ -52,6 +52,7 @@
 1. [不交五险一金，老了会怎样？](https://www.zhihu.com/question/383748418) 193 万热度 967回复
 1. [如何评价《第五人格》画师原画疑似被游戏《纸嫁衣2》抠图抄袭使用成游戏图标？](https://www.zhihu.com/question/475046438) 191 万热度 44回复
 1. [如何评价杨紫、成毅主演的电视剧《沉香如屑》首发预告？这部剧值得期待吗？](https://www.zhihu.com/question/476036267) 181 万热度 175回复
+1. [有多少人愿意在热度过后继续支持鸿星尔克？](https://www.zhihu.com/question/475165610) 154 万热度 78回复
 1. [如何评价王源的新歌《你的名字是世界瞒着我最大的事情》？](https://www.zhihu.com/question/475792387) 152 万热度 122回复
 1. [为什么《斗破苍穹》与《斗罗大陆》的评价似乎截然相反？实际情况如何？](https://www.zhihu.com/question/475140142) 140 万热度 26回复
 1. [华为 P50 值得买吗?](https://www.zhihu.com/question/474183526) 125 万热度 50回复
@@ -59,22 +60,28 @@
 1. [为什么 iG 不能学 RNG 在上路「养大爹」的赢比赛公式？](https://www.zhihu.com/question/473252442) 102 万热度 74回复
 1. [两个相爱并步入婚姻的人，为什么最后还是把生活过成了一地鸡毛？](https://www.zhihu.com/question/470047774) 101 万热度 86回复
 1. [有没有可爱又很简单的情头？](https://www.zhihu.com/question/394251056) 83 万热度 58回复
-1. [有多少人愿意在热度过后继续支持鸿星尔克？](https://www.zhihu.com/question/475165610) 82 万热度 78回复
 1. [如何挑选一件好看、耐穿且性价比高的 T 恤？](https://www.zhihu.com/question/404173699) 77 万热度 105回复
 1. [有哪些优美且鲜为人知的诗句？](https://www.zhihu.com/question/64987834) 75 万热度 149回复
+1. [为什么现在许多游戏厂商对游戏性，玩法不关注，反而更注重画面?](https://www.zhihu.com/question/473933555) 72 万热度 37回复
 1. [你现在的微信顶置文案是什么？](https://www.zhihu.com/question/453486513) 71 万热度 715回复
-1. [为什么现在许多游戏厂商对游戏性，玩法不关注，反而更注重画面?](https://www.zhihu.com/question/473933555) 71 万热度 37回复
 1. [如何评价周深在综艺《念念青春》中的表现？](https://www.zhihu.com/question/475502155) 66 万热度 26回复
 1. [如何以「听说了吗？京城里新来的花魁和九公主长得一模一样」为开头写一个故事?](https://www.zhihu.com/question/471812460) 64 万热度 24回复
 1. [7 月 29 日张家界确诊 1 例本土新冠肺炎病例，目前情况如何？](https://www.zhihu.com/question/475877074) 61 万热度 27回复
 1. [初一初二都在摸鱼，初三努力，真的回头是岸吗？](https://www.zhihu.com/question/475370563) 61 万热度 832回复
-1. [初中在普通班对中考有影响吗？有的话要怎样应对呢？](https://www.zhihu.com/question/473956533) 59 万热度 331回复
+1. [初中在普通班对中考有影响吗？有的话要怎样应对呢？](https://www.zhihu.com/question/473956533) 60 万热度 331回复
 1. [公司注册了但没有经营怎么办？](https://www.zhihu.com/question/472560796) 59 万热度 45回复
 1. [张哲瀚的帅点在哪里，为什么我 get 不到？](https://www.zhihu.com/question/475492863) 59 万热度 151回复
 1. [如何注册一家新的公司？](https://www.zhihu.com/question/469146889) 59 万热度 33回复
 1. [你们是怎么察觉一个人喜不喜欢你?](https://www.zhihu.com/question/472856571) 59 万热度 139回复
 1. [河南特大暴雨已致 99 人遇难，还有哪些信息值得关注？](https://www.zhihu.com/question/475862955) 59 万热度 28回复
 1. [为什么游戏《原神》角色「神里绫华」热度这么高？](https://www.zhihu.com/question/472606680) 58 万热度 57回复
+1. [7 月 27 日湖南常德发现 1 例无症状感染者，与成都确诊病例有接触，目前情况如何？](https://www.zhihu.com/question/475543396) 58 万热度 22回复
+1. [有哪些考研人相见恨晚的好用 App？](https://www.zhihu.com/question/318730775) 57 万热度 378回复
+1. [如何评价吴磊、张子枫主演的电影《盛夏未来》？](https://www.zhihu.com/question/465317584) 56 万热度 275回复
+1. [请问你有珍藏多年的冷笑话吗？](https://www.zhihu.com/question/466363335) 56 万热度 28回复
+1. [如何评价《明日方舟》推出的全新模组系统？](https://www.zhihu.com/question/476086440) 56 万热度 36回复
+1. [如何看待威斯布鲁克加盟湖人？](https://www.zhihu.com/question/475980242) 56 万热度 26回复
+1. [如何评价虚拟偶像「七海 Nana7mi」在电车难题中的一系列决定？](https://www.zhihu.com/question/471558134) 55 万热度 68回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
