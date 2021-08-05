@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-06 04:18:23
+最后更新时间 2021-08-06 06:17:46
 
 1. [如何评价 2020 年东京奥运冠军谌利军感谢网友帮他找到代言这件事？](https://www.zhihu.com/question/476996059) 3764 万热度 351回复
 1. [如何看待秦皇岛 17 岁男生因救 3 个姑娘牺牲？](https://www.zhihu.com/question/477300901) 2633 万热度 1079回复
@@ -59,6 +59,7 @@
 1. [有哪些情侣之间的好物？](https://www.zhihu.com/question/317557967) 87 万热度 27回复
 1. [你认为最危险的化学物质是什么？](https://www.zhihu.com/question/402917525) 86 万热度 21回复
 1. [高中的化学怎么样上 95 分?](https://www.zhihu.com/question/430336400) 78 万热度 75回复
+1. [如何看待 2022 年秋招算法岗人间地狱？](https://www.zhihu.com/question/453325429) 75 万热度 98回复
 1. [国家广电总局：「严格控制偶像养成类节目」，释放了哪些信号？还有哪些信息值得关注？](https://www.zhihu.com/question/477069529) 56 万热度 259回复
 1. [怎样让皮肤变好变白？](https://www.zhihu.com/question/450658642) 56 万热度 164回复
 1. [江湖再见的诗句有哪些？](https://www.zhihu.com/question/463456251) 54 万热度 103回复
@@ -78,6 +79,7 @@
 1. [在律所实习期间没有老师带，而且要服务整个律所，这种情况是否需要转所？](https://www.zhihu.com/question/475387537) 37 万热度 40回复
 1. [有哪些原因会导致在考研复试被淘汰？](https://www.zhihu.com/question/309166472) 37 万热度 181回复
 1. [为什么游戏《原神》官推主角、PV 视角是哥哥，但用妹妹的玩家似乎还是那么多？](https://www.zhihu.com/question/457175688) 37 万热度 159回复
+1. [PTE 考试简单吗？为什么那么多人选择 PTE？](https://www.zhihu.com/question/331311473) 36 万热度 128回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
