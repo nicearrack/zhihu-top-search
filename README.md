@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-12 02:22:23
+最后更新时间 2021-08-12 04:18:16
 
 1. [孩子在超市混杂谷物被要求「挑出来，不然全买下」，作为家长应该怎么做？此事有怎样的教育意义？](https://www.zhihu.com/question/478743131) 1956 万热度 410回复
 1. [阿迪达斯在华收入下跌 16% ，成全球唯一负增长地区，其 CEO 称中国市场已偏向国货，透露出哪些信息？](https://www.zhihu.com/question/478894440) 1484 万热度 324回复
@@ -46,36 +46,43 @@
 1. [《扫黑风暴》中孙红雷饰演的李成阳，到底是正派还是反派？](https://www.zhihu.com/question/478588790) 234 万热度 66回复
 1. [有没有好看的追妻火葬场的文？](https://www.zhihu.com/question/402113685) 217 万热度 90回复
 1. [如何看待 hero 放出的 8 月 8 日与重庆 QGhappy 比赛队内四局语音？](https://www.zhihu.com/question/478832010) 216 万热度 66回复
+1. [红楼梦中四大家族到底犯了什么罪导致白茫茫了大地真干净的结局？](https://www.zhihu.com/question/43561377) 212 万热度 328回复
 1. [如何看待雷军表示，「当前任务是站稳全球第二，目标是三年全球第一」？](https://www.zhihu.com/question/478796890) 206 万热度 171回复
-1. [红楼梦中四大家族到底犯了什么罪导致白茫茫了大地真干净的结局？](https://www.zhihu.com/question/43561377) 206 万热度 328回复
 1. [女儿发给我这样一段话，负面情绪比较严重，我很担心，该怎么办？](https://www.zhihu.com/question/478521078) 203 万热度 72回复
 1. [如何评价 Tesla 推出售价 27.6 万人民币的标准续航版 Model Y？](https://www.zhihu.com/question/470837546) 189 万热度 151回复
 1. [如何看待小米销量首次超越苹果，雷军实现 7 年前被嘲讽的梦想？](https://www.zhihu.com/question/478822815) 185 万热度 164回复
 1. [ofo 上海深圳等公司接连注销，其中的原因是什么？「小黄车」的押金还能退回来吗？](https://www.zhihu.com/question/478737993) 182 万热度 65回复
+1. [如何看待货拉拉跳车案双方发声，司机妻子称女孩跳车为意外事故，跳车女孩父亲则认为「女儿不会无故跳车」？](https://www.zhihu.com/question/479088472) 181 万热度 48回复
 1. [自己被高层领导安排去干别的活，管我的领导却冲我发脾气我是不是该辞职了？](https://www.zhihu.com/question/471985809) 174 万热度 170回复
 1. [如何评价《心动的信号》第四季第八期？](https://www.zhihu.com/question/479043804) 162 万热度 95回复
 1. [文旅部：「建立全国卡拉 OK 音乐违规曲目清单制度」，具有哪些现实意义？还有什么值得关注的信息？](https://www.zhihu.com/question/478785591) 159 万热度 66回复
 1. [如何看待《英雄联盟》11.15 版本吉格斯在 AD 位登场超 90%？](https://www.zhihu.com/question/478522575) 159 万热度 21回复
 1. [服化道精良的《玉楼春》为什么受到了那么多吐槽？](https://www.zhihu.com/question/475685576) 139 万热度 147回复
 1. [失去了梅西的巴塞罗那会不会在 21-22 赛季全面崩盘？](https://www.zhihu.com/question/478145278) 137 万热度 51回复
+1. [如何评价 2021 LPL 夏季常规赛最佳阵容评选结果？](https://www.zhihu.com/question/479039064) 125 万热度 64回复
 1. [猫咪为什么喜欢看窗外呢？](https://www.zhihu.com/question/474360080) 124 万热度 123回复
-1. [如何看待货拉拉跳车案双方发声，司机妻子称女孩跳车为意外事故，跳车女孩父亲则认为「女儿不会无故跳车」？](https://www.zhihu.com/question/479088472) 116 万热度 48回复
+1. [如何评价《扫黑风暴》里张艺兴的演技？](https://www.zhihu.com/question/478274728) 112 万热度 23回复
 1. [哪些国产的小众品牌是你无限回购的？](https://www.zhihu.com/question/292164259) 91 万热度 1145回复
 1. [如果乌贼本人穿越《诡秘之主》里会发生什么变动？](https://www.zhihu.com/question/477575615) 85 万热度 24回复
 1. [推荐好吃又便宜，适合囤货的零食？](https://www.zhihu.com/question/472377733) 80 万热度 24回复
-1. [如何评价《扫黑风暴》里张艺兴的演技？](https://www.zhihu.com/question/478274728) 79 万热度 23回复
 1. [你摘抄过什么句子？](https://www.zhihu.com/question/314121506) 75 万热度 3735回复
 1. [大家觉得在 10 万以内价位别克英朗算不算首选？](https://www.zhihu.com/question/459529684) 74 万热度 44回复
 1. [有什么电视剧推荐吗？](https://www.zhihu.com/question/469035734) 68 万热度 79回复
-1. [清新文雅的诗句有哪些？](https://www.zhihu.com/question/433901925) 67 万热度 27回复
+1. [清新文雅的诗句有哪些？](https://www.zhihu.com/question/433901925) 68 万热度 27回复
 1. [别人给我推荐的别克君威，这个车咋样？](https://www.zhihu.com/question/465147017) 66 万热度 57回复
+1. [怎么让自己放弃一个暗恋了六年的男生？](https://www.zhihu.com/question/476950025) 63 万热度 285回复
 1. [难道初三没进重点班，就真的考不上高中吗 ?](https://www.zhihu.com/question/478571720) 62 万热度 379回复
 1. [可以分享一些你喜欢的短句吗 ？](https://www.zhihu.com/question/477133730) 60 万热度 389回复
-1. [怎么让自己放弃一个暗恋了六年的男生？](https://www.zhihu.com/question/476950025) 60 万热度 285回复
 1. [李商隐的诗算得上一流吗？](https://www.zhihu.com/question/41885927) 60 万热度 230回复
 1. [一份工作是喜欢重要还是钱更重要？](https://www.zhihu.com/question/477734490) 60 万热度 259回复
 1. [如何提升中考体育成绩? 有必要报班吗?](https://www.zhihu.com/question/477827103) 59 万热度 270回复
 1. [如果你是一个 C++ 面试官，你会问哪些问题？](https://www.zhihu.com/question/451327108) 59 万热度 36回复
+1. [刚读完初中，只能上个普高，但是学习不好也没心思读书，学历真的重要吗，打工之后真的会后悔不读书吗？](https://www.zhihu.com/question/476841665) 59 万热度 454回复
+1. [在上海应用技术大学读书是什么体验？](https://www.zhihu.com/question/62082173) 59 万热度 51回复
+1. [在职场上，上班的时间秒回领导的微信是好事还是坏事？](https://www.zhihu.com/question/475078004) 59 万热度 63回复
+1. [如何看待 INTO1 首张 ep 《风暴眼》？](https://www.zhihu.com/question/478634614) 58 万热度 36回复
+1. [假如你可以把某个技术立刻「用在厨房」，你会选什么？](https://www.zhihu.com/question/478908619) 57 万热度 178回复
+1. [有哪些是你搞摄影后才懂的事？](https://www.zhihu.com/question/462079009) 57 万热度 88回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
