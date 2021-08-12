@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-13 02:22:23
+最后更新时间 2021-08-13 04:18:32
 
 1. [江西教师称「让扬州放弃严格防疫」被拘 15 天，处罚结果是否合法合理？不当言论该如何界定？](https://www.zhihu.com/question/479240905) 3102 万热度 1264回复
 1. [如何评价乌合麒麟新作《1 月 20 日洛杉矶平淡无奇的夜晚》？](https://www.zhihu.com/question/478996854) 3011 万热度 1105回复
@@ -55,21 +55,25 @@
 1. [有什么美得不可方物的壁纸？](https://www.zhihu.com/question/299205851) 184 万热度 7965回复
 1. [为什么要珍惜带孩子的头三年？](https://www.zhihu.com/question/470839638) 172 万热度 230回复
 1. [如何看待货拉拉跳车案女孩父亲发声：「不愿与司机方和解」？还有哪些细节值得关注？](https://www.zhihu.com/question/479073926) 155 万热度 183回复
+1. [年轻人得癌症是种怎样的体验？](https://www.zhihu.com/question/288301645) 152 万热度 2271回复
 1. [如何减肚子的肉？](https://www.zhihu.com/question/32457552) 146 万热度 32回复
 1. [工信部发布意见：企业不得擅自升级新增汽车自动驾驶功能，会带来哪改变？](https://www.zhihu.com/question/479186205) 139 万热度 22回复
 1. [父母不同意姐姐远嫁，怎么劝姐姐呢?](https://www.zhihu.com/question/479111775) 126 万热度 160回复
 1. [做独生子女的感受是怎样的？](https://www.zhihu.com/question/34599749) 79 万热度 182回复
 1. [你有哪些宝藏耳机音箱，会为他们搭配专属歌单？](https://www.zhihu.com/question/478765602) 72 万热度 24回复
-1. [你的藏书架上，至今最得意的藏书是什么？](https://www.zhihu.com/question/456543158) 68 万热度 74回复
+1. [你的藏书架上，至今最得意的藏书是什么？](https://www.zhihu.com/question/456543158) 70 万热度 74回复
+1. [该如何正确地读一本书？](https://www.zhihu.com/question/478905840) 67 万热度 22回复
 1. [如何看待美国秘密设施所在国家和地区屡屡出现怪病，美国为何要在全球建如此多的军事生物实验室？](https://www.zhihu.com/question/478392758) 66 万热度 71回复
 1. [请问你算的是个好人吗？](https://www.zhihu.com/question/477619622) 66 万热度 289回复
-1. [该如何正确地读一本书？](https://www.zhihu.com/question/478905840) 66 万热度 22回复
 1. [四川环球博纳起诉刘德华监制主演电影《扫毒 2》抄袭，索赔近 1 亿元，你觉得《扫毒 2》是否构成抄袭？](https://www.zhihu.com/question/478896054) 59 万热度 87回复
 1. [可以分享一些你喜欢的句子吗?](https://www.zhihu.com/question/475351772) 59 万热度 515回复
 1. [你收到的七夕节礼物是什么？](https://www.zhihu.com/question/49412310) 57 万热度 112回复
 1. [湖北随州连续遭遇强降雨袭击，其中柳林镇降雨量超过 300 毫米已致通讯中断，目前当地情况如何？](https://www.zhihu.com/question/479199554) 54 万热度 105回复
 1. [怎么忘记一个人深爱的人？](https://www.zhihu.com/question/475185751) 53 万热度 300回复
 1. [你人生中太晚明白的道理是什么？](https://www.zhihu.com/question/470076571) 52 万热度 981回复
+1. [你们见过最努力的人有多努力？](https://www.zhihu.com/question/474194443) 51 万热度 41回复
+1. [高一分文理有什么建议吗？](https://www.zhihu.com/question/478094065) 51 万热度 270回复
+1. [新东方从培训孩子转型培训家长，若辅导需求仍有，「共享育儿」会不会更好呢？](https://www.zhihu.com/question/478950438) 50 万热度 51回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
