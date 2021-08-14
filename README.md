@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-15 04:17:39
+最后更新时间 2021-08-15 06:17:22
 
 1. [济南公安通报「阿里女员工被侵害」，王某文、张某涉嫌强制猥亵罪，无证据证明强奸，有哪些信息值得关注？](https://www.zhihu.com/question/479769036) 6295 万热度 2249回复
 1. [霍尊道歉「谢谢露露八年的陪伴」并宣布告别演艺工作，你能接受他的道歉吗？文章还透露了哪些信息？](https://www.zhihu.com/question/479798448) 3151 万热度 775回复
@@ -42,13 +42,15 @@
 1. [外出吃饭，店家菜品不好吃是否应该直接了当地说出来？](https://www.zhihu.com/question/477139405) 184 万热度 144回复
 1. [河南虞城县管控不力，新增 4 例确诊并涉嫌瞒报，目前情况如何？瞒报可能承担哪些责任？](https://www.zhihu.com/question/479682607) 175 万热度 28回复
 1. [如何看待小米取消 MIX4 防丢失模式的无卡联网功能？这背后是否是出于安全考虑还是另有原因？](https://www.zhihu.com/question/479568890) 160 万热度 111回复
-1. [孟晚舟案「司法补救」审理结束，全部审理最早 8 月 19 日结束，还有哪些信息值得关注？](https://www.zhihu.com/question/478871789) 131 万热度 75回复
+1. [孟晚舟案「司法补救」审理结束，全部审理最早 8 月 19 日结束，还有哪些信息值得关注？](https://www.zhihu.com/question/478871789) 137 万热度 75回复
 1. [如何评价 (G)I-DLE 被爆霸凌成员徐穗珍退团?](https://www.zhihu.com/question/479774061) 109 万热度 52回复
 1. [如何看待 blackpink 五周年？](https://www.zhihu.com/question/478599370) 96 万热度 22回复
 1. [用笔记本电脑玩《原神》得什么样的配置？](https://www.zhihu.com/question/362510742) 90 万热度 26回复
-1. [哪句话你喜欢了很久?](https://www.zhihu.com/question/419794956) 82 万热度 2205回复
+1. [哪句话你喜欢了很久?](https://www.zhihu.com/question/419794956) 83 万热度 2205回复
 1. [计算机专业的学生怎样练习编程才能把编程学精通啊？](https://www.zhihu.com/question/263445600) 76 万热度 88回复
 1. [当我努力却考不过不努力的学生，我该怎么办？](https://www.zhihu.com/question/357856045) 69 万热度 278回复
+1. [为什么大家总觉得王者荣耀主播张大仙很菜?](https://www.zhihu.com/question/384371807) 66 万热度 1036回复
+1. [找男朋友，是颜值重要还是有才更重要?](https://www.zhihu.com/question/478787886) 63 万热度 175回复
 1. [是什么原因让你突然意识到，其实一个人生活也挺好？](https://www.zhihu.com/question/470094132) 59 万热度 772回复
 1. [《扫黑风暴》的人物、故事设定参照了哪些真实案件？](https://www.zhihu.com/question/478584452) 51 万热度 25回复
 1. [如果高一就开始分文理科请问建议学文还是学理？](https://www.zhihu.com/question/474861850) 48 万热度 428回复
@@ -80,6 +82,10 @@
 1. [如果你只能推荐一瓶精华液，你会选哪一支？](https://www.zhihu.com/question/37362129) 6 万热度 480回复
 1. [使用 React hooks 如何只让下面这段代码的子组件只 render 一次？](https://www.zhihu.com/question/444068787) 6 万热度 32回复
 1. [有没有什么情话一眼就感动了你？](https://www.zhihu.com/question/361207270) 6 万热度 54回复
+1. [小学阶段是该让孩子多刷题还是多阅读?](https://www.zhihu.com/question/387030054) 6 万热度 467回复
+1. [建议考研用日语吗?](https://www.zhihu.com/question/452182267) 6 万热度 45回复
+1. [2021 年有哪些好用的蓝牙耳机推荐？](https://www.zhihu.com/question/430697643) 6 万热度 212回复
+1. [很喜欢你的人，和你很喜欢的人，你会选择谁？](https://www.zhihu.com/question/478482726) 6 万热度 456回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
