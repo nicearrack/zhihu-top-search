@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-22 04:17:53
+最后更新时间 2021-08-22 06:17:28
 
 1. [农民工穿破旧工地服带儿子买耐克遭歧视，该门店回应称「涉事员工已被辞退」，如何看待此事？](https://www.zhihu.com/question/481174491) 2701 万热度 2336回复
 1. [如何看待电视剧《扫黑风暴》送审样片资源泄露？](https://www.zhihu.com/question/481330328) 1676 万热度 310回复
@@ -46,8 +46,8 @@
 1. [高中化学基础太差，准高三应该从何补起？](https://www.zhihu.com/question/466943473) 66 万热度 123回复
 1. [你是从什么时候觉得自己要开始健身了？](https://www.zhihu.com/question/473214543) 66 万热度 47回复
 1. [激光打印机好还是喷墨的好一点？](https://www.zhihu.com/question/26684736) 64 万热度 73回复
-1. [教师招聘小学语文试讲如何出彩?](https://www.zhihu.com/question/337007900) 62 万热度 50回复
-1. [是真的可以喜欢一个人很久很久吗？](https://www.zhihu.com/question/480834639) 60 万热度 177回复
+1. [教师招聘小学语文试讲如何出彩?](https://www.zhihu.com/question/337007900) 63 万热度 50回复
+1. [是真的可以喜欢一个人很久很久吗？](https://www.zhihu.com/question/480834639) 62 万热度 177回复
 1. [说实话那些在大学里没谈过恋爱，出入社会之后是怎么找寻另一半的？](https://www.zhihu.com/question/432440454) 58 万热度 149回复
 1. [周奇墨在《脱口秀大会 4》突围赛中的「Listen to 伯伯」这段厉害在哪儿？](https://www.zhihu.com/question/480511536) 56 万热度 153回复
 1. [初二成绩吊尾，初三还有可能考上高中吗？](https://www.zhihu.com/question/468628888) 36 万热度 4016回复
@@ -77,6 +77,9 @@
 1. [男朋友生日还可以送什么礼物？](https://www.zhihu.com/question/308636509) 6 万热度 50回复
 1. [为什么很多人都说江浙沪是美食荒漠？](https://www.zhihu.com/question/456755817) 6 万热度 637回复
 1. [你为什么不结婚？来谈谈你不结婚的理由？](https://www.zhihu.com/question/268802571) 6 万热度 151回复
+1. [如何评价《心动的信号 4》大结局？](https://www.zhihu.com/question/481264856) 6 万热度 37回复
+1. [如何评价英特尔在 2021 架构日正式公布的 Alder Lake 系列处理器？](https://www.zhihu.com/question/481026148) 6 万热度 26回复
+1. [​哪些装修项，日子过得越久越发现不必要做，让你觉得钱花的一点也不值？](https://www.zhihu.com/question/438326516) 6 万热度 48回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
