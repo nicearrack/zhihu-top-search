@@ -14,33 +14,36 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-29 00:27:19
+最后更新时间 2021-08-29 02:20:24
 
 1. [8 月 27 日美国情报机构出炉「新冠病毒溯源报告」，指责中国阻挠国际调查，如何看待这一份报告？](https://www.zhihu.com/question/483075378) 1936 万热度 496回复
-1. [赵丽颖、王一博工作室被平台约谈，释放了哪些信号？](https://www.zhihu.com/question/483066284) 1626 万热度 390回复
+1. [赵丽颖、王一博工作室被平台约谈，释放了哪些信号？](https://www.zhihu.com/question/483066284) 1787 万热度 390回复
 1. [请问不小心把学长 iPhone X Max 后屏撞碎应该赔付 4000 多元吗？](https://www.zhihu.com/question/357054793) 1197 万热度 2660回复
 1. [为何游戏圈似乎总有人认为大多数人需要的是单机游戏？](https://www.zhihu.com/question/481688844) 633 万热度 413回复
-1. [《扫黑风暴》为什么这么火？](https://www.zhihu.com/question/482205416) 535 万热度 227回复
-1. [如何看待 2021 王者荣耀世冠杯 QGhappy 4:2 GK 夺冠？](https://www.zhihu.com/question/483200616) 516 万热度 384回复
-1. [如何看待小米 9/10/10 Pro 更换第三方电池将发出警告，并限制充电速度？](https://www.zhihu.com/question/482796869) 409 万热度 124回复
+1. [如何看待 2021 王者荣耀世冠杯 QGhappy 4:2 GK 夺冠？](https://www.zhihu.com/question/483200616) 584 万热度 384回复
+1. [《扫黑风暴》为什么这么火？](https://www.zhihu.com/question/482205416) 543 万热度 227回复
+1. [如何看待小米 9/10/10 Pro 更换第三方电池将发出警告，并限制充电速度？](https://www.zhihu.com/question/482796869) 419 万热度 124回复
+1. [如何看待中国纪检监察报刊文称，流量明星「翻篇」了？这是否意味着流量明星时代结束了？](https://www.zhihu.com/question/483098597) 406 万热度 141回复
 1. [怎么看待《原神》在海外的风评和口碑与国内的巨大差异？](https://www.zhihu.com/question/423581174) 392 万热度 725回复
-1. [如何看待中国纪检监察报刊文称，流量明星「翻篇」了？这是否意味着流量明星时代结束了？](https://www.zhihu.com/question/483098597) 365 万热度 141回复
 1. [为何古代战马多被阉割？](https://www.zhihu.com/question/65970247) 343 万热度 78回复
-1. [极端组织 IS 宣布对喀布尔爆炸负责，还有哪些信息值得关注？](https://www.zhihu.com/question/482846487) 312 万热度 70回复
+1. [极端组织 IS 宣布对喀布尔爆炸负责，还有哪些信息值得关注？](https://www.zhihu.com/question/482846487) 315 万热度 70回复
 1. [现在大学生考研都人手一个 ipad，这样学习真的高效吗，还是盲目跟风？](https://www.zhihu.com/question/330048454) 281 万热度 96回复
 1. [全国网络游戏用户减少 869 万，游戏类 App 减少超 15 万，是受什么影响？和防沉迷系统有关吗？](https://www.zhihu.com/question/483031734) 275 万热度 130回复
-1. [《扫黑风暴》董耀已经认罪，为什么还要求「闭合证据链」？](https://www.zhihu.com/question/482038422) 254 万热度 80回复
-1. [哪些著名的思想实验已经实现？](https://www.zhihu.com/question/312460936) 211 万热度 110回复
-1. [有哪些只有高智商的人才会有的毛病？](https://www.zhihu.com/question/301999320) 207 万热度 340回复
-1. [QQ 音乐限制专辑重复购买，此前已取消人气榜等非作品类排名，各大 App 还会有哪些改变？](https://www.zhihu.com/question/483175538) 202 万热度 74回复
+1. [有哪些只有高智商的人才会有的毛病？](https://www.zhihu.com/question/301999320) 273 万热度 340回复
+1. [《扫黑风暴》董耀已经认罪，为什么还要求「闭合证据链」？](https://www.zhihu.com/question/482038422) 258 万热度 80回复
+1. [哪些著名的思想实验已经实现？](https://www.zhihu.com/question/312460936) 230 万热度 110回复
+1. [QQ 音乐限制专辑重复购买，此前已取消人气榜等非作品类排名，各大 App 还会有哪些改变？](https://www.zhihu.com/question/483175538) 223 万热度 74回复
 1. [预算 7000 块，是买 iPhone 12  256G 还是等 iPhone 13?](https://www.zhihu.com/question/479612322) 190 万热度 147回复
+1. [电影《失控玩家》中有哪些细思极恐的细节？](https://www.zhihu.com/question/478637496) 145 万热度 21回复
+1. [为什么鸿蒙应用无法在 Android 运行？](https://www.zhihu.com/question/482631812) 135 万热度 37回复
+1. [淘宝可以买到哪些比较实惠好吃的月饼？](https://www.zhihu.com/question/35038397) 132 万热度 163回复
 1. [《甄嬛传》里你最讨厌哪个角色？](https://www.zhihu.com/question/479085679) 130 万热度 50回复
 1. [英超焦点战曼城 5:0 大胜阿森纳，如何评价这场比赛？](https://www.zhihu.com/question/483172879) 126 万热度 51回复
-1. [电影《失控玩家》中有哪些细思极恐的细节？](https://www.zhihu.com/question/478637496) 113 万热度 21回复
-1. [淘宝可以买到哪些比较实惠好吃的月饼？](https://www.zhihu.com/question/35038397) 98 万热度 163回复
 1. [有哪些很温柔的睡前故事？](https://www.zhihu.com/question/412080562) 85 万热度 71回复
+1. [是什么原因导致你不想养猫？](https://www.zhihu.com/question/57517410) 78 万热度 99回复
 1. [如何评价综艺《90 婚介所》第三期？](https://www.zhihu.com/question/482948297) 73 万热度 29回复
 1. [应该怎么忘记一个人?](https://www.zhihu.com/question/481029694) 63 万热度 299回复
+1. [你是因为什么开始成熟的？](https://www.zhihu.com/question/478209370) 60 万热度 148回复
 1. [什么道理懂了后可以一生受用？](https://www.zhihu.com/question/456002135) 59 万热度 64回复
 1. [进重点班就一定是好的吗?](https://www.zhihu.com/question/480051400) 59 万热度 358回复
 1. [不黑不吹，你觉得小米平板 5 有望超越华为 MatePad 11 吗？](https://www.zhihu.com/question/473312731) 48 万热度 241回复
@@ -66,6 +69,12 @@
 1. [刚开始做自由摄影，感觉很难接单，怎么办？](https://www.zhihu.com/question/479827638) 6 万热度 50回复
 1. [考研政治一般从几月份开始准备？](https://www.zhihu.com/question/378053241) 6 万热度 198回复
 1. [媒体发文批评游戏圈等亚文化圈，称「兴趣爱好不应成为不良嗜好」，如何多方共治青少年小圈子畸变？](https://www.zhihu.com/question/483030667) 6 万热度 472回复
+1. [如何评价《一人之下》541（574）话？](https://www.zhihu.com/question/482758959) 6 万热度 41回复
+1. [2021 年，疫苗能结束新冠大流行吗？](https://www.zhihu.com/question/436868073) 6 万热度 188回复
+1. [游戏美术岗位，哪个最苦逼？](https://www.zhihu.com/question/356482357) 6 万热度 66回复
+1. [如何评价辉瑞疫苗获得 FDA 全面批准？](https://www.zhihu.com/question/481995511) 6 万热度 32回复
+1. [哪个瞬间让你突然不爱一个你深爱的人了？](https://www.zhihu.com/question/312570374) 6 万热度 311回复
+1. [你被哪一首歌曲触动过？](https://www.zhihu.com/question/482389826) 6 万热度 332回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
