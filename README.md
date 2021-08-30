@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-08-31 04:18:50
+最后更新时间 2021-08-31 06:17:44
 
 1. [官方要求网游企业仅在周五到周日和法定节假日 20-21 时，向未成年人提供 1 小时服务，将有何影响？](https://www.zhihu.com/question/483554401) 5240 万热度 4066回复
 1. [如何看待中国学生因手机存有军训照片，在入境时被美国以「有军方背景」为由遣返？](https://www.zhihu.com/question/483577764) 1421 万热度 282回复
@@ -56,11 +56,12 @@
 1. [如何以「即使知道眼前这位落魄的少年将来会权倾天下，我也要向他退婚」为开头写一个故事？](https://www.zhihu.com/question/461598262) 104 万热度 21回复
 1. [大学生有没有必要交医保？](https://www.zhihu.com/question/30437230) 85 万热度 31回复
 1. [年轻语文老师最应该多做的工作是什么？语文课最好的风格是什么？](https://www.zhihu.com/question/22151950) 83 万热度 68回复
+1. [小说里你不想看的剧情 / 桥段有哪些？](https://www.zhihu.com/question/275800198) 75 万热度 2522回复
 1. [我是艺术生，想知道老师真的可以从画里看出学生的性格吗？](https://www.zhihu.com/question/476040229) 73 万热度 27回复
 1. [如何不动声色地提高自身颜值？](https://www.zhihu.com/question/41761929) 72 万热度 130回复
 1. [如何以「我把男主养废了」为开头写一个故事？](https://www.zhihu.com/question/437462244) 72 万热度 202回复
 1. [人的命运能够改变吗？](https://www.zhihu.com/question/481988278) 67 万热度 71回复
-1. [考上教师编后觉得不快乐，该不该辞职？](https://www.zhihu.com/question/483177181) 65 万热度 23回复
+1. [考上教师编后觉得不快乐，该不该辞职？](https://www.zhihu.com/question/483177181) 67 万热度 23回复
 1. [有没有女主比较理智的小说？](https://www.zhihu.com/question/364191258) 59 万热度 486回复
 1. [除王者、吃鸡外，还有什么好玩的联机手游？](https://www.zhihu.com/question/341434414) 58 万热度 62回复
 1. [2021 年中秋国庆双节都加班，可拿 24 天的日工资，你会选择在节假日加班多挣钱吗？](https://www.zhihu.com/question/483528867) 57 万热度 82回复
@@ -73,6 +74,12 @@
 1. [你玩《王者荣耀》时遇到过哪些牛逼队友？](https://www.zhihu.com/question/52681936) 52 万热度 1974回复
 1. [如何评价 ESL 上 LGD 的表现？](https://www.zhihu.com/question/483406368) 51 万热度 45回复
 1. [婆媳关系最大的问题在哪里？](https://www.zhihu.com/question/313262997) 51 万热度 79回复
+1. [有一个占有欲特别强的男朋友是什么体验？](https://www.zhihu.com/question/30867410) 50 万热度 40回复
+1. [一个女生不爱化妆，除了懒还有别的原因吗？](https://www.zhihu.com/question/477564205) 50 万热度 136回复
+1. [如何评价 2021 年 CPA 的难度？](https://www.zhihu.com/question/482910515) 50 万热度 24回复
+1. [暑假作业还没写怎么办？](https://www.zhihu.com/question/482294733) 50 万热度 208回复
+1. [初一没有认真听成绩中等，到初二再去努力来得及吗?](https://www.zhihu.com/question/483348346) 49 万热度 213回复
+1. [我是今年考生，被一所好二本的法学专业录取，学法学真的会一毕业就失业吗？](https://www.zhihu.com/question/476527713) 49 万热度 34回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
