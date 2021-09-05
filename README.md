@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-06 02:20:15
+最后更新时间 2021-09-06 04:18:29
 
 1. [中国已向全球提供 9.9 亿剂次疫苗，居全球首位，对全球范围内新冠疫情防控有何影响？](https://www.zhihu.com/question/484495281) 3137 万热度 386回复
 1. [杨倩、苏炳添等 46 名运动员获全国五一劳动奖章，他们在本届奥运会上有哪些令人难忘的精彩瞬间？](https://www.zhihu.com/question/484821691) 2485 万热度 236回复
@@ -35,13 +35,15 @@
 1. [新买的 MacBook Pro 用酒精棉片擦了三遍，需要维修吗？](https://www.zhihu.com/question/481495664) 151 万热度 162回复
 1. [如何评价《德云斗笑社》第二季第三期（上）？](https://www.zhihu.com/question/484500891) 150 万热度 69回复
 1. [20 万年薪的研究所和 50 万年薪的私企应该怎么选?](https://www.zhihu.com/question/483242962) 139 万热度 343回复
+1. [如何看待这次东京残奥会中国队奖牌数断层式第一?](https://www.zhihu.com/question/484802427) 108 万热度 23回复
 1. [所有心理问题的根源是什么？](https://www.zhihu.com/question/28897344) 106 万热度 32回复
 1. [普京表示美在阿富汗经营的成果为零，外交部称「普京总统所谈的观点值得美方深思」，对此你有什么想说的？](https://www.zhihu.com/question/484253164) 104 万热度 28回复
+1. [为什么现在游戏《原神》的钟离号这么贵？](https://www.zhihu.com/question/479937069) 101 万热度 89回复
 1. [是否真的存在那些平时炒炒股、一年几千万的牛人呢？](https://www.zhihu.com/question/26104489) 96 万热度 361回复
-1. [为什么现在游戏《原神》的钟离号这么贵？](https://www.zhihu.com/question/479937069) 96 万热度 89回复
 1. [为什么近年来国内像《霸王别姬》《花样年华》这样的好电影好像越来越少了？](https://www.zhihu.com/question/36175485) 81 万热度 167回复
 1. [考科目四有什么技巧？](https://www.zhihu.com/question/327047518) 80 万热度 539回复
-1. [做心理咨询真的会有用吗？](https://www.zhihu.com/question/427472188) 74 万热度 641回复
+1. [做心理咨询真的会有用吗？](https://www.zhihu.com/question/427472188) 75 万热度 641回复
+1. [你有哪些宝藏励志句子？](https://www.zhihu.com/question/481012320) 66 万热度 28回复
 1. [职场很多员工认为老板或主管是傻子，但是自己工作 20 年跳槽 10 家单位还是个底层员工， 这到底是谁的问题？](https://www.zhihu.com/question/483642412) 58 万热度 280回复
 1. [尼古拉·特斯拉是最被低估的科学家之一吗？](https://www.zhihu.com/question/388078989) 53 万热度 113回复
 1. [为什么老师会无条件对一个学生好？](https://www.zhihu.com/question/475096101) 52 万热度 429回复
@@ -77,6 +79,7 @@
 1. [如何评价电视剧《你是我的荣耀》中杨洋饰演的航天工程师于途？](https://www.zhihu.com/question/475240010) 6 万热度 152回复
 1. [极致收纳的家是什么样的？](https://www.zhihu.com/question/331434969) 6 万热度 345回复
 1. [用 A4 纸记录一个 G 的数据需要多少钱？](https://www.zhihu.com/question/483838337) 6 万热度 72回复
+1. [怎样用 Excel 做数据分析？](https://www.zhihu.com/question/19754722) 6 万热度 146回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
