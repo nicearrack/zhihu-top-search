@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-09 04:19:09
+最后更新时间 2021-09-09 06:18:18
 
 1. [别离军营时，是否记得曾经许下的诺言，都实现了吗？](https://www.zhihu.com/question/482936135) 2822 万热度 255回复
 1. [2021 年国庆节去哪里旅行比较好？](https://www.zhihu.com/question/484222319) 2197 万热度 675回复
@@ -56,6 +56,7 @@
 1. [法硕（非法学）要考 350 以上难度有多大？](https://www.zhihu.com/question/56326518) 79 万热度 172回复
 1. [人在成熟后心境会有什么变化?](https://www.zhihu.com/question/479695937) 73 万热度 93回复
 1. [作为一个准研究生，怎样才能在研究生阶段不虚度?](https://www.zhihu.com/question/326709421) 70 万热度 133回复
+1. [为什么现在穿高跟鞋的人越来越少了？](https://www.zhihu.com/question/484700671) 65 万热度 46回复
 1. [读博的你如何劳逸结合的？](https://www.zhihu.com/question/460861080) 59 万热度 105回复
 1. [送 25 岁程序员男朋友什么生日礼物好？](https://www.zhihu.com/question/454736991) 59 万热度 91回复
 1. [我把闺女的猫暂时送走了，现在矛盾不断，我哪里错了?](https://www.zhihu.com/question/460776932) 58 万热度 259回复
@@ -81,6 +82,12 @@
 1. [女生穿的篮球鞋有推荐吗？](https://www.zhihu.com/question/483442155) 53 万热度 34回复
 1. [你为什么一直不谈恋爱?](https://www.zhihu.com/question/484871479) 52 万热度 558回复
 1. [自来水经过净化过滤后能否到达矿泉水的标准？](https://www.zhihu.com/question/484249920) 52 万热度 71回复
+1. [如何看待专家建议演艺人员实行持证上岗？还需要具体解决哪些问题？](https://www.zhihu.com/question/485549383) 51 万热度 94回复
+1. [4 月龄女婴做艾灸被烫伤，母亲向店家索赔 5 万元被拒，不足岁的婴儿能做艾灸吗？母亲索赔是否合理？](https://www.zhihu.com/question/485007366) 51 万热度 37回复
+1. [朋友之间的最好状态是怎样的？](https://www.zhihu.com/question/51429662) 50 万热度 8065回复
+1. [有哪些适合大学期间反复阅读的书？](https://www.zhihu.com/question/484325405) 50 万热度 49回复
+1. [放下了喜欢很久的人是什么感觉？](https://www.zhihu.com/question/475172772) 50 万热度 2361回复
+1. [家庭条件和学习成绩都一般，该不该学服装设计?](https://www.zhihu.com/question/483396332) 49 万热度 81回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
