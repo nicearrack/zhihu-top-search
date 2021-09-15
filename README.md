@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-16 04:18:52
+最后更新时间 2021-09-16 06:17:47
 
 1. [如果把你家乡的特产美食做成月饼馅儿，会是什么味道？](https://www.zhihu.com/question/485930357) 4187 万热度 1529回复
 1. [恒大财富总经理承认自己提前兑付，未兑产品总额达 400 亿，这意味着什么？](https://www.zhihu.com/question/486809930) 3256 万热度 742回复
@@ -49,18 +49,21 @@
 1. [教育部鼓励广大师生中秋国庆假期就地过节，如何看待就地过节？](https://www.zhihu.com/question/487007762) 208 万热度 103回复
 1. [如何看待荣耀赵明称 iPhone 13 系列是强大而令人尊敬的对手？](https://www.zhihu.com/question/486947764) 180 万热度 37回复
 1. [媒体称辅助生殖技术需求飙升，每年约有 30 万名试管婴儿诞生，这反映了什么趋势？辅助生殖技术都有哪些？](https://www.zhihu.com/question/486937832) 178 万热度 124回复
+1. [游戏《哈利波特：魔法觉醒》是否能超越《王者荣耀》成为玩家最多的霸榜游戏？](https://www.zhihu.com/question/486301770) 127 万热度 26回复
 1. [女生新手买五菱宏光 mini 怎么样？](https://www.zhihu.com/question/477233493) 112 万热度 100回复
 1. [你后悔读研究生吗？](https://www.zhihu.com/question/28347397) 104 万热度 958回复
 1. [阿富汗塔利班称「公立大学的部分科目将被取消」，如何看待这一举措？会带来哪些影响？](https://www.zhihu.com/question/486523982) 97 万热度 76回复
 1. [如何评价《脱口秀大会》第四季第六期（下）？](https://www.zhihu.com/question/485457335) 97 万热度 53回复
+1. [iPhone 13 mini 5199 元起，128GB 起步，如何评价这一售价，反映了怎样的策略？](https://www.zhihu.com/question/486896598) 93 万热度 23回复
 1. [父母强烈反对我和男朋友在一起，应该怎么办？](https://www.zhihu.com/question/485995345) 88 万热度 335回复
 1. [如果让程序员来拍《程序员那么可爱》，剧情会是什么样的？](https://www.zhihu.com/question/486087277) 82 万热度 24回复
 1. [如何看待尼康发布仅售 1799 元的 40 F2 这只镜头有什么意义？](https://www.zhihu.com/question/486831847) 76 万热度 24回复
+1. [如何评价《再见爱人》第八期？](https://www.zhihu.com/question/486961044) 74 万热度 29回复
 1. [LoL 为什么越是高端局野区越是干干净净？](https://www.zhihu.com/question/486300416) 72 万热度 64回复
-1. [游戏《哈利波特：魔法觉醒》是否能超越《王者荣耀》成为玩家最多的霸榜游戏？](https://www.zhihu.com/question/486301770) 72 万热度 26回复
 1. [家长留存小学六年给老师送礼记录，孩子一毕业家长立马举报老师，该涉事老师被学校开除。对这件事你怎么看？](https://www.zhihu.com/question/422639907) 69 万热度 894回复
 1. [你认为科学的本质是质疑吗？](https://www.zhihu.com/question/486068750) 68 万热度 108回复
 1. [英语四级的口语考试作用大不大？](https://www.zhihu.com/question/28448815) 67 万热度 75回复
+1. [听说比亚迪汉的车机系统非常烂，有没有汉车主来谈下真实情况？](https://www.zhihu.com/question/486442400) 67 万热度 43回复
 1. [中秋快到了，你们一般中秋送礼都送什么？](https://www.zhihu.com/question/480171711) 66 万热度 77回复
 1. [怎么样才可以忘记一个人?](https://www.zhihu.com/question/485868744) 66 万热度 166回复
 1. [打乒乓球和打羽毛球，哪个技术难度大?](https://www.zhihu.com/question/482404108) 65 万热度 82回复
@@ -78,6 +81,7 @@
 1. [如何评价杨洋饰演的于途？](https://www.zhihu.com/question/475104314) 52 万热度 138回复
 1. [追星会有意义吗？](https://www.zhihu.com/question/480769006) 52 万热度 690回复
 1. [韩语学到 6 级一般要多长时间？](https://www.zhihu.com/question/392593402) 52 万热度 63回复
+1. [如何看待《明日方舟》放出的中文语音试听片段，符合你的预期吗？](https://www.zhihu.com/question/486965937) 51 万热度 72回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
