@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-21 02:21:05
+最后更新时间 2021-09-21 04:19:00
 
 1. [城管查扣 300 多斤猪肉当场拖走，肉贩称当时无经营行为，城管回应其「多次被要求整改未从」，你怎么看？](https://www.zhihu.com/question/487654571) 1286 万热度 431回复
 1. [天舟三号发射成功并与空间站完成交会对接，带去了哪些货物？在空间站建设过程中有何作用？](https://www.zhihu.com/question/487898231) 1178 万热度 81回复
@@ -29,8 +29,8 @@
 1. [怎么在古代的屠城中成功的活下来？](https://www.zhihu.com/question/20638408) 429 万热度 137回复
 1. [如何看待 iPhone 13 以及 iPhone 13 mini  仅有 4G（RAM）内存？](https://www.zhihu.com/question/487156929) 390 万热度 119回复
 1. [提出涨工资被拒绝，领导说是还不到时候，但领导说可以把我的工作分出去一部分，什么意思？](https://www.zhihu.com/question/474092672) 352 万热度 185回复
+1. [为什么中国律师、医生、会计师的社会地位和薪酬待遇，都远远比不上欧美同行？](https://www.zhihu.com/question/486570444) 329 万热度 376回复
 1. [世界上真的存在记忆宫殿吗？常人能掌握吗？](https://www.zhihu.com/question/22519910) 309 万热度 645回复
-1. [为什么中国律师、医生、会计师的社会地位和薪酬待遇，都远远比不上欧美同行？](https://www.zhihu.com/question/486570444) 286 万热度 376回复
 1. [调查显示：全国约万分之三人口年薪超百万，年薪百万有多难？从实际来说，你的理想薪资是多少？](https://www.zhihu.com/question/487694489) 263 万热度 91回复
 1. [电影《灵媒》拍得怎么样？真的好看吗？](https://www.zhihu.com/question/487456764) 244 万热度 34回复
 1. [如何评价外媒说苹果芯片团队人员大量流失到竞争对手导致 A15 性能提升不及预期并且未来堪忧?](https://www.zhihu.com/question/487209741) 223 万热度 52回复
@@ -42,8 +42,8 @@
 1. [二战时期资本家发动战争不担心将自家子弟送上战场吗？](https://www.zhihu.com/question/484995263) 144 万热度 71回复
 1. [梭子蟹怎么做好吃？和大闸蟹相比哪个更好吃？](https://www.zhihu.com/question/478389154) 125 万热度 125回复
 1. [如何评价游戏《原神》角色演示 -「珊瑚宫心海：千涛触月」?](https://www.zhihu.com/question/487930749) 113 万热度 45回复
+1. [我想问问刘耀文这个公司操作到底是因为他自己没考上高中还是啥 ?](https://www.zhihu.com/question/487530581) 113 万热度 39回复
 1. [开车起步时，你是猛踩油门还是轻踩油门，哪一种方式更省油？](https://www.zhihu.com/question/454188537) 112 万热度 144回复
-1. [我想问问刘耀文这个公司操作到底是因为他自己没考上高中还是啥 ?](https://www.zhihu.com/question/487530581) 112 万热度 39回复
 1. [iPhone 12 Pro 和 iPhone 13 该如何选择？](https://www.zhihu.com/question/487221028) 112 万热度 30回复
 1. [羽毛球杀球是靠手臂甩拍子还是手腕爆发？](https://www.zhihu.com/question/437090535) 112 万热度 69回复
 1. [长期晚上不吃饭对身体有害吗？](https://www.zhihu.com/question/311716580) 96 万热度 41回复
@@ -51,9 +51,11 @@
 1. [为什么经济学中要采用「边际」的概念，而不是直接用微积分中术语来表达？](https://www.zhihu.com/question/475108550) 83 万热度 31回复
 1. [《一直游到海水变蓝》是一部怎样的纪录片？](https://www.zhihu.com/question/373790087) 80 万热度 31回复
 1. [怎样获得领导的喜欢?](https://www.zhihu.com/question/414743835) 79 万热度 22回复
-1. [《原神》最终的结局会是什么？](https://www.zhihu.com/question/481776328) 76 万热度 34回复
+1. [《原神》最终的结局会是什么？](https://www.zhihu.com/question/481776328) 79 万热度 34回复
 1. [有哪些关于暗恋的言情小说？](https://www.zhihu.com/question/55331956) 70 万热度 37回复
 1. [孩子上了幼儿园，全职妈妈该怎么办？](https://www.zhihu.com/question/487144187) 66 万热度 78回复
+1. [你为什么喜欢七海 Nana7mi？](https://www.zhihu.com/question/471180232) 66 万热度 36回复
+1. [如何评价《红楼梦》中的贾珍这个人物？](https://www.zhihu.com/question/470778440) 62 万热度 21回复
 1. [有哪些关于游戏策划的书可推荐？](https://www.zhihu.com/question/20000882) 60 万热度 35回复
 1. [如何忘记一个很爱的人?](https://www.zhihu.com/question/463974363) 59 万热度 2087回复
 1. [有什么沙雕的朋友圈文案？](https://www.zhihu.com/question/479197730) 59 万热度 39回复
