@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-27 04:18:11
+最后更新时间 2021-09-27 06:17:21
 
 1. [东北多地限电，国家电网客服回应「非居民限电后仍有缺口才对居民限电」，目前情况如何？](https://www.zhihu.com/question/489134032) 5462 万热度 2023回复
 1. [美国肯德基无鸡可炸，麦当劳、星巴克等店原材料供应短缺，为何会出现这种情况？快餐连锁企业会受到哪些影响？](https://www.zhihu.com/question/489062710) 1824 万热度 465回复
@@ -51,14 +51,15 @@
 1. [iPad mini6 的使用体验如何？](https://www.zhihu.com/question/488489700) 110 万热度 22回复
 1. [大家的 22 保研 / 推免怎么样了?](https://www.zhihu.com/question/488410787) 96 万热度 21回复
 1. [有哪些读起来很燃的诗句？](https://www.zhihu.com/question/452583924) 85 万热度 182回复
+1. [粉色版 iPhone 13 近六成被男性购买，他们是自己用还是送女友？](https://www.zhihu.com/question/488854578) 83 万热度 30回复
 1. [iPhone 13 和 iPhone 12 哪个更值得购买？](https://www.zhihu.com/question/487047925) 75 万热度 33回复
 1. [为了电池安全，工程师做过什么疯狂的事？](https://www.zhihu.com/question/487670843) 71 万热度 21回复
 1. [小基数的女生瘦十斤外貌身材变化大吗？](https://www.zhihu.com/question/284123571) 71 万热度 58回复
 1. [为什么女人一定要有一支正红色口红?](https://www.zhihu.com/question/488055881) 67 万热度 29回复
-1. [如何锻炼孩子交朋友？可以教给孩子什么话语和技巧？](https://www.zhihu.com/question/487957650) 63 万热度 23回复
+1. [你是从什么时候觉得自己要开始健身了？](https://www.zhihu.com/question/473214543) 67 万热度 148回复
+1. [如何锻炼孩子交朋友？可以教给孩子什么话语和技巧？](https://www.zhihu.com/question/487957650) 64 万热度 23回复
 1. [考研英语一阅读理解应该怎么复习？](https://www.zhihu.com/question/462205112) 59 万热度 57回复
 1. [媒体报道吉利进军手机业务，将在武汉、上海多地设置办公地点，对市场将有何影响？你看好吉利米的手机业务吗？](https://www.zhihu.com/question/488738812) 59 万热度 74回复
-1. [你是从什么时候觉得自己要开始健身了？](https://www.zhihu.com/question/473214543) 59 万热度 148回复
 1. [有一个外科医生男朋友是种怎样的体验？](https://www.zhihu.com/question/372162390) 51 万热度 744回复
 1. [《教父》中的历任教父值得观众尊敬吗？他们的收入难道不是建立在意大利人的苦难之上？](https://www.zhihu.com/question/488054014) 40 万热度 314回复
 1. [为什么《犬夜叉》里的桔梗给我的感觉怪怪的？](https://www.zhihu.com/question/483383960) 37 万热度 121回复
@@ -80,6 +81,7 @@
 1. [2021 KPL 秋季赛 eStarPro 3:0 击败 AG，如何评价这场比赛？](https://www.zhihu.com/question/489017901) 23 万热度 68回复
 1. [在幼儿园工作是什么样的感受？](https://www.zhihu.com/question/267185601) 23 万热度 44回复
 1. [有哪些在作品中很有魅力、但在现实中会令人敬而远之的人物？](https://www.zhihu.com/question/488911197) 22 万热度 55回复
+1. [去三亚玩一般需要几天，怎么玩？](https://www.zhihu.com/question/289695830) 22 万热度 52回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
