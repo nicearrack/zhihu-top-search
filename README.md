@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-28 04:18:45
+最后更新时间 2021-09-28 06:17:44
 
 1. [数学史上你认为最丑陋的公式是什么？](https://www.zhihu.com/question/21400777) 3093 万热度 109回复
 1. [东北多地限电，国家电网客服回应「非居民限电后仍有缺口才对居民限电」，目前情况如何？](https://www.zhihu.com/question/489134032) 2589 万热度 4464回复
@@ -63,6 +63,7 @@
 1. [有什么好看的小说推荐一下？](https://www.zhihu.com/question/334449041) 109 万热度 778回复
 1. [为什么老老实实干活的人，总落不到好，反而是溜须拍马油嘴滑舌不干活的人更容易受领导的器重，还提拔了呢?](https://www.zhihu.com/question/481739887) 108 万热度 185回复
 1. [网传阿里员工离职前在内网发离职感言，称「高 P 男盗女娼，中 P 双面跪舔」，大厂真是这样的吗？](https://www.zhihu.com/question/489084704) 98 万热度 1004回复
+1. [我认为程心在三体进攻后选择不按按钮才是最理性最正确的选择。不论喜恶，只论对错，你觉得不按按钮是对是错？](https://www.zhihu.com/question/313151101) 91 万热度 536回复
 1. [住在一个脏乱差的家里十几年是什么感受？](https://www.zhihu.com/question/47639633) 87 万热度 650回复
 1. [都说考研英语阅读要多研究几遍，具体该如何研究？](https://www.zhihu.com/question/489260303) 81 万热度 21回复
 1. [如何看待马斯克在世界互联网大会表示，特斯拉所有数据都会储存在中国？](https://www.zhihu.com/question/489085133) 80 万热度 21回复
@@ -71,13 +72,16 @@
 1. [你拍到过哪些你认为见证了历史的照片？它们背后有哪些故事？](https://www.zhihu.com/question/487009709) 67 万热度 26回复
 1. [哪个句子曾经救赎了你 ？](https://www.zhihu.com/question/453706577) 66 万热度 1277回复
 1. [你有哪些相见恨晚的牛肉干？](https://www.zhihu.com/question/37698504) 63 万热度 48回复
+1. [什么道理懂了后可以一生受用？](https://www.zhihu.com/question/456002135) 63 万热度 166回复
 1. [你看什么样的虐文会被虐哭？](https://www.zhihu.com/question/375478657) 59 万热度 135回复
-1. [什么道理懂了后可以一生受用？](https://www.zhihu.com/question/456002135) 59 万热度 166回复
-1. [我认为程心在三体进攻后选择不按按钮才是最理性最正确的选择。不论喜恶，只论对错，你觉得不按按钮是对是错？](https://www.zhihu.com/question/313151101) 59 万热度 536回复
 1. [有哪些搞笑的废话文学？](https://www.zhihu.com/question/482233311) 59 万热度 29回复
 1. [读了大学，你明白了什么？](https://www.zhihu.com/question/480777262) 59 万热度 136回复
 1. [有哪些描写黄昏的绝美诗句?](https://www.zhihu.com/question/351955708) 59 万热度 106回复
 1. [小猫老是咬人怎么教育？](https://www.zhihu.com/question/358028355) 59 万热度 72回复
+1. [你是因为什么开始成熟的？](https://www.zhihu.com/question/478209370) 59 万热度 231回复
+1. [对于你来说，什么能让你发自内心的快乐？](https://www.zhihu.com/question/483885629) 59 万热度 360回复
+1. [第一次给男朋友做饭，有哪些菜简单易做不容易翻车？](https://www.zhihu.com/question/488715554) 58 万热度 112回复
+1. [如何评价综艺《girls planet 999》第八期?](https://www.zhihu.com/question/488771775) 57 万热度 33回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
