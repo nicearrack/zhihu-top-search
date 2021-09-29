@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-09-30 04:18:35
+最后更新时间 2021-09-30 06:17:48
 
 1. [如何看待一个父亲为孩子生命铤而走险自制药品，自制药有哪些风险？该如何面对罕见病？](https://www.zhihu.com/question/489642937) 1438 万热度 348回复
 1. [永生是否是一种酷刑？](https://www.zhihu.com/question/31756387) 997 万热度 2246回复
@@ -64,7 +64,7 @@
 1. [你见过什么让人一眼难忘的诗歌？](https://www.zhihu.com/question/483842164) 72 万热度 22回复
 1. [你看过哪些让你欲罢不能的先婚后爱的言情小说？](https://www.zhihu.com/question/346921290) 70 万热度 235回复
 1. [为什么感觉《原神》雷电影不配称作神？](https://www.zhihu.com/question/489250603) 69 万热度 33回复
-1. [什么习惯可以让孩子越来越优秀？](https://www.zhihu.com/question/473346434) 61 万热度 198回复
+1. [什么习惯可以让孩子越来越优秀？](https://www.zhihu.com/question/473346434) 63 万热度 198回复
 1. [吉利汽车宣布正式进军手机领域，项目落户武汉，你有什么想说的？](https://www.zhihu.com/question/489497167) 59 万热度 90回复
 1. [大学是怎么抢课的？](https://www.zhihu.com/question/342200360) 59 万热度 23回复
 1. [作为软件工程专业或者计算机科学与技术专业毕业的学生，让你大学四年重头再来，你会如何安排你的大学四年？](https://www.zhihu.com/question/426053091) 59 万热度 252回复
@@ -80,6 +80,13 @@
 1. [漫画分镜有哪些高级手法？](https://www.zhihu.com/question/38497833) 53 万热度 23回复
 1. [什么是思维的深度？](https://www.zhihu.com/question/470621591) 53 万热度 31回复
 1. [怎样保持一个平和的心态？](https://www.zhihu.com/question/36085692) 53 万热度 32回复
+1. [谁会获得 2021 诺贝尔生理学或医学奖？你的预测是什么？](https://www.zhihu.com/question/475178692) 52 万热度 31回复
+1. [怎样准备教资考试呢？](https://www.zhihu.com/question/485237734) 51 万热度 40回复
+1. [体制内新人分到了不适合的财务科，请问申请换科室的成功率大吗？](https://www.zhihu.com/question/488127514) 51 万热度 43回复
+1. [如何看待茶队领队新冠检测呈阳性、 xxs 奈头发烧？茶队还能正常参加 Ti 了吗？](https://www.zhihu.com/question/489650305) 51 万热度 35回复
+1. [2021 天津车展有哪些值得关注的车型？](https://www.zhihu.com/question/489295182) 51 万热度 60回复
+1. [如何去角质才能不伤害皮肤？](https://www.zhihu.com/question/488768923) 51 万热度 22回复
+1. [考研失败是一种怎样的体验？](https://www.zhihu.com/question/489473916) 50 万热度 27回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
