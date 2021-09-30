@@ -2,7 +2,7 @@
   "489687295": {
     "title": "明天是我国第八个烈士纪念日。我们可以通过怎样的方式来纪念他们？你有哪些话，想对英烈诉说？",
     "url": "https://www.zhihu.com/question/489687295",
-    "hot": "2206 万热度",
+    "hot": "2314 万热度",
     "answerCount": 47
   },
   "31756387": {
@@ -14,8 +14,14 @@
   "489322223": {
     "title": "哪些照片或视频，记录了你和祖国共同成长的故事？",
     "url": "https://www.zhihu.com/question/489322223",
-    "hot": "1634 万热度",
+    "hot": "1733 万热度",
     "answerCount": 140
+  },
+  "489395729": {
+    "title": "如何评价华西医院刘进教授捐款一个亿设立专项基金培养优秀住院医师？",
+    "url": "https://www.zhihu.com/question/489395729",
+    "hot": "1461 万热度",
+    "answerCount": 167
   },
   "489642937": {
     "title": "如何看待一个父亲为孩子生命铤而走险自制药品，自制药有哪些风险？该如何面对罕见病？",
@@ -23,28 +29,22 @@
     "hot": "1438 万热度",
     "answerCount": 348
   },
-  "489395729": {
-    "title": "如何评价华西医院刘进教授捐款一个亿设立专项基金培养优秀住院医师？",
-    "url": "https://www.zhihu.com/question/489395729",
-    "hot": "1367 万热度",
-    "answerCount": 167
-  },
   "488148060": {
     "title": "有哪些适合 2021 年国庆节的文案？",
     "url": "https://www.zhihu.com/question/488148060",
-    "hot": "1238 万热度",
+    "hot": "1330 万热度",
     "answerCount": 106
   },
   "489785273": {
     "title": "9 月 30 日是烈士纪念日，今天该如何缅怀他们，才能走得更有力？",
     "url": "https://www.zhihu.com/question/489785273",
-    "hot": "1174 万热度",
+    "hot": "1265 万热度",
     "answerCount": 61
   },
   "489853651": {
     "title": "如何看待游戏《原神》9 月 30 日开始发的「致旅行者的感恩答谢」？",
     "url": "https://www.zhihu.com/question/489853651",
-    "hot": "957 万热度",
+    "hot": "1202 万热度",
     "answerCount": 107
   },
   "487164420": {
@@ -83,6 +83,12 @@
     "hot": "612 万热度",
     "answerCount": 907
   },
+  "489663087": {
+    "title": "如何看待媒体评「限电是一盘大棋」：乱带节奏中产生了不小的「低级红」「高级黑」的效果？",
+    "url": "https://www.zhihu.com/question/489663087",
+    "hot": "609 万热度",
+    "answerCount": 783
+  },
   "489455437": {
     "title": "网传「司机吃半条活鱼证明新鲜才让运鱼车免费」，真实情况如何？官方回应正在调查，有哪些信息值得关注？",
     "url": "https://www.zhihu.com/question/489455437",
@@ -100,6 +106,18 @@
     "url": "https://www.zhihu.com/question/489492484",
     "hot": "517 万热度",
     "answerCount": 29
+  },
+  "": {
+    "title": "你有哪些不平凡的亲历故事值得分享？",
+    "url": "https://www.zhihu.com/xen/market/story-competition-three/",
+    "hot": "471 万热度",
+    "answerCount": 0
+  },
+  "489753203": {
+    "title": "歌手韩磊被前经纪人举报涉税务问题，事实的真相如何？还有哪些值得关注的信息？",
+    "url": "https://www.zhihu.com/question/489753203",
+    "hot": "463 万热度",
+    "answerCount": 24
   },
   "489740355": {
     "title": "岸田文雄当选日本自民党新任总裁，将出任首相，日本政坛风向可能如何转变？",
@@ -143,23 +161,29 @@
     "hot": "315 万热度",
     "answerCount": 753
   },
-  "489663087": {
-    "title": "如何看待媒体评「限电是一盘大棋」：乱带节奏中产生了不小的「低级红」「高级黑」的效果？",
-    "url": "https://www.zhihu.com/question/489663087",
-    "hot": "301 万热度",
-    "answerCount": 783
-  },
   "489435098": {
     "title": "重庆一女子医院就诊时突然摔倒致十级伤残，经调查是一男孩在医院走廊弄洒饮料所致，究竟哪方该为此事负责？",
     "url": "https://www.zhihu.com/question/489435098",
     "hot": "276 万热度",
     "answerCount": 238
   },
+  "pingfanren2021": {
+    "title": "生活中有没有哪个瞬间，一下子治愈了你一天的心情？",
+    "url": "https://www.zhihu.com/roundtable/pingfanren2021",
+    "hot": "270 万热度",
+    "answerCount": 0
+  },
   "463799268": {
     "title": "本年度最佳笔记本都有什么？",
     "url": "https://www.zhihu.com/question/463799268",
     "hot": "256 万热度",
     "answerCount": 94
+  },
+  "489863443": {
+    "title": "欧冠小组赛 C 罗上演绝杀，曼联 2:1 比利亚雷亚尔，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/489863443",
+    "hot": "253 万热度",
+    "answerCount": 48
   },
   "406770433": {
     "title": "为什么碳水和糖才是长胖元凶，明明脂肪热量更高啊？",
@@ -191,6 +215,12 @@
     "hot": "211 万热度",
     "answerCount": 94
   },
+  "489630833": {
+    "title": "如何看待格力将注销 2.2 亿股，市值近 100 亿？对公司股价会有何影响？",
+    "url": "https://www.zhihu.com/question/489630833",
+    "hot": "207 万热度",
+    "answerCount": 31
+  },
   "489741836": {
     "title": "山西与 14 省区市签订煤炭保供合同，有哪些意义？",
     "url": "https://www.zhihu.com/question/489741836",
@@ -215,17 +245,35 @@
     "hot": "184 万热度",
     "answerCount": 265
   },
-  "489863443": {
-    "title": "欧冠小组赛 C 罗上演绝杀，曼联 2:1 比利亚雷亚尔，如何评价这场比赛？",
-    "url": "https://www.zhihu.com/question/489863443",
-    "hot": "181 万热度",
-    "answerCount": 48
-  },
   "487884725": {
     "title": "你怎么看「孩子在幼儿园被打了，教育他该打回去」这种做法？",
     "url": "https://www.zhihu.com/question/487884725",
     "hot": "178 万热度",
     "answerCount": 551
+  },
+  "488483326": {
+    "title": "我在网上买了可爱的袜子送给男朋友，但他觉得在宿舍丢人，别人嘲笑他怎么办，是我的问题吗？",
+    "url": "https://www.zhihu.com/question/488483326",
+    "hot": "171 万热度",
+    "answerCount": 95
+  },
+  "489864122": {
+    "title": "21-22 赛季欧冠小组赛巴塞罗那 0:3 不敌本菲卡，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/489864122",
+    "hot": "161 万热度",
+    "answerCount": 42
+  },
+  "489871445": {
+    "title": "如何看待北京冬奥会不面向境外观众售票？会带来哪些影响？",
+    "url": "https://www.zhihu.com/question/489871445",
+    "hot": "158 万热度",
+    "answerCount": 57
+  },
+  "489656818": {
+    "title": "如何看待游戏《原神》周年庆之际在 Google Play 上被恶意刷低分?",
+    "url": "https://www.zhihu.com/question/489656818",
+    "hot": "154 万热度",
+    "answerCount": 88
   },
   "484229035": {
     "title": "我是 21 届毕业生，现在 9 月了，我想知道还有人没找到工作的吗?",
@@ -251,11 +299,23 @@
     "hot": "139 万热度",
     "answerCount": 92
   },
+  "489572898": {
+    "title": "珠海航展新闻发布会上，歼 20 总师杨伟回应了关于歼 20 双座的相关信息，如何看待他的回应?",
+    "url": "https://www.zhihu.com/question/489572898",
+    "hot": "139 万热度",
+    "answerCount": 25
+  },
   "409269773": {
     "title": "今年 22 岁，专升本考上了一个差的民办三本，学费一年 1 万 5，有必要上这个三本吗?",
     "url": "https://www.zhihu.com/question/409269773",
     "hot": "120 万热度",
     "answerCount": 168
+  },
+  "318343514": {
+    "title": "年龄的增长到底会给我们带来什么？",
+    "url": "https://www.zhihu.com/question/318343514",
+    "hot": "118 万热度",
+    "answerCount": 327
   },
   "307236986": {
     "title": "考完研，你发现了考研的哪些坑?",
@@ -269,6 +329,12 @@
     "hot": "106 万热度",
     "answerCount": 35
   },
+  "487941524": {
+    "title": "如何看待法国外长回应不召回驻英大使，称「知道该国的机会主义政策、没有必要召回我们大使进行解释」？",
+    "url": "https://www.zhihu.com/question/487941524",
+    "hot": "104 万热度",
+    "answerCount": 24
+  },
   "488216121": {
     "title": "为什么越「清闲」的人越容易受到领导的重视？",
     "url": "https://www.zhihu.com/question/488216121",
@@ -281,10 +347,22 @@
     "hot": "103 万热度",
     "answerCount": 29
   },
+  "489699128": {
+    "title": "「旅行青蛙」「镇魂街」等知名 IP 的虚拟手办上线遭吐槽，虚拟手办是智商税吗？",
+    "url": "https://www.zhihu.com/question/489699128",
+    "hot": "103 万热度",
+    "answerCount": 47
+  },
   "483991353": {
     "title": "国庆假期有哪些适合情侣旅游的地方？",
     "url": "https://www.zhihu.com/question/483991353",
     "hot": "102 万热度",
+    "answerCount": 34
+  },
+  "406697411": {
+    "title": "p 社玩家写出来的情书会是什么样子的？",
+    "url": "https://www.zhihu.com/question/406697411",
+    "hot": "101 万热度",
     "answerCount": 34
   },
   "489853508": {
@@ -299,11 +377,23 @@
     "hot": "99 万热度",
     "answerCount": 37
   },
+  "489474141": {
+    "title": "报告显示「过半中老年每天上网超 4 小时」，为什么越来越多中老年人沉迷刷手机？反映了哪些问题？",
+    "url": "https://www.zhihu.com/question/489474141",
+    "hot": "97 万热度",
+    "answerCount": 34
+  },
   "488694448": {
     "title": "如何评价《脱口秀大会》第四季第八期（下）？",
     "url": "https://www.zhihu.com/question/488694448",
     "hot": "95 万热度",
     "answerCount": 51
+  },
+  "489859299": {
+    "title": "如何看待腾讯入股手机游戏《影之刃》开发商灵游坊，持股 25% ？",
+    "url": "https://www.zhihu.com/question/489859299",
+    "hot": "95 万热度",
+    "answerCount": 20
   },
   "489230609": {
     "title": "如何看待微信推出「关怀模式」？",
@@ -316,6 +406,24 @@
     "url": "https://www.zhihu.com/question/461598262",
     "hot": "92 万热度",
     "answerCount": 140
+  },
+  "489567498": {
+    "title": "成都「双减」方案发布：一二年级不布置家庭作业、不进行纸笔考试，将带来哪些改变？",
+    "url": "https://www.zhihu.com/question/489567498",
+    "hot": "92 万热度",
+    "answerCount": 86
+  },
+  "486081112": {
+    "title": "《英雄联盟》当前版本什么英雄好打腕豪？",
+    "url": "https://www.zhihu.com/question/486081112",
+    "hot": "92 万热度",
+    "answerCount": 199
+  },
+  "482088576": {
+    "title": "应届毕业生毕业后被公司劝退，再度求职困难，心态崩了，不知道怎么办？",
+    "url": "https://www.zhihu.com/question/482088576",
+    "hot": "87 万热度",
+    "answerCount": 27
   },
   "482441029": {
     "title": "有哪些不会烂大街的文案?",
@@ -359,11 +467,23 @@
     "hot": "69 万热度",
     "answerCount": 33
   },
-  "489753203": {
-    "title": "歌手韩磊被前经纪人举报涉税务问题，事实的真相如何？还有哪些值得关注的信息？",
-    "url": "https://www.zhihu.com/question/489753203",
-    "hot": "69 万热度",
-    "answerCount": 24
+  "489259115": {
+    "title": "穿山寨潮牌真的很丢人吗？",
+    "url": "https://www.zhihu.com/question/489259115",
+    "hot": "68 万热度",
+    "answerCount": 47
+  },
+  "489629357": {
+    "title": "卫健委介入「鞋厂工人疑因苯中毒患血液病」事件，将进行职业病鉴定，该成分超标危害有多大？工厂将如何担责？",
+    "url": "https://www.zhihu.com/question/489629357",
+    "hot": "67 万热度",
+    "answerCount": 25
+  },
+  "484117702": {
+    "title": "你有哪些唯美舒心励志的句子?",
+    "url": "https://www.zhihu.com/question/484117702",
+    "hot": "67 万热度",
+    "answerCount": 27
   },
   "488875236": {
     "title": "如何真诚地表扬孩子？",
@@ -425,17 +545,17 @@
     "hot": "59 万热度",
     "answerCount": 310
   },
+  "485559207": {
+    "title": "十一长假又逢金秋，你会带孩子去哪里感受祖国山河的美丽？",
+    "url": "https://www.zhihu.com/question/485559207",
+    "hot": "59 万热度",
+    "answerCount": 91
+  },
   "488721648": {
     "title": "iPhone 13 全系全亮度 pwm 调光频率 480Hz，是否比 12 更伤眼？",
     "url": "https://www.zhihu.com/question/488721648",
     "hot": "58 万热度",
     "answerCount": 44
-  },
-  "489474141": {
-    "title": "报告显示「过半中老年每天上网超 4 小时」，为什么越来越多中老年人沉迷刷手机？反映了哪些问题？",
-    "url": "https://www.zhihu.com/question/489474141",
-    "hot": "56 万热度",
-    "answerCount": 34
   },
   "484796372": {
     "title": "你觉得 S11 全球总决赛的冠军会是哪支战队？",
@@ -454,6 +574,12 @@
     "url": "https://www.zhihu.com/question/488302544",
     "hot": "55 万热度",
     "answerCount": 46
+  },
+  "489647744": {
+    "title": "如何看待李子柒在接受媒体采访时提到「所有内容都是自己构思主导的，希望更多地去沉淀积累」？",
+    "url": "https://www.zhihu.com/question/489647744",
+    "hot": "55 万热度",
+    "answerCount": 22
   },
   "488641887": {
     "title": "iPhone 13 和 iPhone13 pro 实际上手体验如何？是否值得购买？",
@@ -484,6 +610,18 @@
     "url": "https://www.zhihu.com/question/478497011",
     "hot": "54 万热度",
     "answerCount": 36
+  },
+  "489879538": {
+    "title": "专家建议高考将外语改为选考，这有可能实现吗？你是否支持？",
+    "url": "https://www.zhihu.com/question/489879538",
+    "hot": "54 万热度",
+    "answerCount": 27
+  },
+  "489737108": {
+    "title": "如何看待南昌杀妻抛尸案被告人母亲要求上诉，称「希望酌情考虑特殊成长环境这一导致悲剧的因素」？",
+    "url": "https://www.zhihu.com/question/489737108",
+    "hot": "54 万热度",
+    "answerCount": 29
   },
   "38497833": {
     "title": "漫画分镜有哪些高级手法？",
@@ -544,5 +682,11 @@
     "url": "https://www.zhihu.com/question/489473916",
     "hot": "50 万热度",
     "answerCount": 27
+  },
+  "485221424": {
+    "title": "有没有先婚后爱，男主开始不喜欢女主，后来追妻火葬场的小说？",
+    "url": "https://www.zhihu.com/question/485221424",
+    "hot": "40 万热度",
+    "answerCount": 24
   }
 }
