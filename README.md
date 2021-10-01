@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-02 02:21:07
+最后更新时间 2021-10-02 04:18:28
 
 1. [国庆节去天安门广场看升旗仪式是一种什么体验？](https://www.zhihu.com/question/485008530) 2250 万热度 840回复
 1. [《长津湖》呈现了抗美援朝战争中的惨烈与悲壮，中国军队何以在各项装备全面落后的情况下，依然赢得了胜利？](https://www.zhihu.com/question/489832711) 1674 万热度 430回复
@@ -51,11 +51,11 @@
 1. [购买 iPhone 13 是选择首发，还是等双十一？](https://www.zhihu.com/question/471858212) 101 万热度 375回复
 1. [如何评价 TWICE 的首支英文单曲《The Feels》？](https://www.zhihu.com/question/490103527) 95 万热度 32回复
 1. [如何评价寒蝉鸣泣之时卒的结局？](https://www.zhihu.com/question/490057478) 76 万热度 27回复
-1. [如何看待确诊者家养 3 只猫核酸阳性依法安乐死？](https://www.zhihu.com/question/489620327) 72 万热度 90回复
-1. [有哪些微丧的情绪文案？](https://www.zhihu.com/question/481517252) 71 万热度 22回复
+1. [如何看待确诊者家养 3 只猫核酸阳性依法安乐死？](https://www.zhihu.com/question/489620327) 76 万热度 90回复
+1. [有哪些微丧的情绪文案？](https://www.zhihu.com/question/481517252) 72 万热度 22回复
 1. [世界上真的有爱吗? 爱是什么呢?](https://www.zhihu.com/question/490085179) 66 万热度 88回复
-1. [为什么吃碳水会有幸福感？](https://www.zhihu.com/question/488939138) 60 万热度 37回复
-1. [喜欢一个不喜欢你的人怎么办?](https://www.zhihu.com/question/486143456) 59 万热度 263回复
+1. [为什么吃碳水会有幸福感？](https://www.zhihu.com/question/488939138) 66 万热度 37回复
+1. [喜欢一个不喜欢你的人怎么办?](https://www.zhihu.com/question/486143456) 60 万热度 263回复
 1. [都说选择大于努力，你怎么看？](https://www.zhihu.com/question/488379907) 59 万热度 163回复
 1. [民谣歌手赵已然去世，享年 58 岁，你对他有哪些记忆？](https://www.zhihu.com/question/489976454) 58 万热度 66回复
 1. [怎么能看出来女生喜欢你？](https://www.zhihu.com/question/453143428) 58 万热度 215回复
@@ -75,6 +75,9 @@
 1. [为什么同样是藤本树作品，《电锯人》知名度影响力感觉比《炎拳》大？](https://www.zhihu.com/question/477791301) 6 万热度 33回复
 1. [什么样的女生看起来很干净，很干练？](https://www.zhihu.com/question/23796174) 6 万热度 654回复
 1. [假如人类可以跑上太空，会经历什么？](https://www.zhihu.com/question/490037728) 6 万热度 328回复
+1. [狗狗和孩子同时养可行吗?](https://www.zhihu.com/question/482888903) 6 万热度 76回复
+1. [建筑师是不是很难赚大钱?](https://www.zhihu.com/question/478043426) 6 万热度 56回复
+1. [如何评价科沃斯新品 x1 售价 5999？](https://www.zhihu.com/question/487136846) 6 万热度 29回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
