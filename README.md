@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-03 09:06:23
+最后更新时间 2021-10-03 10:29:28
 
 1. [2021 的国庆七天假期，你打算怎么度过？可以晒晒你每天的计划吗？](https://www.zhihu.com/question/489147712) 3012 万热度 2392回复
 1. [如何评价 2021 国庆档电影《长津湖》？](https://www.zhihu.com/question/488992270) 1785 万热度 1384回复
@@ -22,35 +22,39 @@
 1. [数学证明费了这么大劲把这些东西证明出来，对一个人的人生、对我们身处其中的这个世界，到底有什么影响呢？](https://www.zhihu.com/question/489676446) 833 万热度 271回复
 1. [为什么史前会下几百万年的大雨?](https://www.zhihu.com/question/375319488) 809 万热度 86回复
 1. [为什么影帝梁家辉觉得拍摄《东邪西毒》是在浪费时间？](https://www.zhihu.com/question/487151696) 593 万热度 152回复
+1. [盒马鲜生回应帝王蟹有活虫称「是帝王蟹伴生生物蟹蛭，不影响食用」，食品安全如何保障？](https://www.zhihu.com/question/489992620) 563 万热度 25回复
+1. [如何评价 2021 年 8 月国内手机市场份额排名：vivo 第一，荣耀反超小米排名第三？](https://www.zhihu.com/question/489942463) 549 万热度 22回复
 1. [《长津湖》的结局透露了哪些信息？](https://www.zhihu.com/question/489923828) 525 万热度 28回复
 1. [为什么很多人认为一辆车开五六年就要换车？](https://www.zhihu.com/question/37958506) 501 万热度 707回复
-1. [如何评价 2021 年 8 月国内手机市场份额排名：vivo 第一，荣耀反超小米排名第三？](https://www.zhihu.com/question/489942463) 414 万热度 22回复
 1. [《教父》中，女婿家暴女儿，老教父为什么不管？](https://www.zhihu.com/question/277718004) 402 万热度 49回复
 1. [《长津湖》中长津湖总攻发起时的冲锋是拍摄需要还是真实战术？](https://www.zhihu.com/question/490117216) 390 万热度 45回复
+1. [韩剧《鱿鱼游戏》第五关「玻璃桥」有没有其他解法过关？](https://www.zhihu.com/question/487683078) 377 万热度 52回复
 1. [一个人的外貌很重要吗？](https://www.zhihu.com/question/489081507) 329 万热度 367回复
-1. [韩剧《鱿鱼游戏》第五关「玻璃桥」有没有其他解法过关？](https://www.zhihu.com/question/487683078) 284 万热度 52回复
 1. [演员拍戏时用的枪有后坐力吗？](https://www.zhihu.com/question/265851341) 276 万热度 25回复
+1. [如何评价赵露思在电视剧《国子监来了个女弟子》中的表现？](https://www.zhihu.com/question/488238797) 263 万热度 45回复
 1. [员工拒绝国庆期间上班，被单位辞退，法院判决「双方均有过错，单位支付补偿金」，遇到类似情况该如何处理？](https://www.zhihu.com/question/490140948) 262 万热度 198回复
 1. [如何评价《这！就是街舞》第四季第八期（上、下）？](https://www.zhihu.com/question/490230642) 256 万热度 75回复
-1. [用极端落后技术（至少落后两代）造先进武器会造出什么奇葩来？](https://www.zhihu.com/question/478170187) 241 万热度 78回复
-1. [盒马鲜生回应帝王蟹有活虫称「是帝王蟹伴生生物蟹蛭，不影响食用」，食品安全如何保障？](https://www.zhihu.com/question/489992620) 224 万热度 25回复
+1. [用极端落后技术（至少落后两代）造先进武器会造出什么奇葩来？](https://www.zhihu.com/question/478170187) 250 万热度 78回复
 1. [iPhone13 和 13mini 真的不值得买吗？](https://www.zhihu.com/question/487948850) 223 万热度 85回复
-1. [如何评价赵露思在电视剧《国子监来了个女弟子》中的表现？](https://www.zhihu.com/question/488238797) 221 万热度 45回复
+1. [你见过哪些公司因为老板作死导致倒闭的？](https://www.zhihu.com/question/295095096) 216 万热度 1139回复
+1. [如果你的超能力是每天零点抹消你的不良状态，你会如何利用这个超能力?](https://www.zhihu.com/question/485561972) 211 万热度 80回复
+1. [面对导游强制消费时，导游只有一个人，为什么一车的游客不会集体反抗？](https://www.zhihu.com/question/480068075) 203 万热度 441回复
+1. [iOS 15.0.1 正式版推送，更新了哪些内容？新 iPhone 更好用了吗？](https://www.zhihu.com/question/490253830) 201 万热度 25回复
 1. [赐死允礼时，为什么皇上不派人监听甄嬛和允礼的谈话？](https://www.zhihu.com/question/463425088) 190 万热度 28回复
 1. [《长津湖》中有哪些让你感动到泪奔的瞬间？](https://www.zhihu.com/question/489855039) 188 万热度 137回复
-1. [你见过哪些公司因为老板作死导致倒闭的？](https://www.zhihu.com/question/295095096) 177 万热度 1139回复
-1. [iOS 15.0.1 正式版推送，更新了哪些内容？新 iPhone 更好用了吗？](https://www.zhihu.com/question/490253830) 171 万热度 25回复
-1. [如果你的超能力是每天零点抹消你的不良状态，你会如何利用这个超能力?](https://www.zhihu.com/question/485561972) 152 万热度 80回复
+1. [游戏圈的「鲶鱼效应」，对于玩家来说究竟是好事还是坏事？](https://www.zhihu.com/question/490260665) 109 万热度 35回复
 1. [分手后的后劲有多大？](https://www.zhihu.com/question/440316118) 91 万热度 1266回复
-1. [游戏圈的「鲶鱼效应」，对于玩家来说究竟是好事还是坏事？](https://www.zhihu.com/question/490260665) 83 万热度 35回复
+1. [《原神》逐月节剧情是不是原神剧情的新巅峰？](https://www.zhihu.com/question/490133680) 87 万热度 21回复
 1. [如何评价《特利迦奥特曼》第十一话？](https://www.zhihu.com/question/490233823) 81 万热度 21回复
+1. [21-22 赛季英超曼联 1:1 战平埃弗顿，如何评价这场比赛？](https://www.zhihu.com/question/490301658) 79 万热度 49回复
 1. [湖北十堰重大燃气爆炸致 26 死、 138 伤事故调查报告全文首次公布，有哪些细节值得关注？](https://www.zhihu.com/question/490228405) 78 万热度 122回复
+1. [送男朋友的妈妈什么礼物比较好？](https://www.zhihu.com/question/20716488) 76 万热度 24回复
 1. [你期望理想的伴侣是什么样的？](https://www.zhihu.com/question/20073407) 72 万热度 61回复
 1. [你都看过哪些高质量的网络小短剧，可以分享一下吗？](https://www.zhihu.com/question/490245508) 72 万热度 27回复
 1. [如何评价综艺《Girls Planet 999》第九期？](https://www.zhihu.com/question/490190388) 70 万热度 24回复
 1. [时代少年团的真实性格是怎么样的？](https://www.zhihu.com/question/444515587) 70 万热度 38回复
-1. [面对导游强制消费时，导游只有一个人，为什么一车的游客不会集体反抗？](https://www.zhihu.com/question/480068075) 68 万热度 441回复
 1. [初三了想要努力，可身边的人都不看好我，他们都觉得我考不上高中，怎么办？](https://www.zhihu.com/question/490308980) 66 万热度 308回复
+1. [你有哪些适合摘抄的优美短句吗？](https://www.zhihu.com/question/483329420) 66 万热度 40回复
 1. [如何评价《明日创作计划》六强厂牌名单？](https://www.zhihu.com/question/490306428) 65 万热度 69回复
 1. [三个月时间可以从零基础通过大学英语四级吗？](https://www.zhihu.com/question/40616759) 64 万热度 79回复
 1. [有没有那种好看的病娇文推荐啊？](https://www.zhihu.com/question/472808080) 59 万热度 61回复
@@ -60,7 +64,6 @@
 1. [有些什么值得看的虐文言情小说？](https://www.zhihu.com/question/483524366) 59 万热度 28回复
 1. [如何以「求你放过我吧」为开头写一个故事?](https://www.zhihu.com/question/479773444) 59 万热度 51回复
 1. [有哪些你能记住很久的句子?](https://www.zhihu.com/question/486440176) 59 万热度 388回复
-1. [送男朋友的妈妈什么礼物比较好？](https://www.zhihu.com/question/20716488) 59 万热度 24回复
 1. [秋天来了，有什么动人的诗句分享吗？](https://www.zhihu.com/question/483169792) 59 万热度 56回复
 1. [高中选文还是选理更合适？](https://www.zhihu.com/question/484713625) 59 万热度 190回复
 1. [30 岁之前能拿下 CFA，CPA，FRM 的人现在都过得怎么样了？](https://www.zhihu.com/question/436562845) 58 万热度 82回复
@@ -97,6 +100,8 @@
 1. [如何以「我初遇师弟时，他正在乱葬岗与野狗争食」为开头写一个故事？](https://www.zhihu.com/question/487842300) 6 万热度 67回复
 1. [国内旅游有哪些出名的打卡地？](https://www.zhihu.com/question/490117054) 6 万热度 47回复
 1. [如何带孩子正确地参观博物馆，避免走马观花？](https://www.zhihu.com/question/454045564) 6 万热度 43回复
+1. [如何评价徐克经典武侠电影《新龙门客栈》？](https://www.zhihu.com/question/22647763) 6 万热度 95回复
+1. [对下一部《文明》系列作品有什么展望和意见？](https://www.zhihu.com/question/473095941) 6 万热度 42回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
