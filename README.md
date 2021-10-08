@@ -14,44 +14,62 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-08 06:18:04
+最后更新时间 2021-10-08 09:05:00
 
 1. [2021 年诺贝尔文学奖授予坦桑尼亚小说家阿卜杜勒拉扎克·古尔纳，他是谁？他的风格和代表作是怎样的？](https://www.zhihu.com/question/491047860) 1374 万热度 184回复
 1. [五粮液「永不分梨」酒，梨到底是如何放进去的？](https://www.zhihu.com/question/485979041) 1333 万热度 261回复
+1. [世预赛亚洲区 12 强赛武磊补时绝杀，国足 3:2 险胜越南，如何评价本场比赛？](https://www.zhihu.com/question/491016145) 1185 万热度 374回复
 1. [《长津湖》上映 6 天票房持续逆跌，逆跌是什么意思？最终票房可能达到多少亿？](https://www.zhihu.com/question/490818715) 1148 万热度 229回复
 1. [军人看《长津湖》是什么感受？](https://www.zhihu.com/question/489919279) 1010 万热度 106回复
+1. [香港将发展可容纳 250 万人居住北部都会区，还有哪些信息值得关注？](https://www.zhihu.com/question/490865267) 796 万热度 94回复
+1. [国产手机已经用上了 120W 快充技术，为什么苹果还是坚持使用 20W 慢充？](https://www.zhihu.com/question/486796016) 765 万热度 40回复
 1. [为什么人类明知道暴露地球坐标是极其危险的，还让先驱号带上了地球坐标？](https://www.zhihu.com/question/486346249) 627 万热度 239回复
 1. [如何评价杨蒙恩在脱口秀大会半决赛求婚？](https://www.zhihu.com/question/490937022) 617 万热度 339回复
-1. [香港将发展可容纳 250 万人居住北部都会区，还有哪些信息值得关注？](https://www.zhihu.com/question/490865267) 612 万热度 94回复
 1. [你近期听到的爆笑的段子是什么？](https://www.zhihu.com/question/476560453) 559 万热度 243回复
-1. [世预赛亚洲区 12 强赛武磊补时绝杀，国足 3:2 险胜越南，如何评价本场比赛？](https://www.zhihu.com/question/491016145) 504 万热度 374回复
+1. [如何看待司机强行超车致妻子死亡悔得直跺脚？](https://www.zhihu.com/question/491054094) 489 万热度 136回复
 1. [日本 21 世纪已有 20 人获诺贝尔奖，为什么会有这么多？](https://www.zhihu.com/question/490750303) 488 万热度 202回复
 1. [陕西安康通报「无病女生被推上民营医院手术台」，表示已展开调查，涉事医院将承担哪些责任？](https://www.zhihu.com/question/490984433) 459 万热度 339回复
 1. [如何评价 TVB 拍的香港人视角下的扶贫纪录片《无穷之路》？](https://www.zhihu.com/question/487385061) 380 万热度 78回复
-1. [国产手机已经用上了 120W 快充技术，为什么苹果还是坚持使用 20W 慢充？](https://www.zhihu.com/question/486796016) 380 万热度 40回复
+1. [长期坚持晚上跳绳身体会有什么变化？](https://www.zhihu.com/question/434554470) 348 万热度 135回复
 1. [为什么目前只有蜜雪冰城一家店启用「薄利多销」的策略？](https://www.zhihu.com/question/469087818) 322 万热度 795回复
+1. [为什么女生提分手，男生都基本答应？](https://www.zhihu.com/question/335505500) 302 万热度 4638回复
 1. [洪金宝在圈内的地位是不是比成龙还高？](https://www.zhihu.com/question/65917951) 262 万热度 70回复
+1. [为什么国外小孩词汇只有 2000 个就能正常交流，而国内大学生 4000 个词汇量却是哑巴英语？](https://www.zhihu.com/question/377998055) 256 万热度 35回复
+1. [村上春树再度陪跑 2021 年诺贝尔文学奖，你有什么想说的？](https://www.zhihu.com/question/491060908) 243 万热度 38回复
 1. [你的 iPhone13 手机上手体验感如何？](https://www.zhihu.com/question/488676795) 218 万热度 82回复
+1. [怎么评价米哈游公布的新游戏《星穹铁道》，你有什么期待？](https://www.zhihu.com/question/490783057) 212 万热度 37回复
 1. [Windows 11 正式版实际使用体验如何？](https://www.zhihu.com/question/488083029) 209 万热度 44回复
-1. [为什么女生提分手，男生都基本答应？](https://www.zhihu.com/question/335505500) 194 万热度 4638回复
-1. [长期坚持晚上跳绳身体会有什么变化？](https://www.zhihu.com/question/434554470) 190 万热度 135回复
+1. [小偷能逃出无数个警察的包围圈吗？](https://www.zhihu.com/question/490047418) 195 万热度 26回复
 1. [哪一刻你突然明白，你男朋友并不爱你？](https://www.zhihu.com/question/477839494) 183 万热度 219回复
 1. [准备离职是先找领导谈还是先写辞职信？](https://www.zhihu.com/question/489303548) 173 万热度 94回复
 1. [同价位跑鞋选国产还是亚瑟士还是耐克？](https://www.zhihu.com/question/291770905) 167 万热度 77回复
 1. [什么样家庭的男生会很宠女朋友？](https://www.zhihu.com/question/313152078) 160 万热度 1281回复
-1. [怎么评价米哈游公布的新游戏《星穹铁道》，你有什么期待？](https://www.zhihu.com/question/490783057) 131 万热度 37回复
-1. [小偷能逃出无数个警察的包围圈吗？](https://www.zhihu.com/question/490047418) 111 万热度 26回复
+1. [如何看待微博网民 @罗昌平 近日针对志愿军烈士发表的侮辱言论？](https://www.zhihu.com/question/491084605) 158 万热度 77回复
+1. [同样都是大飞机，为什么 380 竞争不过 747 呢？](https://www.zhihu.com/question/488937165) 156 万热度 22回复
+1. [黄西退出《脱口秀大会》第四季，可能有哪些原因？如何评价他的脱口秀水平？](https://www.zhihu.com/question/485374020) 126 万热度 397回复
+1. [法国驻澳大利亚大使将返回堪培拉，此前法国召回的驻美、澳大使都将返回，「潜艇争端」是否告一段落？](https://www.zhihu.com/question/490975692) 124 万热度 25回复
 1. [一个平庸的人，活着的意义是什么？](https://www.zhihu.com/question/436020711) 103 万热度 5801回复
-1. [黄西退出《脱口秀大会》第四季，可能有哪些原因？如何评价他的脱口秀水平？](https://www.zhihu.com/question/485374020) 103 万热度 397回复
+1. [如何评价 2021 KPL 秋季赛南京 Hero 久竞以 2:3 不敌成都 AG 超玩会，已确认降级?](https://www.zhihu.com/question/491022204) 94 万热度 29回复
 1. [如何评价 10 月新番动画《Muv-Luv Alternative》第一集？](https://www.zhihu.com/question/489938057) 83 万热度 21回复
+1. [配眼镜有哪些必须避开的陷阱？](https://www.zhihu.com/question/20123451) 82 万热度 268回复
+1. [有哪些你看过之后舍不得删的古言小说？](https://www.zhihu.com/question/39581101) 81 万热度 2129回复
+1. [2021 年 10 月 7 日晚日本千叶县发生 6.1 级地震，东京震感强烈，当地情况如何？](https://www.zhihu.com/question/491082299) 81 万热度 32回复
+1. [旅行路上，有哪些随手一拍却充满「故事感」的照片？](https://www.zhihu.com/question/486525675) 81 万热度 45回复
 1. [日语的语法怎么背？](https://www.zhihu.com/question/352141891) 78 万热度 157回复
 1. [大家在深圳的一天怎么度过的呢 ？](https://www.zhihu.com/question/479143486) 72 万热度 622回复
 1. [考研政治还有三个月应该直接背吗?](https://www.zhihu.com/question/489846700) 71 万热度 21回复
+1. [女生哪些行为一看就没谈过恋爱？](https://www.zhihu.com/question/274051741) 71 万热度 456回复
+1. [考英语六级应该买什么资料？](https://www.zhihu.com/question/344969598) 70 万热度 43回复
+1. [2021 年的「双十一」，有哪些家电产品值得购买？](https://www.zhihu.com/question/489411149) 69 万热度 25回复
+1. [有哪些激励自己的正能量句子经典语句？](https://www.zhihu.com/question/485471479) 67 万热度 30回复
 1. [如果要从《一人之下》中删除一个角色，你会怎么选，为什么？](https://www.zhihu.com/question/488563662) 66 万热度 26回复
 1. [如何学会不在意别人的眼光?](https://www.zhihu.com/question/490653665) 65 万热度 127回复
 1. [大一最好的学习状态是什么?](https://www.zhihu.com/question/436598583) 64 万热度 172回复
-1. [同样都是大飞机，为什么 380 竞争不过 747 呢？](https://www.zhihu.com/question/488937165) 63 万热度 22回复
+1. [有什么好看到爆的言情小说？](https://www.zhihu.com/question/481073236) 63 万热度 166回复
 1. [男人不爱你是什么表现？](https://www.zhihu.com/question/327758816) 59 万热度 59回复
+1. [研究生哪些行为可以在导师那超加分？](https://www.zhihu.com/question/443960725) 59 万热度 203回复
+1. [如何延缓衰老？](https://www.zhihu.com/question/20806377) 59 万热度 412回复
+1. [考研英语阅读每篇总是错那么一两个怎么办？](https://www.zhihu.com/question/387056133) 59 万热度 58回复
 1. [怎样追一个女孩子能让她更舒服自在的接受，而不感到为难？](https://www.zhihu.com/question/307728254) 53 万热度 403回复
 1. [有那种憨憨的情侣头像吗？](https://www.zhihu.com/question/357098205) 46 万热度 391回复
 1. [对于高中生来说，一套衣服两三百贵吗？](https://www.zhihu.com/question/490588253) 45 万热度 81回复
