@@ -17,17 +17,17 @@
     "hot": "2194 万热度",
     "answerCount": 422
   },
+  "491149443": {
+    "title": "网友爆料「阿里 P8 被女朋友爆与 60 多人发生关系」，目前已被劝退，真实情况如何？",
+    "url": "https://www.zhihu.com/question/491149443",
+    "hot": "1951 万热度",
+    "answerCount": 426
+  },
   "491123622": {
     "title": "美军核潜艇南海撞上「不明物体」，11 人受伤，有哪些信息值得关注？",
     "url": "https://www.zhihu.com/question/491123622",
     "hot": "1907 万热度",
     "answerCount": 670
-  },
-  "491149443": {
-    "title": "网友爆料「阿里 P8 被女朋友爆与 60 多人发生关系」，目前已被劝退，真实情况如何？",
-    "url": "https://www.zhihu.com/question/491149443",
-    "hot": "1681 万热度",
-    "answerCount": 426
   },
   "491103003": {
     "title": "如何评价《英雄联盟手游》10 月 8 日双系统不限号不删档测试？",
@@ -74,7 +74,7 @@
   "491253358": {
     "title": "罗昌平侮辱英烈被网友举报，目前已被刑拘，他可能承担怎样的责任？",
     "url": "https://www.zhihu.com/question/491253358",
-    "hot": "365 万热度",
+    "hot": "370 万热度",
     "answerCount": 62
   },
   "491174339": {
@@ -134,8 +134,14 @@
   "491052565": {
     "title": "媒体曝光外卖 3 分钟快速出餐的秘密，料理包加热即成美味菜品，长期吃料理包制成的外卖有哪些危害？",
     "url": "https://www.zhihu.com/question/491052565",
-    "hot": "263 万热度",
+    "hot": "264 万热度",
     "answerCount": 64
+  },
+  "490065654": {
+    "title": "为什么《长津湖》结尾不能对美国那个将领补一枪？",
+    "url": "https://www.zhihu.com/question/490065654",
+    "hot": "250 万热度",
+    "answerCount": 88
   },
   "491251960": {
     "title": "网友反馈在未主动激活 App 情况下，微信在后台反复读取用户相册，是否涉及侵犯用户隐私？",
@@ -154,12 +160,6 @@
     "url": "https://www.zhihu.com/question/490981875",
     "hot": "242 万热度",
     "answerCount": 143
-  },
-  "490065654": {
-    "title": "为什么《长津湖》结尾不能对美国那个将领补一枪？",
-    "url": "https://www.zhihu.com/question/490065654",
-    "hot": "238 万热度",
-    "answerCount": 88
   },
   "489390355": {
     "title": "如何看待华为轮值董事长徐直军称「华为 AI 彻底摆脱了美国任何技术」，华为 AI 技术现在是什么进展？",
@@ -215,6 +215,18 @@
     "hot": "161 万热度",
     "answerCount": 48
   },
+  "491011052": {
+    "title": "如何评价最新一期哥哥林志炫和热狗的《曾经我也想一了百了》？",
+    "url": "https://www.zhihu.com/question/491011052",
+    "hot": "161 万热度",
+    "answerCount": 39
+  },
+  "491154759": {
+    "title": "如何看待 Redmi 产品总监王腾表示，「今年缺芯，K40S 还在难产中」？",
+    "url": "https://www.zhihu.com/question/491154759",
+    "hot": "155 万热度",
+    "answerCount": 29
+  },
   "401760465": {
     "title": "《甄嬛传》中华妃死的时候，她为什么不找皇上对质，而是直接死心撞墙了？",
     "url": "https://www.zhihu.com/question/401760465",
@@ -239,29 +251,23 @@
     "hot": "149 万热度",
     "answerCount": 123
   },
-  "491154759": {
-    "title": "如何看待 Redmi 产品总监王腾表示，「今年缺芯，K40S 还在难产中」？",
-    "url": "https://www.zhihu.com/question/491154759",
-    "hot": "145 万热度",
-    "answerCount": 29
-  },
   "490978971": {
     "title": "如何看待饶毅发文称「诺奖有给错的时候，而且并非罕见」？我们应该如何正确看待诺贝尔奖？",
     "url": "https://www.zhihu.com/question/490978971",
     "hot": "145 万热度",
     "answerCount": 73
   },
+  "475005927": {
+    "title": "如何判断自己是帅哥?",
+    "url": "https://www.zhihu.com/question/475005927",
+    "hot": "138 万热度",
+    "answerCount": 292
+  },
   "491090901": {
     "title": "18 名前 NBA 球员因从 NBA 福利计划中骗取 400 万美元被逮捕，还有哪些信息值得关注？",
     "url": "https://www.zhihu.com/question/491090901",
     "hot": "134 万热度",
     "answerCount": 21
-  },
-  "491011052": {
-    "title": "如何评价最新一期哥哥林志炫和热狗的《曾经我也想一了百了》？",
-    "url": "https://www.zhihu.com/question/491011052",
-    "hot": "129 万热度",
-    "answerCount": 39
   },
   "490689416": {
     "title": "如何评价球鞋 KOL Zettaranc 出的 ZCI 小白鞋？499 元的小白鞋定价是否合理？",
@@ -281,22 +287,40 @@
     "hot": "117 万热度",
     "answerCount": 177
   },
-  "479695937": {
-    "title": "人在成熟后心境会有什么变化?",
-    "url": "https://www.zhihu.com/question/479695937",
-    "hot": "81 万热度",
-    "answerCount": 227
-  },
   "489881460": {
     "title": "苹果为什么要造三款不同的 A15 处理器？",
     "url": "https://www.zhihu.com/question/489881460",
-    "hot": "75 万热度",
+    "hot": "115 万热度",
     "answerCount": 21
+  },
+  "479695937": {
+    "title": "人在成熟后心境会有什么变化?",
+    "url": "https://www.zhihu.com/question/479695937",
+    "hot": "113 万热度",
+    "answerCount": 227
+  },
+  "491200715": {
+    "title": "如何评价张云雷的京韵大鼓《华容道》？",
+    "url": "https://www.zhihu.com/question/491200715",
+    "hot": "100 万热度",
+    "answerCount": 26
   },
   "434142257": {
     "title": "国产单机游戏能从原神里学到哪些东西？",
     "url": "https://www.zhihu.com/question/434142257",
     "hot": "73 万热度",
     "answerCount": 127
+  },
+  "388441069": {
+    "title": "打算买苹果的 iPad，因为要用 procreate 画画，买哪款 iPad 比较好？",
+    "url": "https://www.zhihu.com/question/388441069",
+    "hot": "69 万热度",
+    "answerCount": 88
+  },
+  "335429797": {
+    "title": "如果超人（superman）真的存在，世界格局会有什么影响?",
+    "url": "https://www.zhihu.com/question/335429797",
+    "hot": "68 万热度",
+    "answerCount": 83
   }
 }
