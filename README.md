@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-09 02:20:00
+最后更新时间 2021-10-09 04:18:31
 
 1. [小车高速强行超车致妻子当场死亡，司机悔得直跺脚，谁可能为此承担责任？高速安全驾驶需要注意什么？](https://www.zhihu.com/question/491054094) 2811 万热度 1930回复
 1. [美团因垄断行为被罚 34.42 亿元，还有哪些信息值得关注？](https://www.zhihu.com/question/491233018) 2347 万热度 715回复
@@ -70,6 +70,15 @@
 1. [国产单机游戏能从原神里学到哪些东西？](https://www.zhihu.com/question/434142257) 73 万热度 127回复
 1. [打算买苹果的 iPad，因为要用 procreate 画画，买哪款 iPad 比较好？](https://www.zhihu.com/question/388441069) 69 万热度 88回复
 1. [如果超人（superman）真的存在，世界格局会有什么影响?](https://www.zhihu.com/question/335429797) 68 万热度 83回复
+1. [心理疾病有所好转后，重新爱上生活是什么感受？](https://www.zhihu.com/question/491272670) 66 万热度 146回复
+1. [怎么练好英语口语？](https://www.zhihu.com/question/20097263) 64 万热度 1582回复
+1. [高中老是控制不住自己上课睡觉怎么办？](https://www.zhihu.com/question/489439007) 61 万热度 218回复
+1. [当有男生追你时，你该怎么看清那个人？](https://www.zhihu.com/question/342163331) 59 万热度 121回复
+1. [有没有好用的唇膏推荐 ?](https://www.zhihu.com/question/488172110) 59 万热度 29回复
+1. [在你看过的所有小说中，可以推荐你的 NO.1 吗？](https://www.zhihu.com/question/480588496) 59 万热度 1046回复
+1. [你的第一份工作给你带来了什么？](https://www.zhihu.com/question/485544405) 59 万热度 53回复
+1. [美术生色彩不好怎么办？](https://www.zhihu.com/question/478398486) 59 万热度 34回复
+1. [如何以「我摊上事了」为开头写一个故事?](https://www.zhihu.com/question/485644367) 59 万热度 22回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
