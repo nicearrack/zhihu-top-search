@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-10 04:17:56
+最后更新时间 2021-10-10 06:17:24
 
 1. [纪念辛亥革命 110 周年大会 2021 年 10 月 9 日上午举行，有哪些重点值得关注？](https://www.zhihu.com/question/491352580) 2372 万热度 456回复
 1. [孩子需要钱时才主动联系你，大家有同款孩子吗？该怎么做呢？](https://www.zhihu.com/question/490313176) 1249 万热度 975回复
@@ -60,12 +60,12 @@
 1. [所有女生化妆都能变漂亮吗？](https://www.zhihu.com/question/474334733) 105 万热度 78回复
 1. [考研政治需要看网课吗? 要的话看谁的好?](https://www.zhihu.com/question/485682210) 95 万热度 104回复
 1. [如何评价综艺《90 婚介所》第九期？](https://www.zhihu.com/question/491281746) 89 万热度 28回复
+1. [《孔雀东南飞》中焦母为何如此反感刘兰芝？](https://www.zhihu.com/question/38222475) 83 万热度 321回复
 1. [TI10 小组赛茶队 2:0 干翻 OG，如何评价这场比赛？](https://www.zhihu.com/question/491266926) 82 万热度 31回复
 1. [选购加量不加价的 iPhone 13，有哪些配件必不可少？](https://www.zhihu.com/question/486911380) 71 万热度 23回复
 1. [如何评价 TAPD？](https://www.zhihu.com/question/56575428) 62 万热度 46回复
 1. [小男孩国庆返程舍不得奶奶哭成泪人，还扔回奶奶给的 200 元零花钱，隔代亲能有多亲？](https://www.zhihu.com/question/491142423) 61 万热度 325回复
 1. [考上研究生是一种什么样的体验？](https://www.zhihu.com/question/482815233) 59 万热度 183回复
-1. [《孔雀东南飞》中焦母为何如此反感刘兰芝？](https://www.zhihu.com/question/38222475) 59 万热度 321回复
 1. [自己赚的钱该不该给一些给父母？](https://www.zhihu.com/question/487137287) 59 万热度 161回复
 1. [如何看待程序员这个工作？](https://www.zhihu.com/question/482528883) 58 万热度 54回复
 1. [为什么女生长得漂亮比男生长得帅更受欢迎？](https://www.zhihu.com/question/490934173) 58 万热度 305回复
@@ -77,6 +77,13 @@
 1. [怎么看待贾跃亭 FF 公司遭做空？背后有哪些信息值得关注？](https://www.zhihu.com/question/491127306) 57 万热度 48回复
 1. [喜欢穿深色 / 纯色衣物的女生是什么样的性格?](https://www.zhihu.com/question/490245794) 57 万热度 39回复
 1. [你热爱了将近十几年的文字，要是有一天你发现在写作上你没有了任何的优势，信仰崩塌的那一刻，你该怎么办？](https://www.zhihu.com/question/488635905) 56 万热度 122回复
+1. [2021 年 10 月国内有哪些「秋日限定」美景？](https://www.zhihu.com/question/491188382) 55 万热度 25回复
+1. [如何评价《特利迦奥特曼》第十二话？](https://www.zhihu.com/question/491332778) 55 万热度 33回复
+1. [分享一下你最近喜欢的文案可以吗？](https://www.zhihu.com/question/475699894) 55 万热度 332回复
+1. [如果你和《沙丘》中的保罗一样有预知未来的能力，能够看见未来的障碍和苦难，你是会绕过它还是改变它？](https://www.zhihu.com/question/491373838) 54 万热度 85回复
+1. [曾经很喜欢的那个人，现在走到一起了吗？](https://www.zhihu.com/question/485065035) 54 万热度 843回复
+1. [你看的第一部科幻电影是什么？你对它最深刻的印象是什么？](https://www.zhihu.com/question/491374180) 54 万热度 81回复
+1. [你曾经为了什么美食去另一个城市旅行？](https://www.zhihu.com/question/489377428) 54 万热度 77回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
