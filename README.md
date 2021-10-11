@@ -14,32 +14,37 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-11 06:17:22
+最后更新时间 2021-10-11 09:02:42
 
 1. [重庆洪崖洞街边日军雕塑遭男孩扇耳光，文旅部门表示「建议慎重摆放」，为何会放日军雕塑？如何评价男孩行为？](https://www.zhihu.com/question/491387543) 1045 万热度 506回复
+1. [男子教不好女儿算数躺马路中间哭求民警拘留，女儿说 800 减 700 等于 900，父母教孩子有多难？](https://www.zhihu.com/question/491471307) 1014 万热度 144回复
 1. [如何看待重庆一女子被公司要求微信头像必须统一登记照，不愿换却被领导说「在公司不要特立独行，要合群」？](https://www.zhihu.com/question/491346798) 949 万热度 928回复
 1. [深圳「四大校」中学教师面试一半是博士，如何看待这一现象？为什么越来越多高学历人才热衷于考中小学教师？](https://www.zhihu.com/question/491538553) 822 万热度 357回复
 1. [我国青少年抑郁检出率达到 24.6%，为什么青少年得抑郁的这么多？受到哪些因素影响？](https://www.zhihu.com/question/491535877) 795 万热度 478回复
 1. [《英雄联盟手游》有哪些适合新手练的简单易上手英雄？](https://www.zhihu.com/question/477491332) 653 万热度 201回复
 1. [酒店员工偷开顾客百万路虎出事故车损 26 万，酒店建议顾客报警，将配合走司法途径，谁该为此事负责？](https://www.zhihu.com/question/491341758) 639 万热度 228回复
 1. [时隔 20 年再看美国「911」，你的感受如何？](https://www.zhihu.com/question/485809453) 439 万热度 2136回复
-1. [男子教不好女儿算数躺马路中间哭求民警拘留，女儿说 800 减 700 等于 900，父母教孩子有多难？](https://www.zhihu.com/question/491471307) 416 万热度 144回复
 1. [互联网大厂中层（年薪大几十万百万）那种有 35 岁危机吗？](https://www.zhihu.com/question/469434789) 362 万热度 180回复
+1. [Dota 2 国际邀请赛 TIPSG.LGD 2:0 Elephant，如何评价这场比赛？](https://www.zhihu.com/question/491597791) 299 万热度 99回复
+1. [年轻人熬夜都在熬什么？](https://www.zhihu.com/question/479858874) 285 万热度 663回复
 1. [《英雄联盟手游》 公测，你还会选择 《王者荣耀》 吗？](https://www.zhihu.com/question/491255064) 266 万热度 219回复
 1. [如何看待联想集团科创板 IPO 审核终止？有什么值得关注的信息？](https://www.zhihu.com/question/491290450) 244 万热度 154回复
+1. [年纪大的男人一般喜欢什么样的女人？](https://www.zhihu.com/question/266312023) 235 万热度 119回复
 1. [如何看待北大博导因「第一学历」遭学生嫌弃？第一学历的偏见该如何扭转？](https://www.zhihu.com/question/491495950) 233 万热度 475回复
 1. [有什么让你吃一次就记一辈子的美食？](https://www.zhihu.com/question/442763529) 204 万热度 837回复
 1. [我女儿做漫画主笔只在家工作，也不出去 ，我该怎么引导她出去?](https://www.zhihu.com/question/487346690) 189 万热度 56回复
+1. [为什么游戏《哈利波特：魔法觉醒》里獾院的成绩这么糟糕？](https://www.zhihu.com/question/489820129) 185 万热度 71回复
 1. [贵州教育厅称，将把游泳列入中考自选项目，学生任选泳姿完成 50 米和 200 米游泳，将产生哪些影响？](https://www.zhihu.com/question/491369577) 173 万热度 105回复
-1. [年纪大的男人一般喜欢什么样的女人？](https://www.zhihu.com/question/266312023) 171 万热度 119回复
+1. [小鹏 P7 、 Model 3 、比亚迪汉这三款车该如何选择呢？](https://www.zhihu.com/question/398543524) 161 万热度 394回复
 1. [哪本书是你心中 yyds？](https://www.zhihu.com/question/484147699) 157 万热度 967回复
+1. [S11 小组赛揭幕战「冠军对决」 FPX vs DK 你更看好谁？](https://www.zhihu.com/question/489365316) 153 万热度 29回复
 1. [房价上涨 18 万，房东反悔被判赔买家 18 万，法律角度如何解读？](https://www.zhihu.com/question/491226131) 152 万热度 37回复
+1. [我国研发经费连续多年保持两位数增长，一年 2.4 万亿研发投入意味着什么？](https://www.zhihu.com/question/488435677) 147 万热度 65回复
 1. [请问游戏做成这样（单人；六周）有可能去游戏公司实习吗？](https://www.zhihu.com/question/491118304) 137 万热度 40回复
-1. [小鹏 P7 、 Model 3 、比亚迪汉这三款车该如何选择呢？](https://www.zhihu.com/question/398543524) 134 万热度 394回复
 1. [如何评价《一拳超人》重制版第 195 话？](https://www.zhihu.com/question/491335522) 127 万热度 34回复
 1. [现今只要不在家吃，外面都是边吃边交流，甚至还有专门谈事的饭局。现在对小孩要求「食不言」合适吗？](https://www.zhihu.com/question/490989749) 121 万热度 150回复
 1. [有哪些沙雕又可爱的《英雄联盟手游》ID 推荐？](https://www.zhihu.com/question/491173273) 115 万热度 169回复
-1. [年轻人熬夜都在熬什么？](https://www.zhihu.com/question/479858874) 105 万热度 663回复
+1. [如何评价《德云斗笑社》第二季第八期（下）？](https://www.zhihu.com/question/491196027) 102 万热度 58回复
 1. [女孩子能有多好看漂亮？](https://www.zhihu.com/question/481851023) 93 万热度 173回复
 1. [国家减灾委等启动国家 Ⅳ 级救灾应急响应，已派工作组赶赴山西、陕西灾区，目前具体情况如何？](https://www.zhihu.com/question/491463954) 93 万热度 54回复
 1. [学习 Ps，Pr 和 Ae 的正确顺序是什么？](https://www.zhihu.com/question/372750907) 80 万热度 40回复
@@ -47,7 +52,6 @@
 1. [有哪些可以提升论文写作能力的书籍或课程?](https://www.zhihu.com/question/487166424) 76 万热度 24回复
 1. [2021 届毕业生现在都过得怎么样？](https://www.zhihu.com/question/483461416) 76 万热度 429回复
 1. [一年级孩子放学后在校托管 2 个小时好吗？](https://www.zhihu.com/question/489007913) 69 万热度 124回复
-1. [为什么游戏《哈利波特：魔法觉醒》里獾院的成绩这么糟糕？](https://www.zhihu.com/question/489820129) 69 万热度 71回复
 1. [人类是通过语言介质进行思考的吗？](https://www.zhihu.com/question/483263643) 69 万热度 68回复
 1. [和上一辈相比，许多 80 、 90 后成年后仍然需要父母的扶持，如何看待这种全新的家庭代际关系？](https://www.zhihu.com/question/491425734) 68 万热度 452回复
 1. [如何准备一场辩论赛？](https://www.zhihu.com/question/24904514) 65 万热度 57回复
@@ -80,6 +84,16 @@
 1. [有什么短篇小甜文可以推荐的吗？](https://www.zhihu.com/question/484832759) 23 万热度 55回复
 1. [如何评价《再见爱人》第十一期？](https://www.zhihu.com/question/490861836) 22 万热度 39回复
 1. [怎么看待孤独感？](https://www.zhihu.com/question/481151469) 21 万热度 411回复
+1. [男孩子什么品质最吸引女生？](https://www.zhihu.com/question/21217244) 6 万热度 4951回复
+1. [历史上有哪些著名的考古乌龙事件?](https://www.zhihu.com/question/22833388) 6 万热度 41回复
+1. [有人说千万别去小公司上班，你认同吗？为什么？](https://www.zhihu.com/question/491119527) 6 万热度 113回复
+1. [考研作文，到底该背什么？](https://www.zhihu.com/question/285551669) 6 万热度 44回复
+1. [哪些家电，让你幸福感倍增？](https://www.zhihu.com/question/491395951) 6 万热度 138回复
+1. [重阳节送长辈什么礼物，能够巧妙解决他们生活上的小问题？](https://www.zhihu.com/question/491190104) 6 万热度 64回复
+1. [怎么能做到彻底忘记一个很爱很爱的人？](https://www.zhihu.com/question/488569944) 6 万热度 544回复
+1. [如何评价缠中说禅？](https://www.zhihu.com/question/20665490) 6 万热度 217回复
+1. [你有哪些简短的早安励志句子?](https://www.zhihu.com/question/487449932) 6 万热度 37回复
+1. [怎样对付不讲道理倚老卖老的老人？](https://www.zhihu.com/question/60400439) 6 万热度 85回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
