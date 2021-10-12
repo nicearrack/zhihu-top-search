@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-13 04:18:51
+最后更新时间 2021-10-13 06:17:52
 
 1. [如何看待法国总统马克龙将发起一场全球范围内的废除死刑运动？](https://www.zhihu.com/question/491648365) 2520 万热度 1242回复
 1. [如何看待因辱华卷入舆论风波的 D&G 品牌， 2021 年度销售额较前年增长 20% ？](https://www.zhihu.com/question/491877720) 2366 万热度 630回复
@@ -64,16 +64,16 @@
 1. [如何评价上汽大众的 ID 系列车型，上汽大众是否能在电车时代保持合资领域龙头地位？](https://www.zhihu.com/question/491900401) 70 万热度 65回复
 1. [家里小孩已经上小学了，有哪些高性价比的家庭打印机推荐吗？](https://www.zhihu.com/question/492010586) 70 万热度 24回复
 1. [写作市场是否已经饱和，投稿赚钱可靠吗？](https://www.zhihu.com/question/404722790) 69 万热度 58回复
+1. [双相情感障碍会上报国家吗？是自己自愿上报还是医院在不知情的情况下上报呢?](https://www.zhihu.com/question/393136765) 69 万热度 108回复
 1. [比起游戏《明日方舟》二创，《原神》二创似乎融入官方设定更多，为什么？](https://www.zhihu.com/question/490820370) 66 万热度 53回复
 1. [为什么不要把孩子教的太听话？](https://www.zhihu.com/question/489303460) 65 万热度 50回复
-1. [双相情感障碍会上报国家吗？是自己自愿上报还是医院在不知情的情况下上报呢?](https://www.zhihu.com/question/393136765) 65 万热度 108回复
-1. [步入社会后，颜值真的可以给你带来红利吗?](https://www.zhihu.com/question/490129662) 64 万热度 46回复
-1. [「ADD / ADHD 注意力缺陷涣散障碍」患者的一生能过的多辛苦？](https://www.zhihu.com/question/265155928) 63 万热度 196回复
-1. [有哪些做法极其简单又很有品位的家常菜式？](https://www.zhihu.com/question/36685727) 62 万热度 76回复
+1. [步入社会后，颜值真的可以给你带来红利吗?](https://www.zhihu.com/question/490129662) 65 万热度 46回复
+1. [「ADD / ADHD 注意力缺陷涣散障碍」患者的一生能过的多辛苦？](https://www.zhihu.com/question/265155928) 64 万热度 196回复
+1. [有哪些做法极其简单又很有品位的家常菜式？](https://www.zhihu.com/question/36685727) 64 万热度 76回复
+1. [人生可以被简单规划吗？](https://www.zhihu.com/question/491443117) 62 万热度 51回复
 1. [如何选购空气净化器？](https://www.zhihu.com/question/19565949) 61 万热度 466回复
 1. [如何高效率地写好 essay?](https://www.zhihu.com/question/23990918) 61 万热度 73回复
 1. [职场中满受「委屈」的我该怎么办？](https://www.zhihu.com/question/485540049) 61 万热度 30回复
-1. [人生可以被简单规划吗？](https://www.zhihu.com/question/491443117) 61 万热度 51回复
 1. [怎么能放下自己很喜欢的人?](https://www.zhihu.com/question/488996295) 61 万热度 221回复
 1. [职场中，情商是否比能力更为重要？](https://www.zhihu.com/question/478994356) 60 万热度 119回复
 1. [该如何跟孩子解释「为什么恐龙生蛋，不直接生宝宝」？](https://www.zhihu.com/question/487479879) 59 万热度 48回复
@@ -82,6 +82,10 @@
 1. [怎样跟小朋友解释「为什么要做垃圾分类」比较好理解？](https://www.zhihu.com/question/487505671) 59 万热度 33回复
 1. [人的外貌美是否存在一定标准或共性?](https://www.zhihu.com/question/490244611) 59 万热度 28回复
 1. [报名自考，有什么需要注意的地方？](https://www.zhihu.com/question/482178834) 59 万热度 27回复
+1. [为什么 HR 面试人从来不当面拒绝，总是让你回去等通知？](https://www.zhihu.com/question/489071705) 59 万热度 26回复
+1. [结婚到底是一时冲动还是深思熟虑？](https://www.zhihu.com/question/485902522) 59 万热度 536回复
+1. [有没有让你一见倾心的文案？](https://www.zhihu.com/question/473301493) 59 万热度 153回复
+1. [31 岁在上海继续待着还是回老家?](https://www.zhihu.com/question/460925417) 59 万热度 53回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
