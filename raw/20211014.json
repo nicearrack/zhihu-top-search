@@ -32,7 +32,7 @@
   "492119278": {
     "title": "如何看待苹果 CEO 库克称「苹果将捐款山西，帮助重建」？",
     "url": "https://www.zhihu.com/question/492119278",
-    "hot": "514 万热度",
+    "hot": "526 万热度",
     "answerCount": 244
   },
   "491969221": {
@@ -86,7 +86,7 @@
   "492199544": {
     "title": "S11 小组赛 RNG 1:0 击败 HLE 首轮全胜，如何评价这场比赛？",
     "url": "https://www.zhihu.com/question/492199544",
-    "hot": "290 万热度",
+    "hot": "309 万热度",
     "answerCount": 133
   },
   "491919558": {
@@ -131,6 +131,12 @@
     "hot": "243 万热度",
     "answerCount": 74
   },
+  "492226460": {
+    "title": "如何评价周奇墨获得《脱口秀大会》第四季年度冠军?",
+    "url": "https://www.zhihu.com/question/492226460",
+    "hot": "243 万热度",
+    "answerCount": 42
+  },
   "491819560": {
     "title": "如何看待小天在 S11 小组赛揭幕战上皇子打出 4397 的伤害？",
     "url": "https://www.zhihu.com/question/491819560",
@@ -148,12 +154,6 @@
     "url": "https://www.zhihu.com/question/490211926",
     "hot": "226 万热度",
     "answerCount": 43
-  },
-  "492226460": {
-    "title": "如何评价周奇墨获得《脱口秀大会》第四季年度冠军?",
-    "url": "https://www.zhihu.com/question/492226460",
-    "hot": "221 万热度",
-    "answerCount": 42
   },
   "491979817": {
     "title": "空乘毕业生被分配到酒店当门童，学生要求退还三年实训费，实际情况如何？学校要承担哪些责任？",
@@ -176,7 +176,7 @@
   "476474620": {
     "title": "汽车在高速上跑了 3 个小时，有必要停车给发动机散热吗？",
     "url": "https://www.zhihu.com/question/476474620",
-    "hot": "171 万热度",
+    "hot": "177 万热度",
     "answerCount": 91
   },
   "491701215": {
@@ -184,6 +184,12 @@
     "url": "https://www.zhihu.com/question/491701215",
     "hot": "167 万热度",
     "answerCount": 64
+  },
+  "492210098": {
+    "title": "TI10 胜者组 PSG.LGD 2:1 T1，如何评价这场比赛？",
+    "url": "https://www.zhihu.com/question/492210098",
+    "hot": "161 万热度",
+    "answerCount": 28
   },
   "491518103": {
     "title": "倘若人类缩小到只有百分之一左右的大小，那么如果要驯服节肢动物来代替现代各类家畜，哪些种类合适驯服？",
@@ -263,17 +269,23 @@
     "hot": "82 万热度",
     "answerCount": 525
   },
+  "477980751": {
+    "title": "你读研究生期间，你的导师或师兄姐在学术上给过你什么指点，哪些让你感觉学到了不少，很有帮助?",
+    "url": "https://www.zhihu.com/question/477980751",
+    "hot": "79 万热度",
+    "answerCount": 53
+  },
   "492012822": {
     "title": "拥有执念是人生之喜还是人生之悲？",
     "url": "https://www.zhihu.com/question/492012822",
     "hot": "73 万热度",
     "answerCount": 80
   },
-  "477980751": {
-    "title": "你读研究生期间，你的导师或师兄姐在学术上给过你什么指点，哪些让你感觉学到了不少，很有帮助?",
-    "url": "https://www.zhihu.com/question/477980751",
-    "hot": "72 万热度",
-    "answerCount": 53
+  "491754580": {
+    "title": "如何在家度过完美的一天？",
+    "url": "https://www.zhihu.com/question/491754580",
+    "hot": "71 万热度",
+    "answerCount": 26
   },
   "38197869": {
     "title": "如何自学 PS、PR、 AE 这三个软件？有什么推荐的视频或教材吗？",
@@ -281,22 +293,82 @@
     "hot": "70 万热度",
     "answerCount": 448
   },
-  "491754580": {
-    "title": "如何在家度过完美的一天？",
-    "url": "https://www.zhihu.com/question/491754580",
-    "hot": "67 万热度",
-    "answerCount": 26
-  },
   "484478294": {
     "title": "如何「管理」你的上司？有什么书籍推荐？",
     "url": "https://www.zhihu.com/question/484478294",
-    "hot": "65 万热度",
+    "hot": "69 万热度",
     "answerCount": 45
+  },
+  "471957392": {
+    "title": "Java 如何打好牢固的基础？",
+    "url": "https://www.zhihu.com/question/471957392",
+    "hot": "66 万热度",
+    "answerCount": 76
+  },
+  "483300654": {
+    "title": "有没有让你刻骨铭心的句子？",
+    "url": "https://www.zhihu.com/question/483300654",
+    "hot": "65 万热度",
+    "answerCount": 81
   },
   "447464118": {
     "title": "孕期经常躺着好吗？孕妈们觉得呢？",
     "url": "https://www.zhihu.com/question/447464118",
-    "hot": "62 万热度",
+    "hot": "63 万热度",
     "answerCount": 80
+  },
+  "439252099": {
+    "title": "为什么孩子总是听老师的话，而不听父母的话？",
+    "url": "https://www.zhihu.com/question/439252099",
+    "hot": "62 万热度",
+    "answerCount": 130
+  },
+  "492094252": {
+    "title": "如果教你过好这一生的书和道理都没有错的话，为什么很多人读了这些书，明白了这些道理后依然过不好这一生？",
+    "url": "https://www.zhihu.com/question/492094252",
+    "hot": "62 万热度",
+    "answerCount": 71
+  },
+  "492122253": {
+    "title": "如何评价《原神》2.2 版本更新的新地图「鹤观」？",
+    "url": "https://www.zhihu.com/question/492122253",
+    "hot": "59 万热度",
+    "answerCount": 97
+  },
+  "490673546": {
+    "title": "秋冬面试公务员应该怎么穿？",
+    "url": "https://www.zhihu.com/question/490673546",
+    "hot": "59 万热度",
+    "answerCount": 25
+  },
+  "460327620": {
+    "title": "为什么法考考了 2 次都没过，该怎么办？",
+    "url": "https://www.zhihu.com/question/460327620",
+    "hot": "59 万热度",
+    "answerCount": 71
+  },
+  "485870210": {
+    "title": "人在金钱面前是什么样子？",
+    "url": "https://www.zhihu.com/question/485870210",
+    "hot": "59 万热度",
+    "answerCount": 160
+  },
+  "25815117": {
+    "title": "如何准备才能在二年之内考到 CPA？",
+    "url": "https://www.zhihu.com/question/25815117",
+    "hot": "59 万热度",
+    "answerCount": 23
+  },
+  "462627899": {
+    "title": "如何以「我出关不久便得知，小师弟成了魔尊」为开头写一个故事？",
+    "url": "https://www.zhihu.com/question/462627899",
+    "hot": "59 万热度",
+    "answerCount": 36
+  },
+  "296729841": {
+    "title": "大一有必要参加国才考试吗？",
+    "url": "https://www.zhihu.com/question/296729841",
+    "hot": "59 万热度",
+    "answerCount": 36
   }
 }
