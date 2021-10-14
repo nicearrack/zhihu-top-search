@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-15 02:21:10
+最后更新时间 2021-10-15 04:18:50
 
 1. [如何看待腾讯 2022 校招大厂薪资首发，白菜总包接近 40w ？](https://www.zhihu.com/question/492227553) 3317 万热度 406回复
 1. [假如一个初中生发明了百草枯的解药，能不能保送清华北大哈佛？](https://www.zhihu.com/question/489833922) 1823 万热度 598回复
@@ -49,28 +49,33 @@
 1. [如何看待李佳琦双十一专场发布会？这个双十一有哪些必入好物？](https://www.zhihu.com/question/492221578) 200 万热度 86回复
 1. [什么时候是排卵期？什么时候是安全期？如何备孕？](https://www.zhihu.com/question/449255205) 192 万热度 34回复
 1. [晚上睡觉嘴巴张开，但用鼻子呼吸会影响颜值吗？](https://www.zhihu.com/question/491918306) 183 万热度 77回复
+1. [媒体报道称微软将关闭领英在华业务，真实情况如何？将会给其他招聘类网站带来新机会？](https://www.zhihu.com/question/492453465) 174 万热度 25回复
 1. [台湾高雄一大楼发生火灾，已造成 46 死亡，不排除人为纵火，救援进展如何？](https://www.zhihu.com/question/492314850) 167 万热度 56回复
 1. [有没有什么能把你虐哭的短篇小说？](https://www.zhihu.com/question/304049577) 156 万热度 8383回复
 1. [中国武术需要练十来年，请问那些马步一扎好几年，有什么用？](https://www.zhihu.com/question/491469789) 148 万热度 113回复
-1. [媒体报道称微软将关闭领英在华业务，真实情况如何？将会给其他招聘类网站带来新机会？](https://www.zhihu.com/question/492453465) 137 万热度 25回复
 1. [你读过最冷门，但「含金量极高」的书是什么？](https://www.zhihu.com/question/438708854) 133 万热度 2337回复
 1. [有哪些「听君一席话，如听一席话」的笑话？](https://www.zhihu.com/question/475021609) 133 万热度 771回复
 1. [联想集团科创板上市审核终止，说明了什么？对联想集团又有何影响？](https://www.zhihu.com/question/491348541) 128 万热度 27回复
 1. [吴谢宇上诉已被受理，律师称二审将申请精神鉴定，庭审结果改变的可能性大吗？](https://www.zhihu.com/question/492139333) 122 万热度 60回复
 1. [爸爸妈妈假装打架测试女儿，结果女儿立马冲过来打爸爸，这类测试是否可取？会对孩子有着怎样的影响？](https://www.zhihu.com/question/492184086) 122 万热度 106回复
 1. [作为一个大学生，拿 iPad 记笔记真的可以代替纸质笔记本吗？](https://www.zhihu.com/question/304770209) 119 万热度 1516回复
+1. [你看过的电影里最绝望的死法是什么？](https://www.zhihu.com/question/26685253) 117 万热度 1614回复
 1. [适合大学生的速食早餐有哪些会比较好？](https://www.zhihu.com/question/474813965) 109 万热度 94回复
 1. [为什么看见很多人说学数学专业需要智商高，难道它不是一环接一环，逻辑嵌套式的学下去吗？](https://www.zhihu.com/question/488203701) 109 万热度 41回复
 1. [如何看待红米 Redmi 部分 MIUI UI 界面将与小米区分？](https://www.zhihu.com/question/492173593) 107 万热度 86回复
+1. [为什么在《脱口秀大会》上说内部梗会被吐槽？](https://www.zhihu.com/question/492267180) 95 万热度 23回复
 1. [如何看待与评价 AAAI2022 第一轮审稿结果？](https://www.zhihu.com/question/491620943) 93 万热度 45回复
 1. [我们这么努力的学习和工作，到底是为了什么？](https://www.zhihu.com/question/491653751) 85 万热度 308回复
 1. [2021 年末需要出佳为尼吗？](https://www.zhihu.com/question/492343040) 80 万热度 23回复
 1. [如何用 ipad 看文献？](https://www.zhihu.com/question/288186107) 67 万热度 39回复
 1. [想要努力却没有信心怎么办?](https://www.zhihu.com/question/484783127) 65 万热度 225回复
-1. [秋招进入十月中后期了一个 offer 都没有，企业招聘也陆续进入尾声，怎样调节心态不爆炸?](https://www.zhihu.com/question/491461919) 63 万热度 25回复
+1. [秋招进入十月中后期了一个 offer 都没有，企业招聘也陆续进入尾声，怎样调节心态不爆炸?](https://www.zhihu.com/question/491461919) 65 万热度 25回复
 1. [数据分析人员需要掌握 SQL 到什么程度？](https://www.zhihu.com/question/379694223) 62 万热度 134回复
 1. [你收藏过哪些特别喜欢的经典句子？](https://www.zhihu.com/question/457542778) 59 万热度 133回复
 1. [有没有一针见血很飒的文案推荐？](https://www.zhihu.com/question/481471072) 59 万热度 87回复
+1. [秋招到底有多重要?](https://www.zhihu.com/question/407934172) 59 万热度 124回复
+1. [既然宋朝那么缺战马，为什么不像捻军一样发展驴骑兵或骡（子）骑兵？](https://www.zhihu.com/question/481909561) 57 万热度 53回复
+1. [南京是一个什么样的城市?](https://www.zhihu.com/question/38976643) 57 万热度 37回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
