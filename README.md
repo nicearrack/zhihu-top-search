@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-17 02:20:30
+最后更新时间 2021-10-17 04:17:55
 
 1. [如何看待陈凯歌开玩笑说以后不再和吴京合作？](https://www.zhihu.com/question/491639220) 2230 万热度 910回复
 1. [如何看待小学 37 名家长联名要求 7 岁女孩转学？](https://www.zhihu.com/question/492632606) 2172 万热度 782回复
@@ -33,9 +33,9 @@
 1. [如何评价伍珂玥获得 2021 年《中国好声音》冠军？](https://www.zhihu.com/question/492665717) 247 万热度 85回复
 1. [美国前总统克林顿「因尿路感染扩散到了血液中」被送进 ICU，目前情况如何？这是种什么样的疾病？](https://www.zhihu.com/question/492588214) 225 万热度 195回复
 1. [徒步去野外遭遇狼群，大约有二十只狼，如果当时你手里只有根一米来长钢管有没有办法全身而退？](https://www.zhihu.com/question/488761060) 205 万热度 215回复
+1. [缺爱的人会真的爱别人吗？](https://www.zhihu.com/question/429147970) 192 万热度 269回复
 1. [小孩很喜欢吃肥肉，不给吃就哭，现在胖得眼睛都眯成了一条线，怎么办？](https://www.zhihu.com/question/486703443) 161 万热度 315回复
 1. [如何看待电影《长津湖》票房破 45 亿？](https://www.zhihu.com/question/491973040) 150 万热度 260回复
-1. [缺爱的人会真的爱别人吗？](https://www.zhihu.com/question/429147970) 142 万热度 269回复
 1. [你出于礼貌吃过哪些难吃的食物？](https://www.zhihu.com/question/475503789) 131 万热度 715回复
 1. [被领导提拔为中层之后，为什么我反而不开心，过得不如从前？](https://www.zhihu.com/question/488211098) 126 万热度 67回复
 1. [有什么适合秋冬的保湿面霜值得推荐？](https://www.zhihu.com/question/25373478) 123 万热度 229回复
@@ -46,11 +46,11 @@
 1. [首位进入空间站女航天员王亚平和女儿约定为她摘星星，妈妈的爱可以有多浪漫？对此你还有哪些话想说？](https://www.zhihu.com/question/492446265) 93 万热度 46回复
 1. [你看过最好看的小说是什么呢？](https://www.zhihu.com/question/478927636) 88 万热度 488回复
 1. [记者曝料杜兰特、哈登支持篮网封杀欧文，篮网更衣室会就此产生裂痕吗？](https://www.zhihu.com/question/492410522) 78 万热度 70回复
-1. [你吃过最难以忘记的食物是什么？](https://www.zhihu.com/question/465527338) 66 万热度 395回复
+1. [你吃过最难以忘记的食物是什么？](https://www.zhihu.com/question/465527338) 67 万热度 395回复
 1. [能推荐一些含金量高的写作书吗？](https://www.zhihu.com/question/489585015) 61 万热度 32回复
+1. [人在什么情况下成长最快？](https://www.zhihu.com/question/490344475) 61 万热度 189回复
 1. [如何用一天半准备 GRE 作文，目标 3 分有可能吗？](https://www.zhihu.com/question/50862088) 59 万热度 22回复
 1. [你有哪些对待生活正能量的句子?](https://www.zhihu.com/question/484115316) 59 万热度 126回复
-1. [人在什么情况下成长最快？](https://www.zhihu.com/question/490344475) 59 万热度 189回复
 1. [有哪些沙雕可爱的文案？](https://www.zhihu.com/question/366355487) 59 万热度 472回复
 1. [关羽张飞被害后，为什么刘备没有杀了诸葛亮?](https://www.zhihu.com/question/487469423) 58 万热度 327回复
 1. [如何评价关晓彤、姜文、索菲玛索主演的电影《图兰朵：魔咒缘起》？](https://www.zhihu.com/question/492511292) 56 万热度 206回复
@@ -75,6 +75,9 @@
 1. [如何以「那天，我躺在棺材里」为开头写一个故事?](https://www.zhihu.com/question/485557191) 25 万热度 52回复
 1. [有一个病娇喜欢你是什么感觉？](https://www.zhihu.com/question/377349806) 24 万热度 354回复
 1. [教师的教案真的有用吗？](https://www.zhihu.com/question/452569675) 24 万热度 56回复
+1. [您有哪些适合摘抄的经典励志句子？](https://www.zhihu.com/question/482488265) 23 万热度 209回复
+1. [教资从这会开始看来得及吗？](https://www.zhihu.com/question/488178347) 23 万热度 146回复
+1. [物欲横流的世界，钱是最重要的吗？](https://www.zhihu.com/question/491926144) 21 万热度 263回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
