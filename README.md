@@ -14,7 +14,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-18 02:20:19
+最后更新时间 2021-10-18 04:18:04
 
 1. [大 V 怒怼上海银行服务太差，当场取走 500 万，从业者服务水平会给行业口碑带来多大影响？](https://www.zhihu.com/question/492837111) 2335 万热度 885回复
 1. [TI10 总决赛 PSG.LGD 2:3 不敌 Team Spirit 获得亚军，如何评价这场比赛？](https://www.zhihu.com/question/492950349) 995 万热度 842回复
@@ -25,31 +25,34 @@
 1. [官方调研农村熟男「娶妻难」，结婚花费一个家庭近十年积蓄，如何看待这一现象？](https://www.zhihu.com/question/491837283) 621 万热度 584回复
 1. [研一，导师让去实验室跟师兄师姐做实验，但是每次去实验室师兄师姐都让我回去玩，不用过来。怎么办?](https://www.zhihu.com/question/492210160) 585 万热度 86回复
 1. [岸田文雄以日本首相名义向靖国神社供奉祭品，这会带来哪些影响？](https://www.zhihu.com/question/492868409) 456 万热度 220回复
+1. [S11 RNG 1:0 HLE C 组第一出线，如何评价这场比赛？](https://www.zhihu.com/question/492990595) 433 万热度 39回复
 1. [两个人的文化程度差距很大 (男生学历低），适合在一起吗？](https://www.zhihu.com/question/413633956) 389 万热度 609回复
 1. [如何评价郑晓龙执导，周迅、张颂文主演的《功勋》之「屠呦呦的礼物」单元？](https://www.zhihu.com/question/492639160) 381 万热度 55回复
 1. [2021 英雄联盟全球总决赛 HLE 1:0 RNG，如何评价这场比赛？](https://www.zhihu.com/question/492976341) 361 万热度 114回复
 1. [网红直播喝农药抢救无效死亡，家属称直播时一群人起哄「快喝」，起哄者需要承担法律责任吗？](https://www.zhihu.com/question/492883172) 353 万热度 242回复
-1. [如何评价何同学最新视频：我做了苹果放弃的产品——AirDesk?](https://www.zhihu.com/question/492962727) 277 万热度 48回复
+1. [如何评价何同学最新视频：我做了苹果放弃的产品——AirDesk?](https://www.zhihu.com/question/492962727) 288 万热度 48回复
 1. [男子买奶茶后放虫子，8 个月敲诈 7 家奶茶店近十万元，将如何担责？为什么这么多奶茶店陷入敲诈圈套？](https://www.zhihu.com/question/492117169) 268 万热度 107回复
 1. [饭圈「神器」 Owhat 平台无法提现，涉及金额或达到几千万元，发生了什么？会带来哪些影响？](https://www.zhihu.com/question/492868950) 240 万热度 75回复
-1. [S11 RNG 1:0 HLE C 组第一出线，如何评价这场比赛？](https://www.zhihu.com/question/492990595) 238 万热度 39回复
 1. [如何看待国际奥委会副主席称「抵制北京冬奥会没意义」？](https://www.zhihu.com/question/492399602) 208 万热度 52回复
 1. [男生身高太高了是不是不好？](https://www.zhihu.com/question/266453512) 182 万热度 161回复
 1. [该和谁结婚是命中注定的吗？](https://www.zhihu.com/question/477101809) 175 万热度 298回复
 1. [劳斯莱斯下线网红晚晚林瀚夫妻广告视频，会对品牌产生哪些影响？品牌选择推广人有具体标准吗？](https://www.zhihu.com/question/492555830) 164 万热度 45回复
 1. [为什么大部分子供向动画把主角团设定都是 1 女 3 男其中还有 1 胖子这种用烂的设定?](https://www.zhihu.com/question/490004714) 157 万热度 47回复
+1. [2021 英雄联盟全球总决赛 RNG 0:1 FNC，如何评价这场比赛？](https://www.zhihu.com/question/492947592) 148 万热度 288回复
 1. [神舟十三号发射、首次载人航天飞行、第一颗原子弹爆炸都在 10 月 16 日。这一天对于中国有什么意义？](https://www.zhihu.com/question/492695637) 112 万热度 48回复
-1. [《火影忍者》里有没有里面特别讨厌、或者完全 get 不到萌点的角色？](https://www.zhihu.com/question/490007802) 110 万热度 58回复
+1. [《火影忍者》里有没有里面特别讨厌、或者完全 get 不到萌点的角色？](https://www.zhihu.com/question/490007802) 112 万热度 58回复
 1. [如何看待安徽师范大学 105 名新生未及时报道，放弃入学资格的现象？可能的原因有哪些？](https://www.zhihu.com/question/492748275) 108 万热度 119回复
 1. [美国 8 月辞职人数升至 430 万，创 2000 年 12 月以来最高纪录，这个数字意味着什么？](https://www.zhihu.com/question/492717656) 104 万热度 142回复
 1. [如何看待 2021 年注册安全工程师考试？](https://www.zhihu.com/question/492796609) 91 万热度 21回复
 1. [如何看待恶魔法则这本书？](https://www.zhihu.com/question/29977877) 88 万热度 62回复
-1. [教资笔试还有几天，没看书，怎么才能过？](https://www.zhihu.com/question/448043388) 80 万热度 114回复
+1. [现在在追一个女生，应该每天和她聊点什么？](https://www.zhihu.com/question/369960957) 86 万热度 977回复
+1. [教资笔试还有几天，没看书，怎么才能过？](https://www.zhihu.com/question/448043388) 82 万热度 114回复
 1. [坐月子应该去做月子中心还是在家请月嫂？](https://www.zhihu.com/question/51311260) 79 万热度 1589回复
-1. [现在在追一个女生，应该每天和她聊点什么？](https://www.zhihu.com/question/369960957) 77 万热度 977回复
 1. [高三的你处于一个怎样的状态?](https://www.zhihu.com/question/310950607) 71 万热度 161回复
 1. [五月天的死忠粉是什么样子，可不可以谈下听五月天的歌感受？](https://www.zhihu.com/question/474113938) 59 万热度 36回复
 1. [父母反对的爱情该不该继续?](https://www.zhihu.com/question/484844509) 59 万热度 2366回复
+1. [如何看待我国老年人健身很少进行力量训练，而是采取快走等有氧耐力运动？](https://www.zhihu.com/question/484848451) 59 万热度 327回复
+1. [我想知道大家都是为了什么而努力生活呀？](https://www.zhihu.com/question/487989306) 59 万热度 317回复
 1. [S11 C 组 RNG 1:0 PSG.T 确定晋级，如何评价这场比赛？](https://www.zhihu.com/question/492956463) 55 万热度 91回复
 1. [如何评价 TI10 败者组决赛 Team Spirit 2:1 Secret 即将对战 LGD？](https://www.zhihu.com/question/492940039) 52 万热度 45回复
 1. [为什么小孩子总是那么精力旺盛？](https://www.zhihu.com/question/367870424) 51 万热度 63回复
