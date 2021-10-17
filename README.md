@@ -14,14 +14,14 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2021-10-17 06:17:36
+最后更新时间 2021-10-17 09:02:14
 
 1. [如何看待陈凯歌开玩笑说以后不再和吴京合作？](https://www.zhihu.com/question/491639220) 2230 万热度 910回复
 1. [如何看待小学 37 名家长联名要求 7 岁女孩转学？](https://www.zhihu.com/question/492632606) 2172 万热度 782回复
+1. [如何看待韩国不愿提供芯片机密，美国称「别逼我走那一步」？](https://www.zhihu.com/question/492818945) 1106 万热度 58回复
 1. [2021 英雄联盟全球总决赛 EDG 0:1 以小组第二出线，如何评价这场比赛？](https://www.zhihu.com/question/492843584) 730 万热度 379回复
 1. [2021 英雄联盟全球总决赛 EDG 0:1 T1 连胜被终结，如何评价这场比赛？](https://www.zhihu.com/question/492814364) 565 万热度 144回复
 1. [网传字节取消房补，腾讯房补一个月涨到 4k，是真的吗？房补在互联网公司起到了什么作用？](https://www.zhihu.com/question/492505845) 549 万热度 155回复
-1. [如何看待韩国不愿提供芯片机密，美国称「别逼我走那一步」？](https://www.zhihu.com/question/492818945) 508 万热度 58回复
 1. [四川乐山一景区惊现「开放式」厕所，你会选择使用这种厕所吗？景区为什么要这样设计？](https://www.zhihu.com/question/492232837) 458 万热度 138回复
 1. [如何看待最近火起来的「社交牛逼症」？反映了什么样的社会心理？](https://www.zhihu.com/question/483964288) 449 万热度 399回复
 1. [《英雄联盟手游》上线，各 MOBA 游戏在线人数受影响了吗？](https://www.zhihu.com/question/491264582) 440 万热度 230回复
@@ -31,27 +31,36 @@
 1. [HR 擅自抢用员工电脑提交了主动辞职，员工该怎么维权？](https://www.zhihu.com/question/492136971) 311 万热度 84回复
 1. [林黛玉在贾府，贾母、王熙凤待她极好，她和宝玉还相爱。为什么会写出「一年三百六十日，风刀霜剑严相逼」?](https://www.zhihu.com/question/382401540) 296 万热度 160回复
 1. [如何评价伍珂玥获得 2021 年《中国好声音》冠军？](https://www.zhihu.com/question/492665717) 247 万热度 85回复
+1. [你出于礼貌吃过哪些难吃的食物？](https://www.zhihu.com/question/475503789) 241 万热度 715回复
 1. [美国前总统克林顿「因尿路感染扩散到了血液中」被送进 ICU，目前情况如何？这是种什么样的疾病？](https://www.zhihu.com/question/492588214) 225 万热度 195回复
 1. [徒步去野外遭遇狼群，大约有二十只狼，如果当时你手里只有根一米来长钢管有没有办法全身而退？](https://www.zhihu.com/question/488761060) 205 万热度 215回复
+1. [TI10 Team Spirit 2:0 iG 晋级即将对阵秘密，如何评价这场比赛？](https://www.zhihu.com/question/492836515) 199 万热度 42回复
 1. [缺爱的人会真的爱别人吗？](https://www.zhihu.com/question/429147970) 192 万热度 269回复
+1. [搜狗 10 月 15 日正式并入腾讯，王小川卸任 CEO，搜狗未来会如何发展？如何评价王小川的业绩？](https://www.zhihu.com/question/492517070) 187 万热度 22回复
+1. [国外拿了个纯文科 Ph.D. 回国，啥都不会（真的），可以做什么工作？](https://www.zhihu.com/question/491663881) 170 万热度 54回复
+1. [如何评价《这！就是街舞》第四季第十期（上、下）？](https://www.zhihu.com/question/491423803) 162 万热度 93回复
 1. [小孩很喜欢吃肥肉，不给吃就哭，现在胖得眼睛都眯成了一条线，怎么办？](https://www.zhihu.com/question/486703443) 161 万热度 315回复
+1. [孙悦正式退役，如何评价他的职业生涯？](https://www.zhihu.com/question/492723445) 159 万热度 26回复
 1. [如何看待电影《长津湖》票房破 45 亿？](https://www.zhihu.com/question/491973040) 150 万热度 260回复
-1. [你出于礼貌吃过哪些难吃的食物？](https://www.zhihu.com/question/475503789) 131 万热度 715回复
 1. [被领导提拔为中层之后，为什么我反而不开心，过得不如从前？](https://www.zhihu.com/question/488211098) 126 万热度 67回复
 1. [有什么适合秋冬的保湿面霜值得推荐？](https://www.zhihu.com/question/25373478) 123 万热度 229回复
 1. [如何评价央视纪录片《我们如何对抗抑郁》？](https://www.zhihu.com/question/492480535) 122 万热度 81回复
-1. [搜狗 10 月 15 日正式并入腾讯，王小川卸任 CEO，搜狗未来会如何发展？如何评价王小川的业绩？](https://www.zhihu.com/question/492517070) 122 万热度 22回复
-1. [孙悦正式退役，如何评价他的职业生涯？](https://www.zhihu.com/question/492723445) 118 万热度 26回复
+1. [人在什么情况下成长最快？](https://www.zhihu.com/question/490344475) 108 万热度 189回复
 1. [如何评价电视剧《功勋》？哪个瞬间曾让你热泪盈眶？](https://www.zhihu.com/question/489080708) 100 万热度 53回复
 1. [首位进入空间站女航天员王亚平和女儿约定为她摘星星，妈妈的爱可以有多浪漫？对此你还有哪些话想说？](https://www.zhihu.com/question/492446265) 93 万热度 46回复
+1. [2021 年 KPL 秋季赛常规赛第二轮 AG1：3eStarPro，如何评价本场比赛？](https://www.zhihu.com/question/492832899) 93 万热度 33回复
+1. [21-22 赛季英超曼联客场 2:4 不敌莱斯特城，如何评价这场比赛？](https://www.zhihu.com/question/492825957) 90 万热度 51回复
 1. [你看过最好看的小说是什么呢？](https://www.zhihu.com/question/478927636) 88 万热度 488回复
 1. [记者曝料杜兰特、哈登支持篮网封杀欧文，篮网更衣室会就此产生裂痕吗？](https://www.zhihu.com/question/492410522) 78 万热度 70回复
+1. [有哪些诗句可以让你感受到浓浓的秋意已经来了？](https://www.zhihu.com/question/491335813) 73 万热度 42回复
 1. [你吃过最难以忘记的食物是什么？](https://www.zhihu.com/question/465527338) 67 万热度 395回复
-1. [人在什么情况下成长最快？](https://www.zhihu.com/question/490344475) 65 万热度 189回复
+1. [本科毕业论文不会写该怎么办？](https://www.zhihu.com/question/379902177) 67 万热度 239回复
 1. [能推荐一些含金量高的写作书吗？](https://www.zhihu.com/question/489585015) 61 万热度 32回复
 1. [如何用一天半准备 GRE 作文，目标 3 分有可能吗？](https://www.zhihu.com/question/50862088) 59 万热度 22回复
 1. [你有哪些对待生活正能量的句子?](https://www.zhihu.com/question/484115316) 59 万热度 126回复
 1. [有哪些沙雕可爱的文案？](https://www.zhihu.com/question/366355487) 59 万热度 472回复
+1. [有没有很甜但又不落俗套的言情小说？](https://www.zhihu.com/question/369889419) 59 万热度 295回复
+1. [你有哪些实用的护眼（保养眼睛）方法？](https://www.zhihu.com/question/27960774) 59 万热度 510回复
 1. [关羽张飞被害后，为什么刘备没有杀了诸葛亮?](https://www.zhihu.com/question/487469423) 58 万热度 327回复
 1. [如何评价关晓彤、姜文、索菲玛索主演的电影《图兰朵：魔咒缘起》？](https://www.zhihu.com/question/492511292) 56 万热度 206回复
 1. [本人中等 985 大一新生，想要申请 Stanford 研究生，之后在硅谷发展。大学四年需要准备什么？](https://www.zhihu.com/question/354575824) 55 万热度 125回复
@@ -80,6 +89,8 @@
 1. [物欲横流的世界，钱是最重要的吗？](https://www.zhihu.com/question/491926144) 21 万热度 263回复
 1. [10 月下旬国内看枫叶彩林的最佳旅行地是哪里？](https://www.zhihu.com/question/491176814) 21 万热度 36回复
 1. [如何评价《明日方舟》全新故事集「红松林」？](https://www.zhihu.com/question/492537399) 20 万热度 24回复
+1. [《进击的巨人最终季》公布 part2 放送预告，1 月 9 日首播，你有哪些期待？](https://www.zhihu.com/question/492212820) 15 万热度 57回复
+1. [二本院校的法学专业很难就业吗？](https://www.zhihu.com/question/492058938) 7 万热度 60回复
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
